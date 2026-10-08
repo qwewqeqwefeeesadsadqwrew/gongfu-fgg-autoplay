@@ -1,0 +1,76 @@
+
+打肉丸星仔.png
+size: 401,269
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+主角小人/冲击波
+  rotate: false
+  xy: 248, 5
+  size: 111, 111
+  orig: 113, 113
+  offset: 1, 1
+  index: -1
+主角小人/小菜板
+  rotate: false
+  xy: 145, 9
+  size: 70, 56
+  orig: 70, 56
+  offset: 0, 0
+  index: -1
+主角小人/星仔-头1
+  rotate: false
+  xy: 2, 67
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+主角小人/星仔-手
+  rotate: false
+  xy: 217, 2
+  size: 29, 67
+  orig: 100, 200
+  offset: 35, 67
+  index: -1
+主角小人/星仔-手棒子
+  rotate: false
+  xy: 204, 71
+  size: 33, 45
+  orig: 33, 46
+  offset: 0, 0
+  index: -1
+主角小人/星仔-脚
+  rotate: false
+  xy: 104, 3
+  size: 39, 62
+  orig: 100, 200
+  offset: 30, 70
+  index: -1
+主角小人/星仔-身体2
+  rotate: true
+  xy: 2, 2
+  size: 63, 100
+  orig: 200, 200
+  offset: 65, 43
+  index: -1
+主角小人/碎肉
+  rotate: false
+  xy: 361, 96
+  size: 38, 20
+  orig: 50, 48
+  offset: 5, 11
+  index: -1
+主角小人/阿发养猪场
+  rotate: false
+  xy: 217, 118
+  size: 172, 149
+  orig: 175, 151
+  offset: 0, 2
+  index: -1
+阴影
+  rotate: true
+  xy: 361, 15
+  size: 79, 32
+  orig: 81, 34
+  offset: 1, 1
+  index: -1

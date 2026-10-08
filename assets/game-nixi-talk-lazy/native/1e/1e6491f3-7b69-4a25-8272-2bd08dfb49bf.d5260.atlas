@@ -1,0 +1,202 @@
+
+厨房女2.png
+size: 665,1026
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+L大臂
+  rotate: false
+  xy: 605, 453
+  size: 58, 218
+  orig: 58, 218
+  offset: 0, 0
+  index: -1
+R大臂
+  rotate: true
+  xy: 356, 88
+  size: 72, 212
+  orig: 72, 212
+  offset: 0, 0
+  index: -1
+刘海
+  rotate: false
+  xy: 356, 5
+  size: 133, 81
+  orig: 133, 81
+  offset: 0, 0
+  index: -1
+发丝
+  rotate: false
+  xy: 615, 673
+  size: 43, 158
+  orig: 43, 158
+  offset: 0, 0
+  index: -1
+右头发
+  rotate: false
+  xy: 603, 66
+  size: 26, 201
+  orig: 26, 201
+  offset: 0, 0
+  index: -1
+右头发二
+  rotate: false
+  xy: 631, 158
+  size: 23, 51
+  orig: 26, 52
+  offset: 3, 1
+  index: -1
+右手
+  rotate: false
+  xy: 252, 355
+  size: 183, 370
+  orig: 183, 370
+  offset: 0, 0
+  index: -1
+右眉毛
+  rotate: true
+  xy: 580, 453
+  size: 38, 14
+  orig: 39, 20
+  offset: 0, 1
+  index: -1
+右眼
+  rotate: false
+  xy: 631, 58
+  size: 14, 11
+  orig: 14, 11
+  offset: 0, 0
+  index: -1
+右耳环
+  rotate: false
+  xy: 631, 71
+  size: 14, 50
+  orig: 14, 50
+  offset: 0, 0
+  index: -1
+右腿
+  rotate: false
+  xy: 2, 2
+  size: 123, 723
+  orig: 123, 723
+  offset: 0, 0
+  index: -1
+后发
+  rotate: true
+  xy: 437, 269
+  size: 182, 221
+  orig: 182, 221
+  offset: 0, 0
+  index: -1
+嘴唇
+  rotate: false
+  xy: 435, 162
+  size: 166, 105
+  orig: 170, 105
+  offset: 0, 0
+  index: -1
+嘴巴
+  rotate: true
+  xy: 482, 463
+  size: 52, 39
+  orig: 52, 39
+  offset: 0, 0
+  index: -1
+头
+  rotate: true
+  xy: 252, 164
+  size: 189, 181
+  orig: 189, 310
+  offset: 0, 129
+  index: -1
+左头发2
+  rotate: false
+  xy: 631, 123
+  size: 28, 33
+  orig: 30, 34
+  offset: 0, 1
+  index: -1
+左头发、
+  rotate: false
+  xy: 615, 833
+  size: 43, 191
+  orig: 43, 191
+  offset: 0, 0
+  index: -1
+左手
+  rotate: false
+  xy: 437, 517
+  size: 166, 208
+  orig: 166, 208
+  offset: 0, 0
+  index: -1
+左眉毛
+  rotate: true
+  xy: 647, 85
+  size: 36, 12
+  orig: 37, 13
+  offset: 1, 1
+  index: -1
+左眼
+  rotate: true
+  xy: 252, 8
+  size: 14, 11
+  orig: 14, 11
+  offset: 0, 0
+  index: -1
+左耳环
+  rotate: false
+  xy: 647, 37
+  size: 9, 46
+  orig: 11, 46
+  offset: 1, 0
+  index: -1
+左腿
+  rotate: false
+  xy: 127, 3
+  size: 123, 722
+  orig: 123, 722
+  offset: 0, 0
+  index: -1
+带子
+  rotate: false
+  xy: 631, 211
+  size: 25, 56
+  orig: 26, 57
+  offset: 1, 0
+  index: -1
+带子 副本
+  rotate: true
+  xy: 523, 462
+  size: 29, 55
+  orig: 30, 55
+  offset: 0, 0
+  index: -1
+手掌
+  rotate: false
+  xy: 252, 24
+  size: 102, 138
+  orig: 107, 138
+  offset: 0, 0
+  index: -1
+眼白
+  rotate: false
+  xy: 523, 493
+  size: 77, 22
+  orig: 79, 24
+  offset: 1, 1
+  index: -1
+身子
+  rotate: true
+  xy: 2, 727
+  size: 297, 611
+  orig: 297, 670
+  offset: 0, 0
+  index: -1
+额头头发
+  rotate: true
+  xy: 437, 453
+  size: 62, 43
+  orig: 62, 43
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,125 @@
+
+doufudian_main_1.png
+size: 331,331
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+汗珠
+  rotate: true
+  xy: 235, 7
+  size: 8, 12
+  orig: 9, 12
+  offset: 1, 0
+  index: -1
+西施豆腐店/勺子
+  rotate: true
+  xy: 295, 136
+  size: 66, 22
+  orig: 67, 23
+  offset: 1, 0
+  index: -1
+西施豆腐店/石墨2
+  rotate: true
+  xy: 150, 151
+  size: 178, 122
+  orig: 250, 122
+  offset: 20, 0
+  index: -1
+西施豆腐店/石墨2_木棒
+  rotate: false
+  xy: 2, 113
+  size: 146, 216
+  orig: 146, 216
+  offset: 0, 0
+  index: -1
+西施豆腐店/石墨_推杆
+  rotate: false
+  xy: 115, 14
+  size: 80, 43
+  orig: 80, 43
+  offset: 0, 0
+  index: -1
+西施豆腐店/石墨_洞洞
+  rotate: false
+  xy: 197, 5
+  size: 16, 10
+  orig: 16, 10
+  offset: 0, 0
+  index: -1
+西施豆腐店/石墨_绳子
+  rotate: true
+  xy: 198, 111
+  size: 38, 95
+  orig: 38, 95
+  offset: 0, 0
+  index: -1
+西施豆腐店/西施_头
+  rotate: true
+  xy: 2, 14
+  size: 97, 111
+  orig: 97, 112
+  offset: 0, 1
+  index: -1
+西施豆腐店/西施_手臂
+  rotate: false
+  xy: 274, 204
+  size: 25, 64
+  orig: 25, 64
+  offset: 0, 0
+  index: -1
+西施豆腐店/西施_腿
+  rotate: false
+  xy: 274, 270
+  size: 32, 59
+  orig: 32, 59
+  offset: 0, 0
+  index: -1
+西施豆腐店/西施_表情1
+  rotate: true
+  xy: 292, 11
+  size: 48, 36
+  orig: 48, 36
+  offset: 0, 0
+  index: -1
+西施豆腐店/西施_表情2
+  rotate: true
+  xy: 292, 61
+  size: 48, 37
+  orig: 48, 38
+  offset: 0, 1
+  index: -1
+西施豆腐店/西施_身体
+  rotate: true
+  xy: 115, 59
+  size: 52, 81
+  orig: 53, 81
+  offset: 0, 0
+  index: -1
+西施豆腐店/豆子
+  rotate: false
+  xy: 150, 131
+  size: 30, 18
+  orig: 32, 19
+  offset: 1, 1
+  index: -1
+西施豆腐店/豆浆
+  rotate: false
+  xy: 197, 17
+  size: 93, 40
+  orig: 94, 41
+  offset: 0, 0
+  index: -1
+西施豆腐店/豆浆s
+  rotate: true
+  xy: 215, 7
+  size: 8, 18
+  orig: 8, 19
+  offset: 0, 1
+  index: -1
+阴影
+  rotate: false
+  xy: 198, 77
+  size: 79, 32
+  orig: 81, 34
+  offset: 1, 1
+  index: -1

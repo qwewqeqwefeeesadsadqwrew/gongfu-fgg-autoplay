@@ -1,0 +1,41 @@
+
+初始店主6.png
+size: 140,140
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+糖果店/头_糖人
+  rotate: true
+  xy: 53, 34
+  size: 70, 76
+  orig: 70, 76
+  offset: 0, 0
+  index: -1
+糖果店/手R_糖人
+  rotate: true
+  xy: 63, 7
+  size: 25, 64
+  orig: 25, 64
+  offset: 0, 0
+  index: -1
+糖果店/脚L_糖人
+  rotate: true
+  xy: 2, 2
+  size: 30, 59
+  orig: 30, 59
+  offset: 0, 0
+  index: -1
+糖果店/身体_糖人
+  rotate: false
+  xy: 2, 51
+  size: 49, 87
+  orig: 56, 100
+  offset: 3, 4
+  index: -1
+阴影
+  rotate: false
+  xy: 53, 106
+  size: 79, 32
+  orig: 81, 34
+  offset: 1, 1
+  index: -1

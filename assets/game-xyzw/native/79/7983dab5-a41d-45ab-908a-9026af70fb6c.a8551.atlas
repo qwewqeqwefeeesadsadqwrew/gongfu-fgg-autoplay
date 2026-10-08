@@ -1,0 +1,13 @@
+
+ganning_attack_loop.png
+size: 128,32
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+huanggai_arrow2
+  rotate: false
+  xy: 2, 2
+  size: 102, 18
+  orig: 102, 18
+  offset: 0, 0
+  index: -1

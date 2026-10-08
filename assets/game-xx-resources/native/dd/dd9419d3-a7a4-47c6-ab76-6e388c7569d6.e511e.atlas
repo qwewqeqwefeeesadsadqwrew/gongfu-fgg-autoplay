@@ -1,0 +1,83 @@
+
+boss_36.png
+size: 852,572
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+A_ci_fen_3
+  rotate: false
+  xy: 559, 125
+  size: 115, 156
+  orig: 115, 230
+  offset: 0, 71
+  index: -1
+A_ci_fen_4
+  rotate: true
+  xy: 559, 8
+  size: 115, 137
+  orig: 115, 230
+  offset: 0, 93
+  index: -1
+A_ci_fen_5
+  rotate: true
+  xy: 676, 166
+  size: 115, 106
+  orig: 115, 230
+  offset: 0, 124
+  index: -1
+A_ci_fen_6
+  rotate: true
+  xy: 698, 17
+  size: 115, 95
+  orig: 115, 230
+  offset: 0, 135
+  index: -1
+A_tu_dis_10
+  rotate: true
+  xy: 795, 94
+  size: 81, 52
+  orig: 153, 77
+  offset: 16, 15
+  index: -1
+A_tu_dis_11
+  rotate: true
+  xy: 795, 17
+  size: 75, 48
+  orig: 153, 77
+  offset: 16, 18
+  index: -1
+A_tu_dis_12
+  rotate: true
+  xy: 676, 134
+  size: 30, 40
+  orig: 153, 77
+  offset: 16, 20
+  index: -1
+A_tu_dis_13
+  rotate: false
+  xy: 718, 136
+  size: 19, 28
+  orig: 153, 77
+  offset: 17, 31
+  index: -1
+A_tu_dis_9
+  rotate: true
+  xy: 784, 177
+  size: 104, 55
+  orig: 153, 77
+  offset: 16, 13
+  index: -1
+boss36
+  rotate: false
+  xy: 559, 283
+  size: 247, 287
+  orig: 256, 296
+  offset: 8, 2
+  index: -1
+boss36+
+  rotate: false
+  xy: 2, 2
+  size: 555, 568
+  orig: 559, 571
+  offset: 0, 2
+  index: -1

@@ -1,0 +1,41 @@
+
+宝箱.png
+size: 127,262
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ray
+  rotate: false
+  xy: 79, 41
+  size: 37, 36
+  orig: 50, 50
+  offset: 6, 10
+  index: -1
+ray2
+  rotate: false
+  xy: 79, 12
+  size: 27, 27
+  orig: 31, 31
+  offset: 2, 2
+  index: -1
+ray4
+  rotate: false
+  xy: 2, 2
+  size: 75, 75
+  orig: 77, 77
+  offset: 1, 1
+  index: -1
+s底座
+  rotate: true
+  xy: 2, 147
+  size: 113, 123
+  orig: 113, 123
+  offset: 0, 0
+  index: -1
+s盖子1
+  rotate: false
+  xy: 2, 79
+  size: 119, 66
+  orig: 120, 75
+  offset: 0, 7
+  index: -1

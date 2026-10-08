@@ -1,0 +1,132 @@
+
+ch29_game.png
+size: 1925,1925
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+16
+  rotate: true
+  xy: 1895, 1768
+  size: 155, 23
+  orig: 155, 23
+  offset: 0, 0
+  index: -1
+17
+  rotate: true
+  xy: 1797, 586
+  size: 140, 60
+  orig: 140, 60
+  offset: 0, 0
+  index: -1
+bg
+  rotate: false
+  xy: 2, 388
+  size: 680, 1535
+  orig: 688, 1535
+  offset: 4, 0
+  index: -1
+gangan
+  rotate: true
+  xy: 1451, 1193
+  size: 730, 307
+  orig: 731, 308
+  offset: 1, 1
+  index: -1
+场记板1
+  rotate: false
+  xy: 684, 1296
+  size: 765, 627
+  orig: 767, 629
+  offset: 2, 0
+  index: -1
+场记板2
+  rotate: false
+  xy: 684, 667
+  size: 765, 627
+  orig: 767, 629
+  offset: 2, 0
+  index: -1
+对话框1s
+  rotate: true
+  xy: 1451, 728
+  size: 463, 457
+  orig: 464, 462
+  offset: 0, 3
+  index: -1
+手指
+  rotate: true
+  xy: 408, 34
+  size: 165, 202
+  orig: 174, 210
+  offset: 5, 3
+  index: -1
+摩托等
+  rotate: false
+  xy: 595, 305
+  size: 83, 81
+  orig: 93, 91
+  offset: 5, 5
+  index: -1
+文字4
+  rotate: false
+  xy: 2, 57
+  size: 404, 329
+  orig: 410, 334
+  offset: 3, 3
+  index: -1
+文字5
+  rotate: false
+  xy: 684, 139
+  size: 783, 526
+  orig: 787, 529
+  offset: 2, 1
+  index: -1
+气泡/气泡头像-底框
+  rotate: false
+  xy: 408, 201
+  size: 185, 185
+  orig: 185, 185
+  offset: 0, 0
+  index: -1
+气泡/气泡头像-气泡
+  rotate: true
+  xy: 1760, 1540
+  size: 383, 133
+  orig: 383, 133
+  offset: 0, 0
+  index: -1
+男主/头
+  rotate: false
+  xy: 1469, 387
+  size: 326, 339
+  orig: 326, 339
+  offset: 0, 0
+  index: -1
+男主/男主-身体小
+  rotate: false
+  xy: 1760, 1470
+  size: 129, 68
+  orig: 129, 68
+  offset: 0, 0
+  index: -1
+男主/表情6-诧异（前女友来电）
+  rotate: false
+  xy: 1469, 46
+  size: 326, 339
+  orig: 326, 339
+  offset: 0, 0
+  index: -1
+男主/说话嘴巴0
+  rotate: false
+  xy: 2, 2
+  size: 86, 53
+  orig: 326, 339
+  offset: 103, 71
+  index: -1
+男主/说话嘴巴2
+  rotate: false
+  xy: 90, 34
+  size: 37, 21
+  orig: 39, 21
+  offset: 1, 0
+  index: -1

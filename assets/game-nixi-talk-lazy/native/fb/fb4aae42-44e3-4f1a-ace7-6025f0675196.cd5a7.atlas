@@ -1,0 +1,146 @@
+
+知性美女1.png
+size: 1095,511
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+右手
+  rotate: true
+  xy: 613, 404
+  size: 105, 433
+  orig: 105, 433
+  offset: 0, 0
+  index: -1
+右眉
+  rotate: true
+  xy: 1081, 405
+  size: 36, 12
+  orig: 37, 15
+  offset: 1, 2
+  index: -1
+右眼白
+  rotate: false
+  xy: 1061, 334
+  size: 24, 14
+  orig: 24, 15
+  offset: 0, 1
+  index: -1
+右瞳
+  rotate: false
+  xy: 1081, 378
+  size: 12, 11
+  orig: 12, 16
+  offset: 0, 4
+  index: -1
+右腿
+  rotate: true
+  xy: 2, 8
+  size: 117, 654
+  orig: 117, 654
+  offset: 0, 0
+  index: -1
+嘴唇
+  rotate: true
+  xy: 875, 3
+  size: 144, 92
+  orig: 148, 92
+  offset: 0, 0
+  index: -1
+嘴巴
+  rotate: false
+  xy: 613, 271
+  size: 45, 34
+  orig: 132, 175
+  offset: 54, 6
+  index: -1
+头
+  rotate: false
+  xy: 717, 130
+  size: 132, 175
+  orig: 132, 175
+  offset: 0, 0
+  index: -1
+左手
+  rotate: true
+  xy: 613, 307
+  size: 95, 446
+  orig: 95, 447
+  offset: 0, 0
+  index: -1
+左眉
+  rotate: true
+  xy: 1077, 469
+  size: 40, 12
+  orig: 41, 13
+  offset: 0, 0
+  index: -1
+左眼白
+  rotate: true
+  xy: 1077, 443
+  size: 24, 15
+  orig: 27, 15
+  offset: 2, 0
+  index: -1
+左瞳
+  rotate: false
+  xy: 1081, 391
+  size: 12, 12
+  orig: 12, 16
+  offset: 0, 4
+  index: -1
+左腿
+  rotate: true
+  xy: 2, 127
+  size: 141, 713
+  orig: 141, 713
+  offset: 0, 0
+  index: -1
+手掌
+  rotate: true
+  xy: 957, 218
+  size: 87, 120
+  orig: 94, 120
+  offset: 0, 0
+  index: -1
+耳环
+  rotate: true
+  xy: 1048, 416
+  size: 18, 31
+  orig: 18, 31
+  offset: 0, 0
+  index: -1
+裙子后
+  rotate: false
+  xy: 658, 2
+  size: 215, 123
+  orig: 215, 123
+  offset: 0, 0
+  index: -1
+身体
+  rotate: true
+  xy: 2, 270
+  size: 239, 609
+  orig: 243, 619
+  offset: 0, 5
+  index: -1
+马尾
+  rotate: false
+  xy: 851, 149
+  size: 104, 156
+  orig: 104, 156
+  offset: 0, 0
+  index: -1
+鬓发1
+  rotate: false
+  xy: 1061, 350
+  size: 18, 64
+  orig: 18, 64
+  offset: 0, 0
+  index: -1
+鬓发2
+  rotate: false
+  xy: 1048, 436
+  size: 27, 73
+  orig: 27, 73
+  offset: 0, 0
+  index: -1

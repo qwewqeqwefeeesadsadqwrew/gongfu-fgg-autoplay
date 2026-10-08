@@ -1,0 +1,13 @@
+
+zhangzhao_attack_loop.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+zhangzhao_skill1
+  rotate: true
+  xy: 2, 2
+  size: 64, 182
+  orig: 64, 183
+  offset: 0, 1
+  index: -1

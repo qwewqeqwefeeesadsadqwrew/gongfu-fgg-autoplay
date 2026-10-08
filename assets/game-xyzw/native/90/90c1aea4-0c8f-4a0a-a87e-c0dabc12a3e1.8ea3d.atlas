@@ -1,0 +1,20 @@
+
+muzhi.png
+size: 490,490
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1_xiang3
+  rotate: false
+  xy: 2, 318
+  size: 226, 170
+  orig: 226, 170
+  offset: 0, 0
+  index: -1
+1_xiang4
+  rotate: false
+  xy: 230, 300
+  size: 258, 188
+  orig: 258, 188
+  offset: 0, 0
+  index: -1

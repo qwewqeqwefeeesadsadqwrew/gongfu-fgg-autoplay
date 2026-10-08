@@ -1,0 +1,34 @@
+
+英叔.png
+size: 1477,429
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+手
+  rotate: false
+  xy: 1325, 123
+  size: 150, 304
+  orig: 150, 304
+  offset: 0, 0
+  index: -1
+浮层
+  rotate: true
+  xy: 1123, 2
+  size: 119, 314
+  orig: 120, 315
+  offset: 1, 0
+  index: -1
+秘籍
+  rotate: false
+  xy: 1123, 167
+  size: 200, 260
+  orig: 200, 260
+  offset: 0, 0
+  index: -1
+身体
+  rotate: true
+  xy: 2, 22
+  size: 405, 1119
+  orig: 405, 1119
+  offset: 0, 0
+  index: -1

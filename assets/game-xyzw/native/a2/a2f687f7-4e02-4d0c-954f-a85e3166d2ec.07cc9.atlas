@@ -1,0 +1,27 @@
+
+xunyu_skill_hit.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ui_effect_light_circle3
+  rotate: false
+  xy: 2, 145
+  size: 100, 100
+  orig: 102, 102
+  offset: 1, 1
+  index: -1
+xysg_hero_effect_lightcircle
+  rotate: false
+  xy: 2, 2
+  size: 139, 139
+  orig: 139, 139
+  offset: 0, 0
+  index: -1
+xysg_hero_guanyu_shadow
+  rotate: false
+  xy: 104, 143
+  size: 102, 102
+  orig: 102, 102
+  offset: 0, 0
+  index: -1

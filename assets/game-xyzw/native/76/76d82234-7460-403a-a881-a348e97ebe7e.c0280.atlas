@@ -1,0 +1,139 @@
+
+lusu.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hero_effect_box2
+  rotate: false
+  xy: 94, 38
+  size: 82, 82
+  orig: 82, 82
+  offset: 0, 0
+  index: -1
+hero_eye_cry
+  rotate: true
+  xy: 445, 124
+  size: 42, 51
+  orig: 42, 51
+  offset: 0, 0
+  index: -1
+lusu_beard
+  rotate: false
+  xy: 488, 283
+  size: 17, 50
+  orig: 17, 50
+  offset: 0, 0
+  index: -1
+lusu_body
+  rotate: false
+  xy: 335, 221
+  size: 151, 112
+  orig: 151, 112
+  offset: 0, 0
+  index: -1
+lusu_eye
+  rotate: false
+  xy: 184, 191
+  size: 7, 9
+  orig: 7, 9
+  offset: 0, 0
+  index: -1
+lusu_eyebrow
+  rotate: true
+  xy: 297, 76
+  size: 34, 27
+  orig: 34, 27
+  offset: 0, 0
+  index: -1
+lusu_eyewhite
+  rotate: false
+  xy: 297, 112
+  size: 32, 40
+  orig: 32, 40
+  offset: 0, 0
+  index: -1
+lusu_handl
+  rotate: true
+  xy: 435, 41
+  size: 39, 42
+  orig: 39, 42
+  offset: 0, 0
+  index: -1
+lusu_handr
+  rotate: false
+  xy: 297, 154
+  size: 34, 38
+  orig: 34, 38
+  offset: 0, 0
+  index: -1
+lusu_handr2
+  rotate: true
+  xy: 445, 82
+  size: 40, 46
+  orig: 42, 46
+  offset: 1, 0
+  index: -1
+lusu_head
+  rotate: false
+  xy: 2, 202
+  size: 190, 131
+  orig: 190, 131
+  offset: 0, 0
+  index: -1
+lusu_legr
+  rotate: true
+  xy: 479, 57
+  size: 23, 31
+  orig: 23, 31
+  offset: 0, 0
+  index: -1
+lusu_mouth
+  rotate: true
+  xy: 445, 168
+  size: 51, 65
+  orig: 51, 65
+  offset: 0, 0
+  index: -1
+lusu_tail
+  rotate: false
+  xy: 94, 122
+  size: 88, 78
+  orig: 88, 78
+  offset: 0, 0
+  index: -1
+lusu_weapon
+  rotate: false
+  xy: 2, 2
+  size: 90, 198
+  orig: 90, 198
+  offset: 0, 0
+  index: -1
+ui_effect_light_circle3
+  rotate: false
+  xy: 193, 90
+  size: 102, 102
+  orig: 102, 102
+  offset: 0, 0
+  index: -1
+xysg_hero_effect_lightcircle
+  rotate: false
+  xy: 194, 194
+  size: 139, 139
+  orig: 139, 139
+  offset: 0, 0
+  index: -1
+xysg_hero_effect_swordlight2
+  rotate: false
+  xy: 335, 115
+  size: 108, 104
+  orig: 108, 104
+  offset: 0, 0
+  index: -1
+xysg_hero_guanyu_shadow
+  rotate: false
+  xy: 331, 11
+  size: 102, 102
+  orig: 102, 102
+  offset: 0, 0
+  index: -1

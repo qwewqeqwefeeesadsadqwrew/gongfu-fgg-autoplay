@@ -1,0 +1,188 @@
+
+caiwenji.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+caiwenji_arml
+  rotate: false
+  xy: 86, 10
+  size: 68, 48
+  orig: 68, 48
+  offset: 0, 0
+  index: -1
+caiwenji_body
+  rotate: false
+  xy: 246, 64
+  size: 76, 69
+  orig: 76, 69
+  offset: 0, 0
+  index: -1
+caiwenji_earring
+  rotate: false
+  xy: 267, 297
+  size: 22, 22
+  orig: 23, 22
+  offset: 0, 0
+  index: -1
+caiwenji_eye1
+  rotate: true
+  xy: 345, 373
+  size: 19, 18
+  orig: 19, 18
+  offset: 0, 0
+  index: -1
+caiwenji_eye2
+  rotate: false
+  xy: 309, 278
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+caiwenji_eyebrow1
+  rotate: false
+  xy: 30, 2
+  size: 19, 8
+  orig: 19, 8
+  offset: 0, 0
+  index: -1
+caiwenji_eyebrow2
+  rotate: false
+  xy: 2, 2
+  size: 26, 8
+  orig: 26, 8
+  offset: 0, 0
+  index: -1
+caiwenji_eyelid1
+  rotate: false
+  xy: 204, 31
+  size: 74, 27
+  orig: 74, 27
+  offset: 0, 0
+  index: -1
+caiwenji_eyelid2
+  rotate: false
+  xy: 280, 40
+  size: 80, 22
+  orig: 80, 22
+  offset: 0, 0
+  index: -1
+caiwenji_eyewhite
+  rotate: false
+  xy: 173, 108
+  size: 71, 25
+  orig: 71, 26
+  offset: 0, 1
+  index: -1
+caiwenji_hair1
+  rotate: false
+  xy: 345, 466
+  size: 35, 40
+  orig: 35, 40
+  offset: 0, 0
+  index: -1
+caiwenji_hair2
+  rotate: false
+  xy: 310, 323
+  size: 41, 42
+  orig: 42, 42
+  offset: 0, 0
+  index: -1
+caiwenji_handl
+  rotate: false
+  xy: 331, 8
+  size: 57, 30
+  orig: 57, 30
+  offset: 0, 0
+  index: -1
+caiwenji_handr
+  rotate: false
+  xy: 291, 298
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+caiwenji_head
+  rotate: true
+  xy: 2, 96
+  size: 198, 169
+  orig: 198, 169
+  offset: 0, 0
+  index: -1
+caiwenji_hip
+  rotate: true
+  xy: 204, 298
+  size: 67, 61
+  orig: 67, 61
+  offset: 0, 0
+  index: -1
+caiwenji_shoulderl
+  rotate: false
+  xy: 345, 430
+  size: 33, 34
+  orig: 33, 35
+  offset: 0, 0
+  index: -1
+caiwenji_shoulderr
+  rotate: false
+  xy: 345, 394
+  size: 26, 34
+  orig: 26, 34
+  offset: 0, 0
+  index: -1
+caiwenji_tail1
+  rotate: false
+  xy: 2, 296
+  size: 200, 210
+  orig: 200, 210
+  offset: 0, 0
+  index: -1
+caiwenji_tail2
+  rotate: false
+  xy: 173, 135
+  size: 134, 159
+  orig: 134, 159
+  offset: 0, 0
+  index: -1
+caiwenji_weapon1
+  rotate: false
+  xy: 204, 15
+  size: 125, 14
+  orig: 125, 14
+  offset: 0, 0
+  index: -1
+caiwenji_weapon2
+  rotate: false
+  xy: 267, 321
+  size: 41, 44
+  orig: 41, 44
+  offset: 0, 0
+  index: -1
+caiwenji_weapon3
+  rotate: false
+  xy: 86, 60
+  size: 158, 34
+  orig: 162, 34
+  offset: 1, 0
+  index: -1
+hero_effect_box2
+  rotate: false
+  xy: 2, 12
+  size: 82, 82
+  orig: 82, 82
+  offset: 0, 0
+  index: -1
+hero_effect_halo1
+  rotate: false
+  xy: 156, 12
+  size: 46, 46
+  orig: 46, 46
+  offset: 0, 0
+  index: -1
+xysg_hero_effect_lightcircle
+  rotate: false
+  xy: 204, 367
+  size: 139, 139
+  orig: 139, 139
+  offset: 0, 0
+  index: -1

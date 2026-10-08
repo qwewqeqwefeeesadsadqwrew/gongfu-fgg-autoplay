@@ -1,0 +1,97 @@
+
+xiaobing4_chanzi.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hero_eye_cry
+  rotate: true
+  xy: 126, 94
+  size: 42, 51
+  orig: 42, 51
+  offset: 0, 0
+  index: -1
+sc4_guochan_body
+  rotate: false
+  xy: 2, 88
+  size: 122, 166
+  orig: 122, 166
+  offset: 0, 0
+  index: -1
+sc4_guochan_eyel
+  rotate: false
+  xy: 118, 6
+  size: 6, 6
+  orig: 6, 6
+  offset: 0, 0
+  index: -1
+sc4_guochan_eyer
+  rotate: true
+  xy: 2, 2
+  size: 5, 6
+  orig: 5, 6
+  offset: 0, 0
+  index: -1
+sc4_guochan_handl
+  rotate: false
+  xy: 214, 36
+  size: 34, 34
+  orig: 36, 34
+  offset: 0, 0
+  index: -1
+sc4_guochan_handr1
+  rotate: false
+  xy: 214, 72
+  size: 33, 35
+  orig: 34, 38
+  offset: 0, 3
+  index: -1
+sc4_guochan_handr2
+  rotate: false
+  xy: 214, 2
+  size: 26, 32
+  orig: 28, 36
+  offset: 0, 4
+  index: -1
+sc4_guochan_jaw
+  rotate: false
+  xy: 179, 109
+  size: 71, 38
+  orig: 75, 46
+  offset: 0, 7
+  index: -1
+sc4_guochan_legr
+  rotate: true
+  xy: 179, 88
+  size: 19, 23
+  orig: 19, 23
+  offset: 0, 0
+  index: -1
+sc4_guochan_pan
+  rotate: false
+  xy: 2, 9
+  size: 114, 77
+  orig: 114, 77
+  offset: 0, 0
+  index: -1
+sc4_guochan_tail
+  rotate: true
+  xy: 118, 14
+  size: 72, 94
+  orig: 72, 94
+  offset: 0, 0
+  index: -1
+sc4_guochan_weapon
+  rotate: false
+  xy: 126, 138
+  size: 42, 116
+  orig: 42, 116
+  offset: 0, 0
+  index: -1
+xysg_hero_effect_swordlight2
+  rotate: true
+  xy: 170, 149
+  size: 105, 103
+  orig: 108, 104
+  offset: 3, 0
+  index: -1

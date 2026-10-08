@@ -1,0 +1,41 @@
+
+财神.png
+size: 278,314
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+元宝
+  rotate: false
+  xy: 129, 31
+  size: 145, 106
+  orig: 145, 106
+  offset: 0, 0
+  index: -1
+小猪-翅膀
+  rotate: true
+  xy: 194, 139
+  size: 69, 71
+  orig: 69, 71
+  offset: 0, 0
+  index: -1
+小猪-身体
+  rotate: true
+  xy: 2, 2
+  size: 141, 125
+  orig: 141, 125
+  offset: 0, 0
+  index: -1
+财神-发卡
+  rotate: true
+  xy: 194, 210
+  size: 102, 82
+  orig: 102, 82
+  offset: 0, 0
+  index: -1
+财神-身体
+  rotate: true
+  xy: 2, 145
+  size: 167, 190
+  orig: 167, 190
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,62 @@
+
+小游戏_鸡2.png
+size: 225,160
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+鸡-尾巴
+  rotate: true
+  xy: 84, 2
+  size: 52, 80
+  orig: 52, 80
+  offset: 0, 0
+  index: -1
+鸡-尾巴b
+  rotate: true
+  xy: 2, 2
+  size: 52, 80
+  orig: 52, 80
+  offset: 0, 0
+  index: -1
+鸡-腿1-2
+  rotate: false
+  xy: 194, 122
+  size: 29, 36
+  orig: 29, 36
+  offset: 0, 0
+  index: -1
+鸡-腿1b
+  rotate: false
+  xy: 194, 84
+  size: 29, 36
+  orig: 29, 36
+  offset: 0, 0
+  index: -1
+鸡-腿2-2
+  rotate: false
+  xy: 166, 11
+  size: 25, 43
+  orig: 28, 45
+  offset: 1, 1
+  index: -1
+鸡-腿2b
+  rotate: false
+  xy: 194, 37
+  size: 28, 45
+  orig: 28, 45
+  offset: 0, 0
+  index: -1
+鸡-身体2
+  rotate: true
+  xy: 2, 56
+  size: 102, 94
+  orig: 103, 95
+  offset: 0, 1
+  index: -1
+鸡-身体b
+  rotate: true
+  xy: 98, 56
+  size: 102, 94
+  orig: 103, 95
+  offset: 0, 1
+  index: -1

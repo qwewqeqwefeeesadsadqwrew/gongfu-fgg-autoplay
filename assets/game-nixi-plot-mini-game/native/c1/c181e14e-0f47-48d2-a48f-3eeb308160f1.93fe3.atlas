@@ -1,0 +1,13 @@
+
+powu_win.png
+size: 65,65
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ray2
+  rotate: false
+  xy: 2, 2
+  size: 57, 61
+  orig: 98, 98
+  offset: 20, 18
+  index: -1

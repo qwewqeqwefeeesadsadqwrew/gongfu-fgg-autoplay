@@ -1,0 +1,111 @@
+
+女主特写_委屈请求.png
+size: 1635,1635
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a
+  rotate: false
+  xy: 1389, 1261
+  size: 238, 115
+  orig: 240, 117
+  offset: 1, 1
+  index: -1
+b
+  rotate: false
+  xy: 862, 105
+  size: 238, 118
+  orig: 240, 119
+  offset: 1, 1
+  index: -1
+女主委屈特写-侧发
+  rotate: false
+  xy: 1399, 138
+  size: 234, 541
+  orig: 235, 541
+  offset: 1, 0
+  index: -1
+女主委屈特写-刘海
+  rotate: false
+  xy: 1338, 681
+  size: 227, 552
+  orig: 227, 552
+  offset: 0, 0
+  index: -1
+女主委屈特写-后发
+  rotate: false
+  xy: 1108, 41
+  size: 289, 599
+  orig: 289, 599
+  offset: 0, 0
+  index: -1
+女主委屈特写-头
+  rotate: true
+  xy: 620, 225
+  size: 415, 486
+  orig: 415, 486
+  offset: 0, 0
+  index: -1
+女主委屈特写-手
+  rotate: true
+  xy: 533, 1235
+  size: 398, 854
+  orig: 398, 854
+  offset: 0, 0
+  index: -1
+女主委屈特写-手臂R
+  rotate: false
+  xy: 1389, 1378
+  size: 163, 255
+  orig: 163, 256
+  offset: 0, 0
+  index: -1
+女主委屈特写-胸
+  rotate: true
+  xy: 2, 25
+  size: 542, 616
+  orig: 578, 616
+  offset: 36, 0
+  index: -1
+女主委屈特写-身体
+  rotate: true
+  xy: 533, 642
+  size: 591, 803
+  orig: 591, 803
+  offset: 0, 0
+  index: -1
+文字/ 别扔下我一个人~
+  rotate: false
+  xy: 862, 29
+  size: 174, 27
+  orig: 174, 27
+  offset: 0, 0
+  index: -1
+文字/求求你 
+  rotate: false
+  xy: 533, 613
+  size: 71, 27
+  orig: 71, 27
+  offset: 0, 0
+  index: -1
+爱心ray
+  rotate: false
+  xy: 620, 5
+  size: 240, 218
+  orig: 240, 218
+  offset: 0, 0
+  index: -1
+粉色bg
+  rotate: false
+  xy: 2, 569
+  size: 529, 1064
+  orig: 529, 1064
+  offset: 0, 0
+  index: -1
+隐藏剧情
+  rotate: false
+  xy: 862, 58
+  size: 176, 45
+  orig: 177, 45
+  offset: 1, 0
+  index: -1

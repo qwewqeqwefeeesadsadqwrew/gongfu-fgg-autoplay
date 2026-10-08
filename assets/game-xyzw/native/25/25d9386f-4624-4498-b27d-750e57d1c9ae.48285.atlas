@@ -1,0 +1,20 @@
+
+buff_xuanyun.png
+size: 128,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+click_tool_chanzi03
+  rotate: true
+  xy: 2, 2
+  size: 54, 80
+  orig: 54, 80
+  offset: 0, 0
+  index: -1
+effect_buff_star
+  rotate: true
+  xy: 84, 16
+  size: 40, 38
+  orig: 40, 38
+  offset: 0, 0
+  index: -1

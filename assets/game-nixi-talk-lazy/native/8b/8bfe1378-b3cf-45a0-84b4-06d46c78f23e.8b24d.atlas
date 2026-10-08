@@ -1,0 +1,272 @@
+
+校服妹3.png
+size: 1714,521
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+元3-眉毛1
+  rotate: true
+  xy: 788, 335
+  size: 33, 7
+  orig: 34, 7
+  offset: 0, 0
+  index: -1
+元生3-刘海1
+  rotate: false
+  xy: 1688, 371
+  size: 22, 69
+  orig: 22, 69
+  offset: 0, 0
+  index: -1
+元生3-刘海2
+  rotate: true
+  xy: 915, 92
+  size: 30, 69
+  orig: 30, 69
+  offset: 0, 0
+  index: -1
+元生3-刘海3
+  rotate: true
+  xy: 1198, 4
+  size: 22, 68
+  orig: 22, 69
+  offset: 0, 1
+  index: -1
+元生3-刘海4
+  rotate: true
+  xy: 907, 55
+  size: 35, 67
+  orig: 35, 67
+  offset: 0, 0
+  index: -1
+元生3-刘海5
+  rotate: false
+  xy: 1688, 300
+  size: 22, 69
+  orig: 22, 69
+  offset: 0, 0
+  index: -1
+元生3-发丝1
+  rotate: false
+  xy: 1652, 146
+  size: 27, 132
+  orig: 27, 132
+  offset: 0, 0
+  index: -1
+元生3-发丝2
+  rotate: true
+  xy: 781, 57
+  size: 36, 124
+  orig: 36, 124
+  offset: 0, 0
+  index: -1
+元生3-发丝3
+  rotate: true
+  xy: 788, 95
+  size: 27, 125
+  orig: 27, 125
+  offset: 0, 0
+  index: -1
+元生3-后发
+  rotate: true
+  xy: 2, 61
+  size: 157, 390
+  orig: 157, 390
+  offset: 0, 0
+  index: -1
+元生3-嘴
+  rotate: false
+  xy: 986, 92
+  size: 43, 30
+  orig: 44, 30
+  offset: 1, 0
+  index: -1
+元生3-嘴2
+  rotate: true
+  xy: 1496, 231
+  size: 47, 37
+  orig: 50, 39
+  offset: 1, 1
+  index: -1
+元生3-手1
+  rotate: true
+  xy: 394, 102
+  size: 116, 266
+  orig: 116, 280
+  offset: 0, 14
+  index: -1
+元生3-手2
+  rotate: true
+  xy: 788, 124
+  size: 116, 255
+  orig: 116, 255
+  offset: 0, 0
+  index: -1
+元生3-手臂L
+  rotate: true
+  xy: 201, 2
+  size: 57, 194
+  orig: 57, 194
+  offset: 0, 0
+  index: -1
+元生3-手臂R
+  rotate: true
+  xy: 2, 4
+  size: 55, 197
+  orig: 55, 197
+  offset: 0, 0
+  index: -1
+元生3-眼珠1
+  rotate: false
+  xy: 1198, 226
+  size: 15, 14
+  orig: 15, 14
+  offset: 0, 0
+  index: -1
+元生3-眼珠2
+  rotate: false
+  xy: 1652, 130
+  size: 14, 14
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+元生3-眼白
+  rotate: true
+  xy: 1688, 442
+  size: 77, 24
+  orig: 78, 25
+  offset: 0, 1
+  index: -1
+元生3-眼罩
+  rotate: false
+  xy: 543, 13
+  size: 124, 87
+  orig: 124, 87
+  offset: 0, 0
+  index: -1
+元生3-胸口
+  rotate: false
+  xy: 1496, 280
+  size: 190, 239
+  orig: 190, 239
+  offset: 0, 0
+  index: -1
+元生3-脖子
+  rotate: false
+  xy: 1198, 28
+  size: 217, 194
+  orig: 217, 195
+  offset: 0, 1
+  index: -1
+元生3-脸
+  rotate: true
+  xy: 1045, 125
+  size: 115, 151
+  orig: 115, 151
+  offset: 0, 0
+  index: -1
+元生3-脸2
+  rotate: true
+  xy: 1045, 8
+  size: 115, 151
+  orig: 115, 151
+  offset: 0, 0
+  index: -1
+元生3-脸3
+  rotate: false
+  xy: 1535, 127
+  size: 115, 151
+  orig: 115, 151
+  offset: 0, 0
+  index: -1
+元生3-脸红
+  rotate: true
+  xy: 1535, 10
+  size: 115, 151
+  orig: 115, 151
+  offset: 0, 0
+  index: -1
+元生3-腿1
+  rotate: true
+  xy: 2, 220
+  size: 148, 784
+  orig: 148, 784
+  offset: 0, 0
+  index: -1
+元生3-腿2
+  rotate: true
+  xy: 2, 370
+  size: 149, 799
+  orig: 149, 799
+  offset: 0, 0
+  index: -1
+元生3-裙子1-投影
+  rotate: false
+  xy: 1223, 224
+  size: 271, 70
+  orig: 277, 383
+  offset: 0, 0
+  index: -1
+元生3-裙子2
+  rotate: true
+  xy: 803, 242
+  size: 277, 418
+  orig: 277, 446
+  offset: 0, 28
+  index: -1
+元生3-裙子3
+  rotate: false
+  xy: 1223, 296
+  size: 271, 223
+  orig: 271, 223
+  offset: 0, 0
+  index: -1
+元生3衣领-改
+  rotate: true
+  xy: 1417, 27
+  size: 195, 116
+  orig: 195, 116
+  offset: 0, 0
+  index: -1
+嘴唇
+  rotate: false
+  xy: 397, 8
+  size: 144, 92
+  orig: 148, 92
+  offset: 0, 0
+  index: -1
+手掌
+  rotate: true
+  xy: 669, 18
+  size: 85, 110
+  orig: 94, 120
+  offset: 2, 5
+  index: -1
+星
+  rotate: false
+  xy: 976, 24
+  size: 67, 66
+  orig: 68, 67
+  offset: 0, 1
+  index: -1
+烟雾
+  rotate: true
+  xy: 781, 18
+  size: 37, 84
+  orig: 49, 120
+  offset: 6, 0
+  index: -1
+烟雾ww
+  rotate: false
+  xy: 662, 105
+  size: 124, 113
+  orig: 136, 126
+  offset: 6, 6
+  index: -1
+爱心
+  rotate: false
+  xy: 867, 10
+  size: 49, 43
+  orig: 49, 43
+  offset: 0, 0
+  index: -1

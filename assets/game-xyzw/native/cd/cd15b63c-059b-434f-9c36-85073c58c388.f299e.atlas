@@ -1,0 +1,13 @@
+
+loading_particles.png
+size: 16,16
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+loading_fish06
+  rotate: false
+  xy: 2, 2
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1

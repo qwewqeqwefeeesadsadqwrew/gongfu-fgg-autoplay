@@ -1,0 +1,34 @@
+
+点击特效.png
+size: 953,382
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dj-光点
+  rotate: false
+  xy: 383, 25
+  size: 53, 53
+  orig: 60, 80
+  offset: 3, 14
+  index: -1
+dj-冲击波
+  rotate: false
+  xy: 383, 80
+  size: 300, 300
+  orig: 306, 305
+  offset: 3, 3
+  index: -1
+dj-打击
+  rotate: false
+  xy: 685, 97
+  size: 266, 283
+  orig: 275, 294
+  offset: 5, 10
+  index: -1
+dj-闪光
+  rotate: false
+  xy: 2, 2
+  size: 379, 378
+  orig: 410, 403
+  offset: 14, 7
+  index: -1

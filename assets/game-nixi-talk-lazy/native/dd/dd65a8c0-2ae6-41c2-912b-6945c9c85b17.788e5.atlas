@@ -1,0 +1,216 @@
+
+主角女鬼2.png
+size: 903,1032
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+嘴唇
+  rotate: false
+  xy: 665, 2
+  size: 144, 92
+  orig: 148, 92
+  offset: 0, 0
+  index: -1
+手掌
+  rotate: true
+  xy: 788, 774
+  size: 85, 110
+  orig: 94, 120
+  offset: 2, 5
+  index: -1
+提示
+  rotate: true
+  xy: 640, 568
+  size: 38, 33
+  orig: 40, 35
+  offset: 1, 0
+  index: -1
+烟雾
+  rotate: true
+  xy: 788, 906
+  size: 124, 113
+  orig: 136, 126
+  offset: 6, 6
+  index: -1
+生气
+  rotate: false
+  xy: 811, 22
+  size: 83, 72
+  orig: 83, 72
+  offset: 0, 0
+  index: -1
+红衣女鬼(正常版)-刘海1
+  rotate: true
+  xy: 675, 577
+  size: 29, 65
+  orig: 29, 65
+  offset: 0, 0
+  index: -1
+红衣女鬼(正常版)-刘海2
+  rotate: true
+  xy: 834, 200
+  size: 52, 60
+  orig: 52, 60
+  offset: 0, 0
+  index: -1
+红衣女鬼(正常版)-刘海3
+  rotate: true
+  xy: 788, 722
+  size: 50, 105
+  orig: 50, 108
+  offset: 0, 0
+  index: -1
+红衣女鬼(正常版)-刘海4
+  rotate: false
+  xy: 584, 577
+  size: 54, 95
+  orig: 54, 95
+  offset: 0, 0
+  index: -1
+红衣女鬼(正常版)-右手
+  rotate: false
+  xy: 584, 254
+  size: 291, 246
+  orig: 291, 246
+  offset: 0, 0
+  index: -1
+红衣女鬼(正常版)-右眉
+  rotate: false
+  xy: 262, 732
+  size: 36, 16
+  orig: 37, 16
+  offset: 1, 0
+  index: -1
+红衣女鬼(正常版)-右眼底
+  rotate: true
+  xy: 246, 723
+  size: 25, 14
+  orig: 25, 14
+  offset: 0, 0
+  index: -1
+红衣女鬼(正常版)-右瞳
+  rotate: false
+  xy: 366, 735
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+红衣女鬼(正常版)-后发
+  rotate: false
+  xy: 206, 6
+  size: 206, 714
+  orig: 206, 714
+  offset: 0, 0
+  index: -1
+红衣女鬼(正常版)-头
+  rotate: false
+  xy: 782, 567
+  size: 118, 153
+  orig: 118, 153
+  offset: 0, 0
+  index: -1
+红衣女鬼(正常版)-头 - 副本
+  rotate: false
+  xy: 206, 722
+  size: 38, 26
+  orig: 46, 27
+  offset: 6, 1
+  index: -1
+红衣女鬼(正常版)-左手小臂
+  rotate: true
+  xy: 584, 24
+  size: 228, 79
+  orig: 228, 79
+  offset: 0, 0
+  index: -1
+红衣女鬼(正常版)-左眉
+  rotate: false
+  xy: 300, 735
+  size: 35, 13
+  orig: 36, 13
+  offset: 0, 0
+  index: -1
+红衣女鬼(正常版)-左眼底
+  rotate: false
+  xy: 337, 735
+  size: 27, 13
+  orig: 27, 13
+  offset: 0, 0
+  index: -1
+红衣女鬼(正常版)-左瞳
+  rotate: false
+  xy: 381, 735
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+红衣女鬼(正常版)-左臂
+  rotate: true
+  xy: 584, 674
+  size: 74, 196
+  orig: 74, 196
+  offset: 0, 0
+  index: -1
+红衣女鬼(正常版)-腿L
+  rotate: false
+  xy: 2, 5
+  size: 202, 743
+  orig: 202, 743
+  offset: 0, 0
+  index: -1
+红衣女鬼(正常版)-腿R
+  rotate: false
+  xy: 414, 26
+  size: 168, 722
+  orig: 168, 729
+  offset: 0, 0
+  index: -1
+红衣女鬼(正常版)-裙子
+  rotate: true
+  xy: 584, 502
+  size: 63, 302
+  orig: 63, 302
+  offset: 0, 0
+  index: -1
+红衣女鬼(正常版)-身体
+  rotate: true
+  xy: 2, 750
+  size: 280, 784
+  orig: 322, 1197
+  offset: 9, 413
+  index: -1
+红衣女鬼(正常版)-鬓发1
+  rotate: true
+  xy: 640, 608
+  size: 64, 118
+  orig: 64, 118
+  offset: 0, 0
+  index: -1
+红衣女鬼(正常版)-鬓发2
+  rotate: true
+  xy: 665, 216
+  size: 36, 167
+  orig: 36, 167
+  offset: 0, 0
+  index: -1
+红衣女鬼(正常版)-鬓发3
+  rotate: true
+  xy: 820, 171
+  size: 27, 73
+  orig: 27, 73
+  offset: 0, 0
+  index: -1
+红衣女鬼(正常版)-鬓发4
+  rotate: true
+  xy: 788, 861
+  size: 43, 111
+  orig: 43, 111
+  offset: 0, 0
+  index: -1
+脸红
+  rotate: true
+  xy: 665, 96
+  size: 118, 153
+  orig: 118, 153
+  offset: 0, 0
+  index: -1

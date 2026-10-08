@@ -1,0 +1,97 @@
+
+xiaobing4_gong.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hero_eye_cry
+  rotate: true
+  xy: 175, 4
+  size: 42, 51
+  orig: 42, 51
+  offset: 0, 0
+  index: -1
+sc4_gong_arrow
+  rotate: false
+  xy: 2, 2
+  size: 139, 13
+  orig: 139, 13
+  offset: 0, 0
+  index: -1
+sc4_gong_body
+  rotate: true
+  xy: 2, 17
+  size: 106, 79
+  orig: 106, 79
+  offset: 0, 0
+  index: -1
+sc4_gong_eye
+  rotate: false
+  xy: 143, 10
+  size: 6, 6
+  orig: 6, 6
+  offset: 0, 0
+  index: -1
+sc4_gong_eyewhite
+  rotate: false
+  xy: 387, 99
+  size: 21, 24
+  orig: 21, 24
+  offset: 0, 0
+  index: -1
+sc4_gong_handl
+  rotate: false
+  xy: 351, 11
+  size: 32, 35
+  orig: 33, 37
+  offset: 1, 0
+  index: -1
+sc4_gong_handr1
+  rotate: true
+  xy: 261, 8
+  size: 38, 33
+  orig: 38, 37
+  offset: 0, 3
+  index: -1
+sc4_gong_handr2
+  rotate: false
+  xy: 385, 16
+  size: 28, 30
+  orig: 28, 35
+  offset: 0, 4
+  index: -1
+sc4_gong_head
+  rotate: true
+  xy: 83, 18
+  size: 105, 90
+  orig: 105, 90
+  offset: 0, 0
+  index: -1
+sc4_gong_legr
+  rotate: false
+  xy: 387, 74
+  size: 18, 23
+  orig: 18, 23
+  offset: 0, 0
+  index: -1
+sc4_gong_mouth
+  rotate: false
+  xy: 228, 5
+  size: 31, 41
+  orig: 31, 41
+  offset: 0, 0
+  index: -1
+sc4_gong_tail
+  rotate: false
+  xy: 296, 10
+  size: 53, 36
+  orig: 53, 36
+  offset: 0, 0
+  index: -1
+sc4_gong_weapon
+  rotate: true
+  xy: 175, 48
+  size: 75, 210
+  orig: 75, 210
+  offset: 0, 0
+  index: -1

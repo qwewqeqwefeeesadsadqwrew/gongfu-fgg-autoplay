@@ -1,0 +1,188 @@
+
+厨房女1.png
+size: 681,1032
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dabil
+  rotate: false
+  xy: 574, 643
+  size: 94, 219
+  orig: 96, 219
+  offset: 1, 0
+  index: -1
+dabir
+  rotate: true
+  xy: 187, 2
+  size: 93, 219
+  orig: 94, 227
+  offset: 1, 0
+  index: -1
+erhuanl
+  rotate: true
+  xy: 457, 172
+  size: 9, 28
+  orig: 9, 30
+  offset: 0, 1
+  index: -1
+erhuanr
+  rotate: true
+  xy: 149, 281
+  size: 12, 31
+  orig: 13, 33
+  offset: 0, 1
+  index: -1
+lian
+  rotate: false
+  xy: 187, 97
+  size: 144, 190
+  orig: 144, 194
+  offset: 0, 4
+  index: -1
+qunzihou
+  rotate: true
+  xy: 149, 295
+  size: 49, 102
+  orig: 50, 103
+  offset: 1, 0
+  index: -1
+qunziqian
+  rotate: false
+  xy: 281, 590
+  size: 291, 440
+  orig: 291, 440
+  offset: 0, 0
+  index: -1
+shaozi
+  rotate: true
+  xy: 2, 3
+  size: 266, 93
+  orig: 266, 94
+  offset: 0, 1
+  index: -1
+shengti
+  rotate: true
+  xy: 281, 380
+  size: 208, 310
+  orig: 208, 310
+  offset: 0, 0
+  index: -1
+shoul
+  rotate: false
+  xy: 333, 114
+  size: 122, 67
+  orig: 122, 75
+  offset: 0, 0
+  index: -1
+shour
+  rotate: false
+  xy: 592, 69
+  size: 71, 101
+  orig: 72, 109
+  offset: 0, 8
+  index: -1
+toufa1
+  rotate: true
+  xy: 574, 615
+  size: 26, 83
+  orig: 26, 83
+  offset: 0, 0
+  index: -1
+toufa2
+  rotate: true
+  xy: 281, 289
+  size: 89, 274
+  orig: 89, 274
+  offset: 0, 0
+  index: -1
+toufa3
+  rotate: false
+  xy: 253, 303
+  size: 21, 41
+  orig: 23, 43
+  offset: 1, 1
+  index: -1
+toufa4
+  rotate: false
+  xy: 659, 573
+  size: 20, 68
+  orig: 20, 68
+  offset: 0, 0
+  index: -1
+toufa5
+  rotate: false
+  xy: 97, 47
+  size: 88, 222
+  orig: 96, 222
+  offset: 3, 0
+  index: -1
+tuil
+  rotate: false
+  xy: 2, 271
+  size: 145, 759
+  orig: 145, 759
+  offset: 0, 0
+  index: -1
+tuir
+  rotate: false
+  xy: 149, 346
+  size: 130, 684
+  orig: 130, 684
+  offset: 0, 0
+  index: -1
+xiaobil
+  rotate: false
+  xy: 333, 183
+  size: 176, 104
+  orig: 176, 106
+  offset: 0, 2
+  index: -1
+xiaobir
+  rotate: false
+  xy: 511, 172
+  size: 164, 115
+  orig: 164, 115
+  offset: 0, 0
+  index: -1
+yamzhul
+  rotate: false
+  xy: 665, 157
+  size: 14, 13
+  orig: 14, 13
+  offset: 0, 0
+  index: -1
+yanbai
+  rotate: false
+  xy: 97, 27
+  size: 84, 18
+  orig: 85, 18
+  offset: 0, 0
+  index: -1
+yanzhur
+  rotate: false
+  xy: 665, 142
+  size: 14, 13
+  orig: 14, 14
+  offset: 0, 1
+  index: -1
+嘴唇
+  rotate: true
+  xy: 574, 864
+  size: 166, 105
+  orig: 170, 105
+  offset: 0, 0
+  index: -1
+嘴巴
+  rotate: true
+  xy: 557, 326
+  size: 52, 39
+  orig: 52, 39
+  offset: 0, 0
+  index: -1
+手掌
+  rotate: true
+  xy: 457, 70
+  size: 100, 133
+  orig: 107, 138
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,83 @@
+
+xiaobing3_zhang.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hero_eye_cry
+  rotate: false
+  xy: 282, 59
+  size: 42, 51
+  orig: 42, 51
+  offset: 0, 0
+  index: -1
+sc3_monster3_body
+  rotate: false
+  xy: 161, 13
+  size: 119, 94
+  orig: 119, 94
+  offset: 0, 0
+  index: -1
+sc3_monster3_handl
+  rotate: false
+  xy: 282, 22
+  size: 34, 35
+  orig: 34, 37
+  offset: 0, 2
+  index: -1
+sc3_monster3_handr1
+  rotate: true
+  xy: 318, 18
+  size: 39, 29
+  orig: 41, 33
+  offset: 2, 4
+  index: -1
+sc3_monster3_handr2
+  rotate: true
+  xy: 326, 84
+  size: 31, 27
+  orig: 34, 31
+  offset: 3, 4
+  index: -1
+sc3_monster3_hat
+  rotate: true
+  xy: 161, 109
+  size: 143, 86
+  orig: 143, 86
+  offset: 0, 0
+  index: -1
+sc3_monster3_head
+  rotate: true
+  xy: 249, 162
+  size: 90, 86
+  orig: 90, 86
+  offset: 0, 0
+  index: -1
+sc3_monster3_legr
+  rotate: true
+  xy: 282, 2
+  size: 18, 25
+  orig: 18, 25
+  offset: 0, 0
+  index: -1
+sc3_monster3_mouth
+  rotate: false
+  xy: 311, 117
+  size: 36, 43
+  orig: 36, 43
+  offset: 0, 0
+  index: -1
+sc3_monster3_tail
+  rotate: false
+  xy: 249, 112
+  size: 60, 48
+  orig: 62, 52
+  offset: 0, 4
+  index: -1
+sc3_monster3_weapon
+  rotate: true
+  xy: 2, 5
+  size: 247, 157
+  orig: 247, 157
+  offset: 0, 0
+  index: -1

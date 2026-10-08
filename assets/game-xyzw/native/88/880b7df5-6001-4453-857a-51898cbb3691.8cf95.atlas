@@ -1,0 +1,97 @@
+
+xiaobing2_gongjian.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hero_eye_cry
+  rotate: true
+  xy: 136, 5
+  size: 42, 51
+  orig: 42, 51
+  offset: 0, 0
+  index: -1
+sc2_monster5_arrow
+  rotate: false
+  xy: 79, 49
+  size: 97, 39
+  orig: 105, 39
+  offset: 0, 0
+  index: -1
+sc2_monster5_bag
+  rotate: true
+  xy: 79, 5
+  size: 42, 55
+  orig: 43, 67
+  offset: 0, 12
+  index: -1
+sc2_monster5_eye
+  rotate: false
+  xy: 189, 8
+  size: 6, 6
+  orig: 6, 6
+  offset: 0, 0
+  index: -1
+sc2_monster5_eyewhite
+  rotate: false
+  xy: 213, 83
+  size: 25, 31
+  orig: 25, 31
+  offset: 0, 0
+  index: -1
+sc2_monster5_hair
+  rotate: true
+  xy: 2, 2
+  size: 86, 75
+  orig: 86, 75
+  offset: 0, 0
+  index: -1
+sc2_monster5_handl
+  rotate: false
+  xy: 189, 16
+  size: 33, 34
+  orig: 35, 34
+  offset: 1, 0
+  index: -1
+sc2_monster5_handr1
+  rotate: true
+  xy: 178, 52
+  size: 40, 33
+  orig: 40, 36
+  offset: 0, 1
+  index: -1
+sc2_monster5_handr2
+  rotate: true
+  xy: 188, 116
+  size: 30, 29
+  orig: 32, 35
+  offset: 0, 2
+  index: -1
+sc2_monster5_head
+  rotate: false
+  xy: 2, 90
+  size: 117, 160
+  orig: 117, 160
+  offset: 0, 0
+  index: -1
+sc2_monster5_legr
+  rotate: true
+  xy: 188, 96
+  size: 18, 22
+  orig: 18, 22
+  offset: 0, 0
+  index: -1
+sc2_monster5_tail
+  rotate: false
+  xy: 121, 94
+  size: 65, 52
+  orig: 65, 52
+  offset: 0, 0
+  index: -1
+sc2_monster5_weapon
+  rotate: true
+  xy: 121, 148
+  size: 102, 162
+  orig: 102, 162
+  offset: 0, 0
+  index: -1

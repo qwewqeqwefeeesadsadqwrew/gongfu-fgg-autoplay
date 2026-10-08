@@ -1,0 +1,41 @@
+
+uizhu.png
+size: 471,103
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+动物
+  rotate: true
+  xy: 395, 21
+  size: 80, 45
+  orig: 81, 45
+  offset: 0, 0
+  index: -1
+底框
+  rotate: false
+  xy: 2, 5
+  size: 205, 96
+  orig: 209, 100
+  offset: 3, 2
+  index: -1
+组 469
+  rotate: true
+  xy: 209, 2
+  size: 99, 91
+  orig: 99, 91
+  offset: 0, 0
+  index: -1
+组 469s
+  rotate: true
+  xy: 302, 2
+  size: 99, 91
+  orig: 99, 91
+  offset: 0, 0
+  index: -1
+组 470
+  rotate: false
+  xy: 442, 70
+  size: 27, 31
+  orig: 27, 31
+  offset: 0, 0
+  index: -1

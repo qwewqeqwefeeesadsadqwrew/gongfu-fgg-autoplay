@@ -1,0 +1,111 @@
+
+ch23.png
+size: 1134,1134
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+10
+  rotate: true
+  xy: 1042, 1000
+  size: 132, 60
+  orig: 132, 60
+  offset: 0, 0
+  index: -1
+bg
+  rotate: false
+  xy: 2, 376
+  size: 761, 756
+  orig: 761, 756
+  offset: 0, 0
+  index: -1
+气泡/对话框1
+  rotate: false
+  xy: 866, 84
+  size: 254, 185
+  orig: 254, 185
+  offset: 0, 0
+  index: -1
+男主/受伤身体
+  rotate: false
+  xy: 765, 599
+  size: 210, 533
+  orig: 229, 605
+  offset: 8, 37
+  index: -1
+男主/受伤身体_手臂
+  rotate: false
+  xy: 977, 777
+  size: 132, 94
+  orig: 132, 94
+  offset: 0, 0
+  index: -1
+男主/头
+  rotate: true
+  xy: 765, 271
+  size: 326, 339
+  orig: 326, 339
+  offset: 0, 0
+  index: -1
+男主/男主-L手
+  rotate: false
+  xy: 977, 873
+  size: 63, 259
+  orig: 63, 259
+  offset: 0, 0
+  index: -1
+男主/表情23
+  rotate: false
+  xy: 330, 35
+  size: 326, 339
+  orig: 326, 339
+  offset: 0, 0
+  index: -1
+男主/表情6-诧异（前女友来电）
+  rotate: false
+  xy: 2, 35
+  size: 326, 339
+  orig: 326, 339
+  offset: 0, 0
+  index: -1
+男主/说话嘴2
+  rotate: false
+  xy: 977, 730
+  size: 62, 45
+  orig: 62, 45
+  offset: 0, 0
+  index: -1
+男主/说话嘴巴2
+  rotate: true
+  xy: 1106, 1093
+  size: 39, 21
+  orig: 39, 21
+  offset: 0, 0
+  index: -1
+表现素材/感叹号
+  rotate: true
+  xy: 1042, 942
+  size: 56, 85
+  orig: 56, 85
+  offset: 0, 0
+  index: -1
+表现素材/提示
+  rotate: false
+  xy: 658, 32
+  size: 206, 237
+  orig: 206, 237
+  offset: 0, 0
+  index: -1
+表现素材/黑色转场
+  rotate: true
+  xy: 1041, 730
+  size: 45, 60
+  orig: 45, 60
+  offset: 0, 0
+  index: -1
+阴影
+  rotate: false
+  xy: 1042, 895
+  size: 90, 45
+  orig: 90, 45
+  offset: 0, 0
+  index: -1

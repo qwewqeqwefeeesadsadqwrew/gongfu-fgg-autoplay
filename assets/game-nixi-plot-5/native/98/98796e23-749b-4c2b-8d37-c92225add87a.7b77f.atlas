@@ -1,0 +1,328 @@
+
+ch26.png
+size: 2328,2328
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+20
+  rotate: false
+  xy: 1662, 757
+  size: 230, 61
+  orig: 230, 61
+  offset: 0, 0
+  index: -1
+21
+  rotate: false
+  xy: 2166, 79
+  size: 154, 60
+  orig: 154, 60
+  offset: 0, 0
+  index: -1
+22-1
+  rotate: false
+  xy: 2, 5
+  size: 126, 26
+  orig: 157, 45
+  offset: 18, 12
+  index: -1
+23
+  rotate: false
+  xy: 130, 9
+  size: 206, 22
+  orig: 206, 22
+  offset: 0, 0
+  index: -1
+24
+  rotate: true
+  xy: 2288, 351
+  size: 77, 32
+  orig: 77, 32
+  offset: 0, 0
+  index: -1
+bg
+  rotate: false
+  xy: 866, 1570
+  size: 761, 756
+  orig: 761, 756
+  offset: 0, 0
+  index: -1
+faxiang
+  rotate: false
+  xy: 1629, 1779
+  size: 474, 547
+  orig: 474, 547
+  offset: 0, 0
+  index: -1
+qg/body1
+  rotate: false
+  xy: 2, 1429
+  size: 862, 897
+  orig: 862, 897
+  offset: 0, 0
+  index: -1
+qg/body2
+  rotate: true
+  xy: 2, 565
+  size: 862, 890
+  orig: 862, 890
+  offset: 0, 0
+  index: -1
+qg/zui
+  rotate: false
+  xy: 2166, 6
+  size: 92, 71
+  orig: 92, 71
+  offset: 0, 0
+  index: -1
+qg/举手
+  rotate: true
+  xy: 894, 709
+  size: 723, 766
+  orig: 723, 766
+  offset: 0, 0
+  index: -1
+qg/右手
+  rotate: true
+  xy: 1552, 41
+  size: 258, 612
+  orig: 258, 612
+  offset: 0, 0
+  index: -1
+qg/左手
+  rotate: true
+  xy: 1576, 301
+  size: 244, 615
+  orig: 244, 615
+  offset: 0, 0
+  index: -1
+光圈
+  rotate: false
+  xy: 555, 2
+  size: 221, 220
+  orig: 230, 230
+  offset: 5, 4
+  index: -1
+升级/旋风1
+  rotate: false
+  xy: 1990, 1219
+  size: 230, 230
+  orig: 230, 230
+  offset: 0, 0
+  index: -1
+升级/烟圈
+  rotate: true
+  xy: 2017, 1022
+  size: 195, 150
+  orig: 195, 150
+  offset: 0, 0
+  index: -1
+升级/烟雾
+  rotate: false
+  xy: 778, 69
+  size: 77, 153
+  orig: 77, 153
+  offset: 0, 0
+  index: -1
+升级/烟雾2
+  rotate: false
+  xy: 2193, 430
+  size: 115, 115
+  orig: 115, 115
+  offset: 0, 0
+  index: -1
+升级/烟雾3
+  rotate: false
+  xy: 2166, 141
+  size: 158, 158
+  orig: 158, 158
+  offset: 0, 0
+  index: -1
+升级/金光
+  rotate: true
+  xy: 1221, 1445
+  size: 123, 204
+  orig: 123, 204
+  offset: 0, 0
+  index: -1
+气泡/对话框1
+  rotate: true
+  xy: 2105, 1833
+  size: 254, 185
+  orig: 254, 185
+  offset: 0, 0
+  index: -1
+气泡/尖叫气泡框
+  rotate: false
+  xy: 2, 33
+  size: 336, 202
+  orig: 353, 219
+  offset: 9, 8
+  index: -1
+点击继续
+  rotate: true
+  xy: 1058, 1437
+  size: 131, 161
+  orig: 133, 162
+  offset: 1, 0
+  index: -1
+男主/L手-插裤兜
+  rotate: true
+  xy: 1427, 1481
+  size: 87, 200
+  orig: 87, 200
+  offset: 0, 0
+  index: -1
+男主/R手
+  rotate: true
+  xy: 1952, 786
+  size: 61, 250
+  orig: 61, 250
+  offset: 0, 0
+  index: -1
+男主/R手-摊手
+  rotate: true
+  xy: 866, 1434
+  size: 134, 190
+  orig: 134, 190
+  offset: 0, 0
+  index: -1
+男主/受伤身体
+  rotate: false
+  xy: 343, 30
+  size: 210, 533
+  orig: 229, 605
+  offset: 8, 37
+  index: -1
+男主/头
+  rotate: true
+  xy: 1629, 1451
+  size: 326, 339
+  orig: 326, 339
+  offset: 0, 0
+  index: -1
+男主/男主-L手
+  rotate: false
+  xy: 1952, 849
+  size: 63, 259
+  orig: 63, 259
+  offset: 0, 0
+  index: -1
+男主/表情13
+  rotate: true
+  xy: 883, 53
+  size: 326, 339
+  orig: 326, 339
+  offset: 0, 0
+  index: -1
+男主/表情19-疑惑（包租婆敲门）
+  rotate: false
+  xy: 1224, 40
+  size: 326, 339
+  orig: 326, 339
+  offset: 0, 0
+  index: -1
+男主/表情21
+  rotate: false
+  xy: 1662, 1110
+  size: 326, 339
+  orig: 326, 339
+  offset: 0, 0
+  index: -1
+男主/表情30-沮丧
+  rotate: true
+  xy: 1970, 1451
+  size: 326, 339
+  orig: 326, 339
+  offset: 0, 0
+  index: -1
+男主/表情4-
+  rotate: true
+  xy: 894, 381
+  size: 326, 339
+  orig: 326, 339
+  offset: 0, 0
+  index: -1
+男主/表情6-诧异（前女友来电）
+  rotate: true
+  xy: 2, 237
+  size: 326, 339
+  orig: 326, 339
+  offset: 0, 0
+  index: -1
+男主/表情7-惊讶（分手）
+  rotate: false
+  xy: 555, 224
+  size: 326, 339
+  orig: 326, 339
+  offset: 0, 0
+  index: -1
+男主/表情9-震惊（NTR）
+  rotate: true
+  xy: 1235, 381
+  size: 326, 339
+  orig: 326, 339
+  offset: 0, 0
+  index: -1
+男主/说话嘴2
+  rotate: false
+  xy: 1519, 1434
+  size: 62, 45
+  orig: 62, 45
+  offset: 0, 0
+  index: -1
+男主/说话嘴巴2
+  rotate: true
+  xy: 1583, 1440
+  size: 39, 21
+  orig: 39, 21
+  offset: 0, 0
+  index: -1
+男主/身体
+  rotate: true
+  xy: 1576, 547
+  size: 160, 622
+  orig: 160, 622
+  offset: 0, 0
+  index: -1
+表现素材/感叹号
+  rotate: true
+  xy: 778, 11
+  size: 56, 85
+  orig: 56, 85
+  offset: 0, 0
+  index: -1
+表现素材/提示
+  rotate: false
+  xy: 2105, 2089
+  size: 206, 237
+  orig: 206, 237
+  offset: 0, 0
+  index: -1
+表现素材/生气
+  rotate: true
+  xy: 2193, 322
+  size: 106, 93
+  orig: 106, 93
+  offset: 0, 0
+  index: -1
+表现素材/速度线
+  rotate: false
+  xy: 1662, 820
+  size: 288, 288
+  orig: 288, 288
+  offset: 0, 0
+  index: -1
+表现素材/黑色转场
+  rotate: false
+  xy: 2260, 17
+  size: 45, 60
+  orig: 45, 60
+  offset: 0, 0
+  index: -1
+阴影
+  rotate: false
+  xy: 1427, 1434
+  size: 90, 45
+  orig: 90, 45
+  offset: 0, 0
+  index: -1

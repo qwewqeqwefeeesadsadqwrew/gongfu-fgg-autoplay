@@ -1,0 +1,69 @@
+
+鳌拜.png
+size: 469,1019
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+主角身体
+  rotate: false
+  xy: 2, 197
+  size: 200, 568
+  orig: 200, 568
+  offset: 0, 0
+  index: -1
+打击3
+  rotate: true
+  xy: 254, 773
+  size: 116, 122
+  orig: 128, 128
+  offset: 8, 4
+  index: -1
+替身手
+  rotate: false
+  xy: 2, 2
+  size: 308, 193
+  orig: 308, 193
+  offset: 0, 0
+  index: -1
+替身手2
+  rotate: false
+  xy: 254, 891
+  size: 213, 126
+  orig: 213, 126
+  offset: 0, 0
+  index: -1
+替身身体
+  rotate: false
+  xy: 204, 270
+  size: 231, 495
+  orig: 300, 750
+  offset: 15, 53
+  index: -1
+着急汗珠
+  rotate: false
+  xy: 204, 255
+  size: 29, 13
+  orig: 29, 16
+  offset: 0, 3
+  index: -1
+跪着
+  rotate: true
+  xy: 312, 7
+  size: 261, 153
+  orig: 261, 153
+  offset: 0, 0
+  index: -1
+速度线
+  rotate: false
+  xy: 2, 767
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+阴影
+  rotate: true
+  xy: 437, 732
+  size: 157, 30
+  orig: 157, 30
+  offset: 0, 0
+  index: -1

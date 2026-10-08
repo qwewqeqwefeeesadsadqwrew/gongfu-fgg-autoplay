@@ -1,0 +1,76 @@
+
+ch12.png
+size: 1817,1817
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bangjia-1
+  rotate: false
+  xy: 1419, 79
+  size: 306, 461
+  orig: 306, 461
+  offset: 0, 0
+  index: -1
+bangjia-2
+  rotate: false
+  xy: 1440, 1120
+  size: 366, 695
+  orig: 366, 695
+  offset: 0, 0
+  index: -1
+bg
+  rotate: false
+  xy: 2, 301
+  size: 650, 1514
+  orig: 650, 1514
+  offset: 0, 0
+  index: -1
+fh
+  rotate: true
+  xy: 1727, 389
+  size: 151, 88
+  orig: 151, 88
+  offset: 0, 0
+  index: -1
+loudi
+  rotate: true
+  xy: 654, 1165
+  size: 650, 784
+  orig: 650, 784
+  offset: 0, 0
+  index: -1
+louzhong
+  rotate: true
+  xy: 1419, 542
+  size: 576, 376
+  orig: 576, 376
+  offset: 0, 0
+  index: -1
+sky
+  rotate: false
+  xy: 675, 135
+  size: 576, 376
+  orig: 576, 376
+  offset: 0, 0
+  index: -1
+yun
+  rotate: true
+  xy: 654, 513
+  size: 650, 763
+  orig: 650, 763
+  offset: 0, 0
+  index: -1
+柳如烟
+  rotate: true
+  xy: 2, 48
+  size: 251, 671
+  orig: 251, 671
+  offset: 0, 0
+  index: -1
+阴影
+  rotate: false
+  xy: 2, 13
+  size: 75, 33
+  orig: 90, 45
+  offset: 7, 6
+  index: -1

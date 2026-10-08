@@ -1,0 +1,20 @@
+
+bicycle_ui.png
+size: 269,269
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+anniu
+  rotate: false
+  xy: 2, 134
+  size: 133, 133
+  orig: 133, 133
+  offset: 0, 0
+  index: -1
+ray
+  rotate: false
+  xy: 2, 2
+  size: 130, 130
+  orig: 133, 133
+  offset: 2, 1
+  index: -1

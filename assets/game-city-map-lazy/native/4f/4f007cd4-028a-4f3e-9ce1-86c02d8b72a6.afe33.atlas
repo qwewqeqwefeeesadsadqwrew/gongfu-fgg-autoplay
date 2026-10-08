@@ -1,0 +1,48 @@
+
+歌舞厅_装饰动画.png
+size: 342,137
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+歌舞厅-灯泡
+  rotate: false
+  xy: 282, 43
+  size: 14, 14
+  orig: 16, 16
+  offset: 1, 1
+  index: -1
+歌舞厅-灯泡r
+  rotate: false
+  xy: 282, 59
+  size: 28, 28
+  orig: 60, 60
+  offset: 16, 16
+  index: -1
+歌舞厅1-招牌
+  rotate: true
+  xy: 2, 70
+  size: 65, 182
+  orig: 67, 184
+  offset: 1, 1
+  index: -1
+歌舞厅2-招牌
+  rotate: true
+  xy: 2, 3
+  size: 65, 182
+  orig: 67, 184
+  offset: 1, 1
+  index: -1
+歌舞厅2-招牌-亮灯
+  rotate: true
+  xy: 186, 89
+  size: 46, 154
+  orig: 49, 156
+  offset: 2, 1
+  index: -1
+歌舞厅_招牌
+  rotate: true
+  xy: 186, 2
+  size: 85, 94
+  orig: 91, 98
+  offset: 3, 4
+  index: -1

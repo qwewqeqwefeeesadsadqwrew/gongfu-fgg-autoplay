@@ -1,0 +1,20 @@
+
+longniang.png
+size: 1584,1584
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+longniang
+  rotate: false
+  xy: 414, 722
+  size: 1168, 860
+  orig: 1168, 860
+  offset: 0, 0
+  index: -1
+quanquan
+  rotate: false
+  xy: 2, 1172
+  size: 410, 410
+  orig: 410, 410
+  offset: 0, 0
+  index: -1

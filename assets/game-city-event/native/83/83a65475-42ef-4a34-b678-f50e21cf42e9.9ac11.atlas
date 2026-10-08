@@ -1,0 +1,132 @@
+
+随机事件_小偷2.png
+size: 512,529
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+小偷-手臂
+  rotate: true
+  xy: 279, 26
+  size: 25, 64
+  orig: 25, 65
+  offset: 0, 1
+  index: -1
+小偷-腿
+  rotate: false
+  xy: 476, 61
+  size: 31, 60
+  orig: 32, 61
+  offset: 0, 1
+  index: -1
+小偷-身体
+  rotate: true
+  xy: 156, 2
+  size: 49, 70
+  orig: 49, 71
+  offset: 0, 1
+  index: -1
+小偷2-头
+  rotate: false
+  xy: 371, 210
+  size: 71, 74
+  orig: 73, 77
+  offset: 1, 1
+  index: -1
+小烟雾爆炸boom12
+  rotate: false
+  xy: 336, 53
+  size: 138, 143
+  orig: 228, 175
+  offset: 65, 16
+  index: -1
+小烟雾爆炸boom2
+  rotate: false
+  xy: 99, 24
+  size: 55, 65
+  orig: 228, 175
+  offset: 67, 61
+  index: -1
+小烟雾爆炸boom3
+  rotate: true
+  xy: 2, 17
+  size: 72, 95
+  orig: 228, 175
+  offset: 54, 48
+  index: -1
+小烟雾爆炸boom4
+  rotate: false
+  xy: 380, 404
+  size: 130, 123
+  orig: 228, 175
+  offset: 29, 28
+  index: -1
+小烟雾爆炸boom5
+  rotate: false
+  xy: 165, 53
+  size: 169, 143
+  orig: 228, 175
+  offset: 16, 12
+  index: -1
+小烟雾爆炸boom6
+  rotate: false
+  xy: 179, 198
+  size: 190, 161
+  orig: 228, 175
+  offset: 3, 0
+  index: -1
+小烟雾爆炸boom7
+  rotate: false
+  xy: 179, 361
+  size: 199, 166
+  orig: 228, 175
+  offset: 3, 1
+  index: -1
+小烟雾爆炸boom9
+  rotate: true
+  xy: 2, 91
+  size: 214, 161
+  orig: 228, 175
+  offset: 3, 3
+  index: -1
+打击
+  rotate: false
+  xy: 2, 307
+  size: 175, 220
+  orig: 178, 220
+  offset: 2, 0
+  index: -1
+打击3
+  rotate: true
+  xy: 380, 286
+  size: 116, 124
+  orig: 128, 128
+  offset: 8, 4
+  index: -1
+星
+  rotate: false
+  xy: 228, 4
+  size: 49, 47
+  orig: 49, 48
+  offset: 0, 1
+  index: -1
+笑
+  rotate: true
+  xy: 345, 11
+  size: 40, 47
+  orig: 40, 47
+  offset: 0, 0
+  index: -1
+钱袋
+  rotate: false
+  xy: 444, 204
+  size: 60, 80
+  orig: 60, 80
+  offset: 0, 0
+  index: -1
+阴影
+  rotate: true
+  xy: 476, 123
+  size: 79, 32
+  orig: 81, 34
+  offset: 1, 1
+  index: -1

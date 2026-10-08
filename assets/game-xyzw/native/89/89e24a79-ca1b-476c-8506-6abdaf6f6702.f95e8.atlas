@@ -1,0 +1,76 @@
+
+startskill_red.png
+size: 631,631
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2
+  rotate: false
+  xy: 289, 323
+  size: 230, 53
+  orig: 450, 225
+  offset: 110, 86
+  index: -1
+2_0003
+  rotate: false
+  xy: 2, 25
+  size: 237, 181
+  orig: 900, 900
+  offset: 511, 404
+  index: -1
+2_0004
+  rotate: false
+  xy: 2, 208
+  size: 285, 201
+  orig: 900, 900
+  offset: 499, 383
+  index: -1
+2_0005
+  rotate: false
+  xy: 326, 378
+  size: 265, 251
+  orig: 900, 900
+  offset: 495, 391
+  index: -1
+2_0006
+  rotate: true
+  xy: 289, 15
+  size: 281, 201
+  orig: 900, 900
+  offset: 494, 402
+  index: -1
+2_0007
+  rotate: false
+  xy: 2, 411
+  size: 322, 218
+  orig: 900, 900
+  offset: 448, 402
+  index: -1
+2_0008
+  rotate: true
+  xy: 492, 181
+  size: 140, 81
+  orig: 900, 900
+  offset: 549, 493
+  index: -1
+2_0009
+  rotate: false
+  xy: 492, 106
+  size: 99, 73
+  orig: 900, 900
+  offset: 586, 500
+  index: -1
+5
+  rotate: false
+  xy: 593, 298
+  size: 36, 113
+  orig: 450, 450
+  offset: 207, 169
+  index: -1
+6
+  rotate: false
+  xy: 593, 413
+  size: 32, 216
+  orig: 450, 450
+  offset: 209, 121
+  index: -1

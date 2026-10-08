@@ -1,0 +1,76 @@
+
+随机事件_老头.png
+size: 219,269
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+咸鱼
+  rotate: false
+  xy: 80, 109
+  size: 122, 58
+  orig: 122, 58
+  offset: 0, 0
+  index: -1
+对话框1
+  rotate: false
+  xy: 80, 169
+  size: 137, 98
+  orig: 140, 101
+  offset: 1, 2
+  index: -1
+钓鱼老头-嘴巴
+  rotate: false
+  xy: 2, 2
+  size: 25, 14
+  orig: 28, 17
+  offset: 2, 1
+  index: -1
+钓鱼老头-头
+  rotate: false
+  xy: 2, 18
+  size: 67, 80
+  orig: 69, 82
+  offset: 1, 1
+  index: -1
+钓鱼老头-手臂
+  rotate: false
+  xy: 141, 8
+  size: 25, 65
+  orig: 25, 65
+  offset: 0, 0
+  index: -1
+钓鱼老头-眉毛
+  rotate: true
+  xy: 204, 132
+  size: 35, 10
+  orig: 38, 12
+  offset: 2, 1
+  index: -1
+钓鱼老头-网
+  rotate: false
+  xy: 2, 100
+  size: 76, 167
+  orig: 78, 169
+  offset: 1, 1
+  index: -1
+钓鱼老头-腿
+  rotate: false
+  xy: 168, 46
+  size: 34, 61
+  orig: 34, 61
+  offset: 0, 0
+  index: -1
+钓鱼老头-身体
+  rotate: true
+  xy: 71, 9
+  size: 64, 68
+  orig: 67, 70
+  offset: 1, 1
+  index: -1
+阴影
+  rotate: false
+  xy: 80, 75
+  size: 79, 32
+  orig: 81, 34
+  offset: 1, 1
+  index: -1

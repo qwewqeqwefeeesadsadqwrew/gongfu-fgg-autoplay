@@ -1,0 +1,27 @@
+
+zhangzhao_skill_hit.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+zhangzhao_skill1
+  rotate: false
+  xy: 257, 43
+  size: 64, 182
+  orig: 64, 183
+  offset: 0, 1
+  index: -1
+zhangzhao_skill2
+  rotate: true
+  xy: 2, 11
+  size: 214, 171
+  orig: 214, 171
+  offset: 0, 0
+  index: -1
+zhangzhao_skill3
+  rotate: false
+  xy: 175, 2
+  size: 80, 223
+  orig: 83, 227
+  offset: 1, 2
+  index: -1

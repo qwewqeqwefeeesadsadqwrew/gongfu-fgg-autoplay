@@ -1,0 +1,258 @@
+
+钓鱼.png
+size: 1490,364
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 798, 3
+  size: 31, 11
+  orig: 31, 12
+  offset: 0, 0
+  index: -1
+2
+  rotate: true
+  xy: 937, 26
+  size: 28, 12
+  orig: 28, 12
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 1421, 206
+  size: 26, 12
+  orig: 27, 12
+  offset: 1, 0
+  index: -1
+4
+  rotate: false
+  xy: 848, 11
+  size: 30, 9
+  orig: 31, 9
+  offset: 1, 0
+  index: -1
+5
+  rotate: false
+  xy: 880, 11
+  size: 26, 9
+  orig: 26, 9
+  offset: 0, 0
+  index: -1
+bg2
+  rotate: true
+  xy: 2, 2
+  size: 360, 529
+  orig: 360, 529
+  offset: 0, 0
+  index: -1
+小丑鱼
+  rotate: true
+  xy: 1322, 220
+  size: 142, 125
+  orig: 144, 127
+  offset: 1, 1
+  index: -1
+手
+  rotate: true
+  xy: 533, 8
+  size: 54, 65
+  orig: 75, 75
+  offset: 8, 1
+  index: -1
+打击
+  rotate: true
+  xy: 754, 9
+  size: 54, 42
+  orig: 54, 42
+  offset: 0, 0
+  index: -1
+把手1
+  rotate: true
+  xy: 627, 12
+  size: 12, 40
+  orig: 12, 40
+  offset: 0, 0
+  index: -1
+拖鞋
+  rotate: false
+  xy: 688, 65
+  size: 125, 112
+  orig: 125, 112
+  offset: 0, 0
+  index: -1
+树倒影
+  rotate: true
+  xy: 1176, 124
+  size: 238, 144
+  orig: 238, 203
+  offset: 0, 55
+  index: -1
+树叶
+  rotate: true
+  xy: 798, 36
+  size: 27, 14
+  orig: 27, 14
+  offset: 0, 0
+  index: -1
+气泡
+  rotate: true
+  xy: 688, 3
+  size: 60, 64
+  orig: 68, 77
+  offset: 4, 7
+  index: -1
+水渍
+  rotate: true
+  xy: 1426, 112
+  size: 56, 19
+  orig: 56, 19
+  offset: 0, 0
+  index: -1
+水纹
+  rotate: false
+  xy: 961, 112
+  size: 209, 79
+  orig: 209, 79
+  offset: 0, 0
+  index: -1
+水花
+  rotate: false
+  xy: 1426, 8
+  size: 62, 95
+  orig: 74, 105
+  offset: 5, 9
+  index: -1
+水花z1
+  rotate: true
+  xy: 673, 26
+  size: 36, 13
+  orig: 120, 120
+  offset: 40, 46
+  index: -1
+水花z2
+  rotate: false
+  xy: 600, 36
+  size: 71, 26
+  orig: 120, 120
+  offset: 22, 43
+  index: -1
+水花z3
+  rotate: true
+  xy: 1386, 52
+  size: 80, 30
+  orig: 120, 120
+  offset: 19, 42
+  index: -1
+水花z4
+  rotate: false
+  xy: 848, 22
+  size: 87, 32
+  orig: 120, 120
+  offset: 17, 42
+  index: -1
+水花z5
+  rotate: true
+  xy: 1352, 42
+  size: 90, 32
+  orig: 120, 120
+  offset: 15, 41
+  index: -1
+水花z6
+  rotate: false
+  xy: 1322, 199
+  size: 97, 19
+  orig: 120, 120
+  offset: 13, 39
+  index: -1
+水草
+  rotate: true
+  xy: 533, 64
+  size: 113, 153
+  orig: 113, 153
+  offset: 0, 0
+  index: -1
+波浪
+  rotate: false
+  xy: 1352, 4
+  size: 71, 36
+  orig: 75, 36
+  offset: 2, 0
+  index: -1
+浮标
+  rotate: true
+  xy: 600, 12
+  size: 22, 25
+  orig: 22, 25
+  offset: 0, 0
+  index: -1
+点击屏幕进行钓鱼
+  rotate: true
+  xy: 1449, 105
+  size: 257, 32
+  orig: 257, 32
+  offset: 0, 0
+  index: -1
+荷叶
+  rotate: true
+  xy: 1426, 170
+  size: 34, 20
+  orig: 34, 20
+  offset: 0, 0
+  index: -1
+螃蟹
+  rotate: false
+  xy: 1172, 6
+  size: 178, 116
+  orig: 178, 116
+  offset: 0, 0
+  index: -1
+裤衩
+  rotate: true
+  xy: 848, 56
+  size: 121, 107
+  orig: 121, 107
+  offset: 0, 0
+  index: -1
+阴影
+  rotate: false
+  xy: 1322, 134
+  size: 95, 63
+  orig: 97, 65
+  offset: 1, 1
+  index: -1
+鱼
+  rotate: false
+  xy: 957, 8
+  size: 185, 102
+  orig: 185, 102
+  offset: 0, 0
+  index: -1
+鱼影子
+  rotate: true
+  xy: 815, 7
+  size: 170, 31
+  orig: 170, 31
+  offset: 0, 0
+  index: -1
+鱼竿
+  rotate: true
+  xy: 533, 179
+  size: 183, 426
+  orig: 200, 450
+  offset: 17, 23
+  index: -1
+鱼篓
+  rotate: false
+  xy: 961, 193
+  size: 213, 169
+  orig: 213, 169
+  offset: 0, 0
+  index: -1
+鱼线
+  rotate: false
+  xy: 1419, 42
+  size: 5, 155
+  orig: 5, 155
+  offset: 0, 0
+  index: -1

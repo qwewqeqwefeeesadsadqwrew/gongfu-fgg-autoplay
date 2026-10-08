@@ -1,0 +1,412 @@
+
+ch6.png
+size: 2293,2293
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0
+  rotate: true
+  xy: 1460, 2
+  size: 29, 21
+  orig: 29, 21
+  offset: 0, 0
+  index: -1
+1
+  rotate: true
+  xy: 2179, 1371
+  size: 217, 58
+  orig: 217, 58
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 1439, 1354
+  size: 175, 59
+  orig: 175, 59
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 2, 12
+  size: 199, 21
+  orig: 199, 21
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 808, 917
+  size: 125, 21
+  orig: 125, 21
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 1345, 10
+  size: 113, 21
+  orig: 113, 21
+  offset: 0, 0
+  index: -1
+bg
+  rotate: true
+  xy: 724, 1967
+  size: 324, 756
+  orig: 324, 756
+  offset: 0, 0
+  index: -1
+bg2
+  rotate: false
+  xy: 2, 312
+  size: 324, 756
+  orig: 324, 756
+  offset: 0, 0
+  index: -1
+保安/保安-嘴巴
+  rotate: false
+  xy: 328, 312
+  size: 78, 61
+  orig: 78, 61
+  offset: 0, 0
+  index: -1
+保安/保安-姿势1
+  rotate: false
+  xy: 2, 1070
+  size: 380, 717
+  orig: 380, 717
+  offset: 0, 0
+  index: -1
+女主/L手
+  rotate: false
+  xy: 2118, 1351
+  size: 59, 237
+  orig: 59, 237
+  offset: 0, 0
+  index: -1
+女主/R手
+  rotate: true
+  xy: 1936, 1869
+  size: 64, 239
+  orig: 64, 239
+  offset: 0, 0
+  index: -1
+女主/博弈女主-被抓的右手
+  rotate: true
+  xy: 1176, 446
+  size: 73, 120
+  orig: 73, 120
+  offset: 0, 0
+  index: -1
+女主/女new-L手-挽男主
+  rotate: true
+  xy: 328, 375
+  size: 50, 107
+  orig: 50, 107
+  offset: 0, 0
+  index: -1
+女主/女new-L手臂--挽男主
+  rotate: false
+  xy: 328, 961
+  size: 47, 107
+  orig: 47, 107
+  offset: 0, 0
+  index: -1
+女主/女new-R手-挽男主
+  rotate: false
+  xy: 1912, 1011
+  size: 135, 122
+  orig: 135, 122
+  offset: 0, 0
+  index: -1
+女主/女主-表情1
+  rotate: false
+  xy: 384, 1335
+  size: 422, 452
+  orig: 422, 452
+  offset: 0, 0
+  index: -1
+女主/女主-表情2
+  rotate: true
+  xy: 1482, 1869
+  size: 422, 452
+  orig: 422, 452
+  offset: 0, 0
+  index: -1
+女主/女主-表情3
+  rotate: false
+  xy: 808, 1394
+  size: 422, 452
+  orig: 422, 452
+  offset: 0, 0
+  index: -1
+女主/女主-表情8
+  rotate: false
+  xy: 384, 881
+  size: 422, 452
+  orig: 422, 452
+  offset: 0, 0
+  index: -1
+女主/女主-表情担忧
+  rotate: false
+  xy: 808, 940
+  size: 422, 452
+  orig: 422, 452
+  offset: 0, 0
+  index: -1
+女主/女主-表情疑惑
+  rotate: false
+  xy: 328, 427
+  size: 422, 452
+  orig: 422, 452
+  offset: 0, 0
+  index: -1
+女主/女主-阴险
+  rotate: false
+  xy: 1439, 1415
+  size: 422, 452
+  orig: 422, 452
+  offset: 0, 0
+  index: -1
+女主/女主头
+  rotate: false
+  xy: 2001, 312
+  size: 247, 271
+  orig: 422, 452
+  offset: 74, 103
+  index: -1
+女主/女主头发1
+  rotate: true
+  xy: 1832, 521
+  size: 62, 88
+  orig: 159, 224
+  offset: 48, 68
+  index: -1
+女主/女主头发2
+  rotate: false
+  xy: 2067, 1590
+  size: 216, 277
+  orig: 216, 277
+  offset: 0, 0
+  index: -1
+女主/女主左手臂-抱人
+  rotate: true
+  xy: 1629, 44
+  size: 69, 238
+  orig: 69, 238
+  offset: 0, 0
+  index: -1
+女主/女主胸-破烂
+  rotate: false
+  xy: 2001, 128
+  size: 248, 182
+  orig: 248, 182
+  offset: 0, 0
+  index: -1
+女主/女主身体-破烂
+  rotate: true
+  xy: 724, 1848
+  size: 117, 590
+  orig: 117, 590
+  offset: 0, 0
+  index: -1
+女主/掐肉
+  rotate: false
+  xy: 2, 1789
+  size: 720, 502
+  orig: 720, 502
+  offset: 0, 0
+  index: -1
+女主嘴巴/女主-嘴巴1
+  rotate: true
+  xy: 437, 3
+  size: 422, 452
+  orig: 422, 452
+  offset: 0, 0
+  index: -1
+女主嘴巴/女主-嘴巴2
+  rotate: false
+  xy: 752, 427
+  size: 422, 452
+  orig: 422, 452
+  offset: 0, 0
+  index: -1
+女主嘴巴/女主-嘴巴3
+  rotate: true
+  xy: 891, 3
+  size: 422, 452
+  orig: 422, 452
+  offset: 0, 0
+  index: -1
+女主嘴巴/女主-嘴巴4
+  rotate: false
+  xy: 1232, 862
+  size: 422, 452
+  orig: 422, 452
+  offset: 0, 0
+  index: -1
+气泡/对话框1
+  rotate: false
+  xy: 1656, 875
+  size: 254, 185
+  orig: 254, 185
+  offset: 0, 0
+  index: -1
+气泡/尖叫气泡框
+  rotate: true
+  xy: 1863, 1531
+  size: 336, 202
+  orig: 353, 219
+  offset: 9, 8
+  index: -1
+烟雾
+  rotate: false
+  xy: 1316, 1893
+  size: 162, 72
+  orig: 162, 72
+  offset: 0, 0
+  index: -1
+男主/倒地-男主
+  rotate: false
+  xy: 2, 35
+  size: 433, 275
+  orig: 433, 275
+  offset: 0, 0
+  index: -1
+男主/倒地-男主腿
+  rotate: false
+  xy: 1345, 33
+  size: 282, 145
+  orig: 282, 145
+  offset: 0, 0
+  index: -1
+男主/受伤身体
+  rotate: false
+  xy: 1232, 1316
+  size: 205, 530
+  orig: 229, 605
+  offset: 13, 37
+  index: -1
+男主/受伤身体_手臂
+  rotate: false
+  xy: 1912, 915
+  size: 132, 94
+  orig: 132, 94
+  offset: 0, 0
+  index: -1
+男主/头
+  rotate: false
+  xy: 1176, 521
+  size: 326, 339
+  orig: 326, 339
+  offset: 0, 0
+  index: -1
+男主/男主-L手
+  rotate: true
+  xy: 1629, 115
+  size: 63, 259
+  orig: 63, 259
+  offset: 0, 0
+  index: -1
+男主/男主-被踢飞s
+  rotate: false
+  xy: 1936, 1935
+  size: 342, 356
+  orig: 342, 356
+  offset: 0, 0
+  index: -1
+男主/表情22
+  rotate: true
+  xy: 2049, 1016
+  size: 123, 129
+  orig: 326, 339
+  offset: 80, 83
+  index: -1
+男主/表情23
+  rotate: false
+  xy: 1673, 180
+  size: 326, 339
+  orig: 326, 339
+  offset: 0, 0
+  index: -1
+男主/表情7-惊讶（分手）
+  rotate: false
+  xy: 1504, 521
+  size: 326, 339
+  orig: 326, 339
+  offset: 0, 0
+  index: -1
+男主/表情9-震惊（NTR）
+  rotate: false
+  xy: 1345, 180
+  size: 326, 339
+  orig: 326, 339
+  offset: 0, 0
+  index: -1
+男主/说话嘴2
+  rotate: true
+  xy: 1298, 457
+  size: 62, 45
+  orig: 62, 45
+  offset: 0, 0
+  index: -1
+表现素材/啪
+  rotate: false
+  xy: 1910, 1135
+  size: 137, 155
+  orig: 137, 155
+  offset: 0, 0
+  index: -1
+表现素材/感叹号
+  rotate: true
+  xy: 2177, 1877
+  size: 56, 85
+  orig: 56, 85
+  offset: 0, 0
+  index: -1
+表现素材/打击3
+  rotate: false
+  xy: 2049, 1141
+  size: 141, 149
+  orig: 149, 149
+  offset: 8, 0
+  index: -1
+表现素材/提示
+  rotate: false
+  xy: 1910, 1292
+  size: 206, 237
+  orig: 206, 237
+  offset: 0, 0
+  index: -1
+表现素材/烟雾
+  rotate: true
+  xy: 1656, 1062
+  size: 351, 252
+  orig: 351, 252
+  offset: 0, 0
+  index: -1
+表现素材/生气
+  rotate: false
+  xy: 1890, 85
+  size: 106, 93
+  orig: 106, 93
+  offset: 0, 0
+  index: -1
+表现素材/速度线
+  rotate: false
+  xy: 1832, 585
+  size: 288, 288
+  orig: 288, 288
+  offset: 0, 0
+  index: -1
+表现素材/黑色转场
+  rotate: true
+  xy: 724, 1801
+  size: 45, 60
+  orig: 45, 60
+  offset: 0, 0
+  index: -1
+阴影
+  rotate: true
+  xy: 1863, 1439
+  size: 90, 45
+  orig: 90, 45
+  offset: 0, 0
+  index: -1

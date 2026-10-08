@@ -1,0 +1,41 @@
+
+zhouyu_skill_hit.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+xysg_hero_effect_attack3
+  rotate: false
+  xy: 148, 2
+  size: 31, 54
+  orig: 31, 54
+  offset: 0, 0
+  index: -1
+xysg_hero_effect_attack4
+  rotate: true
+  xy: 154, 69
+  size: 35, 30
+  orig: 35, 30
+  offset: 0, 0
+  index: -1
+xysg_hero_effect_attack5
+  rotate: false
+  xy: 106, 7
+  size: 40, 49
+  orig: 40, 49
+  offset: 0, 0
+  index: -1
+xysg_hero_effect_die3
+  rotate: false
+  xy: 106, 58
+  size: 46, 46
+  orig: 46, 46
+  offset: 0, 0
+  index: -1
+xysg_hero_guanyu_shadow
+  rotate: false
+  xy: 2, 2
+  size: 102, 102
+  orig: 102, 102
+  offset: 0, 0
+  index: -1

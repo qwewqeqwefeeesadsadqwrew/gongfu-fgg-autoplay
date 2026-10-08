@@ -1,0 +1,34 @@
+
+歌舞厅_环境特效.png
+size: 154,91
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+歌舞厅/律动音符1
+  rotate: true
+  xy: 2, 2
+  size: 50, 80
+  orig: 50, 80
+  offset: 0, 0
+  index: -1
+歌舞厅/律动音符2
+  rotate: false
+  xy: 129, 14
+  size: 23, 38
+  orig: 23, 38
+  offset: 0, 0
+  index: -1
+歌舞厅/律动音符3
+  rotate: true
+  xy: 84, 8
+  size: 44, 43
+  orig: 44, 43
+  offset: 0, 0
+  index: -1
+歌舞厅/音律线条
+  rotate: false
+  xy: 2, 54
+  size: 132, 35
+  orig: 132, 35
+  offset: 0, 0
+  index: -1

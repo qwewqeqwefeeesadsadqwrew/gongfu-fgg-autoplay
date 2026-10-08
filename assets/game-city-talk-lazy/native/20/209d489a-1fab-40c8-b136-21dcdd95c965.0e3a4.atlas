@@ -1,0 +1,545 @@
+
+ch1.png
+size: 1651,1013
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1石头堆
+  rotate: false
+  xy: 1130, 294
+  size: 169, 90
+  orig: 169, 90
+  offset: 0, 0
+  index: -1
+bg1
+  rotate: false
+  xy: 2, 347
+  size: 181, 421
+  orig: 181, 421
+  offset: 0, 0
+  index: -1
+man动作1-L手-挠头
+  rotate: true
+  xy: 1306, 159
+  size: 104, 108
+  orig: 104, 108
+  offset: 0, 0
+  index: -1
+man动作2-R手-双手合十手臂
+  rotate: false
+  xy: 1590, 769
+  size: 40, 90
+  orig: 40, 90
+  offset: 0, 0
+  index: -1
+man动作2-身体-微蹲
+  rotate: true
+  xy: 1191, 885
+  size: 126, 399
+  orig: 126, 399
+  offset: 0, 0
+  index: -1
+man动作3R手握铲子
+  rotate: true
+  xy: 1191, 697
+  size: 66, 369
+  orig: 66, 369
+  offset: 0, 0
+  index: -1
+man动作3R手握铲子2
+  rotate: true
+  xy: 351, 378
+  size: 46, 259
+  orig: 46, 259
+  offset: 0, 0
+  index: -1
+man动作3身体-半跪
+  rotate: false
+  xy: 351, 426
+  size: 302, 277
+  orig: 302, 278
+  offset: 0, 1
+  index: -1
+man搀扶男主L手-受伤
+  rotate: false
+  xy: 1553, 233
+  size: 93, 62
+  orig: 93, 62
+  offset: 0, 0
+  index: -1
+man搀扶男主R手-受伤
+  rotate: false
+  xy: 570, 199
+  size: 69, 177
+  orig: 69, 177
+  offset: 0, 0
+  index: -1
+man搀扶男主身体-受伤
+  rotate: true
+  xy: 394, 821
+  size: 190, 406
+  orig: 190, 406
+  offset: 0, 0
+  index: -1
+man脸
+  rotate: true
+  xy: 975, 219
+  size: 124, 141
+  orig: 125, 142
+  offset: 1, 1
+  index: -1
+skill10碎块
+  rotate: false
+  xy: 227, 354
+  size: 20, 21
+  orig: 20, 21
+  offset: 0, 0
+  index: -1
+woman-头
+  rotate: false
+  xy: 1306, 265
+  size: 126, 127
+  orig: 130, 134
+  offset: 0, 3
+  index: -1
+woman-表情-微笑0
+  rotate: true
+  xy: 1118, 162
+  size: 130, 140
+  orig: 130, 140
+  offset: 0, 0
+  index: -1
+woman-表情-微笑0z
+  rotate: true
+  xy: 1513, 156
+  size: 32, 19
+  orig: 130, 140
+  offset: 44, 20
+  index: -1
+woman-表情-微笑0z2
+  rotate: true
+  xy: 612, 388
+  size: 36, 24
+  orig: 130, 140
+  offset: 43, 17
+  index: -1
+woman-表情-感动
+  rotate: false
+  xy: 641, 103
+  size: 130, 140
+  orig: 130, 140
+  offset: 0, 0
+  index: -1
+woman-表情-生气
+  rotate: true
+  xy: 773, 103
+  size: 130, 140
+  orig: 130, 140
+  offset: 0, 0
+  index: -1
+woman-表情-生气2
+  rotate: true
+  xy: 915, 87
+  size: 130, 140
+  orig: 130, 140
+  offset: 0, 0
+  index: -1
+woman动作1-表情
+  rotate: false
+  xy: 1451, 31
+  size: 62, 62
+  orig: 62, 63
+  offset: 0, 1
+  index: -1
+woman动作1-表情-惊羞
+  rotate: false
+  xy: 1053, 2
+  size: 78, 63
+  orig: 78, 63
+  offset: 0, 0
+  index: -1
+woman动作1-表情-诧异
+  rotate: true
+  xy: 351, 707
+  size: 61, 27
+  orig: 70, 70
+  offset: 5, 38
+  index: -1
+woman动作1-表情-诧异z
+  rotate: false
+  xy: 581, 130
+  size: 33, 21
+  orig: 70, 70
+  offset: 19, 3
+  index: -1
+woman动作1-马尾
+  rotate: false
+  xy: 1260, 160
+  size: 44, 132
+  orig: 44, 132
+  offset: 0, 0
+  index: -1
+woman动作2-L手-惊吓
+  rotate: true
+  xy: 1562, 697
+  size: 66, 73
+  orig: 66, 73
+  offset: 0, 0
+  index: -1
+woman动作2-R手-惊吓
+  rotate: false
+  xy: 1534, 92
+  size: 67, 66
+  orig: 67, 66
+  offset: 0, 0
+  index: -1
+woman动作2-R手-惊吓手臂
+  rotate: false
+  xy: 1502, 190
+  size: 30, 76
+  orig: 30, 76
+  offset: 0, 0
+  index: -1
+woman动作2-身体
+  rotate: true
+  xy: 1191, 765
+  size: 118, 397
+  orig: 118, 397
+  offset: 0, 0
+  index: -1
+woman动作2-马尾
+  rotate: false
+  xy: 1255, 24
+  size: 48, 134
+  orig: 48, 134
+  offset: 0, 0
+  index: -1
+woman动作3-L手-生气
+  rotate: false
+  xy: 1592, 861
+  size: 57, 150
+  orig: 57, 150
+  offset: 0, 0
+  index: -1
+woman动作3-R手-生气
+  rotate: false
+  xy: 1057, 73
+  size: 57, 144
+  orig: 57, 144
+  offset: 0, 0
+  index: -1
+woman动作3-身体-生气
+  rotate: true
+  xy: 394, 705
+  size: 114, 398
+  orig: 114, 398
+  offset: 0, 0
+  index: -1
+woman搀扶女主身体-生气
+  rotate: true
+  xy: 394, 705
+  size: 114, 398
+  orig: 114, 398
+  offset: 0, 0
+  index: -1
+woman搀扶女主L手-搀扶
+  rotate: false
+  xy: 581, 2
+  size: 100, 83
+  orig: 100, 83
+  offset: 0, 0
+  index: -1
+woman搀扶女主R手-搀扶
+  rotate: true
+  xy: 968, 12
+  size: 35, 73
+  orig: 35, 73
+  offset: 0, 0
+  index: -1
+woman搀扶女主R手-搀扶手臂
+  rotate: true
+  xy: 1305, 23
+  size: 28, 72
+  orig: 28, 72
+  offset: 0, 0
+  index: -1
+woman表情-害羞躲闪
+  rotate: true
+  xy: 1451, 95
+  size: 78, 60
+  orig: 78, 60
+  offset: 0, 0
+  index: -1
+woman表情-害羞躲闪z
+  rotate: true
+  xy: 409, 127
+  size: 24, 22
+  orig: 78, 60
+  offset: 21, 0
+  index: -1
+woman蹲右手
+  rotate: true
+  xy: 1416, 175
+  size: 88, 84
+  orig: 88, 84
+  offset: 0, 0
+  index: -1
+woman蹲左手
+  rotate: false
+  xy: 1553, 297
+  size: 90, 95
+  orig: 90, 95
+  offset: 0, 0
+  index: -1
+woman蹲身体-下蹲
+  rotate: false
+  xy: 409, 153
+  size: 159, 223
+  orig: 159, 223
+  offset: 0, 0
+  index: -1
+图层 1
+  rotate: true
+  xy: 655, 402
+  size: 301, 170
+  orig: 301, 170
+  offset: 0, 0
+  index: -1
+图层 11
+  rotate: true
+  xy: 1474, 394
+  size: 301, 170
+  orig: 301, 170
+  offset: 0, 0
+  index: -1
+图层 3
+  rotate: false
+  xy: 827, 517
+  size: 301, 170
+  orig: 301, 170
+  offset: 0, 0
+  index: -1
+图层 5
+  rotate: false
+  xy: 827, 345
+  size: 301, 170
+  orig: 301, 170
+  offset: 0, 0
+  index: -1
+图层 7
+  rotate: true
+  xy: 1130, 386
+  size: 301, 170
+  orig: 301, 170
+  offset: 0, 0
+  index: -1
+图层 9
+  rotate: true
+  xy: 1302, 394
+  size: 301, 170
+  orig: 301, 170
+  offset: 0, 0
+  index: -1
+小弟-L手-插兜
+  rotate: false
+  xy: 2, 16
+  size: 156, 329
+  orig: 156, 329
+  offset: 0, 0
+  index: -1
+小弟-L手-普通
+  rotate: true
+  xy: 827, 689
+  size: 156, 362
+  orig: 156, 362
+  offset: 0, 0
+  index: -1
+小弟-头
+  rotate: true
+  xy: 821, 235
+  size: 108, 152
+  orig: 108, 152
+  offset: 0, 0
+  index: -1
+小弟-帽子
+  rotate: false
+  xy: 1116, 67
+  size: 137, 93
+  orig: 137, 95
+  offset: 0, 2
+  index: -1
+小弟-表情-嚣张
+  rotate: false
+  xy: 1381, 52
+  size: 68, 105
+  orig: 68, 105
+  offset: 0, 0
+  index: -1
+小弟-表情-害怕
+  rotate: true
+  xy: 160, 2
+  size: 86, 105
+  orig: 89, 107
+  offset: 3, 0
+  index: -1
+小弟-身体-害怕
+  rotate: true
+  xy: 802, 847
+  size: 164, 387
+  orig: 164, 387
+  offset: 0, 0
+  index: -1
+小弟-身体-拽
+  rotate: false
+  xy: 185, 377
+  size: 164, 391
+  orig: 164, 391
+  offset: 0, 0
+  index: -1
+废品1
+  rotate: true
+  xy: 683, 8
+  size: 93, 105
+  orig: 93, 105
+  offset: 0, 0
+  index: -1
+废品2
+  rotate: false
+  xy: 771, 249
+  size: 48, 151
+  orig: 48, 151
+  offset: 0, 0
+  index: -1
+废品3
+  rotate: true
+  xy: 267, 4
+  size: 119, 165
+  orig: 119, 165
+  offset: 0, 0
+  index: -1
+打击
+  rotate: true
+  xy: 434, 3
+  size: 148, 145
+  orig: 148, 145
+  offset: 0, 0
+  index: -1
+打击3
+  rotate: false
+  xy: 1434, 268
+  size: 117, 124
+  orig: 128, 128
+  offset: 8, 4
+  index: -1
+挖掘机1
+  rotate: false
+  xy: 255, 125
+  size: 152, 250
+  orig: 189, 255
+  offset: 37, 0
+  index: -1
+挖掘机2
+  rotate: false
+  xy: 160, 90
+  size: 93, 255
+  orig: 189, 255
+  offset: 0, 0
+  index: -1
+提示
+  rotate: false
+  xy: 1199, 41
+  size: 27, 24
+  orig: 29, 25
+  offset: 1, 0
+  index: -1
+气泡
+  rotate: false
+  xy: 2, 770
+  size: 390, 241
+  orig: 392, 243
+  offset: 1, 1
+  index: -1
+烟雾
+  rotate: false
+  xy: 889, 11
+  size: 77, 36
+  orig: 90, 40
+  offset: 6, 2
+  index: -1
+烟雾ww
+  rotate: false
+  xy: 790, 11
+  size: 97, 90
+  orig: 97, 90
+  offset: 0, 0
+  index: -1
+表情-哭
+  rotate: false
+  xy: 570, 153
+  size: 63, 44
+  orig: 65, 65
+  offset: 1, 20
+  index: -1
+表情-困惑
+  rotate: true
+  xy: 1515, 25
+  size: 65, 66
+  orig: 65, 66
+  offset: 0, 0
+  index: -1
+表情-尴尬
+  rotate: true
+  xy: 1133, 2
+  size: 63, 64
+  orig: 64, 67
+  offset: 1, 0
+  index: -1
+表情-开心z
+  rotate: true
+  xy: 802, 809
+  size: 36, 23
+  orig: 65, 67
+  offset: 12, 1
+  index: -1
+表情-强撑
+  rotate: true
+  xy: 1534, 160
+  size: 71, 73
+  orig: 128, 155
+  offset: 39, 16
+  index: -1
+表情-惊恐z
+  rotate: false
+  xy: 185, 347
+  size: 40, 28
+  orig: 63, 75
+  offset: 9, 1
+  index: -1
+表情-流汗开心
+  rotate: false
+  xy: 1305, 53
+  size: 74, 104
+  orig: 128, 155
+  offset: 36, 15
+  index: -1
+表情-虚弱微笑
+  rotate: false
+  xy: 641, 245
+  size: 128, 155
+  orig: 128, 155
+  offset: 0, 0
+  index: -1
+表情1z
+  rotate: false
+  xy: 1199, 2
+  size: 30, 20
+  orig: 65, 65
+  offset: 19, 1
+  index: -1
+阴影
+  rotate: false
+  xy: 889, 49
+  size: 162, 36
+  orig: 200, 50
+  offset: 19, 7
+  index: -1

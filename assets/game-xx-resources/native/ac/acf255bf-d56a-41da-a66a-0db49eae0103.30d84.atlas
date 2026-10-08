@@ -1,0 +1,69 @@
+
+wuqi_sandian.png
+size: 2868,812
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+e_0013
+  rotate: false
+  xy: 2, 2
+  size: 454, 806
+  orig: 454, 806
+  offset: 0, 0
+  index: -1
+e_0014
+  rotate: false
+  xy: 458, 2
+  size: 454, 806
+  orig: 454, 806
+  offset: 0, 0
+  index: -1
+e_0015
+  rotate: false
+  xy: 914, 2
+  size: 454, 806
+  orig: 454, 806
+  offset: 0, 0
+  index: -1
+e_0016
+  rotate: false
+  xy: 1370, 2
+  size: 454, 806
+  orig: 454, 806
+  offset: 0, 0
+  index: -1
+e_0017
+  rotate: false
+  xy: 1826, 2
+  size: 454, 806
+  orig: 454, 806
+  offset: 0, 0
+  index: -1
+quantou_jida
+  rotate: false
+  xy: 2448, 39
+  size: 253, 256
+  orig: 261, 266
+  offset: 7, 8
+  index: -1
+sandian1
+  rotate: true
+  xy: 2448, 297
+  size: 266, 417
+  orig: 266, 418
+  offset: 0, 0
+  index: -1
+sandian2
+  rotate: true
+  xy: 2282, 565
+  size: 243, 529
+  orig: 243, 529
+  offset: 0, 0
+  index: -1
+sandian3
+  rotate: false
+  xy: 2282, 55
+  size: 164, 508
+  orig: 164, 509
+  offset: 0, 0
+  index: -1

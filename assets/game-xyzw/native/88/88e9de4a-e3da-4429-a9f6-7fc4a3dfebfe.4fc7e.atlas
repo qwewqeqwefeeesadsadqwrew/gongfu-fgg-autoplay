@@ -1,0 +1,13 @@
+
+xiaobing4_luo_loop.png
+size: 64,32
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sc4_luo_weapon
+  rotate: false
+  xy: 2, 2
+  size: 34, 24
+  orig: 34, 24
+  offset: 0, 0
+  index: -1

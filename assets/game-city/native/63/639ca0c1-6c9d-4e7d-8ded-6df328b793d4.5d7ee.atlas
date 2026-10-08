@@ -1,0 +1,62 @@
+
+店铺装修.png
+size: 529,138
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 455, 4
+  size: 53, 48
+  orig: 60, 60
+  offset: 3, 6
+  index: -1
+光线1
+  rotate: false
+  xy: 455, 59
+  size: 72, 77
+  orig: 72, 77
+  offset: 0, 0
+  index: -1
+光线2
+  rotate: false
+  xy: 335, 51
+  size: 18, 30
+  orig: 38, 38
+  offset: 10, 4
+  index: -1
+光线3
+  rotate: true
+  xy: 192, 34
+  size: 47, 141
+  orig: 47, 143
+  offset: 0, 1
+  index: -1
+光线4
+  rotate: true
+  xy: 192, 5
+  size: 27, 209
+  orig: 27, 209
+  offset: 0, 0
+  index: -1
+等级提升
+  rotate: false
+  xy: 192, 83
+  size: 174, 53
+  orig: 174, 53
+  offset: 0, 0
+  index: -1
+锤子
+  rotate: false
+  xy: 368, 47
+  size: 85, 89
+  orig: 85, 89
+  offset: 0, 0
+  index: -1
+防护网
+  rotate: true
+  xy: 2, 2
+  size: 134, 188
+  orig: 134, 188
+  offset: 0, 0
+  index: -1

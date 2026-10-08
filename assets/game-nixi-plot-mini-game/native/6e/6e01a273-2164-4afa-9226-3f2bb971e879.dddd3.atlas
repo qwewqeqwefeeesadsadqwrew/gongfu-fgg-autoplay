@@ -1,0 +1,167 @@
+
+ktv小游戏.png
+size: 1943,1943
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+3333
+  rotate: false
+  xy: 1721, 695
+  size: 135, 162
+  orig: 135, 162
+  offset: 0, 0
+  index: -1
+a
+  rotate: true
+  xy: 1656, 1285
+  size: 229, 285
+  orig: 229, 285
+  offset: 0, 0
+  index: -1
+bg
+  rotate: false
+  xy: 2, 427
+  size: 650, 1514
+  orig: 650, 1514
+  offset: 0, 0
+  index: -1
+by2
+  rotate: false
+  xy: 1656, 1516
+  size: 270, 425
+  orig: 270, 425
+  offset: 0, 0
+  index: -1
+dj
+  rotate: false
+  xy: 1721, 532
+  size: 131, 161
+  orig: 133, 162
+  offset: 1, 0
+  index: -1
+ktv-nbg
+  rotate: true
+  xy: 506, 79
+  size: 325, 757
+  orig: 325, 757
+  offset: 0, 0
+  index: -1
+outu-body
+  rotate: false
+  xy: 654, 982
+  size: 525, 959
+  orig: 525, 959
+  offset: 0, 0
+  index: -1
+outu-hand
+  rotate: false
+  xy: 1181, 815
+  size: 483, 440
+  orig: 483, 440
+  offset: 0, 0
+  index: -1
+ruhua-1
+  rotate: true
+  xy: 2, 78
+  size: 347, 502
+  orig: 347, 502
+  offset: 0, 0
+  index: -1
+z1
+  rotate: false
+  xy: 2, 35
+  size: 343, 41
+  orig: 343, 41
+  offset: 0, 0
+  index: -1
+z2
+  rotate: true
+  xy: 1677, 537
+  size: 320, 42
+  orig: 320, 42
+  offset: 0, 0
+  index: -1
+zhuanghan-1
+  rotate: false
+  xy: 1181, 1257
+  size: 473, 684
+  orig: 473, 684
+  offset: 0, 0
+  index: -1
+zhuanghan-2
+  rotate: true
+  xy: 654, 406
+  size: 574, 438
+  orig: 574, 438
+  offset: 0, 0
+  index: -1
+zhuanghan-3
+  rotate: false
+  xy: 1094, 409
+  size: 377, 404
+  orig: 377, 404
+  offset: 0, 0
+  index: -1
+zhuanghan-gg
+  rotate: true
+  xy: 506, 7
+  size: 70, 1115
+  orig: 70, 1117
+  offset: 0, 1
+  index: -1
+呕吐
+  rotate: true
+  xy: 1874, 1195
+  size: 88, 52
+  orig: 89, 54
+  offset: 0, 1
+  index: -1
+旗袍/对话框1
+  rotate: false
+  xy: 1666, 859
+  size: 254, 185
+  orig: 254, 185
+  offset: 0, 0
+  index: -1
+旗袍/尖叫气泡框
+  rotate: true
+  xy: 1473, 477
+  size: 336, 202
+  orig: 353, 219
+  offset: 9, 8
+  index: -1
+表现素材/感叹号
+  rotate: true
+  xy: 1094, 924
+  size: 56, 85
+  orig: 56, 85
+  offset: 0, 0
+  index: -1
+表现素材/打击3
+  rotate: false
+  xy: 1555, 326
+  size: 141, 149
+  orig: 149, 149
+  offset: 8, 0
+  index: -1
+表现素材/提示
+  rotate: false
+  xy: 1666, 1046
+  size: 206, 237
+  orig: 206, 237
+  offset: 0, 0
+  index: -1
+表现素材/速度线
+  rotate: false
+  xy: 1265, 119
+  size: 288, 288
+  orig: 288, 288
+  offset: 0, 0
+  index: -1
+黑色转场
+  rotate: false
+  xy: 1858, 797
+  size: 45, 60
+  orig: 45, 60
+  offset: 0, 0
+  index: -1

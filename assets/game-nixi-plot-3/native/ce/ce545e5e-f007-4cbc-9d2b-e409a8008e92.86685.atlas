@@ -1,0 +1,55 @@
+
+ch14.png
+size: 1535,1535
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 654, 572
+  size: 388, 961
+  orig: 388, 961
+  offset: 0, 0
+  index: -1
+bg
+  rotate: false
+  xy: 2, 19
+  size: 650, 1514
+  orig: 650, 1514
+  offset: 0, 0
+  index: -1
+pig
+  rotate: true
+  xy: 1044, 883
+  size: 650, 489
+  orig: 650, 489
+  offset: 0, 0
+  index: -1
+尖叫气泡框
+  rotate: true
+  xy: 1145, 255
+  size: 336, 202
+  orig: 353, 219
+  offset: 9, 8
+  index: -1
+尖叫气泡框2
+  rotate: true
+  xy: 1334, 632
+  size: 249, 39
+  orig: 249, 39
+  offset: 0, 0
+  index: -1
+母鸡飞踢
+  rotate: true
+  xy: 654, 47
+  size: 523, 489
+  orig: 523, 489
+  offset: 0, 0
+  index: -1
+速度线
+  rotate: false
+  xy: 1044, 593
+  size: 288, 288
+  orig: 288, 288
+  offset: 0, 0
+  index: -1

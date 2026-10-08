@@ -1,0 +1,13 @@
+
+xiaobing4_gong_loop.png
+size: 256,32
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sc4_gong_arrow
+  rotate: false
+  xy: 2, 2
+  size: 139, 13
+  orig: 139, 13
+  offset: 0, 0
+  index: -1

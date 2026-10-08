@@ -1,0 +1,55 @@
+
+初始店主7.png
+size: 279,279
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+西施豆腐店/西施_头
+  rotate: false
+  xy: 2, 166
+  size: 97, 111
+  orig: 97, 112
+  offset: 0, 1
+  index: -1
+西施豆腐店/西施_手臂
+  rotate: false
+  xy: 36, 17
+  size: 25, 64
+  orig: 25, 64
+  offset: 0, 0
+  index: -1
+西施豆腐店/西施_腿
+  rotate: false
+  xy: 56, 105
+  size: 32, 59
+  orig: 32, 59
+  offset: 0, 0
+  index: -1
+西施豆腐店/西施_表情1
+  rotate: true
+  xy: 63, 5
+  size: 48, 36
+  orig: 48, 36
+  offset: 0, 0
+  index: -1
+西施豆腐店/西施_表情2
+  rotate: true
+  xy: 63, 55
+  size: 48, 37
+  orig: 48, 38
+  offset: 0, 1
+  index: -1
+西施豆腐店/西施_身体
+  rotate: false
+  xy: 2, 83
+  size: 52, 81
+  orig: 53, 81
+  offset: 0, 0
+  index: -1
+阴影
+  rotate: true
+  xy: 2, 2
+  size: 79, 32
+  orig: 81, 34
+  offset: 1, 1
+  index: -1

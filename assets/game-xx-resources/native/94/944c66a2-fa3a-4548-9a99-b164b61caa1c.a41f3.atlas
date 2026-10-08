@@ -1,0 +1,48 @@
+
+zhujue_attack.png
+size: 284,284
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+A_ci_fen_3
+  rotate: false
+  xy: 2, 126
+  size: 115, 156
+  orig: 115, 230
+  offset: 0, 71
+  index: -1
+A_ci_fen_4
+  rotate: false
+  xy: 119, 145
+  size: 115, 137
+  orig: 115, 230
+  offset: 0, 93
+  index: -1
+A_ci_fen_5
+  rotate: false
+  xy: 2, 18
+  size: 115, 106
+  orig: 115, 230
+  offset: 0, 124
+  index: -1
+A_ci_fen_6
+  rotate: false
+  xy: 119, 48
+  size: 115, 95
+  orig: 115, 230
+  offset: 0, 135
+  index: -1
+jian
+  rotate: false
+  xy: 236, 58
+  size: 42, 224
+  orig: 42, 224
+  offset: 0, 0
+  index: -1
+jianguang_1
+  rotate: true
+  xy: 2, 2
+  size: 14, 151
+  orig: 14, 153
+  offset: 0, 1
+  index: -1

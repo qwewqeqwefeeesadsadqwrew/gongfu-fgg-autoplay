@@ -1,0 +1,76 @@
+
+随机事件_小丑.png
+size: 384,141
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+套圈
+  rotate: false
+  xy: 296, 2
+  size: 58, 70
+  orig: 58, 70
+  offset: 0, 0
+  index: -1
+对话框1
+  rotate: true
+  xy: 2, 2
+  size: 137, 98
+  orig: 140, 101
+  offset: 1, 2
+  index: -1
+小丑-嘴巴
+  rotate: false
+  xy: 102, 6
+  size: 28, 16
+  orig: 30, 18
+  offset: 1, 1
+  index: -1
+小丑-头
+  rotate: true
+  xy: 102, 24
+  size: 115, 111
+  orig: 117, 113
+  offset: 1, 1
+  index: -1
+小丑-手
+  rotate: false
+  xy: 356, 12
+  size: 26, 65
+  orig: 27, 66
+  offset: 1, 1
+  index: -1
+小丑-环1
+  rotate: false
+  xy: 276, 74
+  size: 65, 65
+  orig: 67, 67
+  offset: 1, 1
+  index: -1
+小丑-腿
+  rotate: false
+  xy: 343, 79
+  size: 33, 60
+  orig: 34, 61
+  offset: 1, 1
+  index: -1
+小丑-身体
+  rotate: false
+  xy: 215, 60
+  size: 59, 79
+  orig: 59, 79
+  offset: 0, 0
+  index: -1
+小丑-鼻子
+  rotate: true
+  xy: 132, 2
+  size: 20, 17
+  orig: 22, 19
+  offset: 1, 1
+  index: -1
+阴影
+  rotate: false
+  xy: 215, 26
+  size: 79, 32
+  orig: 81, 34
+  offset: 1, 1
+  index: -1

@@ -1,0 +1,258 @@
+
+ch5.png
+size: 1669,771
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+L手-爪势
+  rotate: false
+  xy: 1218, 72
+  size: 80, 116
+  orig: 80, 116
+  offset: 0, 0
+  index: -1
+R手-爪势
+  rotate: false
+  xy: 1075, 273
+  size: 117, 139
+  orig: 117, 139
+  offset: 0, 0
+  index: -1
+black
+  rotate: true
+  xy: 546, 191
+  size: 25, 59
+  orig: 25, 59
+  offset: 0, 0
+  index: -1
+man动作5-身体-架势
+  rotate: false
+  xy: 430, 218
+  size: 283, 551
+  orig: 283, 551
+  offset: 0, 0
+  index: -1
+man脸
+  rotate: true
+  xy: 1218, 190
+  size: 87, 99
+  orig: 87, 99
+  offset: 0, 0
+  index: -1
+pa
+  rotate: false
+  xy: 1218, 2
+  size: 92, 61
+  orig: 92, 61
+  offset: 0, 0
+  index: -1
+syr1
+  rotate: false
+  xy: 1194, 279
+  size: 130, 133
+  orig: 132, 135
+  offset: 1, 1
+  index: -1
+syr2
+  rotate: false
+  xy: 1405, 423
+  size: 130, 133
+  orig: 132, 135
+  offset: 1, 1
+  index: -1
+syr3
+  rotate: false
+  xy: 1537, 423
+  size: 130, 133
+  orig: 132, 135
+  offset: 1, 1
+  index: -1
+syr4
+  rotate: false
+  xy: 1527, 75
+  size: 130, 133
+  orig: 132, 135
+  offset: 1, 1
+  index: -1
+动作0-L手-普通
+  rotate: false
+  xy: 1140, 17
+  size: 76, 254
+  orig: 76, 254
+  offset: 0, 0
+  index: -1
+动作0-R手-普通
+  rotate: false
+  xy: 830, 3
+  size: 66, 239
+  orig: 66, 239
+  offset: 0, 0
+  index: -1
+动作0-身体-普通 拷贝
+  rotate: false
+  xy: 2, 175
+  size: 172, 594
+  orig: 172, 594
+  offset: 0, 0
+  index: -1
+医院bg
+  rotate: false
+  xy: 176, 181
+  size: 252, 588
+  orig: 252, 588
+  offset: 0, 0
+  index: -1
+医院女主
+  rotate: false
+  xy: 894, 247
+  size: 179, 140
+  orig: 179, 243
+  offset: 0, 103
+  index: -1
+叫
+  rotate: false
+  xy: 1380, 7
+  size: 63, 56
+  orig: 63, 56
+  offset: 0, 0
+  index: -1
+图层 1
+  rotate: true
+  xy: 709, 5
+  size: 211, 119
+  orig: 211, 119
+  offset: 0, 0
+  index: -1
+图层 11
+  rotate: true
+  xy: 1527, 210
+  size: 211, 119
+  orig: 211, 119
+  offset: 0, 0
+  index: -1
+图层 3
+  rotate: true
+  xy: 898, 34
+  size: 211, 119
+  orig: 211, 119
+  offset: 0, 0
+  index: -1
+图层 5
+  rotate: true
+  xy: 1019, 34
+  size: 211, 119
+  orig: 211, 119
+  offset: 0, 0
+  index: -1
+图层 7
+  rotate: true
+  xy: 1405, 558
+  size: 211, 119
+  orig: 211, 119
+  offset: 0, 0
+  index: -1
+图层 9
+  rotate: true
+  xy: 1526, 558
+  size: 211, 119
+  orig: 211, 119
+  offset: 0, 0
+  index: -1
+屏保
+  rotate: true
+  xy: 352, 4
+  size: 175, 355
+  orig: 175, 355
+  offset: 0, 0
+  index: -1
+手机-
+  rotate: false
+  xy: 1051, 414
+  size: 175, 355
+  orig: 175, 355
+  offset: 0, 0
+  index: -1
+手机-顶层效果
+  rotate: true
+  xy: 2, 5
+  size: 168, 348
+  orig: 168, 349
+  offset: 0, 0
+  index: -1
+手机2
+  rotate: false
+  xy: 1228, 414
+  size: 175, 355
+  orig: 175, 355
+  offset: 0, 0
+  index: -1
+手机ui
+  rotate: true
+  xy: 828, 244
+  size: 143, 64
+  orig: 143, 66
+  offset: 0, 1
+  index: -1
+狗男女
+  rotate: false
+  xy: 1326, 65
+  size: 199, 347
+  orig: 199, 347
+  offset: 0, 0
+  index: -1
+男主趴着
+  rotate: false
+  xy: 715, 389
+  size: 334, 380
+  orig: 334, 380
+  offset: 0, 0
+  index: -1
+表情-困惑
+  rotate: false
+  xy: 1605, 28
+  size: 45, 45
+  orig: 45, 46
+  offset: 0, 0
+  index: -1
+表情-悲伤
+  rotate: false
+  xy: 1513, 10
+  size: 44, 53
+  orig: 90, 108
+  offset: 33, 11
+  index: -1
+表情-悲愤
+  rotate: false
+  xy: 1445, 10
+  size: 66, 53
+  orig: 90, 108
+  offset: 19, 11
+  index: -1
+表情-惊恐z
+  rotate: false
+  xy: 1559, 20
+  size: 44, 53
+  orig: 44, 53
+  offset: 0, 0
+  index: -1
+表情-愤怒
+  rotate: false
+  xy: 1312, 2
+  size: 66, 61
+  orig: 90, 108
+  offset: 19, 11
+  index: -1
+被子
+  rotate: false
+  xy: 715, 228
+  size: 111, 159
+  orig: 111, 159
+  offset: 0, 0
+  index: -1
+阴影
+  rotate: false
+  xy: 430, 191
+  size: 114, 25
+  orig: 140, 35
+  offset: 13, 5
+  index: -1

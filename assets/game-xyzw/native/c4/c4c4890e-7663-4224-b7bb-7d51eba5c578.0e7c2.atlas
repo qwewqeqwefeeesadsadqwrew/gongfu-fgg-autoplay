@@ -1,0 +1,90 @@
+
+xiaobing_dunbing.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hero_eye_cry
+  rotate: false
+  xy: 57, 2
+  size: 42, 51
+  orig: 42, 51
+  offset: 0, 0
+  index: -1
+monster2_beard
+  rotate: true
+  xy: 2, 3
+  size: 50, 53
+  orig: 50, 53
+  offset: 0, 0
+  index: -1
+monster2_body
+  rotate: false
+  xy: 2, 55
+  size: 138, 199
+  orig: 138, 199
+  offset: 0, 0
+  index: -1
+monster2_eye
+  rotate: false
+  xy: 138, 4
+  size: 7, 9
+  orig: 7, 9
+  offset: 0, 0
+  index: -1
+monster2_eyewhite
+  rotate: false
+  xy: 101, 8
+  size: 35, 45
+  orig: 35, 45
+  offset: 0, 0
+  index: -1
+monster2_handl
+  rotate: false
+  xy: 295, 25
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1
+monster2_handr
+  rotate: false
+  xy: 138, 15
+  size: 36, 38
+  orig: 36, 38
+  offset: 0, 0
+  index: -1
+monster2_legr
+  rotate: false
+  xy: 336, 224
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+monster2_shield
+  rotate: true
+  xy: 230, 81
+  size: 63, 108
+  orig: 63, 108
+  offset: 0, 0
+  index: -1
+monster2_tail
+  rotate: false
+  xy: 176, 5
+  size: 117, 66
+  orig: 117, 66
+  offset: 0, 0
+  index: -1
+monster2_weaponl
+  rotate: false
+  xy: 142, 73
+  size: 86, 181
+  orig: 86, 181
+  offset: 0, 0
+  index: -1
+xysg_hero_effect_swordlight2
+  rotate: true
+  xy: 230, 146
+  size: 108, 104
+  orig: 108, 104
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,139 @@
+
+guanping.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guanping_body
+  rotate: true
+  xy: 151, 92
+  size: 144, 131
+  orig: 144, 131
+  offset: 0, 0
+  index: -1
+guanping_eye
+  rotate: true
+  xy: 2, 2
+  size: 9, 8
+  orig: 9, 8
+  offset: 0, 0
+  index: -1
+guanping_eyewhite
+  rotate: true
+  xy: 285, 399
+  size: 31, 41
+  orig: 31, 41
+  offset: 0, 0
+  index: -1
+guanping_hair
+  rotate: true
+  xy: 98, 2
+  size: 71, 67
+  orig: 71, 67
+  offset: 0, 0
+  index: -1
+guanping_handl
+  rotate: false
+  xy: 325, 302
+  size: 39, 42
+  orig: 39, 42
+  offset: 0, 0
+  index: -1
+guanping_handr
+  rotate: false
+  xy: 285, 470
+  size: 37, 37
+  orig: 37, 37
+  offset: 0, 0
+  index: -1
+guanping_handr2
+  rotate: true
+  xy: 283, 295
+  size: 49, 40
+  orig: 49, 40
+  offset: 0, 0
+  index: -1
+guanping_head
+  rotate: false
+  xy: 2, 75
+  size: 147, 161
+  orig: 147, 161
+  offset: 0, 0
+  index: -1
+guanping_legr
+  rotate: true
+  xy: 275, 240
+  size: 23, 31
+  orig: 23, 31
+  offset: 0, 0
+  index: -1
+guanping_line1
+  rotate: false
+  xy: 2, 13
+  size: 94, 60
+  orig: 94, 60
+  offset: 0, 0
+  index: -1
+guanping_line2
+  rotate: false
+  xy: 275, 265
+  size: 94, 28
+  orig: 94, 28
+  offset: 0, 0
+  index: -1
+guanping_shoulderl
+  rotate: false
+  xy: 285, 432
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+guanping_tail
+  rotate: false
+  xy: 179, 247
+  size: 94, 46
+  orig: 94, 46
+  offset: 0, 0
+  index: -1
+guanping_weaponr
+  rotate: false
+  xy: 2, 238
+  size: 175, 269
+  orig: 175, 269
+  offset: 0, 0
+  index: -1
+hero_effect_box2
+  rotate: false
+  xy: 167, 8
+  size: 82, 82
+  orig: 82, 82
+  offset: 0, 0
+  index: -1
+hero_effect_box3
+  rotate: false
+  xy: 251, 8
+  size: 82, 82
+  orig: 82, 82
+  offset: 0, 0
+  index: -1
+hero_eye_cry
+  rotate: false
+  xy: 283, 346
+  size: 42, 51
+  orig: 42, 51
+  offset: 0, 0
+  index: -1
+ui_effect_light_circle3
+  rotate: false
+  xy: 179, 295
+  size: 102, 102
+  orig: 102, 102
+  offset: 0, 0
+  index: -1
+xysg_hero_effect_swordlight2
+  rotate: true
+  xy: 179, 399
+  size: 108, 104
+  orig: 108, 104
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,27 @@
+
+等级闪光特效.png
+size: 136,57
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ray1
+  rotate: true
+  xy: 99, 13
+  size: 42, 35
+  orig: 46, 66
+  offset: 2, 13
+  index: -1
+ray2
+  rotate: false
+  xy: 2, 2
+  size: 53, 53
+  orig: 100, 100
+  offset: 23, 24
+  index: -1
+ray3
+  rotate: false
+  xy: 57, 15
+  size: 40, 40
+  orig: 48, 48
+  offset: 4, 4
+  index: -1

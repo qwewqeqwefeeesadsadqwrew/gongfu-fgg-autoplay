@@ -1,0 +1,223 @@
+
+boss_chaiyouxiongdi.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hero_effect_halo1
+  rotate: false
+  xy: 934, 578
+  size: 58, 58
+  orig: 58, 58
+  offset: 0, 0
+  index: -1
+sc4_boss_skill1
+  rotate: false
+  xy: 815, 434
+  size: 201, 142
+  orig: 201, 142
+  offset: 0, 0
+  index: -1
+sc4_boss_skill2
+  rotate: false
+  xy: 217, 609
+  size: 85, 27
+  orig: 85, 27
+  offset: 0, 0
+  index: -1
+sc4_boss_skill3
+  rotate: true
+  xy: 710, 218
+  size: 214, 217
+  orig: 214, 217
+  offset: 0, 0
+  index: -1
+sc4_boss_skill4
+  rotate: false
+  xy: 2, 8
+  size: 216, 214
+  orig: 216, 214
+  offset: 0, 0
+  index: -1
+sc4_boss_skill5
+  rotate: true
+  xy: 652, 2
+  size: 214, 232
+  orig: 214, 232
+  offset: 0, 0
+  index: -1
+sc4_fish_body
+  rotate: false
+  xy: 96, 538
+  size: 119, 72
+  orig: 119, 74
+  offset: 0, 1
+  index: -1
+sc4_fish_box1
+  rotate: false
+  xy: 217, 530
+  size: 155, 74
+  orig: 155, 74
+  offset: 0, 0
+  index: -1
+sc4_fish_box2
+  rotate: false
+  xy: 526, 300
+  size: 182, 164
+  orig: 183, 165
+  offset: 1, 0
+  index: -1
+sc4_fish_eye
+  rotate: false
+  xy: 2, 629
+  size: 8, 7
+  orig: 8, 7
+  offset: 0, 0
+  index: -1
+sc4_fish_eyewhite
+  rotate: true
+  xy: 72, 615
+  size: 21, 25
+  orig: 22, 26
+  offset: 0, 0
+  index: -1
+sc4_fish_handl
+  rotate: false
+  xy: 304, 606
+  size: 30, 30
+  orig: 31, 32
+  offset: 1, 0
+  index: -1
+sc4_fish_head
+  rotate: true
+  xy: 846, 587
+  size: 49, 86
+  orig: 49, 87
+  offset: 0, 0
+  index: -1
+sc4_fish_jaw
+  rotate: true
+  xy: 501, 602
+  size: 34, 67
+  orig: 35, 68
+  offset: 1, 0
+  index: -1
+sc4_fish_leg
+  rotate: false
+  xy: 465, 603
+  size: 34, 33
+  orig: 35, 33
+  offset: 0, 0
+  index: -1
+sc4_fish_rope
+  rotate: false
+  xy: 12, 626
+  size: 58, 10
+  orig: 67, 10
+  offset: 9, 0
+  index: -1
+sc4_fish_tail
+  rotate: false
+  xy: 672, 591
+  size: 91, 45
+  orig: 91, 45
+  offset: 0, 0
+  index: -1
+sc4_fish_weapon
+  rotate: false
+  xy: 99, 612
+  size: 116, 24
+  orig: 117, 26
+  offset: 0, 1
+  index: -1
+sc4_lobster_body1
+  rotate: true
+  xy: 160, 383
+  size: 145, 180
+  orig: 145, 192
+  offset: 0, 12
+  index: -1
+sc4_lobster_body2
+  rotate: false
+  xy: 342, 334
+  size: 182, 145
+  orig: 195, 145
+  offset: 0, 0
+  index: -1
+sc4_lobster_body3
+  rotate: true
+  xy: 2, 393
+  size: 143, 156
+  orig: 143, 156
+  offset: 0, 0
+  index: -1
+sc4_lobster_eye1
+  rotate: true
+  xy: 570, 595
+  size: 41, 100
+  orig: 41, 100
+  offset: 0, 0
+  index: -1
+sc4_lobster_eye2
+  rotate: true
+  xy: 765, 590
+  size: 46, 79
+  orig: 46, 80
+  offset: 0, 0
+  index: -1
+sc4_lobster_hand
+  rotate: false
+  xy: 675, 466
+  size: 138, 122
+  orig: 139, 132
+  offset: 0, 0
+  index: -1
+sc4_lobster_head
+  rotate: false
+  xy: 2, 224
+  size: 327, 157
+  orig: 327, 157
+  offset: 0, 0
+  index: -1
+sc4_lobster_jaw
+  rotate: false
+  xy: 457, 481
+  size: 216, 108
+  orig: 221, 108
+  offset: 5, 0
+  index: -1
+sc4_lobster_tail1
+  rotate: true
+  xy: 2, 543
+  size: 70, 92
+  orig: 70, 94
+  offset: 0, 1
+  index: -1
+sc4_lobster_tail2
+  rotate: true
+  xy: 374, 523
+  size: 79, 81
+  orig: 80, 82
+  offset: 0, 0
+  index: -1
+sc4_lobster_tube
+  rotate: false
+  xy: 336, 606
+  size: 93, 30
+  orig: 93, 31
+  offset: 0, 1
+  index: -1
+sc4_lobster_weapon
+  rotate: false
+  xy: 331, 87
+  size: 319, 211
+  orig: 320, 211
+  offset: 1, 0
+  index: -1
+xysg_hero_effect_box
+  rotate: false
+  xy: 431, 604
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1

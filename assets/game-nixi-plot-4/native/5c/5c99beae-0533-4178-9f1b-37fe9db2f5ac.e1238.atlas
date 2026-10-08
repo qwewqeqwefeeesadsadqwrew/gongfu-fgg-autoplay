@@ -1,0 +1,195 @@
+
+ch21.png
+size: 2719,2719
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+7
+  rotate: false
+  xy: 353, 39
+  size: 220, 59
+  orig: 220, 59
+  offset: 0, 0
+  index: -1
+8
+  rotate: false
+  xy: 1516, 1207
+  size: 156, 21
+  orig: 156, 21
+  offset: 0, 0
+  index: -1
+9
+  rotate: false
+  xy: 1813, 247
+  size: 199, 87
+  orig: 199, 87
+  offset: 0, 0
+  index: -1
+bg1
+  rotate: false
+  xy: 2, 1205
+  size: 1512, 1512
+  orig: 1512, 1512
+  offset: 0, 0
+  index: -1
+cg
+  rotate: false
+  xy: 2297, 56
+  size: 414, 1363
+  orig: 414, 1363
+  offset: 0, 0
+  index: -1
+feiti/男主飞踢龙少
+  rotate: false
+  xy: 1813, 626
+  size: 482, 602
+  orig: 482, 602
+  offset: 0, 0
+  index: -1
+long/嘴巴说话
+  rotate: true
+  xy: 2254, 1362
+  size: 57, 37
+  orig: 72, 39
+  offset: 0, 0
+  index: -1
+long/墨镜
+  rotate: false
+  xy: 2103, 355
+  size: 142, 53
+  orig: 142, 53
+  offset: 0, 0
+  index: -1
+long/头
+  rotate: false
+  xy: 1634, 8
+  size: 163, 224
+  orig: 163, 224
+  offset: 0, 0
+  index: -1
+long/姿势2-身体
+  rotate: true
+  xy: 1136, 234
+  size: 969, 675
+  orig: 969, 675
+  offset: 0, 0
+  index: -1
+long/姿势3
+  rotate: false
+  xy: 1998, 1421
+  size: 512, 1296
+  orig: 512, 1296
+  offset: 0, 0
+  index: -1
+long/姿势3-2
+  rotate: true
+  xy: 1136, 2
+  size: 230, 496
+  orig: 230, 496
+  offset: 0, 0
+  index: -1
+longf
+  rotate: false
+  xy: 1516, 1230
+  size: 480, 1487
+  orig: 480, 1487
+  offset: 0, 0
+  index: -1
+longf-1
+  rotate: false
+  xy: 2, 100
+  size: 1132, 1103
+  orig: 1132, 1103
+  offset: 0, 0
+  index: -1
+mp-龙父
+  rotate: false
+  xy: 2512, 2055
+  size: 172, 324
+  orig: 172, 324
+  offset: 0, 0
+  index: -1
+气泡/对话框1
+  rotate: false
+  xy: 1998, 1234
+  size: 254, 185
+  orig: 254, 185
+  offset: 0, 0
+  index: -1
+气泡/尖叫气泡框
+  rotate: true
+  xy: 2512, 2381
+  size: 336, 202
+  orig: 353, 219
+  offset: 9, 8
+  index: -1
+表情-生气
+  rotate: false
+  xy: 2512, 1685
+  size: 154, 166
+  orig: 155, 213
+  offset: 1, 1
+  index: -1
+表情-震惊
+  rotate: false
+  xy: 2512, 1853
+  size: 137, 200
+  orig: 165, 239
+  offset: 0, 22
+  index: -1
+表现素材/底框速度线
+  rotate: true
+  xy: 2, 31
+  size: 67, 349
+  orig: 67, 349
+  offset: 0, 0
+  index: -1
+表现素材/感叹号
+  rotate: true
+  xy: 575, 42
+  size: 56, 85
+  orig: 56, 85
+  offset: 0, 0
+  index: -1
+表现素材/打击3
+  rotate: false
+  xy: 2512, 1534
+  size: 141, 149
+  orig: 149, 149
+  offset: 8, 0
+  index: -1
+表现素材/提示
+  rotate: false
+  xy: 2103, 410
+  size: 186, 214
+  orig: 206, 237
+  offset: 10, 11
+  index: -1
+表现素材/摩托等
+  rotate: false
+  xy: 2014, 243
+  size: 93, 91
+  orig: 93, 91
+  offset: 0, 0
+  index: -1
+表现素材/生气
+  rotate: false
+  xy: 2512, 1439
+  size: 106, 93
+  orig: 106, 93
+  offset: 0, 0
+  index: -1
+表现素材/速度线
+  rotate: false
+  xy: 1813, 336
+  size: 288, 288
+  orig: 288, 288
+  offset: 0, 0
+  index: -1
+阴影
+  rotate: false
+  xy: 662, 53
+  size: 90, 45
+  orig: 90, 45
+  offset: 0, 0
+  index: -1

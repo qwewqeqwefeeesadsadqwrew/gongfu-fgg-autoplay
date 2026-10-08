@@ -1,0 +1,13 @@
+
+抓小偷bg.png
+size: 1412,475
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+长条
+  rotate: false
+  xy: 2, 2
+  size: 1408, 471
+  orig: 1408, 471
+  offset: 0, 0
+  index: -1

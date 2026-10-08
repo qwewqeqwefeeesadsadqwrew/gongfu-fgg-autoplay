@@ -1,0 +1,55 @@
+
+星女郎_爱心.png
+size: 587,198
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ray3
+  rotate: false
+  xy: 382, 2
+  size: 28, 28
+  orig: 34, 34
+  offset: 3, 3
+  index: -1
+液体
+  rotate: true
+  xy: 382, 32
+  size: 164, 51
+  orig: 164, 68
+  offset: 0, 0
+  index: -1
+爱心
+  rotate: false
+  xy: 2, 7
+  size: 207, 189
+  orig: 207, 189
+  offset: 0, 0
+  index: -1
+爱心d
+  rotate: true
+  xy: 522, 127
+  size: 69, 63
+  orig: 69, 63
+  offset: 0, 0
+  index: -1
+爱心max
+  rotate: true
+  xy: 435, 102
+  size: 94, 85
+  orig: 94, 85
+  offset: 0, 0
+  index: -1
+爱心max2
+  rotate: true
+  xy: 435, 6
+  size: 94, 85
+  orig: 94, 85
+  offset: 0, 0
+  index: -1
+爱心ray
+  rotate: true
+  xy: 211, 9
+  size: 187, 169
+  orig: 187, 169
+  offset: 0, 0
+  index: -1

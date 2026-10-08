@@ -1,0 +1,69 @@
+
+保安.png
+size: 1037,1037
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+保安身体
+  rotate: false
+  xy: 259, 494
+  size: 283, 541
+  orig: 283, 541
+  offset: 0, 0
+  index: -1
+保安身体待机
+  rotate: false
+  xy: 2, 467
+  size: 255, 568
+  orig: 255, 568
+  offset: 0, 0
+  index: -1
+失败1
+  rotate: true
+  xy: 2, 114
+  size: 351, 273
+  orig: 351, 273
+  offset: 0, 0
+  index: -1
+失败2
+  rotate: false
+  xy: 277, 236
+  size: 136, 256
+  orig: 136, 256
+  offset: 0, 0
+  index: -1
+失败3
+  rotate: true
+  xy: 25, 20
+  size: 92, 200
+  orig: 92, 200
+  offset: 0, 0
+  index: -1
+手2
+  rotate: true
+  xy: 227, 27
+  size: 85, 182
+  orig: 85, 182
+  offset: 0, 0
+  index: -1
+手L
+  rotate: false
+  xy: 411, 28
+  size: 76, 206
+  orig: 76, 206
+  offset: 0, 0
+  index: -1
+打击3
+  rotate: false
+  xy: 277, 176
+  size: 55, 58
+  orig: 58, 58
+  offset: 3, 0
+  index: -1
+阴影
+  rotate: true
+  xy: 2, 2
+  size: 110, 21
+  orig: 110, 21
+  offset: 0, 0
+  index: -1

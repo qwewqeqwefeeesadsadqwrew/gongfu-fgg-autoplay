@@ -1,0 +1,202 @@
+
+caifengdian_main_0.png
+size: 411,411
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 300, 309
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+particle
+  rotate: true
+  xy: 304, 2
+  size: 32, 35
+  orig: 32, 35
+  offset: 0, 0
+  index: -1
+smog2_0000
+  rotate: false
+  xy: 341, 15
+  size: 40, 36
+  orig: 48, 47
+  offset: 4, 5
+  index: -1
+头-包租公脸红
+  rotate: false
+  xy: 286, 75
+  size: 46, 23
+  orig: 51, 25
+  offset: 1, 1
+  index: -1
+感叹号
+  rotate: false
+  xy: 395, 167
+  size: 12, 41
+  orig: 12, 50
+  offset: 0, 6
+  index: -1
+打击3
+  rotate: false
+  xy: 182, 285
+  size: 116, 124
+  orig: 128, 128
+  offset: 8, 4
+  index: -1
+裁缝店/1
+  rotate: false
+  xy: 353, 53
+  size: 46, 35
+  orig: 56, 43
+  offset: 5, 4
+  index: -1
+裁缝店/daoguang
+  rotate: true
+  xy: 402, 348
+  size: 61, 7
+  orig: 67, 38
+  offset: 3, 16
+  index: -1
+裁缝店/刀光2
+  rotate: false
+  xy: 2, 282
+  size: 178, 127
+  orig: 180, 129
+  offset: 1, 1
+  index: -1
+裁缝店/刀光3
+  rotate: false
+  xy: 2, 158
+  size: 166, 122
+  orig: 180, 129
+  offset: 10, 5
+  index: -1
+裁缝店/刀光4
+  rotate: false
+  xy: 214, 173
+  size: 89, 110
+  orig: 180, 129
+  offset: 87, 5
+  index: -1
+裁缝店/刀光5
+  rotate: false
+  xy: 305, 210
+  size: 92, 97
+  orig: 180, 129
+  offset: 83, 4
+  index: -1
+裁缝店/组 68
+  rotate: true
+  xy: 284, 36
+  size: 37, 45
+  orig: 37, 45
+  offset: 0, 0
+  index: -1
+裁缝店/胜哥_头
+  rotate: false
+  xy: 92, 4
+  size: 69, 78
+  orig: 70, 78
+  offset: 1, 0
+  index: -1
+裁缝店/胜哥_头2
+  rotate: true
+  xy: 2, 12
+  size: 70, 88
+  orig: 70, 100
+  offset: 0, 1
+  index: -1
+裁缝店/胜哥_头3
+  rotate: true
+  xy: 157, 87
+  size: 69, 78
+  orig: 70, 78
+  offset: 1, 0
+  index: -1
+裁缝店/胜哥_手臂
+  rotate: false
+  xy: 225, 21
+  size: 25, 64
+  orig: 25, 64
+  offset: 0, 0
+  index: -1
+裁缝店/胜哥_腿
+  rotate: false
+  xy: 252, 35
+  size: 30, 59
+  orig: 30, 59
+  offset: 0, 0
+  index: -1
+裁缝店/胜哥_身体
+  rotate: true
+  xy: 286, 100
+  size: 50, 69
+  orig: 50, 69
+  offset: 0, 0
+  index: -1
+裁缝店/胜哥工作台2
+  rotate: false
+  xy: 170, 169
+  size: 42, 111
+  orig: 43, 112
+  offset: 0, 1
+  index: -1
+裁缝店/衣服0
+  rotate: true
+  xy: 305, 152
+  size: 56, 88
+  orig: 58, 88
+  offset: 1, 0
+  index: -1
+裁缝店/衣服1
+  rotate: false
+  xy: 357, 90
+  size: 42, 60
+  orig: 43, 60
+  offset: 0, 0
+  index: -1
+裁缝店/衣服2
+  rotate: false
+  xy: 237, 96
+  size: 47, 75
+  orig: 60, 112
+  offset: 6, 37
+  index: -1
+裁缝店/衣服3
+  rotate: false
+  xy: 163, 9
+  size: 60, 76
+  orig: 60, 76
+  offset: 0, 0
+  index: -1
+裁缝店/走地烟雾
+  rotate: false
+  xy: 2, 84
+  size: 153, 72
+  orig: 180, 80
+  offset: 13, 5
+  index: -1
+裁缝店/闪光
+  rotate: true
+  xy: 252, 2
+  size: 31, 50
+  orig: 64, 64
+  offset: 17, 7
+  index: -1
+路人/路人_头嘴巴
+  rotate: true
+  xy: 383, 21
+  size: 30, 12
+  orig: 30, 12
+  offset: 0, 0
+  index: -1
+路人/张开的大嘴
+  rotate: true
+  xy: 334, 70
+  size: 28, 17
+  orig: 28, 17
+  offset: 0, 0
+  index: -1

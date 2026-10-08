@@ -1,0 +1,104 @@
+
+s_chicken.png
+size: 510,510
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+eye
+  rotate: true
+  xy: 500, 479
+  size: 7, 8
+  orig: 7, 8
+  offset: 0, 0
+  index: -1
+s_chicken_腿1
+  rotate: true
+  xy: 473, 466
+  size: 20, 25
+  orig: 20, 25
+  offset: 0, 0
+  index: -1
+s_chicken_腿1_bai
+  rotate: true
+  xy: 473, 445
+  size: 19, 23
+  orig: 21, 23
+  offset: 1, 0
+  index: -1
+s_chicken_腿1_kk
+  rotate: true
+  xy: 392, 437
+  size: 18, 23
+  orig: 18, 23
+  offset: 0, 0
+  index: -1
+s_chicken_腿1_蓝色
+  rotate: true
+  xy: 417, 437
+  size: 18, 23
+  orig: 18, 23
+  offset: 0, 0
+  index: -1
+s_chicken_腿2
+  rotate: true
+  xy: 473, 488
+  size: 20, 31
+  orig: 20, 31
+  offset: 0, 0
+  index: -1
+s_chicken_腿2_bai
+  rotate: false
+  xy: 454, 446
+  size: 17, 28
+  orig: 19, 28
+  offset: 1, 0
+  index: -1
+s_chicken_腿2_kk
+  rotate: true
+  xy: 392, 457
+  size: 17, 29
+  orig: 17, 29
+  offset: 0, 0
+  index: -1
+s_chicken_腿2_蓝色
+  rotate: true
+  xy: 423, 457
+  size: 17, 29
+  orig: 17, 29
+  offset: 0, 0
+  index: -1
+s_chicken_身体
+  rotate: false
+  xy: 318, 447
+  size: 72, 61
+  orig: 72, 61
+  offset: 0, 0
+  index: -1
+s_chicken_身体2
+  rotate: false
+  xy: 2, 428
+  size: 150, 80
+  orig: 150, 80
+  offset: 0, 0
+  index: -1
+s_chicken_身体3
+  rotate: true
+  xy: 154, 436
+  size: 72, 80
+  orig: 72, 80
+  offset: 0, 0
+  index: -1
+s_chicken_身体4
+  rotate: true
+  xy: 236, 436
+  size: 72, 80
+  orig: 72, 80
+  offset: 0, 0
+  index: -1
+阴影
+  rotate: false
+  xy: 392, 476
+  size: 79, 32
+  orig: 81, 34
+  offset: 1, 1
+  index: -1

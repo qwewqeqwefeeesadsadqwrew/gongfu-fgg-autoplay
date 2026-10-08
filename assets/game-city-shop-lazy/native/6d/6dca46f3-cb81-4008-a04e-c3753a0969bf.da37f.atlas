@@ -1,0 +1,132 @@
+
+xuegaodian_main_0.png
+size: 668,269
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+w嘴巴
+  rotate: false
+  xy: 417, 103
+  size: 26, 14
+  orig: 29, 14
+  offset: 1, 0
+  index: -1
+w嘴巴2
+  rotate: false
+  xy: 634, 60
+  size: 26, 35
+  orig: 29, 80
+  offset: 1, 12
+  index: -1
+刀光2
+  rotate: true
+  xy: 2, 89
+  size: 178, 127
+  orig: 180, 129
+  offset: 1, 1
+  index: -1
+刀光3
+  rotate: true
+  xy: 293, 101
+  size: 166, 122
+  orig: 180, 129
+  offset: 10, 5
+  index: -1
+刀光4
+  rotate: true
+  xy: 170, 2
+  size: 89, 110
+  orig: 180, 129
+  offset: 87, 5
+  index: -1
+刀光5
+  rotate: false
+  xy: 346, 2
+  size: 92, 97
+  orig: 180, 129
+  offset: 83, 4
+  index: -1
+叹气
+  rotate: true
+  xy: 634, 97
+  size: 36, 32
+  orig: 36, 32
+  offset: 0, 0
+  index: -1
+后发
+  rotate: false
+  xy: 445, 13
+  size: 140, 104
+  orig: 140, 104
+  offset: 0, 0
+  index: -1
+小芳-嘟嘴
+  rotate: true
+  xy: 282, 4
+  size: 87, 62
+  orig: 87, 62
+  offset: 0, 0
+  index: -1
+小芳-嘴
+  rotate: true
+  xy: 634, 35
+  size: 23, 17
+  orig: 27, 25
+  offset: 2, 4
+  index: -1
+小芳-头
+  rotate: false
+  xy: 131, 93
+  size: 160, 174
+  orig: 162, 176
+  offset: 1, 1
+  index: -1
+小芳-开心
+  rotate: false
+  xy: 50, 6
+  size: 76, 81
+  orig: 77, 81
+  offset: 0, 0
+  index: -1
+小芳-手1
+  rotate: false
+  xy: 587, 7
+  size: 45, 126
+  orig: 45, 126
+  offset: 0, 0
+  index: -1
+小芳-眼
+  rotate: true
+  xy: 2, 3
+  size: 84, 46
+  orig: 86, 49
+  offset: 1, 1
+  index: -1
+小芳-身体
+  rotate: false
+  xy: 417, 119
+  size: 98, 148
+  orig: 98, 148
+  offset: 0, 0
+  index: -1
+甜筒
+  rotate: false
+  xy: 517, 135
+  size: 68, 132
+  orig: 68, 132
+  offset: 0, 0
+  index: -1
+甜筒s
+  rotate: false
+  xy: 587, 135
+  size: 68, 132
+  orig: 68, 200
+  offset: 0, 34
+  index: -1
+眯眯眼
+  rotate: true
+  xy: 128, 10
+  size: 77, 40
+  orig: 77, 40
+  offset: 0, 0
+  index: -1

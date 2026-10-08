@@ -1,0 +1,265 @@
+
+pig.png
+size: 1077,1077
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 855, 634
+  size: 60, 53
+  orig: 60, 53
+  offset: 0, 0
+  index: -1
+pig-ago-leg1
+  rotate: true
+  xy: 364, 645
+  size: 94, 127
+  orig: 230, 230
+  offset: 64, 60
+  index: -1
+pig-ago-leg1-black
+  rotate: true
+  xy: 506, 186
+  size: 117, 149
+  orig: 230, 230
+  offset: 58, 45
+  index: -1
+pig-ago-leg1-jin
+  rotate: true
+  xy: 2, 9
+  size: 78, 113
+  orig: 230, 230
+  offset: 76, 63
+  index: -1
+pig-ago-leg1-七号
+  rotate: true
+  xy: 657, 186
+  size: 117, 149
+  orig: 230, 230
+  offset: 58, 45
+  index: -1
+pig-ago-leg1-猪八戒
+  rotate: false
+  xy: 419, 183
+  size: 85, 118
+  orig: 230, 230
+  offset: 73, 60
+  index: -1
+pig-ago-legh1
+  rotate: false
+  xy: 108, 117
+  size: 117, 149
+  orig: 230, 230
+  offset: 58, 45
+  index: -1
+pig-ago-legh1-jin
+  rotate: false
+  xy: 117, 6
+  size: 77, 109
+  orig: 230, 230
+  offset: 69, 60
+  index: -1
+pig-body
+  rotate: false
+  xy: 2, 474
+  size: 360, 208
+  orig: 461, 461
+  offset: 56, 115
+  index: -1
+pig-body-black
+  rotate: false
+  xy: 2, 268
+  size: 345, 204
+  orig: 461, 461
+  offset: 56, 123
+  index: -1
+pig-body-jin
+  rotate: false
+  xy: 489, 305
+  size: 331, 179
+  orig: 461, 461
+  offset: 61, 144
+  index: -1
+pig-body-七号
+  rotate: false
+  xy: 493, 486
+  size: 360, 208
+  orig: 461, 461
+  offset: 56, 115
+  index: -1
+pig-body-猪八戒
+  rotate: false
+  xy: 2, 684
+  size: 360, 213
+  orig: 461, 461
+  offset: 56, 115
+  index: -1
+pig-head
+  rotate: false
+  xy: 574, 4
+  size: 178, 167
+  orig: 461, 461
+  offset: 134, 141
+  index: -1
+pig-head-black
+  rotate: false
+  xy: 754, 4
+  size: 178, 167
+  orig: 461, 461
+  offset: 134, 141
+  index: -1
+pig-head-jin
+  rotate: true
+  xy: 910, 899
+  size: 176, 165
+  orig: 461, 461
+  offset: 136, 142
+  index: -1
+pig-head-七号
+  rotate: true
+  xy: 822, 173
+  size: 201, 223
+  orig: 461, 461
+  offset: 111, 122
+  index: -1
+pig-head-猪八戒
+  rotate: true
+  xy: 855, 376
+  size: 181, 218
+  orig: 461, 461
+  offset: 131, 90
+  index: -1
+pig-hind-leg1
+  rotate: false
+  xy: 910, 729
+  size: 153, 168
+  orig: 230, 230
+  offset: 38, 35
+  index: -1
+pig-hind-leg1-black
+  rotate: false
+  xy: 910, 559
+  size: 153, 168
+  orig: 230, 230
+  offset: 38, 35
+  index: -1
+pig-hind-leg1-jin
+  rotate: true
+  xy: 364, 422
+  size: 109, 123
+  orig: 230, 230
+  offset: 61, 53
+  index: -1
+pig-hind-leg1-猪八戒
+  rotate: true
+  xy: 349, 303
+  size: 117, 135
+  orig: 230, 230
+  offset: 58, 52
+  index: -1
+pig-hind-legh1
+  rotate: false
+  xy: 934, 21
+  size: 140, 150
+  orig: 230, 230
+  offset: 44, 43
+  index: -1
+pig-hind-legh1-jin
+  rotate: true
+  xy: 364, 533
+  size: 110, 123
+  orig: 230, 230
+  offset: 70, 58
+  index: -1
+pig-hind-legh1-七号
+  rotate: false
+  xy: 419, 3
+  size: 153, 168
+  orig: 230, 230
+  offset: 38, 35
+  index: -1
+pig-mouth
+  rotate: false
+  xy: 364, 820
+  size: 130, 77
+  orig: 230, 230
+  offset: 69, 12
+  index: -1
+pig-mouth-black
+  rotate: false
+  xy: 364, 741
+  size: 130, 77
+  orig: 230, 230
+  offset: 69, 12
+  index: -1
+pig-mouth-jin
+  rotate: true
+  xy: 196, 38
+  size: 77, 41
+  orig: 230, 230
+  offset: 85, 27
+  index: -1
+ray2
+  rotate: false
+  xy: 239, 217
+  size: 49, 49
+  orig: 55, 55
+  offset: 3, 3
+  index: -1
+九齿钉耙
+  rotate: true
+  xy: 2, 89
+  size: 177, 104
+  orig: 178, 104
+  offset: 1, 0
+  index: -1
+云
+  rotate: false
+  xy: 2, 899
+  size: 494, 176
+  orig: 494, 176
+  offset: 0, 0
+  index: -1
+嘴2
+  rotate: false
+  xy: 855, 605
+  size: 52, 27
+  orig: 52, 27
+  offset: 0, 0
+  index: -1
+头2
+  rotate: true
+  xy: 822, 396
+  size: 88, 28
+  orig: 88, 28
+  offset: 0, 0
+  index: -1
+彩光
+  rotate: false
+  xy: 498, 696
+  size: 410, 379
+  orig: 410, 410
+  offset: 0, 31
+  index: -1
+提示
+  rotate: false
+  xy: 855, 561
+  size: 49, 42
+  orig: 51, 45
+  offset: 1, 1
+  index: -1
+阴影
+  rotate: true
+  xy: 349, 8
+  size: 293, 68
+  orig: 315, 90
+  offset: 11, 11
+  index: -1
+饭渣2
+  rotate: false
+  xy: 822, 377
+  size: 22, 17
+  orig: 22, 18
+  offset: 0, 0
+  index: -1

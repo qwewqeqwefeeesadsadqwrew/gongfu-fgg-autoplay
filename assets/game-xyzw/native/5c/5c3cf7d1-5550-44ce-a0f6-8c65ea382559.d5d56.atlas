@@ -1,0 +1,160 @@
+
+ganning.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ganning_eyebrow
+  rotate: false
+  xy: 307, 333
+  size: 45, 26
+  orig: 45, 26
+  offset: 0, 0
+  index: -1
+hero_effect_box2
+  rotate: false
+  xy: 206, 229
+  size: 82, 82
+  orig: 82, 82
+  offset: 0, 0
+  index: -1
+hero_effect_halo1
+  rotate: false
+  xy: 289, 105
+  size: 46, 46
+  orig: 46, 46
+  offset: 0, 0
+  index: -1
+hero_eye_cry
+  rotate: false
+  xy: 206, 94
+  size: 42, 51
+  orig: 42, 51
+  offset: 0, 0
+  index: -1
+huanggai_arrow
+  rotate: true
+  xy: 184, 264
+  size: 47, 20
+  orig: 47, 20
+  offset: 0, 0
+  index: -1
+huanggai_arrow2
+  rotate: false
+  xy: 126, 321
+  size: 102, 18
+  orig: 102, 18
+  offset: 0, 0
+  index: -1
+huanggai_bag
+  rotate: true
+  xy: 289, 153
+  size: 74, 48
+  orig: 74, 48
+  offset: 0, 0
+  index: -1
+huanggai_body
+  rotate: false
+  xy: 267, 361
+  size: 158, 119
+  orig: 158, 119
+  offset: 0, 0
+  index: -1
+huanggai_eye
+  rotate: true
+  xy: 230, 332
+  size: 7, 8
+  orig: 7, 8
+  offset: 0, 0
+  index: -1
+huanggai_eyewhite
+  rotate: true
+  xy: 318, 238
+  size: 25, 27
+  orig: 25, 27
+  offset: 0, 0
+  index: -1
+huanggai_handl
+  rotate: true
+  xy: 347, 223
+  size: 40, 42
+  orig: 40, 42
+  offset: 0, 0
+  index: -1
+huanggai_handr1
+  rotate: true
+  xy: 337, 106
+  size: 45, 41
+  orig: 46, 43
+  offset: 0, 2
+  index: -1
+huanggai_handr2
+  rotate: true
+  xy: 267, 325
+  size: 34, 38
+  orig: 34, 41
+  offset: 0, 3
+  index: -1
+huanggai_head
+  rotate: false
+  xy: 2, 2
+  size: 202, 194
+  orig: 202, 194
+  offset: 0, 0
+  index: -1
+huanggai_legr
+  rotate: false
+  xy: 250, 114
+  size: 23, 31
+  orig: 23, 31
+  offset: 0, 0
+  index: -1
+huanggai_mouth
+  rotate: true
+  xy: 290, 265
+  size: 46, 59
+  orig: 46, 59
+  offset: 0, 0
+  index: -1
+huanggai_shoulderl
+  rotate: false
+  xy: 206, 147
+  size: 81, 80
+  orig: 81, 80
+  offset: 0, 0
+  index: -1
+huanggai_tail
+  rotate: true
+  xy: 126, 215
+  size: 96, 56
+  orig: 96, 56
+  offset: 0, 0
+  index: -1
+huanggai_weapon1
+  rotate: true
+  xy: 126, 313
+  size: 6, 213
+  orig: 14, 213
+  offset: 5, 0
+  index: -1
+huanggai_weapon2
+  rotate: false
+  xy: 2, 198
+  size: 122, 282
+  orig: 122, 282
+  offset: 0, 0
+  index: -1
+xysg_hero_effect_box
+  rotate: false
+  xy: 290, 237
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+xysg_hero_effect_lightcircle
+  rotate: false
+  xy: 126, 341
+  size: 139, 139
+  orig: 139, 139
+  offset: 0, 0
+  index: -1

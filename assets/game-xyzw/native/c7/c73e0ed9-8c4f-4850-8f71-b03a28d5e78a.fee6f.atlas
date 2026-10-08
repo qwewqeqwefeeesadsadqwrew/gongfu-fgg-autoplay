@@ -1,0 +1,34 @@
+
+xiaogui.png
+size: 275,275
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gui_1
+  rotate: false
+  xy: 2, 2
+  size: 109, 32
+  orig: 111, 34
+  offset: 1, 1
+  index: -1
+gui_2
+  rotate: true
+  xy: 113, 190
+  size: 83, 78
+  orig: 83, 78
+  offset: 0, 0
+  index: -1
+gui_3
+  rotate: false
+  xy: 2, 36
+  size: 109, 237
+  orig: 109, 237
+  offset: 0, 0
+  index: -1
+gui_4
+  rotate: true
+  xy: 113, 105
+  size: 83, 78
+  orig: 83, 78
+  offset: 0, 0
+  index: -1

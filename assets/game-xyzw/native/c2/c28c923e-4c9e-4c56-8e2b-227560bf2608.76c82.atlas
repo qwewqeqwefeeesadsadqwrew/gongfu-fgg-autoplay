@@ -1,0 +1,139 @@
+
+zhangzhao.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hero_effect_box2
+  rotate: false
+  xy: 271, 428
+  size: 82, 82
+  orig: 82, 82
+  offset: 0, 0
+  index: -1
+hero_eye_cry
+  rotate: false
+  xy: 145, 180
+  size: 42, 51
+  orig: 42, 51
+  offset: 0, 0
+  index: -1
+xysg_hero_effect_lightcircle
+  rotate: false
+  xy: 104, 28
+  size: 139, 139
+  orig: 139, 139
+  offset: 0, 0
+  index: -1
+zhangzhao_beard1
+  rotate: false
+  xy: 251, 262
+  size: 82, 102
+  orig: 82, 102
+  offset: 0, 0
+  index: -1
+zhangzhao_beard2
+  rotate: false
+  xy: 185, 407
+  size: 84, 103
+  orig: 84, 104
+  offset: 0, 1
+  index: -1
+zhangzhao_body
+  rotate: true
+  xy: 2, 169
+  size: 166, 141
+  orig: 166, 141
+  offset: 0, 0
+  index: -1
+zhangzhao_eye
+  rotate: true
+  xy: 2, 2
+  size: 6, 8
+  orig: 6, 8
+  offset: 0, 0
+  index: -1
+zhangzhao_eyebrow
+  rotate: true
+  xy: 189, 184
+  size: 47, 33
+  orig: 47, 33
+  offset: 0, 0
+  index: -1
+zhangzhao_eyewhite
+  rotate: false
+  xy: 263, 368
+  size: 32, 37
+  orig: 32, 37
+  offset: 0, 0
+  index: -1
+zhangzhao_handl
+  rotate: false
+  xy: 185, 363
+  size: 40, 42
+  orig: 40, 42
+  offset: 0, 0
+  index: -1
+zhangzhao_handr1
+  rotate: true
+  xy: 224, 186
+  size: 45, 42
+  orig: 46, 43
+  offset: 0, 1
+  index: -1
+zhangzhao_handr2
+  rotate: false
+  xy: 227, 366
+  size: 34, 39
+  orig: 34, 41
+  offset: 0, 2
+  index: -1
+zhangzhao_head
+  rotate: true
+  xy: 48, 344
+  size: 166, 135
+  orig: 166, 137
+  offset: 0, 0
+  index: -1
+zhangzhao_legr
+  rotate: true
+  xy: 104, 3
+  size: 23, 31
+  orig: 23, 31
+  offset: 0, 0
+  index: -1
+zhangzhao_mouth
+  rotate: false
+  xy: 251, 234
+  size: 31, 26
+  orig: 31, 26
+  offset: 0, 0
+  index: -1
+zhangzhao_tail
+  rotate: true
+  xy: 53, 18
+  size: 149, 49
+  orig: 149, 49
+  offset: 0, 0
+  index: -1
+zhangzhao_tie1
+  rotate: false
+  xy: 2, 337
+  size: 44, 173
+  orig: 44, 173
+  offset: 0, 0
+  index: -1
+zhangzhao_tie2
+  rotate: true
+  xy: 145, 233
+  size: 109, 104
+  orig: 109, 104
+  offset: 0, 0
+  index: -1
+zhangzhao_weapon
+  rotate: false
+  xy: 2, 10
+  size: 49, 157
+  orig: 49, 157
+  offset: 0, 0
+  index: -1

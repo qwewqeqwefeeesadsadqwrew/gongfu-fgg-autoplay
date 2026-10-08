@@ -1,0 +1,41 @@
+
+zhenji_skill_hit.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect_shine_dot
+  rotate: true
+  xy: 272, 2
+  size: 46, 51
+  orig: 46, 51
+  offset: 0, 0
+  index: -1
+hero_effect_halo1
+  rotate: false
+  xy: 325, 2
+  size: 46, 46
+  orig: 46, 46
+  offset: 0, 0
+  index: -1
+zhenji_effect3
+  rotate: false
+  xy: 2, 14
+  size: 56, 15
+  orig: 56, 15
+  offset: 0, 0
+  index: -1
+zhenji_skill2
+  rotate: false
+  xy: 272, 50
+  size: 194, 201
+  orig: 194, 201
+  offset: 0, 0
+  index: -1
+zhenji_skill3
+  rotate: true
+  xy: 2, 31
+  size: 220, 268
+  orig: 220, 268
+  offset: 0, 0
+  index: -1

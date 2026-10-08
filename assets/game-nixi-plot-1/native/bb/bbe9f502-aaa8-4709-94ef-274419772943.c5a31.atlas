@@ -1,0 +1,223 @@
+
+ch5_记者发布会特写.png
+size: 2718,2718
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+10
+  rotate: true
+  xy: 2572, 977
+  size: 164, 76
+  orig: 164, 76
+  offset: 0, 0
+  index: -1
+11
+  rotate: false
+  xy: 1030, 1315
+  size: 194, 22
+  orig: 194, 22
+  offset: 0, 0
+  index: -1
+12
+  rotate: true
+  xy: 2521, 925
+  size: 216, 49
+  orig: 216, 49
+  offset: 0, 0
+  index: -1
+bz1
+  rotate: false
+  xy: 1030, 1339
+  size: 961, 1377
+  orig: 961, 1377
+  offset: 0, 0
+  index: -1
+bz2
+  rotate: true
+  xy: 2, 335
+  size: 963, 1365
+  orig: 963, 1365
+  offset: 0, 0
+  index: -1
+bz3
+  rotate: false
+  xy: 2, 1300
+  size: 1026, 1416
+  orig: 1026, 1416
+  offset: 0, 0
+  index: -1
+bz4
+  rotate: false
+  xy: 1369, 32
+  size: 913, 1305
+  orig: 913, 1305
+  offset: 0, 0
+  index: -1
+jjr
+  rotate: true
+  xy: 2, 11
+  size: 322, 515
+  orig: 322, 515
+  offset: 0, 0
+  index: -1
+yy
+  rotate: true
+  xy: 2412, 1395
+  size: 167, 283
+  orig: 167, 283
+  offset: 0, 0
+  index: -1
+上臂
+  rotate: true
+  xy: 2423, 1564
+  size: 77, 293
+  orig: 77, 293
+  offset: 0, 0
+  index: -1
+下臂
+  rotate: false
+  xy: 2566, 2444
+  size: 138, 272
+  orig: 138, 273
+  offset: 0, 0
+  index: -1
+光圈
+  rotate: false
+  xy: 2284, 302
+  size: 221, 220
+  orig: 230, 230
+  offset: 5, 4
+  index: -1
+前景
+  rotate: false
+  xy: 1993, 1485
+  size: 230, 472
+  orig: 230, 472
+  offset: 0, 0
+  index: -1
+右手
+  rotate: false
+  xy: 2225, 1418
+  size: 185, 181
+  orig: 185, 181
+  offset: 0, 0
+  index: -1
+左手
+  rotate: true
+  xy: 2566, 2230
+  size: 49, 85
+  orig: 49, 85
+  offset: 0, 0
+  index: -1
+擦泪
+  rotate: false
+  xy: 2225, 1601
+  size: 196, 356
+  orig: 196, 356
+  offset: 0, 0
+  index: -1
+柳如烟
+  rotate: false
+  xy: 1170, 8
+  size: 180, 325
+  orig: 180, 325
+  offset: 0, 0
+  index: -1
+柳如烟头
+  rotate: false
+  xy: 2284, 738
+  size: 235, 212
+  orig: 237, 213
+  offset: 1, 0
+  index: -1
+柳如烟头2
+  rotate: false
+  xy: 2284, 524
+  size: 235, 212
+  orig: 237, 213
+  offset: 1, 0
+  index: -1
+柳如烟头3
+  rotate: false
+  xy: 2284, 1173
+  size: 235, 220
+  orig: 270, 540
+  offset: 8, 244
+  index: -1
+柳如烟头4
+  rotate: false
+  xy: 2284, 952
+  size: 235, 219
+  orig: 270, 540
+  offset: 8, 244
+  index: -1
+柳如烟身体
+  rotate: false
+  xy: 2365, 2219
+  size: 199, 497
+  orig: 199, 497
+  offset: 0, 0
+  index: -1
+桌子
+  rotate: true
+  xy: 519, 6
+  size: 327, 359
+  orig: 327, 359
+  offset: 0, 0
+  index: -1
+气泡/对话框2
+  rotate: true
+  xy: 2521, 1143
+  size: 250, 163
+  orig: 250, 163
+  offset: 0, 0
+  index: -1
+气泡/尖叫气泡框
+  rotate: true
+  xy: 2423, 1643
+  size: 336, 202
+  orig: 353, 219
+  offset: 9, 8
+  index: -1
+气泡/手指
+  rotate: false
+  xy: 2566, 2281
+  size: 131, 161
+  orig: 133, 162
+  offset: 1, 0
+  index: -1
+气泡/手指2
+  rotate: true
+  xy: 1993, 1352
+  size: 131, 161
+  orig: 133, 162
+  offset: 1, 0
+  index: -1
+气泡/手指3
+  rotate: false
+  xy: 2284, 139
+  size: 131, 161
+  orig: 133, 162
+  offset: 1, 0
+  index: -1
+表现素材/光
+  rotate: true
+  xy: 2365, 1981
+  size: 236, 234
+  orig: 238, 236
+  offset: 0, 0
+  index: -1
+表现素材/速度线
+  rotate: false
+  xy: 880, 45
+  size: 288, 288
+  orig: 288, 288
+  offset: 0, 0
+  index: -1
+记者招待会
+  rotate: false
+  xy: 1993, 1959
+  size: 370, 757
+  orig: 370, 757
+  offset: 0, 0
+  index: -1

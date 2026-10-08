@@ -1,0 +1,258 @@
+
+ch10_1.png
+size: 1802,1802
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: false
+  xy: 2, 1044
+  size: 627, 756
+  orig: 627, 756
+  offset: 0, 0
+  index: -1
+公主抱/公主抱-亦菲手2
+  rotate: false
+  xy: 258, 70
+  size: 188, 124
+  orig: 188, 124
+  offset: 0, 0
+  index: -1
+女主/L手
+  rotate: false
+  xy: 1685, 521
+  size: 59, 237
+  orig: 59, 237
+  offset: 0, 0
+  index: -1
+女主/R手
+  rotate: true
+  xy: 1357, 315
+  size: 64, 239
+  orig: 64, 239
+  offset: 0, 0
+  index: -1
+女主/女主-表情8
+  rotate: true
+  xy: 2, 620
+  size: 422, 452
+  orig: 422, 452
+  offset: 0, 0
+  index: -1
+女主/女主-表情担忧
+  rotate: true
+  xy: 456, 620
+  size: 422, 452
+  orig: 422, 452
+  offset: 0, 0
+  index: -1
+女主/女主头
+  rotate: true
+  xy: 575, 30
+  size: 247, 271
+  orig: 422, 452
+  offset: 74, 103
+  index: -1
+女主/女主头发1
+  rotate: true
+  xy: 258, 6
+  size: 62, 88
+  orig: 159, 224
+  offset: 48, 68
+  index: -1
+女主/女主头发2
+  rotate: false
+  xy: 1539, 1523
+  size: 216, 277
+  orig: 216, 277
+  offset: 0, 0
+  index: -1
+女主/女主胸-破烂
+  rotate: true
+  xy: 1690, 1425
+  size: 96, 70
+  orig: 96, 70
+  offset: 0, 0
+  index: -1
+女主/女主身体-破烂
+  rotate: false
+  xy: 456, 28
+  size: 117, 590
+  orig: 117, 590
+  offset: 0, 0
+  index: -1
+女主嘴巴/女主-嘴巴1
+  rotate: true
+  xy: 631, 1378
+  size: 422, 452
+  orig: 422, 452
+  offset: 0, 0
+  index: -1
+女主嘴巴/女主-嘴巴2
+  rotate: true
+  xy: 1085, 1378
+  size: 422, 452
+  orig: 422, 452
+  offset: 0, 0
+  index: -1
+女主嘴巴/女主-嘴巴3
+  rotate: true
+  xy: 2, 196
+  size: 422, 452
+  orig: 422, 452
+  offset: 0, 0
+  index: -1
+女主嘴巴/女主-嘴巴4
+  rotate: true
+  xy: 903, 2
+  size: 422, 452
+  orig: 422, 452
+  offset: 0, 0
+  index: -1
+桃色背景
+  rotate: false
+  xy: 1446, 146
+  size: 90, 167
+  orig: 90, 167
+  offset: 0, 0
+  index: -1
+气泡/对话框1
+  rotate: false
+  xy: 2, 9
+  size: 254, 185
+  orig: 254, 185
+  offset: 0, 0
+  index: -1
+男主/L手-插裤兜
+  rotate: false
+  xy: 1357, 113
+  size: 87, 200
+  orig: 87, 200
+  offset: 0, 0
+  index: -1
+男主/R手
+  rotate: false
+  xy: 1072, 470
+  size: 61, 250
+  orig: 61, 250
+  offset: 0, 0
+  index: -1
+男主/头
+  rotate: true
+  xy: 631, 1050
+  size: 326, 339
+  orig: 326, 339
+  offset: 0, 0
+  index: -1
+男主/表情13
+  rotate: true
+  xy: 1313, 1050
+  size: 326, 339
+  orig: 326, 339
+  offset: 0, 0
+  index: -1
+男主/表情19-疑惑（包租婆敲门）
+  rotate: false
+  xy: 1357, 381
+  size: 326, 339
+  orig: 326, 339
+  offset: 0, 0
+  index: -1
+男主/表情4-
+  rotate: true
+  xy: 972, 1050
+  size: 326, 339
+  orig: 326, 339
+  offset: 0, 0
+  index: -1
+男主/表情7-惊讶（分手）
+  rotate: false
+  xy: 575, 279
+  size: 326, 339
+  orig: 326, 339
+  offset: 0, 0
+  index: -1
+男主/表情8-悲伤（分手）
+  rotate: true
+  xy: 1072, 722
+  size: 326, 339
+  orig: 326, 339
+  offset: 0, 0
+  index: -1
+男主/说话嘴2
+  rotate: true
+  xy: 848, 123
+  size: 62, 45
+  orig: 62, 45
+  offset: 0, 0
+  index: -1
+男主/说话嘴巴2
+  rotate: false
+  xy: 765, 7
+  size: 39, 21
+  orig: 39, 21
+  offset: 0, 0
+  index: -1
+男主/身体
+  rotate: false
+  xy: 910, 426
+  size: 160, 622
+  orig: 160, 622
+  offset: 0, 0
+  index: -1
+表现素材/1
+  rotate: true
+  xy: 1598, 159
+  size: 220, 95
+  orig: 220, 95
+  offset: 0, 0
+  index: -1
+表现素材/2
+  rotate: false
+  xy: 575, 6
+  size: 188, 22
+  orig: 188, 22
+  offset: 0, 0
+  index: -1
+表现素材/3
+  rotate: true
+  xy: 1654, 1202
+  size: 176, 96
+  orig: 176, 96
+  offset: 0, 0
+  index: -1
+表现素材/感叹号
+  rotate: true
+  xy: 348, 12
+  size: 56, 85
+  orig: 56, 85
+  offset: 0, 0
+  index: -1
+表现素材/打击3
+  rotate: true
+  xy: 1539, 1380
+  size: 141, 149
+  orig: 149, 149
+  offset: 8, 0
+  index: -1
+表现素材/提示
+  rotate: false
+  xy: 1135, 483
+  size: 206, 237
+  orig: 206, 237
+  offset: 0, 0
+  index: -1
+表现素材/速度线
+  rotate: false
+  xy: 1413, 760
+  size: 288, 288
+  orig: 288, 288
+  offset: 0, 0
+  index: -1
+阴影
+  rotate: true
+  xy: 848, 187
+  size: 90, 45
+  orig: 90, 45
+  offset: 0, 0
+  index: -1

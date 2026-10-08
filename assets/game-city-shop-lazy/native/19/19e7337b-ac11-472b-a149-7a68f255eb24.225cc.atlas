@@ -1,0 +1,223 @@
+
+xiaomaibu_main_0.png
+size: 1732,395
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+小卖部/咸蛋
+  rotate: false
+  xy: 1352, 201
+  size: 75, 29
+  orig: 75, 29
+  offset: 0, 0
+  index: -1
+小卖部/扣税
+  rotate: false
+  xy: 1256, 200
+  size: 41, 16
+  orig: 41, 16
+  offset: 0, 0
+  index: -1
+小卖部/提示
+  rotate: false
+  xy: 1320, 200
+  size: 30, 30
+  orig: 44, 38
+  offset: 0, 8
+  index: -1
+小卖部/旗袍
+  rotate: false
+  xy: 1499, 189
+  size: 92, 47
+  orig: 92, 47
+  offset: 0, 0
+  index: -1
+小卖部/激光 (1)
+  rotate: true
+  xy: 836, 199
+  size: 194, 138
+  orig: 194, 138
+  offset: 0, 0
+  index: -1
+小卖部/激光 (2)
+  rotate: true
+  xy: 2, 4
+  size: 389, 276
+  orig: 389, 276
+  offset: 0, 0
+  index: -1
+小卖部/激光 (3)
+  rotate: true
+  xy: 280, 4
+  size: 389, 276
+  orig: 389, 276
+  offset: 0, 0
+  index: -1
+小卖部/激光 (4)
+  rotate: true
+  xy: 558, 4
+  size: 389, 276
+  orig: 389, 276
+  offset: 0, 0
+  index: -1
+小卖部/激光 (5)
+  rotate: true
+  xy: 836, 3
+  size: 194, 138
+  orig: 194, 138
+  offset: 0, 0
+  index: -1
+小卖部/激光 (6)
+  rotate: true
+  xy: 976, 199
+  size: 194, 138
+  orig: 194, 138
+  offset: 0, 0
+  index: -1
+小卖部/激光 (7)
+  rotate: true
+  xy: 976, 3
+  size: 194, 138
+  orig: 194, 138
+  offset: 0, 0
+  index: -1
+小卖部/激光 (8)
+  rotate: true
+  xy: 1116, 199
+  size: 194, 138
+  orig: 194, 138
+  offset: 0, 0
+  index: -1
+小卖部/激光d
+  rotate: true
+  xy: 1116, 18
+  size: 179, 169
+  orig: 194, 181
+  offset: 8, 6
+  index: -1
+小卖部/烟雾
+  rotate: false
+  xy: 1692, 120
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+小卖部/生气
+  rotate: true
+  xy: 1611, 48
+  size: 66, 63
+  orig: 66, 63
+  offset: 0, 0
+  index: -1
+小卖部/电蚊拍
+  rotate: false
+  xy: 1287, 23
+  size: 54, 175
+  orig: 64, 180
+  offset: 2, 0
+  index: -1
+小卖部/电蚊拍d
+  rotate: false
+  xy: 1256, 218
+  size: 62, 175
+  orig: 64, 180
+  offset: 0, 0
+  index: -1
+小卖部/苍蝇
+  rotate: false
+  xy: 1287, 2
+  size: 41, 19
+  orig: 41, 19
+  offset: 0, 0
+  index: -1
+小卖部/苍蝇s
+  rotate: true
+  xy: 1429, 201
+  size: 29, 27
+  orig: 30, 27
+  offset: 0, 0
+  index: -1
+小卖部/苍蝇黑
+  rotate: false
+  xy: 1458, 200
+  size: 39, 36
+  orig: 39, 36
+  offset: 0, 0
+  index: -1
+小卖部/金光
+  rotate: true
+  xy: 1443, 238
+  size: 155, 152
+  orig: 160, 158
+  offset: 5, 0
+  index: -1
+小卖部/魔鬼筋肉人-头
+  rotate: false
+  xy: 1597, 160
+  size: 121, 150
+  orig: 121, 150
+  offset: 0, 0
+  index: -1
+小卖部/魔鬼筋肉人-头2
+  rotate: false
+  xy: 1320, 232
+  size: 121, 161
+  orig: 160, 200
+  offset: 19, 15
+  index: -1
+小卖部/魔鬼筋肉人-头3
+  rotate: true
+  xy: 1522, 17
+  size: 88, 87
+  orig: 121, 150
+  offset: 8, 4
+  index: -1
+小卖部/魔鬼筋肉人-头4
+  rotate: false
+  xy: 1397, 9
+  size: 62, 27
+  orig: 121, 150
+  offset: 15, 4
+  index: -1
+小卖部/魔鬼筋肉人-头5
+  rotate: false
+  xy: 1343, 3
+  size: 52, 33
+  orig: 121, 150
+  offset: 24, 0
+  index: -1
+小卖部/魔鬼筋肉人-头6
+  rotate: false
+  xy: 1343, 38
+  size: 121, 160
+  orig: 121, 240
+  offset: 0, 36
+  index: -1
+小卖部/魔鬼筋肉人-射击
+  rotate: false
+  xy: 1597, 312
+  size: 128, 81
+  orig: 128, 81
+  offset: 0, 0
+  index: -1
+小卖部/魔鬼筋肉人-手
+  rotate: true
+  xy: 1584, 116
+  size: 42, 106
+  orig: 42, 106
+  offset: 0, 0
+  index: -1
+小卖部/魔鬼筋肉人-腿
+  rotate: false
+  xy: 1466, 8
+  size: 54, 97
+  orig: 54, 97
+  offset: 0, 0
+  index: -1
+小卖部/魔鬼筋肉人-身体
+  rotate: true
+  xy: 1466, 107
+  size: 80, 116
+  orig: 80, 116
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,174 @@
+
+tc_goose.png
+size: 433,433
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: false
+  xy: 2, 48
+  size: 279, 383
+  orig: 279, 383
+  offset: 0, 0
+  index: -1
+s_goose_腿1
+  rotate: true
+  xy: 92, 5
+  size: 15, 20
+  orig: 15, 20
+  offset: 0, 0
+  index: -1
+s_goose_腿1_bai
+  rotate: false
+  xy: 114, 2
+  size: 13, 18
+  orig: 13, 18
+  offset: 0, 0
+  index: -1
+s_goose_腿2
+  rotate: false
+  xy: 129, 2
+  size: 13, 18
+  orig: 13, 18
+  offset: 0, 0
+  index: -1
+s_goose_腿2_bai
+  rotate: false
+  xy: 144, 4
+  size: 12, 16
+  orig: 12, 16
+  offset: 0, 0
+  index: -1
+s_goose_身体
+  rotate: false
+  xy: 382, 370
+  size: 48, 61
+  orig: 48, 61
+  offset: 0, 0
+  index: -1
+s_goose_身体2
+  rotate: false
+  xy: 382, 305
+  size: 46, 63
+  orig: 46, 63
+  offset: 0, 0
+  index: -1
+s_goose_身体3
+  rotate: false
+  xy: 283, 6
+  size: 46, 60
+  orig: 46, 60
+  offset: 0, 0
+  index: -1
+s_goose_身体4
+  rotate: false
+  xy: 331, 6
+  size: 46, 60
+  orig: 46, 60
+  offset: 0, 0
+  index: -1
+小烟雾1
+  rotate: false
+  xy: 158, 19
+  size: 25, 27
+  orig: 77, 71
+  offset: 35, 24
+  index: -1
+小烟雾10
+  rotate: true
+  xy: 346, 184
+  size: 57, 60
+  orig: 77, 71
+  offset: 16, 7
+  index: -1
+小烟雾11
+  rotate: true
+  xy: 283, 183
+  size: 57, 60
+  orig: 77, 71
+  offset: 16, 7
+  index: -1
+小烟雾12
+  rotate: true
+  xy: 283, 242
+  size: 58, 61
+  orig: 77, 71
+  offset: 15, 7
+  index: -1
+小烟雾13
+  rotate: true
+  xy: 348, 243
+  size: 60, 62
+  orig: 77, 71
+  offset: 14, 6
+  index: -1
+小烟雾14
+  rotate: true
+  xy: 283, 302
+  size: 60, 63
+  orig: 77, 71
+  offset: 14, 6
+  index: -1
+小烟雾2
+  rotate: false
+  xy: 50, 3
+  size: 40, 43
+  orig: 77, 71
+  offset: 27, 15
+  index: -1
+小烟雾3
+  rotate: true
+  xy: 2, 3
+  size: 43, 46
+  orig: 77, 71
+  offset: 25, 14
+  index: -1
+小烟雾4
+  rotate: false
+  xy: 338, 74
+  size: 46, 50
+  orig: 77, 71
+  offset: 23, 12
+  index: -1
+小烟雾6
+  rotate: false
+  xy: 338, 74
+  size: 46, 50
+  orig: 77, 71
+  offset: 23, 12
+  index: -1
+小烟雾7
+  rotate: false
+  xy: 283, 68
+  size: 53, 56
+  orig: 77, 71
+  offset: 18, 9
+  index: -1
+小烟雾8
+  rotate: true
+  xy: 283, 126
+  size: 55, 57
+  orig: 77, 71
+  offset: 17, 9
+  index: -1
+小烟雾9
+  rotate: true
+  xy: 345, 126
+  size: 56, 59
+  orig: 77, 71
+  offset: 16, 8
+  index: -1
+白猪
+  rotate: false
+  xy: 283, 364
+  size: 97, 67
+  orig: 97, 67
+  offset: 0, 0
+  index: -1
+阴影
+  rotate: false
+  xy: 92, 22
+  size: 57, 24
+  orig: 57, 24
+  offset: 0, 0
+  index: -1

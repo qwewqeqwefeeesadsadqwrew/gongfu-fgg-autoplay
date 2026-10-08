@@ -1,0 +1,202 @@
+
+元气女学生2.png
+size: 1969,475
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+嘴唇
+  rotate: false
+  xy: 1657, 363
+  size: 172, 110
+  orig: 178, 110
+  offset: 1, 0
+  index: -1
+女2-侧发
+  rotate: false
+  xy: 2, 170
+  size: 94, 303
+  orig: 97, 303
+  offset: 0, 0
+  index: -1
+女2-刘海1
+  rotate: false
+  xy: 1764, 267
+  size: 100, 94
+  orig: 100, 94
+  offset: 0, 0
+  index: -1
+女2-刘海2
+  rotate: true
+  xy: 1883, 169
+  size: 62, 78
+  orig: 62, 78
+  offset: 0, 0
+  index: -1
+女2-刘海3
+  rotate: false
+  xy: 1525, 266
+  size: 130, 207
+  orig: 130, 208
+  offset: 0, 1
+  index: -1
+女2-刘海4
+  rotate: false
+  xy: 1883, 65
+  size: 60, 102
+  orig: 60, 102
+  offset: 0, 0
+  index: -1
+女2-发框
+  rotate: true
+  xy: 1883, 233
+  size: 240, 82
+  orig: 240, 82
+  offset: 0, 0
+  index: -1
+女2-右手小臂
+  rotate: false
+  xy: 1330, 206
+  size: 127, 267
+  orig: 127, 281
+  offset: 0, 0
+  index: -1
+女2-右手臂
+  rotate: false
+  xy: 1182, 233
+  size: 146, 240
+  orig: 146, 240
+  offset: 0, 0
+  index: -1
+女2-右眉
+  rotate: false
+  xy: 98, 173
+  size: 40, 12
+  orig: 40, 15
+  offset: 0, 3
+  index: -1
+女2-右眼白
+  rotate: false
+  xy: 284, 170
+  size: 30, 17
+  orig: 31, 18
+  offset: 0, 1
+  index: -1
+女2-右腿
+  rotate: true
+  xy: 2, 12
+  size: 156, 810
+  orig: 157, 820
+  offset: 0, 2
+  index: -1
+女2-后发
+  rotate: false
+  xy: 98, 187
+  size: 184, 286
+  orig: 184, 286
+  offset: 0, 0
+  index: -1
+女2-嘴巴
+  rotate: true
+  xy: 1563, 213
+  size: 51, 35
+  orig: 51, 35
+  offset: 0, 0
+  index: -1
+女2-左手
+  rotate: false
+  xy: 1046, 201
+  size: 134, 272
+  orig: 134, 272
+  offset: 0, 0
+  index: -1
+女2-左手臂
+  rotate: false
+  xy: 1459, 209
+  size: 64, 264
+  orig: 66, 264
+  offset: 0, 0
+  index: -1
+女2-左眉
+  rotate: false
+  xy: 140, 175
+  size: 41, 10
+  orig: 42, 12
+  offset: 0, 2
+  index: -1
+女2-左眼白
+  rotate: true
+  xy: 1182, 201
+  size: 30, 18
+  orig: 32, 18
+  offset: 0, 0
+  index: -1
+女2-左瞳
+  rotate: false
+  xy: 316, 171
+  size: 18, 16
+  orig: 19, 18
+  offset: 0, 2
+  index: -1
+女2-左腿
+  rotate: true
+  xy: 1092, 2
+  size: 197, 789
+  orig: 202, 794
+  offset: 5, 0
+  index: -1
+女2-手指
+  rotate: false
+  xy: 1202, 205
+  size: 65, 26
+  orig: 65, 26
+  offset: 0, 0
+  index: -1
+女2-脸
+  rotate: false
+  xy: 814, 10
+  size: 137, 177
+  orig: 137, 177
+  offset: 0, 0
+  index: -1
+女2-身体
+  rotate: true
+  xy: 284, 189
+  size: 284, 760
+  orig: 284, 924
+  offset: 0, 37
+  index: -1
+女3-1嘴
+  rotate: true
+  xy: 1883, 3
+  size: 60, 46
+  orig: 60, 46
+  offset: 0, 0
+  index: -1
+女3-1嘴2
+  rotate: true
+  xy: 1931, 10
+  size: 53, 36
+  orig: 53, 36
+  offset: 0, 0
+  index: -1
+女3-1嘴3
+  rotate: true
+  xy: 1525, 211
+  size: 53, 36
+  orig: 53, 36
+  offset: 0, 0
+  index: -1
+女3-1脸红
+  rotate: false
+  xy: 953, 10
+  size: 137, 177
+  orig: 137, 177
+  offset: 0, 0
+  index: -1
+手掌
+  rotate: false
+  xy: 1657, 220
+  size: 105, 141
+  orig: 113, 144
+  offset: 0, 0
+  index: -1

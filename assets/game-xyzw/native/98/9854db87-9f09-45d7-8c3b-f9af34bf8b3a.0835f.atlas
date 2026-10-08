@@ -1,0 +1,118 @@
+
+boss_diandianwa.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+diandianwa_arml
+  rotate: false
+  xy: 615, 371
+  size: 82, 138
+  orig: 82, 138
+  offset: 0, 0
+  index: -1
+diandianwa_armr
+  rotate: false
+  xy: 522, 350
+  size: 91, 159
+  orig: 91, 187
+  offset: 0, 0
+  index: -1
+diandianwa_body
+  rotate: true
+  xy: 2, 135
+  size: 374, 370
+  orig: 374, 375
+  offset: 0, 5
+  index: -1
+diandianwa_cheekl
+  rotate: false
+  xy: 121, 11
+  size: 113, 58
+  orig: 128, 60
+  offset: 0, 1
+  index: -1
+diandianwa_cheekr
+  rotate: false
+  xy: 625, 288
+  size: 71, 81
+  orig: 72, 81
+  offset: 1, 0
+  index: -1
+diandianwa_eyewhitel
+  rotate: false
+  xy: 612, 103
+  size: 80, 95
+  orig: 82, 96
+  offset: 1, 1
+  index: -1
+diandianwa_eyewhiter
+  rotate: false
+  xy: 630, 18
+  size: 73, 83
+  orig: 81, 91
+  offset: 4, 8
+  index: -1
+diandianwa_footl
+  rotate: true
+  xy: 523, 77
+  size: 121, 87
+  orig: 123, 87
+  offset: 1, 0
+  index: -1
+diandianwa_handl
+  rotate: false
+  xy: 2, 2
+  size: 117, 67
+  orig: 117, 67
+  offset: 0, 0
+  index: -1
+diandianwa_handr
+  rotate: false
+  xy: 523, 3
+  size: 105, 72
+  orig: 105, 73
+  offset: 0, 0
+  index: -1
+diandianwa_legl
+  rotate: false
+  xy: 498, 200
+  size: 125, 138
+  orig: 125, 138
+  offset: 0, 0
+  index: -1
+diandianwa_mouth
+  rotate: true
+  xy: 374, 180
+  size: 158, 122
+  orig: 159, 124
+  offset: 1, 1
+  index: -1
+diandianwa_mouth2
+  rotate: true
+  xy: 374, 340
+  size: 169, 146
+  orig: 169, 146
+  offset: 0, 0
+  index: -1
+diandianwa_tail
+  rotate: false
+  xy: 337, 25
+  size: 184, 108
+  orig: 194, 108
+  offset: 0, 0
+  index: -1
+diandianwa_tougue
+  rotate: false
+  xy: 2, 71
+  size: 333, 62
+  orig: 333, 62
+  offset: 0, 0
+  index: -1
+xysg_hero_effect_box
+  rotate: true
+  xy: 236, 39
+  size: 30, 28
+  orig: 32, 32
+  offset: 1, 2
+  index: -1

@@ -1,0 +1,111 @@
+
+zhujue_attack2.png
+size: 589,589
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+A_ci_fen_3
+  rotate: false
+  xy: 384, 177
+  size: 115, 156
+  orig: 115, 230
+  offset: 0, 71
+  index: -1
+A_ci_fen_4
+  rotate: false
+  xy: 462, 344
+  size: 115, 137
+  orig: 115, 230
+  offset: 0, 93
+  index: -1
+A_ci_fen_5
+  rotate: false
+  xy: 2, 54
+  size: 115, 106
+  orig: 115, 230
+  offset: 0, 124
+  index: -1
+A_ci_fen_6
+  rotate: false
+  xy: 472, 492
+  size: 115, 95
+  orig: 115, 230
+  offset: 0, 135
+  index: -1
+chongjibo
+  rotate: false
+  xy: 517, 209
+  size: 45, 45
+  orig: 45, 45
+  offset: 0, 0
+  index: -1
+jianguang_1
+  rotate: false
+  xy: 501, 191
+  size: 14, 151
+  orig: 14, 153
+  offset: 0, 1
+  index: -1
+quan1
+  rotate: true
+  xy: 2, 162
+  size: 157, 199
+  orig: 162, 273
+  offset: 2, 71
+  index: -1
+quan1s
+  rotate: true
+  xy: 384, 80
+  size: 95, 182
+  orig: 95, 182
+  offset: 0, 0
+  index: -1
+quan2
+  rotate: true
+  xy: 203, 163
+  size: 156, 179
+  orig: 162, 235
+  offset: 3, 53
+  index: -1
+quan2s
+  rotate: true
+  xy: 203, 53
+  size: 108, 157
+  orig: 108, 157
+  offset: 0, 0
+  index: -1
+quan3
+  rotate: true
+  xy: 265, 335
+  size: 146, 195
+  orig: 157, 308
+  offset: 11, 108
+  index: -1
+quan3s
+  rotate: true
+  xy: 265, 483
+  size: 104, 205
+  orig: 104, 205
+  offset: 0, 0
+  index: -1
+quantou_jida
+  rotate: false
+  xy: 2, 321
+  size: 261, 266
+  orig: 261, 266
+  offset: 0, 0
+  index: -1
+zezha_feichu_00
+  rotate: true
+  xy: 517, 189
+  size: 18, 32
+  orig: 93, 137
+  offset: 37, 54
+  index: -1
+zezha_feichu_02
+  rotate: false
+  xy: 517, 256
+  size: 49, 86
+  orig: 93, 137
+  offset: 22, 27
+  index: -1

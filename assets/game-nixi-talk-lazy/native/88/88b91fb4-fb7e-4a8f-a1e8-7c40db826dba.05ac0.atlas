@@ -1,0 +1,195 @@
+
+知性美女3.png
+size: 1794, 221
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+L手
+  rotate: true
+  xy: 521, 4
+  size: 62, 277
+  orig: 63, 277
+  offset: 1, 0
+  index: -1
+L手阴影
+  rotate: false
+  xy: 1715, 116
+  size: 30, 38
+  orig: 30, 39
+  offset: 0, 0
+  index: -1
+L手阴影 副本
+  rotate: false
+  xy: 1747, 126
+  size: 37, 28
+  orig: 37, 30
+  offset: 0, 0
+  index: -1
+L眼白
+  rotate: false
+  xy: 2, 3
+  size: 22, 13
+  orig: 22, 13
+  offset: 0, 0
+  index: -1
+L瞳
+  rotate: false
+  xy: 48, 3
+  size: 10, 13
+  orig: 10, 13
+  offset: 0, 0
+  index: -1
+L耳环
+  rotate: true
+  xy: 72, 4
+  size: 12, 37
+  orig: 12, 37
+  offset: 0, 0
+  index: -1
+L腿
+  rotate: true
+  xy: 1126, 101
+  size: 118, 587
+  orig: 118, 587
+  offset: 0, 0
+  index: -1
+L链子
+  rotate: false
+  xy: 995, 11
+  size: 88, 77
+  orig: 88, 79
+  offset: 0, 2
+  index: -1
+R小臂
+  rotate: true
+  xy: 803, 74
+  size: 145, 142
+  orig: 146, 142
+  offset: 1, 0
+  index: -1
+R手臂
+  rotate: false
+  xy: 1035, 92
+  size: 89, 127
+  orig: 90, 127
+  offset: 1, 0
+  index: -1
+R眼白
+  rotate: false
+  xy: 26, 3
+  size: 20, 13
+  orig: 20, 13
+  offset: 0, 0
+  index: -1
+R瞳
+  rotate: false
+  xy: 60, 3
+  size: 10, 13
+  orig: 10, 13
+  offset: 0, 0
+  index: -1
+R耳环
+  rotate: true
+  xy: 111, 4
+  size: 12, 37
+  orig: 12, 37
+  offset: 0, 0
+  index: -1
+R腿
+  rotate: true
+  xy: 1207, 3
+  size: 96, 497
+  orig: 96, 497
+  offset: 0, 0
+  index: -1
+R链子
+  rotate: false
+  xy: 800, 4
+  size: 87, 62
+  orig: 87, 62
+  offset: 0, 0
+  index: -1
+发簪挂件
+  rotate: true
+  xy: 150, 7
+  size: 9, 32
+  orig: 9, 32
+  offset: 0, 0
+  index: -1
+发簪挂件2
+  rotate: true
+  xy: 184, 7
+  size: 9, 32
+  orig: 9, 32
+  offset: 0, 0
+  index: -1
+后裙子
+  rotate: false
+  xy: 1715, 156
+  size: 57, 39
+  orig: 58, 39
+  offset: 0, 0
+  index: -1
+嘴
+  rotate: false
+  xy: 521, 68
+  size: 139, 151
+  orig: 139, 151
+  offset: 0, 0
+  index: -1
+嘴唇
+  rotate: false
+  xy: 1085, 14
+  size: 120, 76
+  orig: 123, 76
+  offset: 0, 0
+  index: -1
+图小臂阴影层 2
+  rotate: false
+  xy: 889, 2
+  size: 104, 70
+  orig: 106, 70
+  offset: 2, 0
+  index: -1
+头
+  rotate: false
+  xy: 662, 68
+  size: 139, 151
+  orig: 139, 151
+  offset: 0, 0
+  index: -1
+玉手
+  rotate: false
+  xy: 1706, 5
+  size: 71, 94
+  orig: 78, 100
+  offset: 1, 3
+  index: -1
+身体
+  rotate: true
+  xy: 2, 18
+  size: 201, 517
+  orig: 201, 520
+  offset: 0, 2
+  index: -1
+马尾
+  rotate: false
+  xy: 947, 90
+  size: 86, 129
+  orig: 86, 129
+  offset: 0, 0
+  index: -1
+鬓发1
+  rotate: false
+  xy: 1777, 166
+  size: 15, 53
+  orig: 15, 53
+  offset: 0, 0
+  index: -1
+鬓发2
+  rotate: true
+  xy: 1715, 197
+  size: 22, 60
+  orig: 22, 60
+  offset: 0, 0
+  index: -1

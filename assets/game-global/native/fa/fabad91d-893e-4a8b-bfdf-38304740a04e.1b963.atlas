@@ -1,0 +1,167 @@
+
+浮动引导.png
+size: 1174,56
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+修建房屋
+  rotate: false
+  xy: 748, 29
+  size: 87, 25
+  orig: 87, 25
+  offset: 0, 0
+  index: -1
+升级猪种
+  rotate: false
+  xy: 740, 2
+  size: 87, 25
+  orig: 87, 25
+  offset: 0, 0
+  index: -1
+升级盖房
+  rotate: false
+  xy: 829, 3
+  size: 86, 24
+  orig: 86, 24
+  offset: 0, 0
+  index: -1
+回家看看
+  rotate: false
+  xy: 926, 30
+  size: 86, 24
+  orig: 88, 26
+  offset: 1, 1
+  index: -1
+打败楚天霸
+  rotate: false
+  xy: 232, 2
+  size: 108, 25
+  orig: 108, 25
+  offset: 0, 0
+  index: -1
+抓猪
+  rotate: false
+  xy: 1078, 2
+  size: 46, 25
+  orig: 46, 25
+  offset: 0, 0
+  index: -1
+攒16兆
+  rotate: false
+  xy: 1006, 2
+  size: 70, 25
+  orig: 70, 25
+  offset: 0, 0
+  index: -1
+攒够100京
+  rotate: false
+  xy: 456, 29
+  size: 103, 25
+  orig: 105, 27
+  offset: 1, 1
+  index: -1
+攒够100兆
+  rotate: false
+  xy: 350, 29
+  size: 104, 25
+  orig: 104, 25
+  offset: 0, 0
+  index: -1
+攒够10亿
+  rotate: false
+  xy: 655, 29
+  size: 91, 25
+  orig: 91, 25
+  offset: 0, 0
+  index: -1
+攒够1垓
+  rotate: false
+  xy: 1014, 29
+  size: 78, 25
+  orig: 78, 25
+  offset: 0, 0
+  index: -1
+攒够20兆
+  rotate: false
+  xy: 561, 29
+  size: 92, 25
+  orig: 92, 25
+  offset: 0, 0
+  index: -1
+攒够3兆
+  rotate: false
+  xy: 1094, 29
+  size: 78, 25
+  orig: 78, 25
+  offset: 0, 0
+  index: -1
+攒够5000兆
+  rotate: false
+  xy: 232, 29
+  size: 116, 25
+  orig: 116, 25
+  offset: 0, 0
+  index: -1
+攒够500万
+  rotate: false
+  xy: 448, 2
+  size: 103, 25
+  orig: 103, 25
+  offset: 0, 0
+  index: -1
+攒够500兆
+  rotate: false
+  xy: 342, 2
+  size: 104, 25
+  orig: 104, 25
+  offset: 0, 0
+  index: -1
+攒够50万
+  rotate: false
+  xy: 647, 2
+  size: 91, 25
+  orig: 93, 27
+  offset: 1, 1
+  index: -1
+攒够50兆
+  rotate: false
+  xy: 553, 2
+  size: 92, 25
+  orig: 92, 25
+  offset: 0, 0
+  index: -1
+攒够5京
+  rotate: false
+  xy: 926, 3
+  size: 78, 25
+  orig: 78, 25
+  offset: 0, 0
+  index: -1
+斗猪
+  rotate: false
+  xy: 1126, 2
+  size: 45, 25
+  orig: 45, 25
+  offset: 0, 0
+  index: -1
+气泡
+  rotate: false
+  xy: 129, 2
+  size: 101, 52
+  orig: 103, 54
+  offset: 1, 1
+  index: -1
+气泡2
+  rotate: false
+  xy: 2, 2
+  size: 125, 52
+  orig: 127, 54
+  offset: 1, 1
+  index: -1
+获得道具
+  rotate: false
+  xy: 837, 29
+  size: 87, 25
+  orig: 87, 25
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,160 @@
+
+xuyou.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hero_effect_box2
+  rotate: false
+  xy: 275, 282
+  size: 82, 82
+  orig: 82, 82
+  offset: 0, 0
+  index: -1
+hero_effect_box3
+  rotate: false
+  xy: 315, 411
+  size: 82, 82
+  orig: 82, 82
+  offset: 0, 0
+  index: -1
+hero_effect_halfcircle1
+  rotate: false
+  xy: 2, 82
+  size: 86, 40
+  orig: 86, 40
+  offset: 0, 0
+  index: -1
+hero_eye_cry
+  rotate: true
+  xy: 315, 367
+  size: 42, 51
+  orig: 42, 51
+  offset: 0, 0
+  index: -1
+ui_effect_light_circle3
+  rotate: false
+  xy: 182, 156
+  size: 102, 102
+  orig: 102, 102
+  offset: 0, 0
+  index: -1
+xuyou_beard
+  rotate: false
+  xy: 67, 57
+  size: 14, 23
+  orig: 14, 23
+  offset: 0, 0
+  index: -1
+xuyou_body
+  rotate: true
+  xy: 165, 366
+  size: 127, 148
+  orig: 127, 166
+  offset: 0, 18
+  index: -1
+xuyou_butterfly
+  rotate: true
+  xy: 182, 82
+  size: 72, 51
+  orig: 72, 54
+  offset: 0, 3
+  index: -1
+xuyou_eye
+  rotate: true
+  xy: 2, 2
+  size: 13, 9
+  orig: 13, 9
+  offset: 0, 0
+  index: -1
+xuyou_eyebrow
+  rotate: true
+  xy: 275, 262
+  size: 18, 38
+  orig: 18, 38
+  offset: 0, 0
+  index: -1
+xuyou_eyewhite
+  rotate: false
+  xy: 132, 53
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+xuyou_handl
+  rotate: false
+  xy: 26, 38
+  size: 39, 42
+  orig: 39, 42
+  offset: 0, 0
+  index: -1
+xuyou_handr
+  rotate: false
+  xy: 132, 85
+  size: 37, 37
+  orig: 37, 37
+  offset: 0, 0
+  index: -1
+xuyou_handr2
+  rotate: true
+  xy: 90, 73
+  size: 49, 40
+  orig: 49, 40
+  offset: 0, 0
+  index: -1
+xuyou_head
+  rotate: false
+  xy: 2, 124
+  size: 178, 130
+  orig: 178, 130
+  offset: 0, 0
+  index: -1
+xuyou_legr
+  rotate: true
+  xy: 26, 13
+  size: 23, 31
+  orig: 23, 31
+  offset: 0, 0
+  index: -1
+xuyou_line1
+  rotate: false
+  xy: 2, 17
+  size: 22, 63
+  orig: 22, 63
+  offset: 0, 0
+  index: -1
+xuyou_line2
+  rotate: false
+  xy: 83, 12
+  size: 22, 59
+  orig: 22, 59
+  offset: 0, 0
+  index: -1
+xuyou_mouth
+  rotate: false
+  xy: 235, 92
+  size: 49, 62
+  orig: 49, 62
+  offset: 0, 0
+  index: -1
+xuyou_tail
+  rotate: true
+  xy: 286, 143
+  size: 117, 66
+  orig: 117, 66
+  offset: 0, 0
+  index: -1
+xuyou_weaponr
+  rotate: false
+  xy: 2, 256
+  size: 161, 237
+  orig: 161, 237
+  offset: 0, 0
+  index: -1
+xysg_hero_effect_swordlight2
+  rotate: false
+  xy: 165, 260
+  size: 108, 104
+  orig: 108, 104
+  offset: 0, 0
+  index: -1

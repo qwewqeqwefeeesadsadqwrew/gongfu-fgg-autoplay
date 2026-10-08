@@ -1,0 +1,90 @@
+
+lifa_main_0.png
+size: 200,200
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+咸鱼
+  rotate: false
+  xy: 2, 140
+  size: 122, 58
+  orig: 122, 58
+  offset: 0, 0
+  index: -1
+头-酱爆
+  rotate: true
+  xy: 126, 132
+  size: 66, 72
+  orig: 70, 74
+  offset: 1, 0
+  index: -1
+头-酱爆sleep气泡
+  rotate: false
+  xy: 67, 6
+  size: 42, 51
+  orig: 42, 51
+  offset: 0, 0
+  index: -1
+手R-酱爆
+  rotate: true
+  xy: 108, 61
+  size: 23, 63
+  orig: 23, 63
+  offset: 0, 0
+  index: -1
+收音机
+  rotate: true
+  xy: 2, 48
+  size: 40, 63
+  orig: 40, 63
+  offset: 0, 0
+  index: -1
+脚_酱爆
+  rotate: true
+  xy: 2, 14
+  size: 32, 59
+  orig: 32, 59
+  offset: 0, 0
+  index: -1
+表情-酱爆
+  rotate: true
+  xy: 152, 89
+  size: 41, 36
+  orig: 70, 74
+  offset: 9, 3
+  index: -1
+表情-酱爆2
+  rotate: false
+  xy: 108, 86
+  size: 42, 44
+  orig: 70, 74
+  offset: 8, 5
+  index: -1
+表情-酱爆3
+  rotate: false
+  xy: 111, 23
+  size: 41, 36
+  orig: 70, 74
+  offset: 9, 3
+  index: -1
+身体_酱爆
+  rotate: true
+  xy: 2, 90
+  size: 48, 70
+  orig: 56, 84
+  offset: 4, 13
+  index: -1
+阴影
+  rotate: true
+  xy: 74, 59
+  size: 79, 32
+  orig: 81, 34
+  offset: 1, 1
+  index: -1
+音符
+  rotate: false
+  xy: 173, 52
+  size: 22, 35
+  orig: 40, 47
+  offset: 7, 6
+  index: -1

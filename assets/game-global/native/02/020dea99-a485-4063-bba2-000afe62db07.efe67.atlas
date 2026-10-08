@@ -1,0 +1,13 @@
+
+红点.png
+size: 29,29
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+图层 2
+  rotate: false
+  xy: 2, 2
+  size: 25, 25
+  orig: 27, 27
+  offset: 1, 1
+  index: -1

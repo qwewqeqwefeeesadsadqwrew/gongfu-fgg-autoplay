@@ -1,0 +1,62 @@
+
+初始店主2.png
+size: 157,157
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+头-酱爆
+  rotate: true
+  xy: 83, 89
+  size: 66, 72
+  orig: 70, 74
+  offset: 1, 0
+  index: -1
+手R-酱爆
+  rotate: false
+  xy: 2, 8
+  size: 23, 63
+  orig: 23, 63
+  offset: 0, 0
+  index: -1
+脚_酱爆
+  rotate: false
+  xy: 27, 12
+  size: 32, 59
+  orig: 32, 59
+  offset: 0, 0
+  index: -1
+表情-酱爆
+  rotate: false
+  xy: 105, 51
+  size: 41, 36
+  orig: 70, 74
+  offset: 9, 3
+  index: -1
+表情-酱爆2
+  rotate: false
+  xy: 61, 27
+  size: 42, 44
+  orig: 70, 74
+  offset: 8, 5
+  index: -1
+表情-酱爆3
+  rotate: true
+  xy: 105, 8
+  size: 41, 36
+  orig: 70, 74
+  offset: 9, 3
+  index: -1
+身体_酱爆
+  rotate: true
+  xy: 2, 73
+  size: 48, 70
+  orig: 56, 84
+  offset: 4, 13
+  index: -1
+阴影
+  rotate: false
+  xy: 2, 123
+  size: 79, 32
+  orig: 81, 34
+  offset: 1, 1
+  index: -1

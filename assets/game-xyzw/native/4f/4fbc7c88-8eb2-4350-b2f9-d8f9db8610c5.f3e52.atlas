@@ -1,0 +1,27 @@
+
+tianwang_tx.png
+size: 1780,1780
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tianwang
+  rotate: false
+  xy: 1049, 973
+  size: 729, 805
+  orig: 729, 805
+  offset: 0, 0
+  index: -1
+tianwang_bg
+  rotate: false
+  xy: 2, 1052
+  size: 1045, 726
+  orig: 1045, 726
+  offset: 0, 0
+  index: -1
+tianwang_zz
+  rotate: false
+  xy: 2, 356
+  size: 1045, 694
+  orig: 1045, 695
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,132 @@
+
+madai.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hero_effect_box2
+  rotate: false
+  xy: 259, 230
+  size: 82, 82
+  orig: 82, 82
+  offset: 0, 0
+  index: -1
+hero_effect_halo1
+  rotate: false
+  xy: 263, 325
+  size: 46, 46
+  orig: 46, 46
+  offset: 0, 0
+  index: -1
+hero_eye_cry
+  rotate: true
+  xy: 166, 329
+  size: 42, 51
+  orig: 42, 51
+  offset: 0, 0
+  index: -1
+madai_body
+  rotate: true
+  xy: 2, 2
+  size: 151, 163
+  orig: 151, 163
+  offset: 0, 0
+  index: -1
+madai_eye
+  rotate: true
+  xy: 2, 363
+  size: 8, 10
+  orig: 8, 10
+  offset: 0, 0
+  index: -1
+madai_eyewhite
+  rotate: true
+  xy: 14, 349
+  size: 22, 31
+  orig: 22, 31
+  offset: 0, 0
+  index: -1
+madai_hair
+  rotate: true
+  xy: 2, 255
+  size: 76, 126
+  orig: 80, 126
+  offset: 0, 0
+  index: -1
+madai_handl
+  rotate: true
+  xy: 121, 333
+  size: 38, 43
+  orig: 38, 43
+  offset: 0, 0
+  index: -1
+madai_handr1
+  rotate: false
+  xy: 219, 329
+  size: 42, 42
+  orig: 43, 45
+  offset: 0, 3
+  index: -1
+madai_handr2
+  rotate: true
+  xy: 80, 338
+  size: 33, 39
+  orig: 34, 42
+  offset: 0, 3
+  index: -1
+madai_head
+  rotate: true
+  xy: 193, 110
+  size: 118, 138
+  orig: 118, 138
+  offset: 0, 0
+  index: -1
+madai_jaw
+  rotate: true
+  xy: 130, 247
+  size: 80, 127
+  orig: 80, 127
+  offset: 0, 0
+  index: -1
+madai_legr
+  rotate: true
+  xy: 47, 348
+  size: 23, 31
+  orig: 23, 31
+  offset: 0, 0
+  index: -1
+madai_shoulderl
+  rotate: false
+  xy: 387, 297
+  size: 84, 74
+  orig: 84, 74
+  offset: 0, 0
+  index: -1
+madai_tail
+  rotate: false
+  xy: 311, 314
+  size: 74, 57
+  orig: 74, 57
+  offset: 0, 0
+  index: -1
+madai_weapon
+  rotate: true
+  xy: 2, 155
+  size: 90, 189
+  orig: 90, 189
+  offset: 0, 0
+  index: -1
+xysg_hero_effect_lightcircle
+  rotate: false
+  xy: 333, 50
+  size: 139, 139
+  orig: 139, 139
+  offset: 0, 0
+  index: -1
+xysg_hero_effect_swordlight2
+  rotate: false
+  xy: 343, 191
+  size: 108, 104
+  orig: 108, 104
+  offset: 0, 0
+  index: -1

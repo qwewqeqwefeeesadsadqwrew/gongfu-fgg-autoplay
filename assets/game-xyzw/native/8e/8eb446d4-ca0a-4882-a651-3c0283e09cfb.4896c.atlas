@@ -1,0 +1,272 @@
+
+gongsunzan.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gongsunzan_arrow
+  rotate: true
+  xy: 382, 320
+  size: 79, 53
+  orig: 79, 53
+  offset: 0, 0
+  index: -1
+gongsunzan_body
+  rotate: false
+  xy: 267, 401
+  size: 144, 109
+  orig: 144, 109
+  offset: 0, 0
+  index: -1
+gongsunzan_effect1
+  rotate: false
+  xy: 239, 110
+  size: 105, 74
+  orig: 105, 74
+  offset: 0, 0
+  index: -1
+gongsunzan_effect2
+  rotate: true
+  xy: 413, 402
+  size: 108, 85
+  orig: 108, 85
+  offset: 0, 0
+  index: -1
+gongsunzan_effect3
+  rotate: false
+  xy: 135, 126
+  size: 102, 83
+  orig: 102, 83
+  offset: 0, 0
+  index: -1
+gongsunzan_eye
+  rotate: false
+  xy: 295, 2
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+gongsunzan_eyebrow
+  rotate: false
+  xy: 414, 68
+  size: 45, 21
+  orig: 45, 21
+  offset: 0, 0
+  index: -1
+gongsunzan_eyewhite
+  rotate: false
+  xy: 414, 41
+  size: 27, 25
+  orig: 27, 25
+  offset: 0, 0
+  index: -1
+gongsunzan_footr
+  rotate: false
+  xy: 414, 10
+  size: 22, 29
+  orig: 22, 29
+  offset: 0, 0
+  index: -1
+gongsunzan_hair1
+  rotate: false
+  xy: 216, 3
+  size: 77, 56
+  orig: 77, 56
+  offset: 0, 0
+  index: -1
+gongsunzan_hair2
+  rotate: false
+  xy: 2, 233
+  size: 156, 147
+  orig: 156, 147
+  offset: 0, 0
+  index: -1
+gongsunzan_handl1
+  rotate: true
+  xy: 378, 137
+  size: 47, 37
+  orig: 47, 41
+  offset: 0, 2
+  index: -1
+gongsunzan_handl2
+  rotate: false
+  xy: 457, 91
+  size: 36, 34
+  orig: 38, 37
+  offset: 1, 0
+  index: -1
+gongsunzan_handr
+  rotate: false
+  xy: 417, 127
+  size: 41, 40
+  orig: 41, 41
+  offset: 0, 1
+  index: -1
+gongsunzan_handrlight
+  rotate: true
+  xy: 117, 2
+  size: 68, 69
+  orig: 71, 71
+  offset: 1, 1
+  index: -1
+gongsunzan_head
+  rotate: true
+  xy: 2, 4
+  size: 94, 113
+  orig: 94, 113
+  offset: 0, 0
+  index: -1
+gongsunzan_horse1
+  rotate: false
+  xy: 160, 269
+  size: 110, 111
+  orig: 110, 111
+  offset: 0, 0
+  index: -1
+gongsunzan_horse2
+  rotate: false
+  xy: 232, 61
+  size: 112, 47
+  orig: 112, 47
+  offset: 0, 0
+  index: -1
+gongsunzan_jaw
+  rotate: false
+  xy: 353, 2
+  size: 59, 72
+  orig: 59, 72
+  offset: 0, 0
+  index: -1
+gongsunzan_legl
+  rotate: false
+  xy: 135, 72
+  size: 95, 52
+  orig: 95, 52
+  offset: 0, 0
+  index: -1
+gongsunzan_legr
+  rotate: false
+  xy: 160, 211
+  size: 107, 56
+  orig: 107, 56
+  offset: 0, 0
+  index: -1
+gongsunzan_scarf1
+  rotate: false
+  xy: 188, 2
+  size: 26, 68
+  orig: 26, 68
+  offset: 0, 0
+  index: -1
+gongsunzan_scarf2
+  rotate: true
+  xy: 437, 308
+  size: 92, 65
+  orig: 92, 65
+  offset: 0, 0
+  index: -1
+gongsunzan_shoulderl
+  rotate: true
+  xy: 428, 169
+  size: 58, 79
+  orig: 58, 79
+  offset: 0, 0
+  index: -1
+gongsunzan_shoulderr
+  rotate: false
+  xy: 272, 319
+  size: 108, 80
+  orig: 108, 80
+  offset: 0, 0
+  index: -1
+gongsunzan_skill1
+  rotate: true
+  xy: 353, 76
+  size: 108, 23
+  orig: 110, 24
+  offset: 1, 0
+  index: -1
+gongsunzan_tail
+  rotate: false
+  xy: 272, 251
+  size: 113, 66
+  orig: 113, 66
+  offset: 0, 0
+  index: -1
+gongsunzan_tie1
+  rotate: true
+  xy: 387, 247
+  size: 71, 43
+  orig: 71, 43
+  offset: 0, 0
+  index: -1
+gongsunzan_tie2
+  rotate: true
+  xy: 378, 91
+  size: 44, 35
+  orig: 44, 35
+  offset: 0, 0
+  index: -1
+gongsunzan_weapon1
+  rotate: false
+  xy: 2, 382
+  size: 263, 128
+  orig: 263, 128
+  offset: 0, 0
+  index: -1
+gongsunzan_weapon2
+  rotate: true
+  xy: 346, 2
+  size: 182, 5
+  orig: 182, 5
+  offset: 0, 0
+  index: -1
+gongsunzan_weapon3
+  rotate: false
+  xy: 269, 186
+  size: 116, 63
+  orig: 118, 65
+  offset: 1, 1
+  index: -1
+gongsunzan_weaponlight
+  rotate: false
+  xy: 415, 91
+  size: 40, 34
+  orig: 42, 35
+  offset: 1, 1
+  index: -1
+hero_effect_box2
+  rotate: false
+  xy: 432, 229
+  size: 77, 77
+  orig: 77, 77
+  offset: 0, 0
+  index: -1
+hero_effect_halo1
+  rotate: false
+  xy: 460, 127
+  size: 40, 40
+  orig: 44, 44
+  offset: 2, 2
+  index: -1
+hero_eye_cry
+  rotate: false
+  xy: 387, 197
+  size: 39, 48
+  orig: 39, 48
+  offset: 0, 0
+  index: -1
+lvbu3_skill_ring
+  rotate: false
+  xy: 295, 11
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+xysg_hero_effect_lightcircle
+  rotate: false
+  xy: 2, 100
+  size: 131, 131
+  orig: 131, 131
+  offset: 0, 0
+  index: -1

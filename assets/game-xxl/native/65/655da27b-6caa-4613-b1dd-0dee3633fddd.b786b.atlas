@@ -1,0 +1,48 @@
+
+小游戏_鹅2.png
+size: 231,134
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+大鹅-身体2
+  rotate: false
+  xy: 2, 4
+  size: 99, 128
+  orig: 99, 128
+  offset: 0, 0
+  index: -1
+大鹅-身体b
+  rotate: false
+  xy: 103, 4
+  size: 99, 128
+  orig: 99, 128
+  offset: 0, 0
+  index: -1
+鸭子-脚1
+  rotate: false
+  xy: 204, 99
+  size: 25, 33
+  orig: 25, 33
+  offset: 0, 0
+  index: -1
+鸭子-脚1b
+  rotate: false
+  xy: 204, 64
+  size: 25, 33
+  orig: 25, 33
+  offset: 0, 0
+  index: -1
+鸭子-脚2
+  rotate: false
+  xy: 204, 33
+  size: 24, 29
+  orig: 24, 29
+  offset: 0, 0
+  index: -1
+鸭子-脚2b
+  rotate: false
+  xy: 204, 2
+  size: 24, 29
+  orig: 24, 29
+  offset: 0, 0
+  index: -1

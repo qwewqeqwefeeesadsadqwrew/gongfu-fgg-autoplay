@@ -1,0 +1,146 @@
+
+touzhiwu.png
+size: 2542,2542
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baba
+  rotate: false
+  xy: 311, 7
+  size: 122, 125
+  orig: 122, 125
+  offset: 0, 0
+  index: -1
+boli_1_1
+  rotate: true
+  xy: 1318, 720
+  size: 152, 143
+  orig: 152, 143
+  offset: 0, 0
+  index: -1
+boli_2_1
+  rotate: false
+  xy: 951, 841
+  size: 283, 138
+  orig: 283, 138
+  offset: 0, 0
+  index: -1
+boli_3_1
+  rotate: false
+  xy: 951, 981
+  size: 95, 137
+  orig: 95, 137
+  offset: 0, 0
+  index: -1
+boli_4_1
+  rotate: true
+  xy: 847, 1157
+  size: 337, 140
+  orig: 337, 140
+  offset: 0, 0
+  index: -1
+boli_5_1
+  rotate: false
+  xy: 824, 508
+  size: 170, 251
+  orig: 170, 251
+  offset: 0, 0
+  index: -1
+futou1
+  rotate: false
+  xy: 989, 1120
+  size: 29, 374
+  orig: 216, 572
+  offset: 85, 101
+  index: -1
+futou2
+  rotate: false
+  xy: 724, 499
+  size: 98, 355
+  orig: 216, 572
+  offset: 65, 111
+  index: -1
+futou3
+  rotate: false
+  xy: 1135, 627
+  size: 181, 212
+  orig: 216, 572
+  offset: 35, 162
+  index: -1
+futou4
+  rotate: false
+  xy: 847, 761
+  size: 102, 394
+  orig: 216, 572
+  offset: 57, 47
+  index: -1
+futou5
+  rotate: false
+  xy: 996, 556
+  size: 137, 283
+  orig: 216, 572
+  offset: 39, 126
+  index: -1
+futou6
+  rotate: false
+  xy: 1236, 874
+  size: 145, 150
+  orig: 216, 572
+  offset: 39, 225
+  index: -1
+futou7
+  rotate: true
+  xy: 2, 9
+  size: 123, 307
+  orig: 216, 572
+  offset: 47, 147
+  index: -1
+hongbian
+  rotate: false
+  xy: 1049, 1026
+  size: 650, 1514
+  orig: 650, 1514
+  offset: 0, 0
+  index: -1
+suipian
+  rotate: false
+  xy: 1161, 2
+  size: 655, 623
+  orig: 657, 629
+  offset: 1, 2
+  index: -1
+tu
+  rotate: true
+  xy: 2, 856
+  size: 638, 843
+  orig: 638, 843
+  offset: 0, 0
+  index: -1
+xuanzhuanfeng
+  rotate: true
+  xy: 724, 42
+  size: 455, 435
+  orig: 455, 435
+  offset: 0, 0
+  index: -1
+xuesi
+  rotate: false
+  xy: 2, 1496
+  size: 1045, 1044
+  orig: 1045, 1044
+  offset: 0, 0
+  index: -1
+yeti
+  rotate: false
+  xy: 2, 134
+  size: 720, 720
+  orig: 720, 720
+  offset: 0, 0
+  index: -1
+zhezhao
+  rotate: false
+  xy: 435, 10
+  size: 74, 122
+  orig: 74, 122
+  offset: 0, 0
+  index: -1

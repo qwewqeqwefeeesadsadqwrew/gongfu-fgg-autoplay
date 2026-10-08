@@ -1,0 +1,13 @@
+
+裁缝店_装饰动画.png
+size: 112,110
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+灯
+  rotate: false
+  xy: 2, 2
+  size: 108, 106
+  orig: 126, 120
+  offset: 9, 9
+  index: -1

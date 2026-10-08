@@ -1,0 +1,41 @@
+
+lvlup.png
+size: 331,366
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+光线1
+  rotate: true
+  xy: 2, 353
+  size: 11, 275
+  orig: 11, 280
+  offset: 0, 3
+  index: -1
+光线2
+  rotate: true
+  xy: 279, 333
+  size: 31, 50
+  orig: 64, 64
+  offset: 17, 7
+  index: -1
+光线3
+  rotate: true
+  xy: 2, 274
+  size: 77, 235
+  orig: 79, 239
+  offset: 1, 2
+  index: -1
+光线4
+  rotate: false
+  xy: 255, 2
+  size: 59, 329
+  orig: 60, 349
+  offset: 0, 10
+  index: -1
+旋风22
+  rotate: true
+  xy: 2, 23
+  size: 249, 251
+  orig: 361, 841
+  offset: 59, 301
+  index: -1

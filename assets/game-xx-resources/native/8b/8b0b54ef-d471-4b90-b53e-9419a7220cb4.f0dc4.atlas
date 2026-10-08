@@ -1,0 +1,20 @@
+
+boss_bg_zhezhao.png
+size: 1752,1152
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+boss_bg_shan
+  rotate: true
+  xy: 1156, 502
+  size: 648, 592
+  orig: 648, 1512
+  offset: 0, 246
+  index: -1
+boss_bg_yuan
+  rotate: true
+  xy: 2, 2
+  size: 1148, 1152
+  orig: 1148, 1152
+  offset: 0, 0
+  index: -1

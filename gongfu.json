@@ -1,0 +1,763 @@
+﻿{
+  "Redeem": [
+    {
+      "CodeId": "u10hjtest",
+      "RewardIdList": "[7001001,7001002,7001003]",
+      "Toast": "[已发放200个天赋点，25张免广券，10倍财神奖励]"
+    },
+    {
+      "CodeId": "2za9qatest",
+      "RewardIdList": "[7001004,7001005,7001006]",
+      "Toast": "[已发放200个天赋点，25张免广券，10倍财神奖励]"
+    },
+    {
+      "CodeId": "7r1zqtest",
+      "RewardIdList": "[7001017,7001018,7001019]",
+      "Toast": "[已发放唐纳德、20等级、5张免广券]"
+    },
+    {
+      "CodeId": "ppp16ytest",
+      "RewardIdList": "[7001020,7001021,7001022]",
+      "Toast": "[已发放沧老师、海量金币、6张免广券]"
+    },
+    {
+      "CodeId": "WW2wtest",
+      "RewardIdList": "[7001023,7001024,7001025]",
+      "Toast": "[已发放三级连点器、海量金币、7张免广券]"
+    },
+    {
+      "CodeId": "1212jjtest",
+      "RewardIdList": "[7001065]",
+      "Toast": "您已获得15免广券！]"
+    },
+    {
+      "CodeId": "99sd3gtest",
+      "RewardIdList": "[7001048]",
+      "Toast": "[已发放100万金币]"
+    },
+    {
+      "CodeId": "9maate2st",
+      "RewardIdList": "[7001051]",
+      "Toast": "[已发放500万金币]"
+    },
+    {
+      "CodeId": "io12test",
+      "RewardIdList": "[7001051]",
+      "Toast": "[已发放5个天赋点]"
+    },
+    {
+      "CodeId": "aaa444test",
+      "RewardIdList": "[7001028]",
+      "Toast": "[已发放唐纳德]"
+    },
+    {
+      "CodeId": "0j0jw5f7test",
+      "RewardIdList": "[7001017]",
+      "Toast": "[已发放XXX]"
+    },
+    {
+      "CodeId": "u10hjX8fG1",
+      "RewardIdList": "[7001001,7001002,7001003]",
+      "Toast": "[已发放200个天赋点，25张免广券，10倍财神奖励]"
+    },
+    {
+      "CodeId": "u10hjK9mR1",
+      "RewardIdList": "[7001001,7001002,7001003]",
+      "Toast": "[已发放200个天赋点，25张免广券，10倍财神奖励]"
+    },
+    {
+      "CodeId": "u10hjP3qT",
+      "RewardIdList": "[7001001,7001002,7001003]",
+      "Toast": "[已发放200个天赋点，25张免广券，10倍财神奖励]"
+    },
+    {
+      "CodeId": "u10hjL7sY",
+      "RewardIdList": "[7001001,7001002,7001003]",
+      "Toast": "[已发放200个天赋点，25张免广券，10倍财神奖励]"
+    },
+    {
+      "CodeId": "u10hjN2vU",
+      "RewardIdList": "[7001001,7001002,7001003]",
+      "Toast": "[已发放200个天赋点，25张免广券，10倍财神奖励]"
+    },
+    {
+      "CodeId": "u10hjB5wQ",
+      "RewardIdList": "[7001001,7001002,7001003]",
+      "Toast": "[已发放200个天赋点，25张免广券，10倍财神奖励]"
+    },
+    {
+      "CodeId": "u10hjZ1xE",
+      "RewardIdList": "[7001001,7001002,7001003]",
+      "Toast": "[已发放200个天赋点，25张免广券，10倍财神奖励]"
+    },
+    {
+      "CodeId": "u10hjM4cA",
+      "RewardIdList": "[7001001,7001002,7001003]",
+      "Toast": "[已发放200个天赋点，25张免广券，10倍财神奖励]"
+    },
+    {
+      "CodeId": "u10hjV6bS",
+      "RewardIdList": "[7001001,7001002,7001003]",
+      "Toast": "[已发放200个天赋点，25张免广券，10倍财神奖励]"
+    },
+    {
+      "CodeId": "u10hjD8nD",
+      "RewardIdList": "[7001001,7001002,7001003]",
+      "Toast": "[已发放200个天赋点，25张免广券，10倍财神奖励]"
+    },
+    {
+      "CodeId": "2za9qaF3gH",
+      "RewardIdList": "[7001004,7001005,7001006]",
+      "Toast": "[已发放200个天赋点，25张免广券，10倍财神奖励]"
+    },
+    {
+      "CodeId": "2za9qaJ7hK",
+      "RewardIdList": "[7001004,7001005,7001006]",
+      "Toast": "[已发放200个天赋点，25张免广券，10倍财神奖励]"
+    },
+    {
+      "CodeId": "2za9qaT2jL",
+      "RewardIdList": "[7001004,7001005,7001006]",
+      "Toast": "[已发放200个天赋点，25张免广券，10倍财神奖励]"
+    },
+    {
+      "CodeId": "2za9qaR5kP",
+      "RewardIdList": "[7001004,7001005,7001006]",
+      "Toast": "[已发放200个天赋点，25张免广券，10倍财神奖励]"
+    },
+    {
+      "CodeId": "2za9qaW9lO",
+      "RewardIdList": "[7001004,7001005,7001006]",
+      "Toast": "[已发放200个天赋点，25张免广券，10倍财神奖励]"
+    },
+    {
+      "CodeId": "2za9qaY4zI",
+      "RewardIdList": "[7001004,7001005,7001006]",
+      "Toast": "[已发放200个天赋点，25张免广券，10倍财神奖励]"
+    },
+    {
+      "CodeId": "2za9qaU8xU",
+      "RewardIdList": "[7001004,7001005,7001006]",
+      "Toast": "[已发放200个天赋点，25张免广券，10倍财神奖励]"
+    },
+    {
+      "CodeId": "2za9qaQ1cC",
+      "RewardIdList": "[7001004,7001005,7001006]",
+      "Toast": "[已发放200个天赋点，25张免广券，10倍财神奖励]"
+    },
+    {
+      "CodeId": "2za9qaA6vV",
+      "RewardIdList": "[7001004,7001005,7001006]",
+      "Toast": "[已发放200个天赋点，25张免广券，10倍财神奖励]"
+    },
+    {
+      "CodeId": "2za9qaS0bB",
+      "RewardIdList": "[7001004,7001005,7001006]",
+      "Toast": "[已发放200个天赋点，25张免广券，10倍财神奖励]"
+    },
+    {
+      "CodeId": "7r1zqG3mN1",
+      "RewardIdList": "[7001017,7001018,7001019]",
+      "Toast": "[已发放唐纳德、20等级、5张免广券]"
+    },
+    {
+      "CodeId": "7r1zqH7qM1",
+      "RewardIdList": "[7001017,7001018,7001019]",
+      "Toast": "[已发放唐纳德、20等级、5张免广券]"
+    },
+    {
+      "CodeId": "7r1zqJ2wK",
+      "RewardIdList": "[7001017,7001018,7001019]",
+      "Toast": "[已发放唐纳德、20等级、5张免广券]"
+    },
+    {
+      "CodeId": "7r1zqK5eJ",
+      "RewardIdList": "[7001017,7001018,7001019]",
+      "Toast": "[已发放唐纳德、20等级、5张免广券]"
+    },
+    {
+      "CodeId": "7r1zqL9rH",
+      "RewardIdList": "[7001017,7001018,7001019]",
+      "Toast": "[已发放唐纳德、20等级、5张免广券]"
+    },
+    {
+      "CodeId": "7r1zqZ4tG",
+      "RewardIdList": "[7001017,7001018,7001019]",
+      "Toast": "[已发放唐纳德、20等级、5张免广券]"
+    },
+    {
+      "CodeId": "7r1zqX8yF",
+      "RewardIdList": "[7001017,7001018,7001019]",
+      "Toast": "[已发放唐纳德、20等级、5张免广券]"
+    },
+    {
+      "CodeId": "7r1zqC1uD",
+      "RewardIdList": "[7001017,7001018,7001019]",
+      "Toast": "[已发放唐纳德、20等级、5张免广券]"
+    },
+    {
+      "CodeId": "7r1zqV6iS",
+      "RewardIdList": "[7001017,7001018,7001019]",
+      "Toast": "[已发放唐纳德、20等级、5张免广券]"
+    },
+    {
+      "CodeId": "7r1zqB0oA",
+      "RewardIdList": "[7001017,7001018,7001019]",
+      "Toast": "[已发放唐纳德、20等级、5张免广券]"
+    },
+    {
+      "CodeId": "ppp16yF3pL1",
+      "RewardIdList": "[7001020,7001021,7001022]",
+      "Toast": "[已发放沧老师、海量金币、6张免广券]"
+    },
+    {
+      "CodeId": "ppp16yG7aK1",
+      "RewardIdList": "[7001020,7001021,7001022]",
+      "Toast": "[已发放沧老师、海量金币、6张免广券]"
+    },
+    {
+      "CodeId": "ppp16yH2sJ1",
+      "RewardIdList": "[7001020,7001021,7001022]",
+      "Toast": "[已发放沧老师、海量金币、6张免广券]"
+    },
+    {
+      "CodeId": "ppp16yJ5dH1",
+      "RewardIdList": "[7001020,7001021,7001022]",
+      "Toast": "[已发放沧老师、海量金币、6张免广券]"
+    },
+    {
+      "CodeId": "ppp16yK9fG",
+      "RewardIdList": "[7001020,7001021,7001022]",
+      "Toast": "[已发放沧老师、海量金币、6张免广券]"
+    },
+    {
+      "CodeId": "ppp16yL4gF",
+      "RewardIdList": "[7001020,7001021,7001022]",
+      "Toast": "[已发放沧老师、海量金币、6张免广券]"
+    },
+    {
+      "CodeId": "ppp16yZ8hD",
+      "RewardIdList": "[7001020,7001021,7001022]",
+      "Toast": "[已发放沧老师、海量金币、6张免广券]"
+    },
+    {
+      "CodeId": "ppp16yX1jS",
+      "RewardIdList": "[7001020,7001021,7001022]",
+      "Toast": "[已发放沧老师、海量金币、6张免广券]"
+    },
+    {
+      "CodeId": "ppp16yC6kA",
+      "RewardIdList": "[7001020,7001021,7001022]",
+      "Toast": "[已发放沧老师、海量金币、6张免广券]"
+    },
+    {
+      "CodeId": "ppp16yV0lQ",
+      "RewardIdList": "[7001020,7001021,7001022]",
+      "Toast": "[已发放沧老师、海量金币、6张免广券]"
+    },
+    {
+      "CodeId": "WW2wM3zW1",
+      "RewardIdList": "[7001023,7001024,7001025]",
+      "Toast": "[已发放三级连点器、海量金币、7张免广券]"
+    },
+    {
+      "CodeId": "WW2wN7xE1",
+      "RewardIdList": "[7001023,7001024,7001025]",
+      "Toast": "[已发放三级连点器、海量金币、7张免广券]"
+    },
+    {
+      "CodeId": "WW2wP2cR1",
+      "RewardIdList": "[7001023,7001024,7001025]",
+      "Toast": "[已发放三级连点器、海量金币、7张免广券]"
+    },
+    {
+      "CodeId": "WW2wQ5vT",
+      "RewardIdList": "[7001023,7001024,7001025]",
+      "Toast": "[已发放三级连点器、海量金币、7张免广券]"
+    },
+    {
+      "CodeId": "WW2wR9bY",
+      "RewardIdList": "[7001023,7001024,7001025]",
+      "Toast": "[已发放三级连点器、海量金币、7张免广券]"
+    },
+    {
+      "CodeId": "WW2wS4nU",
+      "RewardIdList": "[7001023,7001024,7001025]",
+      "Toast": "[已发放三级连点器、海量金币、7张免广券]"
+    },
+    {
+      "CodeId": "WW2wT8mI",
+      "RewardIdList": "[7001023,7001024,7001025]",
+      "Toast": "[已发放三级连点器、海量金币、7张免广券]"
+    },
+    {
+      "CodeId": "WW2wU1qO",
+      "RewardIdList": "[7001023,7001024,7001025]",
+      "Toast": "[已发放三级连点器、海量金币、7张免广券]"
+    },
+    {
+      "CodeId": "WW2wV6wP",
+      "RewardIdList": "[7001023,7001024,7001025]",
+      "Toast": "[已发放三级连点器、海量金币、7张免广券]"
+    },
+    {
+      "CodeId": "WW2wW0eK",
+      "RewardIdList": "[7001023,7001024,7001025]",
+      "Toast": "[已发放三级连点器、海量金币、7张免广券]"
+    },
+    {
+      "CodeId": "1212jjY3rL1",
+      "RewardIdList": "[7001065]",
+      "Toast": "[已发放15免广券]"
+    },
+    {
+      "CodeId": "1212jjU7tJ1",
+      "RewardIdList": "[7001065]",
+      "Toast": "[已发放15免广券]"
+    },
+    {
+      "CodeId": "1212jjI2yH1",
+      "RewardIdList": "[7001065]",
+      "Toast": "[已发放15免广券]"
+    },
+    {
+      "CodeId": "1212jjO5uG1",
+      "RewardIdList": "[7001065]",
+      "Toast": "[已发放15免广券]"
+    },
+    {
+      "CodeId": "1212jjA9iF1",
+      "RewardIdList": "[7001065]",
+      "Toast": "[已发放15免广券]"
+    },
+    {
+      "CodeId": "1212jjD4oD",
+      "RewardIdList": "[7001065]",
+      "Toast": "[已发放15免广券]"
+    },
+    {
+      "CodeId": "1212jjF8pS",
+      "RewardIdList": "[7001065]",
+      "Toast": "[已发放15免广券]"
+    },
+    {
+      "CodeId": "1212jjG1aA",
+      "RewardIdList": "[7001065]",
+      "Toast": "[已发放15免广券]"
+    },
+    {
+      "CodeId": "1212jjH6sQ",
+      "RewardIdList": "[7001065]",
+      "Toast": "[已发放15免广券]"
+    },
+    {
+      "CodeId": "1212jjJ0dW",
+      "RewardIdList": "[7001065]",
+      "Toast": "[已发放15免广券]"
+    },
+    {
+      "CodeId": "9maaK3fE",
+      "RewardIdList": "[7001048]",
+      "Toast": "[已发放100万金币]"
+    },
+    {
+      "CodeId": "9maaL7hR",
+      "RewardIdList": "[7001048]",
+      "Toast": "[已发放100万金币]"
+    },
+    {
+      "CodeId": "9maaZ2jT",
+      "RewardIdList": "[7001048]",
+      "Toast": "[已发放100万金币]"
+    },
+    {
+      "CodeId": "9maaX5kY",
+      "RewardIdList": "[7001048]",
+      "Toast": "[已发放100万金币]"
+    },
+    {
+      "CodeId": "9maaC9lU",
+      "RewardIdList": "[7001048]",
+      "Toast": "[已发放100万金币]"
+    },
+    {
+      "CodeId": "9maaV4zI",
+      "RewardIdList": "[7001048]",
+      "Toast": "[已发放100万金币]"
+    },
+    {
+      "CodeId": "9maaB8xO",
+      "RewardIdList": "[7001048]",
+      "Toast": "[已发放100万金币]"
+    },
+    {
+      "CodeId": "9maaN1cP",
+      "RewardIdList": "[7001048]",
+      "Toast": "[已发放100万金币]"
+    },
+    {
+      "CodeId": "9maaM6vK",
+      "RewardIdList": "[7001048]",
+      "Toast": "[已发放100万金币]"
+    },
+    {
+      "CodeId": "9maaQ0bJ",
+      "RewardIdList": "[7001048]",
+      "Toast": "[已发放100万金币]"
+    },
+    {
+      "CodeId": "io12R3nH",
+      "RewardIdList": "[7001051]",
+      "Toast": "[已发放5个天赋点]"
+    },
+    {
+      "CodeId": "io12S7mG",
+      "RewardIdList": "[7001051]",
+      "Toast": "[已发放5个天赋点]"
+    },
+    {
+      "CodeId": "io12T2qF",
+      "RewardIdList": "[7001051]",
+      "Toast": "[已发放5个天赋点]"
+    },
+    {
+      "CodeId": "io12U5wD",
+      "RewardIdList": "[7001051]",
+      "Toast": "[已发放5个天赋点]"
+    },
+    {
+      "CodeId": "io12V9eS",
+      "RewardIdList": "[7001051]",
+      "Toast": "[已发放5个天赋点]"
+    },
+    {
+      "CodeId": "io12W4rA",
+      "RewardIdList": "[7001051]",
+      "Toast": "[已发放5个天赋点]"
+    },
+    {
+      "CodeId": "io12Y8tQ",
+      "RewardIdList": "[7001051]",
+      "Toast": "[已发放5个天赋点]"
+    },
+    {
+      "CodeId": "io12U1yW",
+      "RewardIdList": "[7001051]",
+      "Toast": "[已发放5个天赋点]"
+    },
+    {
+      "CodeId": "io12I6uE",
+      "RewardIdList": "[7001051]",
+      "Toast": "[已发放5个天赋点]"
+    },
+    {
+      "CodeId": "io12O0iR",
+      "RewardIdList": "[7001051]",
+      "Toast": "[已发放5个天赋点]"
+    },
+    {
+      "CodeId": "aaa444A3oT",
+      "RewardIdList": "[7001028]",
+      "Toast": "[已发放唐纳德]"
+    },
+    {
+      "CodeId": "aaa444D7pY",
+      "RewardIdList": "[7001028]",
+      "Toast": "[已发放唐纳德]"
+    },
+    {
+      "CodeId": "aaa444F2aU",
+      "RewardIdList": "[7001028]",
+      "Toast": "[已发放唐纳德]"
+    },
+    {
+      "CodeId": "aaa444G5sI",
+      "RewardIdList": "[7001028]",
+      "Toast": "[已发放唐纳德]"
+    },
+    {
+      "CodeId": "aaa444H9dO",
+      "RewardIdList": "[7001028]",
+      "Toast": "[已发放唐纳德]"
+    },
+    {
+      "CodeId": "aaa444J4fP",
+      "RewardIdList": "[7001028]",
+      "Toast": "[已发放唐纳德]"
+    },
+    {
+      "CodeId": "aaa444K8gK",
+      "RewardIdList": "[7001028]",
+      "Toast": "[已发放唐纳德]"
+    },
+    {
+      "CodeId": "aaa444L1hJ",
+      "RewardIdList": "[7001028]",
+      "Toast": "[已发放唐纳德]"
+    },
+    {
+      "CodeId": "aaa444Z6jH",
+      "RewardIdList": "[7001028]",
+      "Toast": "[已发放唐纳德]"
+    },
+    {
+      "CodeId": "aaa444X0kG",
+      "RewardIdList": "[7001028]",
+      "Toast": "[已发放唐纳德]"
+    },
+    {
+      "CodeId": "0j0jw5f7C3lF",
+      "RewardIdList": "[7001017]",
+      "Toast": "[已发放XXX]"
+    },
+    {
+      "CodeId": "0j0jw5f7V7zD",
+      "RewardIdList": "[7001017]",
+      "Toast": "[已发放XXX]"
+    },
+    {
+      "CodeId": "0j0jw5f7B2xS",
+      "RewardIdList": "[7001017]",
+      "Toast": "[已发放XXX]"
+    },
+    {
+      "CodeId": "0j0jw5f7N5cA",
+      "RewardIdList": "[7001017]",
+      "Toast": "[已发放XXX]"
+    },
+    {
+      "CodeId": "0j0jw5f7M8vQ",
+      "RewardIdList": "[7001017]",
+      "Toast": "[已发放XXX]"
+    },
+    {
+      "CodeId": "0j0jw5f7Q1bW",
+      "RewardIdList": "[7001017]",
+      "Toast": "[已发放XXX]"
+    },
+    {
+      "CodeId": "0j0jw5f7R6nE",
+      "RewardIdList": "[7001017]",
+      "Toast": "[已发放XXX]"
+    },
+    {
+      "CodeId": "0j0jw5f7S0mR",
+      "RewardIdList": "[7001017]",
+      "Toast": "[已发放XXX]"
+    },
+    {
+      "CodeId": "0j0jw5f7T4qT",
+      "RewardIdList": "[7001017]",
+      "Toast": "[已发放XXX]"
+    },
+    {
+      "CodeId": "0j0jw5f7Y9wY",
+      "RewardIdList": "[7001017]",
+      "Toast": "[已发放XXX]"
+    },
+    {
+      "CodeId": "0j0jw5123Y9wY1",
+      "RewardIdList": "[7001054]",
+      "Toast": "[已激活终身免广权益！]"
+    },
+    {
+      "CodeId": "0j0jw5f1249wY1",
+      "RewardIdList": "[7001054]",
+      "Toast": "[已激活终身免广权益！]"
+    },
+    {
+      "CodeId": "0j0jw511233Y9wY1",
+      "RewardIdList": "[7001054]",
+      "Toast": "[已激活终身免广权益！]"
+    },
+    {
+      "CodeId": "0j0jw5f64549wY1",
+      "RewardIdList": "[7001054]",
+      "Toast": "[已激活终身免广权益！]"
+    },
+    {
+      "CodeId": "0j0jw5149wY1",
+      "RewardIdList": "[7001054]",
+      "Toast": "[已激活终身免广权益！]"
+    },
+    {
+      "CodeId": "0j0jw5f5249wY1",
+      "RewardIdList": "[7001054]",
+      "Toast": "[已激活终身免广权益！]"
+    },
+    {
+      "CodeId": "0j0jw5163Y9wY",
+      "RewardIdList": "[7001054]",
+      "Toast": "[已激活终身免广权益！]"
+    },
+    {
+      "CodeId": "0j0jw5f149wY",
+      "RewardIdList": "[7001054]",
+      "Toast": "[已激活终身免广权益！]"
+    },
+    {
+      "CodeId": "0j0jw5234249wY",
+      "RewardIdList": "[7001054]",
+      "Toast": "[已激活终身免广权益！]"
+    },
+    {
+      "CodeId": "0j0jw5109Y9wY",
+      "RewardIdList": "[7001054]",
+      "Toast": "[已激活终身免广权益！]"
+    },
+    {
+      "CodeId": "0j0jw5f64989wY",
+      "RewardIdList": "[7001054]",
+      "Toast": "[已激活终身免广权益！]"
+    },
+    {
+      "CodeId": "0j0j01888wY",
+      "RewardIdList": "[7001054]",
+      "Toast": "[已激活终身免广权益！]"
+    },
+    {
+      "CodeId": "0j0jw5f649wY",
+      "RewardIdList": "[7001054]",
+      "Toast": "[已激活终身免广权益！]"
+    },
+    {
+      "CodeId": "0j0jw5132lY9wY",
+      "RewardIdList": "[7001054]",
+      "Toast": "[已激活终身免广权益！]"
+    },
+    {
+      "CodeId": "0j0jw1490wY",
+      "RewardIdList": "[7001054]",
+      "Toast": "[已激活终身免广权益！]"
+    },
+    {
+      "CodeId": "0j0jw511ffY9wY",
+      "RewardIdList": "[7001054]",
+      "Toast": "[已提升终身免广权益！]"
+    },
+    {
+      "CodeId": "0j0jterbv9wY",
+      "RewardIdList": "[7001054]",
+      "Toast": "[已提升终身免广权益！]"
+    },
+    {
+      "CodeId": "0j0jw5hiu9wY",
+      "RewardIdList": "[7001054]",
+      "Toast": "[已提升终身免广权益！]"
+    },
+    {
+      "CodeId": "0j0jtedguywY",
+      "RewardIdList": "[7001054]",
+      "Toast": "[已提升终身免广权益！]"
+    },
+    {
+      "CodeId": "0j0jw5er23Y9wY",
+      "RewardIdList": "[7001054]",
+      "Toast": "[已提升终身免广权益！]"
+    },
+    {
+      "CodeId": "0j0jhh9wY",
+      "RewardIdList": "[7001054]",
+      "Toast": "[已提升终身免广权益！]"
+    },
+    {
+      "CodeId": "0j0jw5h3fwY",
+      "RewardIdList": "[7001054]",
+      "Toast": "[已提升终身免广权益！]"
+    },
+    {
+      "CodeId": "0j0jzte1f9wY",
+      "RewardIdList": "[7001054]",
+      "Toast": "[已提升终身免广权益！]"
+    },
+    {
+      "CodeId": "lil03w43wY",
+      "RewardIdList": "[7001064]",
+      "Toast": "[已激活首充礼包！]"
+    },
+    {
+      "CodeId": "lil01e12wY",
+      "RewardIdList": "[7001064]",
+      "Toast": "[已激活首充礼包！]"
+    },
+    {
+      "CodeId": "lil03w53wY",
+      "RewardIdList": "[7001064]",
+      "Toast": "[已激活首充礼包！]"
+    },
+    {
+      "CodeId": "lil01bw11wY",
+      "RewardIdList": "[7001064]",
+      "Toast": "[已激活首充礼包！]"
+    },
+    {
+      "CodeId": "lil03z4w3wY",
+      "RewardIdList": "[7001064]",
+      "Toast": "[已激活首充礼包！]"
+    },
+    {
+      "CodeId": "lil0h1z12wY",
+      "RewardIdList": "[7001064]",
+      "Toast": "[已激活首充礼包！]"
+    },
+    {
+      "CodeId": "lil03125z3wY",
+      "RewardIdList": "[7001064]",
+      "Toast": "[已激活首充礼包！]"
+    },
+    {
+      "CodeId": "lil01zd11swY",
+      "RewardIdList": "[7001064]",
+      "Toast": "[已激活首充礼包！]"
+    },
+    {
+      "CodeId": "kz9s03w43wY1",
+      "RewardIdList": "[7001064]",
+      "Toast": "[已激活首充礼包！]"
+    },
+    {
+      "CodeId": "lil01ez12wY1",
+      "RewardIdList": "[7001064]",
+      "Toast": "[已激活首充礼包！]"
+    },
+    {
+      "CodeId": "lil03wz53wY",
+      "RewardIdList": "[7001064]",
+      "Toast": "[已激活首充礼包！]"
+    },
+    {
+      "CodeId": "lilz01w11wY",
+      "RewardIdList": "[7001064]",
+      "Toast": "[已激活首充礼包！]"
+    },
+    {
+      "CodeId": "lil0w34w3wY",
+      "RewardIdList": "[7001064]",
+      "Toast": "[已激活首充礼包！]"
+    },
+    {
+      "CodeId": "lil0hw112wY",
+      "RewardIdList": "[7001064]",
+      "Toast": "[已激活首充礼包！]"
+    },
+    {
+      "CodeId": "lil03w1253wY",
+      "RewardIdList": "[7001064]",
+      "Toast": "[已激活首充礼包！]"
+    },
+    {
+      "CodeId": "lil01d1w1swY",
+      "RewardIdList": "[7001064]",
+      "Toast": "[已激活首充礼包！]"
+    }
+  ],
+  "wx": {
+    "m": {
+      "wxInReviewVersion": "0.02"
+    },
+    "iaa": {
+      "wxInReviewVersion": "2.00"
+    }
+  },
+  "whitelist": ["74af371e-a5b8-4243-9ba9-ec194dc53bf3","61e58574-3fbf-4d0e-a7c8-a77a6fd8301b","697a060e-3f5d-4f33-93b2-236a9f989aba","5ccd6cb8-59a5-4360-9331-acf4c85b7cda","c3612e90-2b30-44ad-b35d-619b68e6e57b","291c8a39-5feb-454f-88aa-ad8afc6c039b","4a149890-c6bd-4ffe-ac45-542dd80d4fa1","8d13c8d4-3a04-42dd-9766-59d780fa4b77","d85792fd-6b8e-4b2a-8ca8-08e1d6ac788a","6da37314-78f4-406c-9828-6225a50aa499","6748d6b8-dd13-454e-be08-dca576386221","4c535a9b-09a3-4ae8-b5e4-9d7eda2c44af","2785a4b3-db00-486d-90da-a957d5532cdf","786ec796-67d2-4296-91bf-53779ac7832a","b1a140c5-c6e2-4c05-8c35-231bec34c582","2e067030-63aa-445d-bbf3-90542635e43c","d99d06f3-2ead-4c49-b300-1ef75d04ede1","f2e35e01-fbc2-4542-98b6-bdebc5bd0668","d9ddde7f-7746-4601-9fec-8f750fff4d6f","d55e9b06-64f1-4241-96d0-491bdb5befbf","91e6a45f-8c66-4ca3-9fb8-af728ae65204","19692288-2997-4894-b92e-b9aef45eeb00","8c990b03-8c99-48cb-85ef-29d10d67ee2f","357cdcf2-dc1a-4c34-a479-387d43efb1ed","3c132eb9-43bd-400e-bc4f-7af99a5ba7af","5c7684ab-7c78-4045-9ea0-fa03e74142e3","8b2292dd-561e-42a4-bcf9-6337bff74d17","5c7684ab-7c78-4045-9ea0-fa03e74142e3","5c7684ab-7c78-4045-9ea0-fa03e74142e3","ac8be5b8-d771-4d43-96d9-4a8559784ff8","0af1575a-6949-4dd9-abc6-ed6e3fc7ce23","76104a1a-2e4c-4714-a6d3-b865cefe0a5b","76104a1a-2e4c-4714-a6d3-b865cefe0a5b","ee201b5e-c4b8-48d9-80d7-b9f0dbe547cd","7e943151-77fd-47a2-b39b-48392e1ee7f1","e376fcb2-0ecd-413a-8c38-6ee41e8168dc","2402b6a2-13cc-4137-a1d7-b5812492ad24","b300f1b7-3e42-4706-a210-8f00f229105a","5c7b02a0-1fa8-4e1b-912e-57005a2bce3e","6027f88b-9e79-4925-b62c-da43d6d2e0d9","bcb9dd2c-53f9-4ab9-a938-747a771b7346","2e6266c1-bbae-4f87-9f21-42759b4ec9ce","dfeaa5f3-4224-4efb-9ad4-013ba2905f0c","24f923eb-6207-401a-a38d-2fd7a67632d4","df887bb8-5242-4810-bade-c3882a450d14","4fba1de4-c576-490b-a56e-dd41756dda5b","4709d9bb-725e-4459-bc07-4d1abf5255de","6079d6d0-2ddf-4e0f-9938-aeb6199cd54c","a45ba867-83b5-4b85-8328-b0dd9590de6a","2df00eb3-06dc-4705-9788-c69cbe10d043","50dc55d5-e5f6-4eeb-a298-55f3dddc771c","a45ba867-83b5-4b85-8328-b0dd9590de6a","112c3a80-c813-43aa-b6d4-61bfeb9dfd96","c6175a8c-3ea5-4710-8b42-ad0abfbd6a95","490fe75f-bb00-4c56-bd89-6f24e18bad44","e5d09649-f6ed-4a63-b875-a3d594bb8311","4b26ffe8-1595-42e5-845a-c99dd734e18f","9a7a444b-cb24-450e-90ac-c364fd603259","ff641f45-0a41-4c06-96cc-c6fadbf99b08","e6974099-46a5-4178-8159-e231b77efbc5","1fd1302a-a68c-40c0-8f4d-116e2c2d0397","a97b8871-000a-4150-8825-119db45e5be8","5d890d1b-eb0d-496a-9e08-523c96a17fe1","1fd1302a-a68c-40c0-8f4d-116e2c2d0397","e82e24d0-2e94-411f-bfff-2c821db6276b","e2014c6a-8db3-4348-84b1-5119e4f3f2b7","dc9a2766-fd96-4104-bc00-9496b4c32d4a","2abc9012-c43f-4900-8692-4f120afff497","fd7d3159-8217-4cc8-8937-7fb5cf20531c","f9468d6f-b0fd-49a8-97f6-1302ecadae16","ef897e96-22fd-4a85-aa4d-78b191586064","27695979-b195-4312-8738-cc6d363278d0","d8fcc877-14c3-4487-b640-c9d3512b2341","d8fcc877-14c3-4487-b640-c9d3512b2341","0a08f863-c260-4e50-bc21-7fbba879a28e","3f9d4c9d-e0ad-425e-ad6d-6022609d5898","3c1c7625-ed87-42ad-b98d-05d66f1b52f8","3c1c7625-ed87-42ad-b98d-05d66f1b52f8","3c1c7625-ed87-42ad-b98d-05d66f1b52f8","bc4185a8-567c-4e28-98a2-7417781f86e7","78bd8798-279d-486e-9288-3a44864be409","4246ada9-c698-4764-b051-bffa1d1278b5","b308a162-02ae-4f80-982c-bd409858c750","6af79e37-d370-4c96-a435-fe17004c63de","c74a195b-0cef-4242-9a28-b83946c0b04e","be85b649-7a88-44c2-aed9-9bf4d34e7ce6","934aa6eb-7ede-475b-a065-475ed24afdf7","d8ab53d7-d264-43d8-9e82-b3b0fcc2a7d0","d8ab53d7-d264-43d8-9e82-b3b0fcc2a7d0","7c7f6e26-3f7d-4018-92e2-c67a3ffea1db","9a42fed4-54b9-422a-9bf0-5ed47c04301b","ee7add88-89a9-499a-9924-6424063a2b47","407936a2-cb81-4423-aeb6-4e654355dba7","080d7cbc-28fd-408c-b063-18f83e11abbc","e83fe298-e4bb-471d-8fb3-85b8b13c3234","2b96ff63-c4cf-408f-87bc-1f0253136183","e83fe298-e4bb-471d-8fb3-85b8b13c3234","4d77f5e1-8047-49f2-8d04-76d258260f28","4ffcdf3a-8830-4d5e-82e8-12e7f8497b52","270de0b0-1a55-4b48-a87d-5106d03eaeba","688b251e-1a8c-47c8-95c5-49d677af5f37","f46b63e9-25df-4bf9-beb0-43b57b213060","0a0e3a19-fb53-4d8b-adde-ba78c0505cc0","553055fa-048-4d0f-9bf2-5cd28be6272b4","eb369480-486a-453d-b57a-2dacb69f1cab","eb369480-486a-453d-b57a-2dacb69f1cab","7512b4ae-8158-490d-a02d-f73bf47f8574","2f6c89b8-349a-4af8-b699-0a52fddaa680","f9bbf2b9-c54d-446f-8b35-8da226c27e2d","48bfbfc8-4c21-4a05-aba5-941def2dfc0a","2f6c89b8-349a-4af8-b699-0a52fddaa680","a36c7bfb-a86c-47d7-b984-76c8fadf16a8","3cbe1348-b159-4ec3-b3ec-ab7d8ae343ad","d8b35a32-f05a-4cf8-b215-0eff1faec38c","eda53955-0da0-4506-b9ed-f7f9fad80b2c","480cb249-61ff-40c7-a9ef-ba1e67700ffe","385df03d-4e10-4d40-bb78-584d0c0eae8e","dce20917-707a-4ee7-9e1f-80b46c66f204","7df6cf69-b97d-4d20-877a-c1bf49ba1284","8adc293b-c7ed-484e-947a-e4ca2c7e0bfb","b2df5a09-11d6-4663-9b21-e521543d97ca","68649d61-804b-455d-89ee-6b8d63abdeef","3d8437ff-879e-410c-bbe8-a31f4b8c0650","9de5efc7-82aa-4de7-9d43-a022462e36a5","158cd209-c8aa-4cec-9aa0-d904cb28250b","158cd209-c8aa-4cec-9aa0-d904cb28250b","1cf84009-706c-452d-92b8-5bc1507fd6e8","17b707f0-2869-43c6-8157-7ca2629fbee2","de810cff-c69b-40dd-93bf-fa7dfec72698","daffb5de-eaca-4202-aeeb-7d574055c4d6","de9d6c32-0091-4585-921f-85bc32435422","24467b72-1287-42e8-8829-52576473a310","4fc78e99-4374-43b0-b725-35281b6c2eb1","da995cd8-8eee-47bc-afbd-76ff92225875","da995cd8-8eee-47bc-afbd-76ff92225875", "b65c0f5c-198b-afc8-5b90-58100bcdb54b", "8f1e32ea-7a0c-4623-8046-67ec9f408f45", "0b6e37bb-0324-4833-a935-7b7ea17e8d1b","b6de69e5-2756-4168-93ef-79d8721dd2cb","82c625e0-2313-49c5-9746-706025834151","cd4997d4-5f9b-4f37-81a0-18bf8becbe22","af5f8524-6f94-4565-85a8-e3ca0a31c64f","9eec304f-c167-485c-aa83-202083891347","5d6e06f5-c442-4e43-8e3f-c6becee34a1d","2c20c5aa-40e6-4a6d-961e-7749bb916d29","ee03ef83-3b60-4937-94e0-ffa99f393cb9","47c8b02a-3e71-4b84-b339-2b5fb154e535","a8ce84cf-9403-4cdc-8b3c-b49ca22ccff9","0c06d8ec-15f9-4f4e-b56a-1a22c6751998","a8ce84cf-9403-4cdc-8b3c-b49ca22ccff9", "d4a3ff95-ad2c-4c0c-a7f0-4423d3a0e5ad","d8ab53d7-d264-43d8-9e82-b3b0fcc2a7d0","1b9bd626-89c7-4626-ae72-262e9db0405b","851ae858-af35-453b-a442-90644e19b1a4", "9e2a8c03-ea40-4335-9005-06474091c95e", "ff6bd235-7824-412d-81a2-4b7b9584cc9e","0d26ea75-ea91-4ffc-b874-692aa0897a6c","276b48fc-b521-4f9b-89ec-79b6a73dd810","a9f8c815-6375-414d-899a-d65a2aeb2ce7","0cb72544-2ee3-402e-aecd-d61c9cfb90f2","48f79947-9da5-465e-9dc1-171780ea8a66","db4a0005-fa7b-42ef-9755-8e54cf4a981f","e1a23da4-bf07-420c-851a-5b3ffe019332"]
+}

@@ -1,0 +1,125 @@
+
+luxun.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hero_effect_box2
+  rotate: false
+  xy: 330, 62
+  size: 82, 82
+  orig: 82, 82
+  offset: 0, 0
+  index: -1
+hero_eye_cry
+  rotate: true
+  xy: 410, 212
+  size: 42, 51
+  orig: 42, 51
+  offset: 0, 0
+  index: -1
+luxun_beard
+  rotate: true
+  xy: 2, 17
+  size: 16, 59
+  orig: 16, 59
+  offset: 0, 0
+  index: -1
+luxun_body
+  rotate: true
+  xy: 138, 106
+  size: 148, 120
+  orig: 148, 120
+  offset: 0, 0
+  index: -1
+luxun_eye
+  rotate: false
+  xy: 2, 7
+  size: 6, 8
+  orig: 6, 8
+  offset: 0, 0
+  index: -1
+luxun_eyebrow
+  rotate: true
+  xy: 116, 6
+  size: 27, 21
+  orig: 27, 21
+  offset: 0, 0
+  index: -1
+luxun_eyewhite
+  rotate: false
+  xy: 63, 3
+  size: 26, 30
+  orig: 26, 30
+  offset: 0, 0
+  index: -1
+luxun_handl
+  rotate: true
+  xy: 414, 123
+  size: 39, 42
+  orig: 39, 42
+  offset: 0, 0
+  index: -1
+luxun_handr
+  rotate: false
+  xy: 260, 106
+  size: 34, 38
+  orig: 34, 38
+  offset: 0, 0
+  index: -1
+luxun_handr2
+  rotate: false
+  xy: 410, 164
+  size: 42, 46
+  orig: 42, 46
+  offset: 0, 0
+  index: -1
+luxun_head
+  rotate: true
+  xy: 2, 104
+  size: 150, 134
+  orig: 150, 134
+  offset: 0, 0
+  index: -1
+luxun_legr
+  rotate: false
+  xy: 91, 2
+  size: 23, 31
+  orig: 23, 31
+  offset: 0, 0
+  index: -1
+luxun_tail
+  rotate: false
+  xy: 330, 5
+  size: 91, 55
+  orig: 91, 55
+  offset: 0, 0
+  index: -1
+luxun_tie
+  rotate: true
+  xy: 366, 146
+  size: 108, 42
+  orig: 108, 42
+  offset: 0, 0
+  index: -1
+luxun_weapon
+  rotate: true
+  xy: 2, 35
+  size: 67, 222
+  orig: 67, 222
+  offset: 0, 0
+  index: -1
+ui_effect_light_circle3
+  rotate: false
+  xy: 226, 2
+  size: 102, 102
+  orig: 102, 102
+  offset: 0, 0
+  index: -1
+xysg_hero_effect_swordlight2
+  rotate: true
+  xy: 260, 146
+  size: 108, 104
+  orig: 108, 104
+  offset: 0, 0
+  index: -1

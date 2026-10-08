@@ -1,0 +1,55 @@
+
+yudi_tx.png
+size: 1749,1749
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+yidibg
+  rotate: false
+  xy: 1122, 457
+  size: 620, 1290
+  orig: 620, 1290
+  offset: 0, 0
+  index: -1
+yudi
+  rotate: false
+  xy: 2, 573
+  size: 1118, 1174
+  orig: 1118, 1174
+  offset: 0, 0
+  index: -1
+yudizz
+  rotate: false
+  xy: 2, 2
+  size: 578, 569
+  orig: 578, 570
+  offset: 0, 1
+  index: -1
+zi1
+  rotate: false
+  xy: 782, 181
+  size: 182, 186
+  orig: 191, 190
+  offset: 4, 3
+  index: -1
+zi2
+  rotate: false
+  xy: 582, 369
+  size: 204, 202
+  orig: 208, 205
+  offset: 2, 3
+  index: -1
+zi3
+  rotate: true
+  xy: 582, 162
+  size: 205, 198
+  orig: 213, 202
+  offset: 4, 3
+  index: -1
+zi4
+  rotate: false
+  xy: 788, 371
+  size: 184, 200
+  orig: 189, 203
+  offset: 3, 3
+  index: -1

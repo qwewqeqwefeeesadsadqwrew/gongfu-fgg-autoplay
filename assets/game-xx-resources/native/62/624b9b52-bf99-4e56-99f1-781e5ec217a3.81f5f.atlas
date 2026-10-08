@@ -1,0 +1,76 @@
+
+monster_19.png
+size: 684,504
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+A_ci_fen_3
+  rotate: true
+  xy: 510, 386
+  size: 115, 156
+  orig: 115, 230
+  offset: 0, 71
+  index: -1
+A_ci_fen_4
+  rotate: true
+  xy: 510, 269
+  size: 115, 137
+  orig: 115, 230
+  offset: 0, 93
+  index: -1
+A_ci_fen_5
+  rotate: false
+  xy: 510, 161
+  size: 115, 106
+  orig: 115, 230
+  offset: 0, 124
+  index: -1
+A_ci_fen_6
+  rotate: false
+  xy: 510, 64
+  size: 115, 95
+  orig: 115, 230
+  offset: 0, 135
+  index: -1
+A_tu_dis_10
+  rotate: true
+  xy: 627, 80
+  size: 81, 52
+  orig: 153, 77
+  offset: 16, 15
+  index: -1
+A_tu_dis_11
+  rotate: true
+  xy: 627, 3
+  size: 75, 48
+  orig: 153, 77
+  offset: 16, 18
+  index: -1
+A_tu_dis_12
+  rotate: false
+  xy: 649, 344
+  size: 30, 40
+  orig: 153, 77
+  offset: 16, 20
+  index: -1
+A_tu_dis_13
+  rotate: true
+  xy: 649, 323
+  size: 19, 28
+  orig: 153, 77
+  offset: 17, 31
+  index: -1
+A_tu_dis_9
+  rotate: true
+  xy: 627, 163
+  size: 104, 55
+  orig: 153, 77
+  offset: 16, 13
+  index: -1
+monster_19
+  rotate: false
+  xy: 2, 2
+  size: 506, 499
+  orig: 506, 499
+  offset: 0, 0
+  index: -1

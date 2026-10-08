@@ -1,0 +1,34 @@
+
+歌舞厅_音响2.png
+size: 284,88
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+歌舞厅/律动音符1
+  rotate: false
+  xy: 187, 6
+  size: 50, 80
+  orig: 50, 80
+  offset: 0, 0
+  index: -1
+歌舞厅/律动音符2
+  rotate: false
+  xy: 239, 2
+  size: 23, 38
+  orig: 23, 38
+  offset: 0, 0
+  index: -1
+歌舞厅/律动音符3
+  rotate: true
+  xy: 239, 42
+  size: 44, 43
+  orig: 44, 43
+  offset: 0, 0
+  index: -1
+歌舞厅/歌舞厅_音响
+  rotate: true
+  xy: 2, 2
+  size: 84, 183
+  orig: 84, 183
+  offset: 0, 0
+  index: -1

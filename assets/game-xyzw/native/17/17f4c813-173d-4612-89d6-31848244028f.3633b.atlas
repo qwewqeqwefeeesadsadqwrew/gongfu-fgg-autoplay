@@ -1,0 +1,83 @@
+
+long.png
+size: 1293,1293
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+long
+  rotate: true
+  xy: 2, 2
+  size: 877, 1130
+  orig: 878, 1130
+  offset: 0, 0
+  index: -1
+quanquan
+  rotate: false
+  xy: 635, 881
+  size: 410, 410
+  orig: 410, 410
+  offset: 0, 0
+  index: -1
+火1
+  rotate: false
+  xy: 143, 1236
+  size: 70, 55
+  orig: 70, 55
+  offset: 0, 0
+  index: -1
+火2
+  rotate: false
+  xy: 215, 1234
+  size: 68, 57
+  orig: 68, 57
+  offset: 0, 0
+  index: -1
+火3
+  rotate: false
+  xy: 355, 1232
+  size: 68, 59
+  orig: 68, 59
+  offset: 0, 0
+  index: -1
+火4
+  rotate: false
+  xy: 565, 1230
+  size: 68, 61
+  orig: 68, 62
+  offset: 0, 0
+  index: -1
+火5
+  rotate: false
+  xy: 285, 1233
+  size: 68, 58
+  orig: 68, 58
+  offset: 0, 0
+  index: -1
+火6
+  rotate: false
+  xy: 425, 1232
+  size: 68, 59
+  orig: 68, 59
+  offset: 0, 0
+  index: -1
+火7
+  rotate: false
+  xy: 495, 1231
+  size: 68, 60
+  orig: 68, 60
+  offset: 0, 0
+  index: -1
+火8
+  rotate: false
+  xy: 2, 1238
+  size: 68, 53
+  orig: 68, 53
+  offset: 0, 0
+  index: -1
+火9
+  rotate: false
+  xy: 72, 1237
+  size: 69, 54
+  orig: 69, 54
+  offset: 0, 0
+  index: -1

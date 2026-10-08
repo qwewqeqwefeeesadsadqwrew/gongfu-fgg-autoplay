@@ -1,0 +1,125 @@
+
+xiaobing2_gutou.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hero_eye_cry
+  rotate: true
+  xy: 120, 7
+  size: 42, 51
+  orig: 42, 51
+  offset: 0, 0
+  index: -1
+sc2_monster4_body
+  rotate: false
+  xy: 2, 114
+  size: 137, 140
+  orig: 137, 140
+  offset: 0, 0
+  index: -1
+sc2_monster4_eye
+  rotate: true
+  xy: 173, 4
+  size: 7, 6
+  orig: 7, 6
+  offset: 0, 0
+  index: -1
+sc2_monster4_eyewhite
+  rotate: true
+  xy: 175, 116
+  size: 28, 20
+  orig: 28, 20
+  offset: 0, 0
+  index: -1
+sc2_monster4_hair
+  rotate: false
+  xy: 211, 19
+  size: 34, 38
+  orig: 34, 38
+  offset: 0, 0
+  index: -1
+sc2_monster4_handl
+  rotate: false
+  xy: 173, 13
+  size: 36, 36
+  orig: 36, 37
+  offset: 0, 1
+  index: -1
+sc2_monster4_handr1
+  rotate: false
+  xy: 247, 22
+  size: 33, 35
+  orig: 35, 38
+  offset: 0, 3
+  index: -1
+sc2_monster4_handr2
+  rotate: true
+  xy: 141, 117
+  size: 27, 32
+  orig: 30, 36
+  offset: 0, 4
+  index: -1
+sc2_monster4_jaw
+  rotate: false
+  xy: 67, 2
+  size: 51, 47
+  orig: 51, 47
+  offset: 0, 0
+  index: -1
+sc2_monster4_legr
+  rotate: false
+  xy: 197, 119
+  size: 18, 25
+  orig: 18, 25
+  offset: 0, 0
+  index: -1
+sc2_monster4_mask1
+  rotate: true
+  xy: 247, 153
+  size: 101, 78
+  orig: 103, 78
+  offset: 2, 0
+  index: -1
+sc2_monster4_mask2
+  rotate: true
+  xy: 2, 2
+  size: 47, 63
+  orig: 47, 63
+  offset: 0, 0
+  index: -1
+sc2_monster4_tail
+  rotate: false
+  xy: 195, 59
+  size: 64, 55
+  orig: 64, 55
+  offset: 0, 0
+  index: -1
+sc2_monster4_teeth1
+  rotate: false
+  xy: 232, 124
+  size: 11, 20
+  orig: 11, 20
+  offset: 0, 0
+  index: -1
+sc2_monster4_teeth2
+  rotate: false
+  xy: 217, 125
+  size: 13, 19
+  orig: 13, 19
+  offset: 0, 0
+  index: -1
+sc2_monster4_weapon
+  rotate: true
+  xy: 2, 51
+  size: 61, 191
+  orig: 61, 191
+  offset: 0, 0
+  index: -1
+xysg_hero_effect_swordlight2
+  rotate: true
+  xy: 141, 146
+  size: 108, 104
+  orig: 108, 104
+  offset: 0, 0
+  index: -1

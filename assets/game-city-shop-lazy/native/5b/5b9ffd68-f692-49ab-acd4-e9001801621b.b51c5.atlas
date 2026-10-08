@@ -1,0 +1,188 @@
+
+fangdongzhijia_main_0.png
+size: 320,320
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+链家/mi
+  rotate: true
+  xy: 76, 104
+  size: 114, 47
+  orig: 114, 47
+  offset: 0, 0
+  index: -1
+链家/ok
+  rotate: false
+  xy: 125, 24
+  size: 44, 53
+  orig: 60, 60
+  offset: 7, 3
+  index: -1
+链家/ui1
+  rotate: false
+  xy: 240, 111
+  size: 54, 44
+  orig: 54, 44
+  offset: 0, 0
+  index: -1
+链家/身体-包租婆
+  rotate: true
+  xy: 161, 95
+  size: 57, 77
+  orig: 57, 77
+  offset: 0, 0
+  index: -1
+链家/冲击波
+  rotate: false
+  xy: 161, 154
+  size: 75, 75
+  orig: 75, 75
+  offset: 0, 0
+  index: -1
+链家/印章
+  rotate: false
+  xy: 171, 53
+  size: 42, 40
+  orig: 42, 40
+  offset: 0, 0
+  index: -1
+链家/嘴巴-包租婆
+  rotate: true
+  xy: 210, 20
+  size: 31, 19
+  orig: 32, 21
+  offset: 1, 0
+  index: -1
+链家/嘴巴2-包租婆
+  rotate: false
+  xy: 125, 6
+  size: 32, 16
+  orig: 32, 21
+  offset: 0, 3
+  index: -1
+链家/嘴巴3-包租婆
+  rotate: false
+  xy: 231, 29
+  size: 31, 19
+  orig: 31, 19
+  offset: 0, 0
+  index: -1
+链家/头-包租婆
+  rotate: false
+  xy: 141, 231
+  size: 99, 87
+  orig: 99, 87
+  offset: 0, 0
+  index: -1
+链家/对勾
+  rotate: false
+  xy: 171, 14
+  size: 37, 37
+  orig: 37, 37
+  offset: 0, 0
+  index: -1
+链家/对话框1
+  rotate: false
+  xy: 2, 220
+  size: 137, 98
+  orig: 140, 101
+  offset: 1, 2
+  index: -1
+链家/扇子
+  rotate: true
+  xy: 242, 191
+  size: 60, 68
+  orig: 60, 90
+  offset: 0, 22
+  index: -1
+链家/手R-包租婆
+  rotate: false
+  xy: 96, 13
+  size: 27, 63
+  orig: 27, 63
+  offset: 0, 0
+  index: -1
+链家/押一付三
+  rotate: true
+  xy: 125, 113
+  size: 105, 34
+  orig: 105, 34
+  offset: 0, 0
+  index: -1
+链家/提示
+  rotate: false
+  xy: 277, 46
+  size: 27, 31
+  orig: 27, 31
+  offset: 0, 0
+  index: -1
+链家/握手
+  rotate: true
+  xy: 2, 78
+  size: 140, 72
+  orig: 140, 100
+  offset: 0, 9
+  index: -1
+链家/玉玺
+  rotate: false
+  xy: 242, 253
+  size: 76, 65
+  orig: 76, 65
+  offset: 0, 0
+  index: -1
+链家/纸
+  rotate: false
+  xy: 2, 14
+  size: 92, 62
+  orig: 92, 62
+  offset: 0, 0
+  index: -1
+链家/脚R-包租婆
+  rotate: true
+  xy: 240, 79
+  size: 30, 59
+  orig: 30, 59
+  offset: 0, 0
+  index: -1
+链家/表情-包租婆
+  rotate: true
+  xy: 215, 58
+  size: 35, 23
+  orig: 35, 24
+  offset: 0, 1
+  index: -1
+链家/表情2-包租婆
+  rotate: false
+  xy: 112, 79
+  size: 35, 23
+  orig: 35, 24
+  offset: 0, 1
+  index: -1
+链家/表情3-包租婆
+  rotate: false
+  xy: 76, 78
+  size: 34, 24
+  orig: 34, 24
+  offset: 0, 0
+  index: -1
+链家/钱
+  rotate: false
+  xy: 240, 50
+  size: 35, 27
+  orig: 35, 27
+  offset: 0, 0
+  index: -1
+链家/问号、
+  rotate: false
+  xy: 296, 118
+  size: 21, 37
+  orig: 21, 37
+  offset: 0, 0
+  index: -1
+阴影
+  rotate: false
+  xy: 238, 157
+  size: 79, 32
+  orig: 81, 34
+  offset: 1, 1
+  index: -1

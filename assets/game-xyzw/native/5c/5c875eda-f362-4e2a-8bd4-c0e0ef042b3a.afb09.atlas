@@ -1,0 +1,167 @@
+
+menghuo.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hero_effect_box2
+  rotate: false
+  xy: 181, 56
+  size: 82, 82
+  orig: 82, 82
+  offset: 0, 0
+  index: -1
+hero_effect_box3
+  rotate: false
+  xy: 118, 282
+  size: 82, 82
+  orig: 82, 82
+  offset: 0, 0
+  index: -1
+hero_eye_cry
+  rotate: true
+  xy: 142, 366
+  size: 42, 51
+  orig: 42, 51
+  offset: 0, 0
+  index: -1
+menghuo_beard1
+  rotate: true
+  xy: 195, 367
+  size: 41, 43
+  orig: 41, 44
+  offset: 0, 0
+  index: -1
+menghuo_beard2
+  rotate: true
+  xy: 2, 18
+  size: 105, 101
+  orig: 105, 102
+  offset: 0, 0
+  index: -1
+menghuo_body
+  rotate: false
+  xy: 2, 366
+  size: 138, 139
+  orig: 138, 139
+  offset: 0, 0
+  index: -1
+menghuo_earring
+  rotate: false
+  xy: 246, 243
+  size: 33, 39
+  orig: 33, 39
+  offset: 0, 0
+  index: -1
+menghuo_eye
+  rotate: false
+  xy: 2, 6
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+menghuo_eyewhite
+  rotate: true
+  xy: 210, 244
+  size: 38, 34
+  orig: 38, 34
+  offset: 0, 0
+  index: -1
+menghuo_feather1
+  rotate: false
+  xy: 118, 243
+  size: 90, 37
+  orig: 91, 38
+  offset: 0, 1
+  index: -1
+menghuo_feather2
+  rotate: true
+  xy: 259, 149
+  size: 92, 61
+  orig: 93, 61
+  offset: 0, 0
+  index: -1
+menghuo_feather3
+  rotate: false
+  xy: 202, 284
+  size: 72, 81
+  orig: 72, 82
+  offset: 0, 0
+  index: -1
+menghuo_feather4
+  rotate: true
+  xy: 181, 2
+  size: 52, 88
+  orig: 53, 89
+  offset: 0, 0
+  index: -1
+menghuo_handl
+  rotate: false
+  xy: 187, 147
+  size: 70, 94
+  orig: 70, 94
+  offset: 0, 0
+  index: -1
+menghuo_handr
+  rotate: true
+  xy: 142, 410
+  size: 95, 67
+  orig: 95, 67
+  offset: 0, 0
+  index: -1
+menghuo_head
+  rotate: false
+  xy: 2, 235
+  size: 114, 129
+  orig: 114, 130
+  offset: 0, 1
+  index: -1
+menghuo_jaw
+  rotate: false
+  xy: 108, 140
+  size: 77, 93
+  orig: 77, 107
+  offset: 0, 0
+  index: -1
+menghuo_legl
+  rotate: false
+  xy: 265, 66
+  size: 25, 33
+  orig: 25, 33
+  offset: 0, 0
+  index: -1
+menghuo_legr
+  rotate: false
+  xy: 265, 66
+  size: 25, 33
+  orig: 25, 33
+  offset: 0, 0
+  index: -1
+menghuo_tail
+  rotate: true
+  xy: 105, 5
+  size: 118, 74
+  orig: 118, 74
+  offset: 0, 0
+  index: -1
+xysg_hero_effect_box
+  rotate: false
+  xy: 271, 38
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+xysg_hero_effect_die3
+  rotate: false
+  xy: 265, 101
+  size: 46, 46
+  orig: 46, 46
+  offset: 0, 0
+  index: -1
+xysg_hero_effect_swordlight2
+  rotate: true
+  xy: 2, 125
+  size: 108, 104
+  orig: 108, 104
+  offset: 0, 0
+  index: -1

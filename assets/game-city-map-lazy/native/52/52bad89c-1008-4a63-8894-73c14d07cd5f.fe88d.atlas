@@ -1,0 +1,111 @@
+
+糖果店_装饰动画.png
+size: 563,164
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+人/00
+  rotate: true
+  xy: 431, 15
+  size: 44, 101
+  orig: 124, 141
+  offset: 40, 0
+  index: -1
+人/01
+  rotate: false
+  xy: 474, 61
+  size: 43, 101
+  orig: 124, 141
+  offset: 41, 0
+  index: -1
+人/02
+  rotate: false
+  xy: 190, 60
+  size: 43, 102
+  orig: 124, 141
+  offset: 41, 0
+  index: -1
+人/03
+  rotate: false
+  xy: 53, 59
+  size: 42, 103
+  orig: 124, 141
+  offset: 42, 0
+  index: -1
+人/04
+  rotate: false
+  xy: 235, 60
+  size: 43, 102
+  orig: 124, 141
+  offset: 41, 0
+  index: -1
+人/05
+  rotate: false
+  xy: 141, 60
+  size: 47, 102
+  orig: 124, 141
+  offset: 38, 0
+  index: -1
+人/06
+  rotate: false
+  xy: 369, 61
+  size: 52, 101
+  orig: 124, 141
+  offset: 36, 0
+  index: -1
+人/07
+  rotate: true
+  xy: 328, 4
+  size: 54, 101
+  orig: 124, 141
+  offset: 35, 0
+  index: -1
+人/08
+  rotate: false
+  xy: 423, 61
+  size: 49, 101
+  orig: 124, 141
+  offset: 37, 0
+  index: -1
+人/09
+  rotate: false
+  xy: 280, 60
+  size: 43, 102
+  orig: 124, 141
+  offset: 41, 0
+  index: -1
+人/10
+  rotate: false
+  xy: 97, 59
+  size: 42, 103
+  orig: 124, 141
+  offset: 42, 0
+  index: -1
+人/11
+  rotate: false
+  xy: 325, 60
+  size: 42, 102
+  orig: 124, 141
+  offset: 42, 0
+  index: -1
+人/12
+  rotate: false
+  xy: 519, 61
+  size: 42, 101
+  orig: 124, 141
+  offset: 42, 0
+  index: -1
+糖果店rgb1
+  rotate: false
+  xy: 53, 2
+  size: 273, 55
+  orig: 275, 57
+  offset: 1, 1
+  index: -1
+糖果店rgb2
+  rotate: true
+  xy: 2, 6
+  size: 156, 49
+  orig: 158, 51
+  offset: 1, 1
+  index: -1

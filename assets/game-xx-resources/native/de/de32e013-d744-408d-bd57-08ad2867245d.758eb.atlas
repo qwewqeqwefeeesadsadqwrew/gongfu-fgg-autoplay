@@ -1,0 +1,76 @@
+
+boss_16.png
+size: 904,472
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+A_ci_fen_3
+  rotate: true
+  xy: 714, 355
+  size: 115, 156
+  orig: 115, 230
+  offset: 0, 71
+  index: -1
+A_ci_fen_4
+  rotate: true
+  xy: 714, 238
+  size: 115, 137
+  orig: 115, 230
+  offset: 0, 93
+  index: -1
+A_ci_fen_5
+  rotate: false
+  xy: 714, 130
+  size: 115, 106
+  orig: 115, 230
+  offset: 0, 124
+  index: -1
+A_ci_fen_6
+  rotate: false
+  xy: 714, 33
+  size: 115, 95
+  orig: 115, 230
+  offset: 0, 135
+  index: -1
+A_tu_dis_10
+  rotate: true
+  xy: 831, 49
+  size: 81, 52
+  orig: 153, 77
+  offset: 16, 15
+  index: -1
+A_tu_dis_11
+  rotate: true
+  xy: 853, 278
+  size: 75, 48
+  orig: 153, 77
+  offset: 16, 18
+  index: -1
+A_tu_dis_12
+  rotate: false
+  xy: 872, 430
+  size: 30, 40
+  orig: 153, 77
+  offset: 16, 20
+  index: -1
+A_tu_dis_13
+  rotate: true
+  xy: 872, 409
+  size: 19, 28
+  orig: 153, 77
+  offset: 17, 31
+  index: -1
+A_tu_dis_9
+  rotate: true
+  xy: 831, 132
+  size: 104, 55
+  orig: 153, 77
+  offset: 16, 13
+  index: -1
+boss16
+  rotate: true
+  xy: 2, 2
+  size: 468, 710
+  orig: 468, 713
+  offset: 0, 3
+  index: -1

@@ -1,0 +1,62 @@
+
+huangyueying_skill_line.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+huangyueying_effect1
+  rotate: true
+  xy: 246, 2
+  size: 76, 78
+  orig: 78, 81
+  offset: 1, 1
+  index: -1
+huangyueying_effect2
+  rotate: true
+  xy: 238, 113
+  size: 31, 30
+  orig: 31, 30
+  offset: 0, 0
+  index: -1
+huangyueying_line3
+  rotate: true
+  xy: 238, 35
+  size: 76, 6
+  orig: 76, 6
+  offset: 0, 0
+  index: -1
+huangyueying_skill1
+  rotate: true
+  xy: 140, 26
+  size: 118, 96
+  orig: 118, 96
+  offset: 0, 0
+  index: -1
+huangyueying_skill2_1
+  rotate: false
+  xy: 297, 80
+  size: 125, 160
+  orig: 125, 160
+  offset: 0, 0
+  index: -1
+huangyueying_skill2_2
+  rotate: true
+  xy: 297, 242
+  size: 151, 130
+  orig: 151, 130
+  offset: 0, 0
+  index: -1
+huangyueying_skill2_3
+  rotate: false
+  xy: 2, 26
+  size: 136, 118
+  orig: 136, 118
+  offset: 0, 0
+  index: -1
+huangyueying_skill3
+  rotate: false
+  xy: 2, 146
+  size: 293, 247
+  orig: 305, 251
+  offset: 6, 2
+  index: -1

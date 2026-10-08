@@ -1,0 +1,370 @@
+
+cargame.png
+size: 1465,1465
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1骑车bg0
+  rotate: true
+  xy: 2, 589
+  size: 450, 273
+  orig: 450, 273
+  offset: 0, 0
+  index: -1
+z/cart
+  rotate: false
+  xy: 1409, 687
+  size: 45, 46
+  orig: 45, 46
+  offset: 0, 0
+  index: -1
+z/syr1
+  rotate: false
+  xy: 1107, 379
+  size: 169, 174
+  orig: 169, 174
+  offset: 0, 0
+  index: -1
+z/syr2
+  rotate: false
+  xy: 731, 104
+  size: 169, 174
+  orig: 169, 174
+  offset: 0, 0
+  index: -1
+z/syr3
+  rotate: false
+  xy: 1278, 456
+  size: 169, 174
+  orig: 169, 174
+  offset: 0, 0
+  index: -1
+z/syr4
+  rotate: false
+  xy: 1278, 280
+  size: 169, 174
+  orig: 169, 174
+  offset: 0, 0
+  index: -1
+z/zL手
+  rotate: true
+  xy: 2, 5
+  size: 165, 212
+  orig: 165, 212
+  offset: 0, 0
+  index: -1
+z/zR手
+  rotate: false
+  xy: 1269, 845
+  size: 194, 238
+  orig: 194, 238
+  offset: 0, 0
+  index: -1
+z/z腿
+  rotate: false
+  xy: 2, 1041
+  size: 312, 422
+  orig: 312, 422
+  offset: 0, 0
+  index: -1
+z/z身体
+  rotate: false
+  xy: 2, 172
+  size: 197, 415
+  orig: 197, 415
+  offset: 0, 0
+  index: -1
+z/后座男主L手
+  rotate: true
+  xy: 277, 962
+  size: 77, 34
+  orig: 77, 34
+  offset: 0, 0
+  index: -1
+z/后座男主L手臂
+  rotate: false
+  xy: 1373, 205
+  size: 74, 73
+  orig: 74, 73
+  offset: 0, 0
+  index: -1
+z/后座男主R手
+  rotate: false
+  xy: 902, 118
+  size: 135, 104
+  orig: 135, 104
+  offset: 0, 0
+  index: -1
+z/后座男主身体
+  rotate: false
+  xy: 486, 241
+  size: 154, 341
+  orig: 154, 341
+  offset: 0, 0
+  index: -1
+z/琛哥头
+  rotate: false
+  xy: 1254, 632
+  size: 153, 211
+  orig: 153, 211
+  offset: 0, 0
+  index: -1
+z/琛哥头2
+  rotate: false
+  xy: 509, 2
+  size: 154, 237
+  orig: 154, 237
+  offset: 0, 0
+  index: -1
+z/跑步男主L手
+  rotate: true
+  xy: 216, 7
+  size: 177, 291
+  orig: 177, 291
+  offset: 0, 0
+  index: -1
+z/跑步男主R手
+  rotate: true
+  xy: 731, 45
+  size: 57, 196
+  orig: 57, 196
+  offset: 0, 0
+  index: -1
+z/跑步男主R脚
+  rotate: true
+  xy: 964, 555
+  size: 63, 239
+  orig: 63, 239
+  offset: 0, 0
+  index: -1
+z/跑步男主身体
+  rotate: true
+  xy: 201, 186
+  size: 95, 269
+  orig: 95, 269
+  offset: 0, 0
+  index: -1
+z/车
+  rotate: false
+  xy: 925, 376
+  size: 180, 177
+  orig: 180, 177
+  offset: 0, 0
+  index: -1
+z/车2
+  rotate: false
+  xy: 316, 912
+  size: 360, 210
+  orig: 360, 210
+  offset: 0, 0
+  index: -1
+图层 1
+  rotate: true
+  xy: 711, 280
+  size: 64, 203
+  orig: 64, 203
+  offset: 0, 0
+  index: -1
+图层 2
+  rotate: false
+  xy: 665, 54
+  size: 64, 203
+  orig: 64, 203
+  offset: 0, 0
+  index: -1
+女主/女主-大小
+  rotate: true
+  xy: 1040, 910
+  size: 212, 227
+  orig: 212, 227
+  offset: 0, 0
+  index: -1
+女主/女主头
+  rotate: false
+  xy: 711, 346
+  size: 212, 227
+  orig: 212, 227
+  offset: 0, 0
+  index: -1
+女主/女主头发1
+  rotate: true
+  xy: 1134, 64
+  size: 62, 86
+  orig: 159, 224
+  offset: 48, 69
+  index: -1
+女主/女主头发2
+  rotate: true
+  xy: 929, 32
+  size: 84, 107
+  orig: 216, 277
+  offset: 66, 85
+  index: -1
+尖叫
+  rotate: true
+  xy: 1205, 557
+  size: 61, 58
+  orig: 61, 58
+  offset: 0, 0
+  index: -1
+底框速度线
+  rotate: false
+  xy: 642, 259
+  size: 67, 349
+  orig: 67, 349
+  offset: 0, 0
+  index: -1
+手写字/碰1
+  rotate: false
+  xy: 1134, 128
+  size: 90, 95
+  orig: 90, 95
+  offset: 0, 0
+  index: -1
+打击3
+  rotate: false
+  xy: 1080, 225
+  size: 149, 149
+  orig: 149, 149
+  offset: 0, 0
+  index: -1
+报纸糊脸s
+  rotate: true
+  xy: 1278, 204
+  size: 74, 93
+  orig: 74, 93
+  offset: 0, 0
+  index: -1
+报纸糊脸s4
+  rotate: true
+  xy: 1409, 735
+  size: 108, 54
+  orig: 108, 54
+  offset: 0, 0
+  index: -1
+摩托等
+  rotate: false
+  xy: 1038, 23
+  size: 93, 91
+  orig: 93, 91
+  offset: 0, 0
+  index: -1
+旗袍/尖叫气泡框
+  rotate: true
+  xy: 760, 575
+  size: 336, 202
+  orig: 353, 219
+  offset: 9, 8
+  index: -1
+旗袍/生气
+  rotate: true
+  xy: 1039, 116
+  size: 106, 93
+  orig: 106, 93
+  offset: 0, 0
+  index: -1
+树
+  rotate: false
+  xy: 618, 610
+  size: 140, 300
+  orig: 140, 300
+  offset: 0, 0
+  index: -1
+水花
+  rotate: false
+  xy: 201, 283
+  size: 283, 299
+  orig: 283, 299
+  offset: 0, 0
+  index: -1
+男主表情/头
+  rotate: false
+  xy: 316, 1124
+  size: 326, 339
+  orig: 326, 339
+  offset: 0, 0
+  index: -1
+男主表情/表情11
+  rotate: true
+  xy: 277, 584
+  size: 326, 339
+  orig: 326, 339
+  offset: 0, 0
+  index: -1
+男主表情/表情5-愤怒（被泼水）
+  rotate: false
+  xy: 644, 1124
+  size: 326, 339
+  orig: 326, 339
+  offset: 0, 0
+  index: -1
+男主表情/表情9-震惊（NTR）
+  rotate: false
+  xy: 972, 1124
+  size: 326, 339
+  orig: 326, 339
+  offset: 0, 0
+  index: -1
+着急汗珠
+  rotate: false
+  xy: 665, 29
+  size: 51, 23
+  orig: 51, 28
+  offset: 0, 5
+  index: -1
+自行车-脚蹬
+  rotate: true
+  xy: 711, 584
+  size: 24, 44
+  orig: 24, 44
+  offset: 0, 0
+  index: -1
+自行车-踏板
+  rotate: false
+  xy: 1269, 1108
+  size: 23, 14
+  orig: 23, 14
+  offset: 0, 0
+  index: -1
+自行车-车架
+  rotate: false
+  xy: 678, 913
+  size: 360, 209
+  orig: 360, 209
+  offset: 0, 0
+  index: -1
+自行车-轮胎
+  rotate: true
+  xy: 925, 224
+  size: 150, 153
+  orig: 150, 153
+  offset: 0, 0
+  index: -1
+速度线
+  rotate: false
+  xy: 964, 620
+  size: 288, 288
+  orig: 288, 288
+  offset: 0, 0
+  index: -1
+阴影
+  rotate: true
+  xy: 1231, 287
+  size: 90, 45
+  orig: 90, 45
+  offset: 0, 0
+  index: -1
+雨
+  rotate: false
+  xy: 1300, 1085
+  size: 162, 378
+  orig: 162, 378
+  offset: 0, 0
+  index: -1
+黑色转场
+  rotate: false
+  xy: 1231, 225
+  size: 45, 60
+  orig: 45, 60
+  offset: 0, 0
+  index: -1

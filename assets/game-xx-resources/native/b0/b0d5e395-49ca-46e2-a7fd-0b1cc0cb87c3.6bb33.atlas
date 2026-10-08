@@ -1,0 +1,314 @@
+
+boss14.png
+size: 657,657
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+boss28_body
+  rotate: true
+  xy: 2, 92
+  size: 246, 315
+  orig: 246, 315
+  offset: 0, 0
+  index: -1
+diquan
+  rotate: true
+  xy: 588, 511
+  size: 61, 60
+  orig: 79, 80
+  offset: 9, 11
+  index: -1
+diquan2
+  rotate: false
+  xy: 2, 340
+  size: 311, 315
+  orig: 316, 319
+  offset: 2, 1
+  index: -1
+disappear/boss28_die0
+  rotate: true
+  xy: 497, 399
+  size: 85, 92
+  orig: 88, 94
+  offset: 2, 1
+  index: -1
+disappear/boss28_die1
+  rotate: true
+  xy: 315, 397
+  size: 86, 92
+  orig: 88, 94
+  offset: 2, 1
+  index: -1
+disappear/boss28_die10
+  rotate: false
+  xy: 2, 8
+  size: 84, 82
+  orig: 88, 94
+  offset: 1, 1
+  index: -1
+disappear/boss28_die11
+  rotate: true
+  xy: 573, 574
+  size: 81, 82
+  orig: 88, 94
+  offset: 2, 1
+  index: -1
+disappear/boss28_die12
+  rotate: true
+  xy: 402, 234
+  size: 73, 79
+  orig: 88, 94
+  offset: 3, 2
+  index: -1
+disappear/boss28_die2
+  rotate: true
+  xy: 319, 143
+  size: 86, 92
+  orig: 88, 94
+  offset: 2, 1
+  index: -1
+disappear/boss28_die3
+  rotate: true
+  xy: 315, 485
+  size: 87, 92
+  orig: 88, 94
+  offset: 1, 1
+  index: -1
+disappear/boss28_die4
+  rotate: true
+  xy: 405, 309
+  size: 86, 91
+  orig: 88, 94
+  offset: 2, 1
+  index: -1
+disappear/boss28_die5
+  rotate: true
+  xy: 409, 486
+  size: 86, 89
+  orig: 88, 94
+  offset: 1, 1
+  index: -1
+disappear/boss28_die6
+  rotate: false
+  xy: 409, 398
+  size: 86, 86
+  orig: 88, 94
+  offset: 1, 1
+  index: -1
+disappear/boss28_die7
+  rotate: true
+  xy: 500, 487
+  size: 85, 86
+  orig: 88, 94
+  offset: 1, 0
+  index: -1
+disappear/boss28_die8
+  rotate: false
+  xy: 542, 147
+  size: 85, 85
+  orig: 88, 94
+  offset: 1, 1
+  index: -1
+disappear/boss28_die9
+  rotate: false
+  xy: 319, 57
+  size: 84, 84
+  orig: 88, 94
+  offset: 1, 1
+  index: -1
+qi/A_wenli_wave_00000
+  rotate: false
+  xy: 262, 48
+  size: 35, 42
+  orig: 51, 51
+  offset: 8, 4
+  index: -1
+qi/A_wenli_wave_00001
+  rotate: true
+  xy: 299, 20
+  size: 35, 42
+  orig: 51, 51
+  offset: 8, 4
+  index: -1
+qi/A_wenli_wave_00002
+  rotate: true
+  xy: 581, 273
+  size: 35, 41
+  orig: 51, 51
+  offset: 7, 4
+  index: -1
+qi/A_wenli_wave_00003
+  rotate: false
+  xy: 618, 377
+  size: 33, 42
+  orig: 51, 51
+  offset: 8, 3
+  index: -1
+qi/A_wenli_wave_00004
+  rotate: true
+  xy: 496, 29
+  size: 33, 42
+  orig: 51, 51
+  offset: 8, 3
+  index: -1
+qi/A_wenli_wave_00005
+  rotate: true
+  xy: 540, 29
+  size: 33, 42
+  orig: 51, 51
+  offset: 8, 4
+  index: -1
+qi/A_wenli_wave_00006
+  rotate: false
+  xy: 591, 466
+  size: 33, 43
+  orig: 51, 51
+  offset: 8, 4
+  index: -1
+qi/A_wenli_wave_00007
+  rotate: false
+  xy: 591, 421
+  size: 33, 43
+  orig: 51, 51
+  offset: 8, 4
+  index: -1
+qi/A_wenli_wave_00008
+  rotate: false
+  xy: 253, 2
+  size: 33, 44
+  orig: 51, 51
+  offset: 8, 3
+  index: -1
+qi/A_wenli_wave_00009
+  rotate: true
+  xy: 530, 234
+  size: 34, 44
+  orig: 51, 51
+  offset: 8, 3
+  index: -1
+qi/A_wenli_wave_00010
+  rotate: true
+  xy: 483, 234
+  size: 34, 45
+  orig: 51, 51
+  offset: 9, 2
+  index: -1
+qi/A_wenli_wave_00011
+  rotate: true
+  xy: 576, 234
+  size: 34, 44
+  orig: 51, 51
+  offset: 9, 2
+  index: -1
+qi/A_wenli_wave_00012
+  rotate: true
+  xy: 315, 360
+  size: 35, 43
+  orig: 51, 51
+  offset: 8, 3
+  index: -1
+qi/A_wenli_wave_00013
+  rotate: false
+  xy: 581, 310
+  size: 34, 43
+  orig: 51, 51
+  offset: 9, 3
+  index: -1
+qi/A_wenli_wave_00014
+  rotate: false
+  xy: 217, 9
+  size: 34, 44
+  orig: 51, 51
+  offset: 9, 3
+  index: -1
+qi/A_wenli_wave_00015
+  rotate: false
+  xy: 617, 310
+  size: 34, 43
+  orig: 51, 51
+  offset: 9, 3
+  index: -1
+qi/A_wenli_wave_00016
+  rotate: true
+  xy: 360, 360
+  size: 35, 43
+  orig: 51, 51
+  offset: 8, 3
+  index: -1
+qi/A_wenli_wave_00017
+  rotate: true
+  xy: 343, 20
+  size: 35, 42
+  orig: 51, 51
+  offset: 8, 3
+  index: -1
+qi/A_wenli_wave_00018
+  rotate: false
+  xy: 581, 355
+  size: 35, 42
+  orig: 51, 51
+  offset: 8, 3
+  index: -1
+qi/A_wenli_wave_00019
+  rotate: true
+  xy: 217, 55
+  size: 35, 43
+  orig: 51, 51
+  offset: 8, 3
+  index: -1
+shifa_p_0
+  rotate: true
+  xy: 315, 574
+  size: 81, 127
+  orig: 81, 127
+  offset: 0, 0
+  index: -1
+shifa_p_1
+  rotate: false
+  xy: 319, 231
+  size: 81, 127
+  orig: 81, 127
+  offset: 0, 0
+  index: -1
+shifa_p_2
+  rotate: true
+  xy: 444, 574
+  size: 81, 127
+  orig: 81, 127
+  offset: 0, 0
+  index: -1
+shifa_p_3
+  rotate: true
+  xy: 413, 151
+  size: 81, 127
+  orig: 81, 127
+  offset: 0, 0
+  index: -1
+shifa_p_4
+  rotate: false
+  xy: 498, 270
+  size: 81, 127
+  orig: 81, 127
+  offset: 0, 0
+  index: -1
+shifa_p_5
+  rotate: false
+  xy: 413, 22
+  size: 81, 127
+  orig: 81, 127
+  offset: 0, 0
+  index: -1
+shifa_p_6
+  rotate: true
+  xy: 496, 64
+  size: 81, 127
+  orig: 81, 127
+  offset: 0, 0
+  index: -1
+shifa_p_7
+  rotate: true
+  xy: 88, 9
+  size: 81, 127
+  orig: 81, 127
+  offset: 0, 0
+  index: -1

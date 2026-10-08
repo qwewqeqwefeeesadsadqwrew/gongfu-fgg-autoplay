@@ -1,0 +1,503 @@
+
+ch4_2.png
+size: 2355,2355
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2号/经纪人-L手-idle
+  rotate: false
+  xy: 1868, 1022
+  size: 70, 250
+  orig: 70, 250
+  offset: 0, 0
+  index: -1
+2号/经纪人-L手-奸笑
+  rotate: true
+  xy: 274, 34
+  size: 97, 169
+  orig: 97, 169
+  offset: 0, 0
+  index: -1
+2号/经纪人-R手-idle
+  rotate: true
+  xy: 2088, 861
+  size: 113, 164
+  orig: 113, 164
+  offset: 0, 0
+  index: -1
+2号/经纪人-身体
+  rotate: true
+  xy: 1595, 344
+  size: 209, 577
+  orig: 209, 577
+  offset: 0, 0
+  index: -1
+2号/经纪人头-1
+  rotate: true
+  xy: 456, 424
+  size: 415, 455
+  orig: 415, 455
+  offset: 0, 0
+  index: -1
+2号/经纪人头-3
+  rotate: true
+  xy: 1622, 1151
+  size: 104, 114
+  orig: 104, 114
+  offset: 0, 0
+  index: -1
+2号/经纪人头-s
+  rotate: true
+  xy: 1938, 841
+  size: 133, 148
+  orig: 133, 148
+  offset: 0, 0
+  index: -1
+2号/经纪人头-笑
+  rotate: true
+  xy: 2003, 1519
+  size: 208, 228
+  orig: 208, 228
+  offset: 0, 0
+  index: -1
+2号/经纪人头-说话嘴巴
+  rotate: false
+  xy: 1849, 867
+  size: 65, 57
+  orig: 65, 57
+  offset: 0, 0
+  index: -1
+bb-R手
+  rotate: true
+  xy: 1300, 842
+  size: 137, 239
+  orig: 137, 239
+  offset: 0, 0
+  index: -1
+bb-头
+  rotate: false
+  xy: 2243, 576
+  size: 78, 109
+  orig: 78, 109
+  offset: 0, 0
+  index: -1
+bb-头s
+  rotate: true
+  xy: 1738, 1186
+  size: 86, 119
+  orig: 86, 119
+  offset: 0, 0
+  index: -1
+bb-身体
+  rotate: false
+  xy: 913, 69
+  size: 316, 442
+  orig: 316, 442
+  offset: 0, 0
+  index: -1
+bg
+  rotate: false
+  xy: 2, 841
+  size: 1296, 1512
+  orig: 1296, 1512
+  offset: 0, 0
+  index: -1
+pig
+  rotate: true
+  xy: 2174, 401
+  size: 170, 145
+  orig: 170, 145
+  offset: 0, 0
+  index: -1
+仙帝表情/嘴巴
+  rotate: false
+  xy: 1793, 1729
+  size: 320, 311
+  orig: 320, 311
+  offset: 0, 0
+  index: -1
+仙帝表情/头
+  rotate: true
+  xy: 1300, 2033
+  size: 320, 311
+  orig: 320, 311
+  offset: 0, 0
+  index: -1
+仙帝表情/表情1
+  rotate: false
+  xy: 1300, 1146
+  size: 320, 311
+  orig: 320, 311
+  offset: 0, 0
+  index: -1
+仙帝表情/表情2
+  rotate: false
+  xy: 1471, 1720
+  size: 320, 311
+  orig: 320, 311
+  offset: 0, 0
+  index: -1
+仙帝表情/表情2+
+  rotate: false
+  xy: 1613, 2042
+  size: 320, 311
+  orig: 320, 311
+  offset: 0, 0
+  index: -1
+仙蒂L手-搀扶
+  rotate: false
+  xy: 134, 9
+  size: 138, 122
+  orig: 138, 122
+  offset: 0, 0
+  index: -1
+仙蒂R手-搀扶
+  rotate: false
+  xy: 2233, 1624
+  size: 59, 113
+  orig: 59, 113
+  offset: 0, 0
+  index: -1
+仙蒂身体
+  rotate: true
+  xy: 1300, 981
+  size: 163, 566
+  orig: 163, 566
+  offset: 0, 0
+  index: -1
+倒地琛哥-蚊香眼睛
+  rotate: false
+  xy: 376, 5
+  size: 28, 27
+  orig: 28, 27
+  offset: 0, 0
+  index: -1
+女主/女主-表情被绑
+  rotate: true
+  xy: 2, 417
+  size: 422, 452
+  orig: 422, 452
+  offset: 0, 0
+  index: -1
+女主/女主头
+  rotate: true
+  xy: 445, 10
+  size: 247, 271
+  orig: 422, 452
+  offset: 74, 103
+  index: -1
+女主/女主头发1
+  rotate: false
+  xy: 1785, 891
+  size: 62, 88
+  orig: 159, 224
+  offset: 48, 68
+  index: -1
+女主/女主头发2
+  rotate: false
+  xy: 2115, 1786
+  size: 216, 277
+  orig: 216, 277
+  offset: 0, 0
+  index: -1
+女主/被绑胸
+  rotate: true
+  xy: 1868, 926
+  size: 94, 68
+  orig: 94, 68
+  offset: 0, 0
+  index: -1
+女主/被绑身体
+  rotate: false
+  xy: 1300, 1459
+  size: 169, 572
+  orig: 169, 572
+  offset: 0, 0
+  index: -1
+女主/被绑身体2
+  rotate: false
+  xy: 456, 259
+  size: 450, 163
+  orig: 450, 163
+  offset: 0, 0
+  index: -1
+字1/1
+  rotate: true
+  xy: 1231, 287
+  size: 224, 21
+  orig: 224, 21
+  offset: 0, 0
+  index: -1
+字1/2
+  rotate: false
+  xy: 1592, 5
+  size: 224, 20
+  orig: 224, 20
+  offset: 0, 0
+  index: -1
+字1/3
+  rotate: false
+  xy: 1946, 5
+  size: 125, 20
+  orig: 125, 20
+  offset: 0, 0
+  index: -1
+字1/5
+  rotate: false
+  xy: 1818, 5
+  size: 126, 20
+  orig: 126, 20
+  offset: 0, 0
+  index: -1
+字1/6
+  rotate: false
+  xy: 2175, 17
+  size: 137, 21
+  orig: 137, 21
+  offset: 0, 0
+  index: -1
+字1/7
+  rotate: true
+  xy: 1231, 106
+  size: 179, 21
+  orig: 179, 21
+  offset: 0, 0
+  index: -1
+字1/8
+  rotate: true
+  xy: 2225, 2070
+  size: 166, 90
+  orig: 166, 90
+  offset: 0, 0
+  index: -1
+小喽啰报人
+  rotate: true
+  xy: 1254, 555
+  size: 284, 690
+  orig: 284, 690
+  offset: 0, 0
+  index: -1
+小弟
+  rotate: false
+  xy: 1946, 976
+  size: 180, 535
+  orig: 180, 535
+  offset: 0, 0
+  index: -1
+小烟雾爆炸boom1
+  rotate: true
+  xy: 2115, 1734
+  size: 50, 59
+  orig: 205, 158
+  offset: 57, 54
+  index: -1
+小烟雾爆炸boom10
+  rotate: false
+  xy: 1946, 691
+  size: 187, 148
+  orig: 205, 158
+  offset: 11, 1
+  index: -1
+小烟雾爆炸boom12
+  rotate: true
+  xy: 2, 6
+  size: 125, 130
+  orig: 205, 158
+  offset: 58, 14
+  index: -1
+小烟雾爆炸boom4
+  rotate: false
+  xy: 2124, 573
+  size: 117, 112
+  orig: 205, 158
+  offset: 26, 25
+  index: -1
+小烟雾爆炸boom6
+  rotate: true
+  xy: 2135, 687
+  size: 172, 146
+  orig: 205, 158
+  offset: 2, 0
+  index: -1
+小烟雾爆炸boom8
+  rotate: true
+  xy: 2128, 1326
+  size: 191, 143
+  orig: 205, 158
+  offset: 0, 0
+  index: -1
+打架烟雾
+  rotate: false
+  xy: 2225, 2238
+  size: 115, 115
+  orig: 115, 115
+  offset: 0, 0
+  index: -1
+提示
+  rotate: false
+  xy: 1728, 1274
+  size: 206, 237
+  orig: 206, 237
+  offset: 0, 0
+  index: -1
+表现素材/提示
+  rotate: false
+  xy: 1728, 1274
+  size: 206, 237
+  orig: 206, 237
+  offset: 0, 0
+  index: -1
+母鸡飞踢
+  rotate: false
+  xy: 2128, 1034
+  size: 167, 139
+  orig: 167, 139
+  offset: 0, 0
+  index: -1
+气泡/对话框1
+  rotate: true
+  xy: 718, 3
+  size: 254, 185
+  orig: 254, 185
+  offset: 0, 0
+  index: -1
+气泡/尖叫气泡框
+  rotate: false
+  xy: 1254, 23
+  size: 336, 202
+  orig: 353, 219
+  offset: 9, 8
+  index: -1
+男主/受伤身体
+  rotate: true
+  xy: 1471, 1513
+  size: 205, 530
+  orig: 229, 605
+  offset: 13, 37
+  index: -1
+男主/受伤身体_手臂
+  rotate: false
+  xy: 1541, 885
+  size: 132, 94
+  orig: 132, 94
+  offset: 0, 0
+  index: -1
+男主/头
+  rotate: true
+  xy: 913, 513
+  size: 326, 339
+  orig: 326, 339
+  offset: 0, 0
+  index: -1
+男主/男主-L手
+  rotate: true
+  xy: 905, 4
+  size: 63, 259
+  orig: 63, 259
+  offset: 0, 0
+  index: -1
+男主/表情23
+  rotate: true
+  xy: 1254, 227
+  size: 326, 339
+  orig: 326, 339
+  offset: 0, 0
+  index: -1
+男主/被擒-头
+  rotate: true
+  xy: 1675, 890
+  size: 89, 108
+  orig: 89, 108
+  offset: 0, 0
+  index: -1
+男主/被擒-手
+  rotate: false
+  xy: 1622, 1257
+  size: 104, 254
+  orig: 104, 254
+  offset: 0, 0
+  index: -1
+男主/被擒-身体
+  rotate: false
+  xy: 2074, 40
+  size: 267, 302
+  orig: 267, 302
+  offset: 0, 0
+  index: -1
+男主/说话嘴2
+  rotate: false
+  xy: 1471, 1466
+  size: 62, 45
+  orig: 62, 45
+  offset: 0, 0
+  index: -1
+眩晕1
+  rotate: false
+  xy: 274, 2
+  size: 100, 30
+  orig: 108, 108
+  offset: 5, 42
+  index: -1
+眩晕2
+  rotate: false
+  xy: 2074, 4
+  size: 99, 34
+  orig: 108, 108
+  offset: 7, 39
+  index: -1
+眩晕3
+  rotate: false
+  xy: 1738, 1147
+  size: 100, 37
+  orig: 108, 108
+  offset: 5, 36
+  index: -1
+经纪人车头
+  rotate: true
+  xy: 1595, 27
+  size: 315, 477
+  orig: 315, 477
+  offset: 0, 0
+  index: -1
+表现素材/感叹号
+  rotate: true
+  xy: 1166, 11
+  size: 56, 85
+  orig: 56, 85
+  offset: 0, 0
+  index: -1
+表现素材/打击3
+  rotate: false
+  xy: 2128, 1175
+  size: 141, 149
+  orig: 149, 149
+  offset: 8, 0
+  index: -1
+表现素材/速度线
+  rotate: false
+  xy: 1935, 2065
+  size: 288, 288
+  orig: 288, 288
+  offset: 0, 0
+  index: -1
+被车头星爷
+  rotate: true
+  xy: 2, 133
+  size: 282, 441
+  orig: 282, 441
+  offset: 0, 0
+  index: -1
+阴影
+  rotate: false
+  xy: 2176, 1739
+  size: 90, 45
+  orig: 90, 45
+  offset: 0, 0
+  index: -1
+鹅2
+  rotate: false
+  xy: 1946, 577
+  size: 176, 112
+  orig: 176, 112
+  offset: 0, 0
+  index: -1

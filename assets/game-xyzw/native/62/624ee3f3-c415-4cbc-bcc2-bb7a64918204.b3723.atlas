@@ -1,0 +1,174 @@
+
+simayi.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hero_effect_box2
+  rotate: false
+  xy: 394, 245
+  size: 82, 82
+  orig: 82, 82
+  offset: 0, 0
+  index: -1
+hero_effect_box3
+  rotate: false
+  xy: 128, 211
+  size: 82, 82
+  orig: 82, 82
+  offset: 0, 0
+  index: -1
+hero_eye_cry
+  rotate: true
+  xy: 433, 329
+  size: 42, 51
+  orig: 42, 51
+  offset: 0, 0
+  index: -1
+simayi_back
+  rotate: false
+  xy: 2, 223
+  size: 124, 76
+  orig: 124, 76
+  offset: 0, 0
+  index: -1
+simayi_beard1
+  rotate: true
+  xy: 264, 341
+  size: 30, 34
+  orig: 30, 34
+  offset: 0, 0
+  index: -1
+simayi_beard2
+  rotate: true
+  xy: 2, 304
+  size: 42, 46
+  orig: 42, 46
+  offset: 0, 0
+  index: -1
+simayi_body
+  rotate: false
+  xy: 386, 122
+  size: 122, 121
+  orig: 122, 121
+  offset: 0, 0
+  index: -1
+simayi_cloth1
+  rotate: true
+  xy: 138, 295
+  size: 48, 116
+  orig: 48, 116
+  offset: 0, 0
+  index: -1
+simayi_cloth2
+  rotate: true
+  xy: 90, 345
+  size: 26, 115
+  orig: 34, 115
+  offset: 8, 0
+  index: -1
+simayi_eye
+  rotate: true
+  xy: 2, 364
+  size: 7, 8
+  orig: 7, 8
+  offset: 0, 0
+  index: -1
+simayi_eyebrow
+  rotate: true
+  xy: 207, 345
+  size: 26, 27
+  orig: 26, 27
+  offset: 0, 0
+  index: -1
+simayi_eyewhite
+  rotate: true
+  xy: 300, 338
+  size: 33, 46
+  orig: 33, 46
+  offset: 0, 0
+  index: -1
+simayi_handl
+  rotate: true
+  xy: 388, 330
+  size: 41, 43
+  orig: 41, 43
+  offset: 0, 0
+  index: -1
+simayi_handr1
+  rotate: false
+  xy: 50, 301
+  size: 42, 42
+  orig: 42, 43
+  offset: 0, 0
+  index: -1
+simayi_handr2
+  rotate: true
+  xy: 348, 338
+  size: 33, 38
+  orig: 34, 39
+  offset: 1, 1
+  index: -1
+simayi_head
+  rotate: false
+  xy: 143, 2
+  size: 202, 157
+  orig: 202, 157
+  offset: 0, 0
+  index: -1
+simayi_jade
+  rotate: true
+  xy: 12, 348
+  size: 23, 41
+  orig: 24, 42
+  offset: 0, 0
+  index: -1
+simayi_legl
+  rotate: true
+  xy: 55, 346
+  size: 25, 33
+  orig: 25, 33
+  offset: 0, 0
+  index: -1
+simayi_legr
+  rotate: true
+  xy: 55, 346
+  size: 25, 33
+  orig: 25, 33
+  offset: 0, 0
+  index: -1
+simayi_tail
+  rotate: false
+  xy: 256, 262
+  size: 136, 66
+  orig: 136, 66
+  offset: 0, 0
+  index: -1
+simayi_weaponr
+  rotate: true
+  xy: 212, 161
+  size: 99, 172
+  orig: 99, 172
+  offset: 0, 0
+  index: -1
+xysg_hero_effect_box
+  rotate: false
+  xy: 236, 345
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+xysg_hero_effect_die3
+  rotate: false
+  xy: 94, 301
+  size: 42, 42
+  orig: 46, 46
+  offset: 2, 2
+  index: -1
+xysg_hero_effect_lightcircle
+  rotate: false
+  xy: 2, 70
+  size: 139, 139
+  orig: 139, 139
+  offset: 0, 0
+  index: -1

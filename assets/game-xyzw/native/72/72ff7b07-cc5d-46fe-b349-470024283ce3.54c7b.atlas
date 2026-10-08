@@ -1,0 +1,146 @@
+
+xiaobing_denglong.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hero_effect_halfcircle1
+  rotate: true
+  xy: 469, 40
+  size: 86, 40
+  orig: 86, 40
+  offset: 0, 0
+  index: -1
+hero_eye_cry
+  rotate: false
+  xy: 555, 19
+  size: 42, 51
+  orig: 42, 51
+  offset: 0, 0
+  index: -1
+monster3_body
+  rotate: false
+  xy: 193, 25
+  size: 129, 101
+  orig: 129, 101
+  offset: 0, 0
+  index: -1
+monster3_dai1
+  rotate: true
+  xy: 226, 5
+  size: 18, 44
+  orig: 19, 44
+  offset: 0, 0
+  index: -1
+monster3_dai2
+  rotate: false
+  xy: 469, 3
+  size: 42, 35
+  orig: 43, 36
+  offset: 0, 0
+  index: -1
+monster3_dai3
+  rotate: true
+  xy: 193, 2
+  size: 21, 31
+  orig: 22, 31
+  offset: 1, 0
+  index: -1
+monster3_dai4
+  rotate: true
+  xy: 324, 3
+  size: 22, 40
+  orig: 22, 41
+  offset: 0, 0
+  index: -1
+monster3_eye
+  rotate: false
+  xy: 47, 4
+  size: 8, 10
+  orig: 8, 10
+  offset: 0, 0
+  index: -1
+monster3_eyewhite
+  rotate: true
+  xy: 511, 41
+  size: 29, 42
+  orig: 29, 42
+  offset: 0, 0
+  index: -1
+monster3_footr
+  rotate: true
+  xy: 394, 3
+  size: 27, 49
+  orig: 27, 49
+  offset: 0, 0
+  index: -1
+monster3_handl
+  rotate: false
+  xy: 648, 26
+  size: 42, 44
+  orig: 43, 44
+  offset: 0, 0
+  index: -1
+monster3_handr1
+  rotate: true
+  xy: 692, 26
+  size: 44, 42
+  orig: 44, 42
+  offset: 0, 0
+  index: -1
+monster3_handr2
+  rotate: true
+  xy: 513, 6
+  size: 33, 38
+  orig: 34, 40
+  offset: 1, 1
+  index: -1
+monster3_head
+  rotate: false
+  xy: 97, 21
+  size: 94, 105
+  orig: 94, 123
+  offset: 0, 18
+  index: -1
+monster3_jaw
+  rotate: false
+  xy: 324, 27
+  size: 68, 99
+  orig: 74, 104
+  offset: 0, 5
+  index: -1
+monster3_light
+  rotate: false
+  xy: 599, 23
+  size: 47, 47
+  orig: 49, 49
+  offset: 1, 1
+  index: -1
+monster3_light2
+  rotate: false
+  xy: 394, 32
+  size: 73, 94
+  orig: 73, 94
+  offset: 0, 0
+  index: -1
+monster3_tail
+  rotate: true
+  xy: 47, 16
+  size: 110, 48
+  orig: 110, 48
+  offset: 0, 0
+  index: -1
+monster3_tie
+  rotate: true
+  xy: 2, 9
+  size: 117, 43
+  orig: 117, 43
+  offset: 0, 0
+  index: -1
+monster3_weaponr
+  rotate: true
+  xy: 511, 72
+  size: 54, 214
+  orig: 54, 214
+  offset: 0, 0
+  index: -1

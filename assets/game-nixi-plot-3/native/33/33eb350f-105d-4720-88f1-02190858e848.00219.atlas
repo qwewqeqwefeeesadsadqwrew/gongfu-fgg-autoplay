@@ -1,0 +1,293 @@
+
+ch10_2.png
+size: 1977,1977
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: false
+  xy: 2, 1218
+  size: 325, 757
+  orig: 325, 757
+  offset: 0, 0
+  index: -1
+cj
+  rotate: false
+  xy: 347, 727
+  size: 325, 229
+  orig: 325, 229
+  offset: 0, 0
+  index: -1
+mp3ch10_2/1
+  rotate: true
+  xy: 674, 754
+  size: 202, 81
+  orig: 202, 81
+  offset: 0, 0
+  index: -1
+mp3ch10_2/2
+  rotate: true
+  xy: 1830, 127
+  size: 169, 96
+  orig: 169, 96
+  offset: 0, 0
+  index: -1
+mp3ch10_2/3
+  rotate: false
+  xy: 1095, 622
+  size: 117, 21
+  orig: 117, 21
+  offset: 0, 0
+  index: -1
+mp3ch10_2/4
+  rotate: true
+  xy: 1936, 1785
+  size: 190, 22
+  orig: 190, 22
+  offset: 0, 0
+  index: -1
+mp3ch10_2/5
+  rotate: false
+  xy: 2, 13
+  size: 220, 59
+  orig: 220, 59
+  offset: 0, 0
+  index: -1
+mp3ch10_2/6
+  rotate: true
+  xy: 380, 77
+  size: 182, 22
+  orig: 182, 22
+  offset: 0, 0
+  index: -1
+mp3ch10_2/7
+  rotate: false
+  xy: 1436, 315
+  size: 155, 59
+  orig: 155, 59
+  offset: 0, 0
+  index: -1
+shouji
+  rotate: true
+  xy: 2, 74
+  size: 185, 376
+  orig: 185, 376
+  offset: 0, 0
+  index: -1
+sj
+  rotate: false
+  xy: 1529, 4
+  size: 176, 90
+  orig: 176, 90
+  offset: 0, 0
+  index: -1
+sj2
+  rotate: false
+  xy: 1707, 35
+  size: 176, 90
+  orig: 176, 90
+  offset: 0, 0
+  index: -1
+光圈
+  rotate: false
+  xy: 1306, 65
+  size: 221, 220
+  orig: 230, 230
+  offset: 5, 4
+  index: -1
+女主/女主-表情10
+  rotate: false
+  xy: 1512, 1523
+  size: 422, 452
+  orig: 422, 452
+  offset: 0, 0
+  index: -1
+女主/女主-表情2
+  rotate: false
+  xy: 664, 1523
+  size: 422, 452
+  orig: 422, 452
+  offset: 0, 0
+  index: -1
+女主/女主-表情3
+  rotate: false
+  xy: 1088, 1523
+  size: 422, 452
+  orig: 422, 452
+  offset: 0, 0
+  index: -1
+女主/女主-表情担忧
+  rotate: false
+  xy: 2, 261
+  size: 422, 452
+  orig: 422, 452
+  offset: 0, 0
+  index: -1
+女主/女主-表情疑惑
+  rotate: false
+  xy: 347, 958
+  size: 422, 452
+  orig: 422, 452
+  offset: 0, 0
+  index: -1
+女主/女主头
+  rotate: true
+  xy: 754, 68
+  size: 247, 271
+  orig: 422, 452
+  offset: 74, 103
+  index: -1
+女主/女主头发1
+  rotate: false
+  xy: 664, 1433
+  size: 62, 88
+  orig: 159, 224
+  offset: 48, 68
+  index: -1
+女主/女主头发2
+  rotate: true
+  xy: 1027, 69
+  size: 216, 277
+  orig: 216, 277
+  offset: 0, 0
+  index: -1
+女主嘴巴/女主-嘴巴1
+  rotate: false
+  xy: 771, 1069
+  size: 422, 452
+  orig: 422, 452
+  offset: 0, 0
+  index: -1
+女主嘴巴/女主-嘴巴2
+  rotate: false
+  xy: 1195, 1069
+  size: 422, 452
+  orig: 422, 452
+  offset: 0, 0
+  index: -1
+女主嘴巴/女主-嘴巴3
+  rotate: true
+  xy: 771, 645
+  size: 422, 452
+  orig: 422, 452
+  offset: 0, 0
+  index: -1
+女主嘴巴/女主-嘴巴4
+  rotate: false
+  xy: 1225, 615
+  size: 422, 452
+  orig: 422, 452
+  offset: 0, 0
+  index: -1
+尖叫
+  rotate: false
+  xy: 224, 14
+  size: 61, 58
+  orig: 61, 58
+  offset: 0, 0
+  index: -1
+手指
+  rotate: false
+  xy: 1529, 96
+  size: 166, 200
+  orig: 225, 270
+  offset: 31, 32
+  index: -1
+旗袍/对话框1
+  rotate: false
+  xy: 1644, 298
+  size: 254, 185
+  orig: 254, 185
+  offset: 0, 0
+  index: -1
+旗袍/思考气泡
+  rotate: true
+  xy: 2, 715
+  size: 501, 343
+  orig: 501, 343
+  offset: 0, 0
+  index: -1
+点击av
+  rotate: false
+  xy: 1697, 135
+  size: 131, 161
+  orig: 133, 162
+  offset: 1, 0
+  index: -1
+男主/头
+  rotate: false
+  xy: 426, 386
+  size: 326, 339
+  orig: 326, 339
+  offset: 0, 0
+  index: -1
+男主/男主看菲菲打电话
+  rotate: false
+  xy: 1619, 1167
+  size: 331, 354
+  orig: 331, 354
+  offset: 0, 0
+  index: -1
+男主/表情13
+  rotate: false
+  xy: 1649, 485
+  size: 326, 339
+  orig: 326, 339
+  offset: 0, 0
+  index: -1
+男主/表情19-疑惑（包租婆敲门）
+  rotate: false
+  xy: 426, 45
+  size: 326, 339
+  orig: 326, 339
+  offset: 0, 0
+  index: -1
+男主/表情28
+  rotate: true
+  xy: 1095, 287
+  size: 326, 339
+  orig: 326, 339
+  offset: 0, 0
+  index: -1
+男主/表情4-
+  rotate: true
+  xy: 754, 317
+  size: 326, 339
+  orig: 326, 339
+  offset: 0, 0
+  index: -1
+男主/表情7-惊讶（分手）
+  rotate: false
+  xy: 1649, 826
+  size: 326, 339
+  orig: 326, 339
+  offset: 0, 0
+  index: -1
+男主/说话嘴2
+  rotate: true
+  xy: 728, 1465
+  size: 56, 41
+  orig: 62, 45
+  offset: 0, 3
+  index: -1
+男主/说话嘴巴2
+  rotate: true
+  xy: 1619, 1128
+  size: 37, 21
+  orig: 39, 21
+  offset: 1, 0
+  index: -1
+菲菲打电话
+  rotate: false
+  xy: 329, 1412
+  size: 333, 563
+  orig: 333, 563
+  offset: 0, 0
+  index: -1
+表现素材/提示
+  rotate: false
+  xy: 1436, 376
+  size: 206, 237
+  orig: 206, 237
+  offset: 0, 0
+  index: -1

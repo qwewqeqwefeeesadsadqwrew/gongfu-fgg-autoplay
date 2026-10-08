@@ -1,0 +1,55 @@
+
+hospital_man.png
+size: 681,681
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hanzhu
+  rotate: true
+  xy: 2, 658
+  size: 21, 52
+  orig: 21, 52
+  offset: 0, 0
+  index: -1
+s1
+  rotate: false
+  xy: 133, 620
+  size: 127, 59
+  orig: 127, 59
+  offset: 0, 0
+  index: -1
+s2
+  rotate: false
+  xy: 262, 620
+  size: 149, 59
+  orig: 149, 59
+  offset: 0, 0
+  index: -1
+医生1
+  rotate: true
+  xy: 2, 2
+  size: 247, 609
+  orig: 247, 610
+  offset: 0, 1
+  index: -1
+医生2
+  rotate: true
+  xy: 2, 251
+  size: 241, 603
+  orig: 242, 603
+  offset: 1, 0
+  index: -1
+对话框1
+  rotate: false
+  xy: 413, 494
+  size: 254, 185
+  orig: 254, 185
+  offset: 0, 0
+  index: -1
+阴影
+  rotate: false
+  xy: 56, 646
+  size: 75, 33
+  orig: 90, 45
+  offset: 7, 6
+  index: -1

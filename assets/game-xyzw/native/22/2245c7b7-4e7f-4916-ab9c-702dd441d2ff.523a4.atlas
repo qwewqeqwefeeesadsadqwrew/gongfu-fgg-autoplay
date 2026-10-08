@@ -1,0 +1,132 @@
+
+ui_guaji_book2.png
+size: 512,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ui_guaji_book02
+  rotate: false
+  xy: 2, 16
+  size: 80, 46
+  orig: 80, 46
+  offset: 0, 0
+  index: -1
+ui_guaji_book03
+  rotate: false
+  xy: 12, 3
+  size: 2, 11
+  orig: 2, 11
+  offset: 0, 0
+  index: -1
+ui_guaji_book04
+  rotate: true
+  xy: 178, 22
+  size: 40, 32
+  orig: 40, 32
+  offset: 0, 0
+  index: -1
+ui_guaji_book05
+  rotate: true
+  xy: 212, 25
+  size: 37, 32
+  orig: 37, 32
+  offset: 0, 0
+  index: -1
+ui_guaji_book06
+  rotate: true
+  xy: 84, 5
+  size: 57, 50
+  orig: 57, 50
+  offset: 0, 0
+  index: -1
+ui_guaji_book07
+  rotate: true
+  xy: 136, 18
+  size: 44, 40
+  orig: 44, 40
+  offset: 0, 0
+  index: -1
+ui_guaji_book08
+  rotate: false
+  xy: 2, 2
+  size: 8, 12
+  orig: 8, 12
+  offset: 0, 0
+  index: -1
+ui_guaji_book10
+  rotate: false
+  xy: 276, 34
+  size: 28, 28
+  orig: 30, 30
+  offset: 1, 1
+  index: -1
+ui_guaji_book11
+  rotate: false
+  xy: 276, 4
+  size: 28, 28
+  orig: 30, 30
+  offset: 1, 1
+  index: -1
+ui_guaji_book12
+  rotate: false
+  xy: 306, 34
+  size: 28, 28
+  orig: 30, 30
+  offset: 1, 1
+  index: -1
+ui_guaji_book13
+  rotate: true
+  xy: 336, 3
+  size: 26, 28
+  orig: 28, 30
+  offset: 1, 1
+  index: -1
+ui_guaji_book14
+  rotate: false
+  xy: 306, 4
+  size: 28, 28
+  orig: 30, 30
+  offset: 1, 1
+  index: -1
+ui_guaji_book15
+  rotate: true
+  xy: 246, 33
+  size: 29, 28
+  orig: 31, 30
+  offset: 1, 1
+  index: -1
+ui_guaji_book16
+  rotate: true
+  xy: 246, 2
+  size: 29, 28
+  orig: 31, 30
+  offset: 1, 1
+  index: -1
+ui_guaji_book17
+  rotate: false
+  xy: 212, 4
+  size: 30, 19
+  orig: 30, 19
+  offset: 0, 0
+  index: -1
+ui_guaji_book18
+  rotate: false
+  xy: 336, 31
+  size: 24, 31
+  orig: 26, 33
+  offset: 1, 1
+  index: -1
+xysg_hero_effect_box
+  rotate: false
+  xy: 136, 3
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+xysg_hero_effect_die3
+  rotate: false
+  xy: 362, 39
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1

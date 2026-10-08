@@ -1,0 +1,27 @@
+
+boss_chaiyouxiongdi_loop.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hero_effect_halo1
+  rotate: false
+  xy: 36, 2
+  size: 58, 58
+  orig: 58, 58
+  offset: 0, 0
+  index: -1
+sc4_fish_weapon
+  rotate: false
+  xy: 2, 62
+  size: 116, 24
+  orig: 117, 26
+  offset: 0, 1
+  index: -1
+xysg_hero_effect_box
+  rotate: false
+  xy: 2, 28
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,216 @@
+
+jiangwei.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hero_effect_box2
+  rotate: false
+  xy: 401, 82
+  size: 82, 82
+  orig: 82, 82
+  offset: 0, 0
+  index: -1
+hero_effect_halo1
+  rotate: false
+  xy: 299, 2
+  size: 46, 46
+  orig: 46, 46
+  offset: 0, 0
+  index: -1
+hero_eye_cry
+  rotate: false
+  xy: 255, 89
+  size: 42, 51
+  orig: 42, 51
+  offset: 0, 0
+  index: -1
+jiangwei_beard
+  rotate: false
+  xy: 216, 193
+  size: 34, 26
+  orig: 34, 26
+  offset: 0, 0
+  index: -1
+jiangwei_body
+  rotate: true
+  xy: 2, 17
+  size: 166, 143
+  orig: 166, 143
+  offset: 0, 0
+  index: -1
+jiangwei_effect1
+  rotate: true
+  xy: 225, 285
+  size: 75, 197
+  orig: 75, 197
+  offset: 0, 0
+  index: -1
+jiangwei_effect2
+  rotate: false
+  xy: 383, 33
+  size: 47, 47
+  orig: 47, 47
+  offset: 0, 0
+  index: -1
+jiangwei_effect3
+  rotate: false
+  xy: 84, 187
+  size: 50, 32
+  orig: 56, 34
+  offset: 2, 2
+  index: -1
+jiangwei_effect4
+  rotate: true
+  xy: 225, 221
+  size: 62, 81
+  orig: 62, 81
+  offset: 0, 0
+  index: -1
+jiangwei_effect5
+  rotate: false
+  xy: 172, 10
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+jiangwei_eye
+  rotate: false
+  xy: 2, 8
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+jiangwei_eyebrow
+  rotate: true
+  xy: 200, 2
+  size: 34, 15
+  orig: 34, 15
+  offset: 0, 0
+  index: -1
+jiangwei_eyewhite
+  rotate: false
+  xy: 177, 189
+  size: 37, 30
+  orig: 37, 30
+  offset: 0, 0
+  index: -1
+jiangwei_flag
+  rotate: true
+  xy: 302, 124
+  size: 74, 97
+  orig: 74, 97
+  offset: 0, 0
+  index: -1
+jiangwei_gan
+  rotate: true
+  xy: 424, 166
+  size: 122, 66
+  orig: 122, 66
+  offset: 0, 0
+  index: -1
+jiangwei_hair1
+  rotate: true
+  xy: 299, 50
+  size: 72, 82
+  orig: 72, 82
+  offset: 0, 0
+  index: -1
+jiangwei_hair2
+  rotate: true
+  xy: 255, 142
+  size: 77, 45
+  orig: 77, 45
+  offset: 0, 0
+  index: -1
+jiangwei_hair3
+  rotate: false
+  xy: 147, 38
+  size: 106, 146
+  orig: 106, 146
+  offset: 0, 0
+  index: -1
+jiangwei_handl1
+  rotate: false
+  xy: 255, 45
+  size: 42, 42
+  orig: 43, 45
+  offset: 0, 3
+  index: -1
+jiangwei_handl2
+  rotate: true
+  xy: 136, 186
+  size: 33, 39
+  orig: 34, 42
+  offset: 0, 3
+  index: -1
+jiangwei_handr
+  rotate: true
+  xy: 255, 3
+  size: 40, 42
+  orig: 40, 42
+  offset: 0, 0
+  index: -1
+jiangwei_head
+  rotate: false
+  xy: 84, 362
+  size: 143, 148
+  orig: 143, 148
+  offset: 0, 0
+  index: -1
+jiangwei_legr
+  rotate: false
+  xy: 147, 5
+  size: 23, 31
+  orig: 23, 31
+  offset: 0, 0
+  index: -1
+jiangwei_shoulderl
+  rotate: false
+  xy: 443, 436
+  size: 63, 74
+  orig: 63, 74
+  offset: 0, 0
+  index: -1
+jiangwei_shoulderr
+  rotate: true
+  xy: 308, 200
+  size: 83, 87
+  orig: 83, 87
+  offset: 0, 0
+  index: -1
+jiangwei_skill2
+  rotate: true
+  xy: 229, 375
+  size: 135, 106
+  orig: 135, 106
+  offset: 0, 0
+  index: -1
+jiangwei_tail
+  rotate: true
+  xy: 424, 290
+  size: 110, 75
+  orig: 110, 75
+  offset: 0, 0
+  index: -1
+jiangwei_weapon
+  rotate: false
+  xy: 2, 185
+  size: 80, 325
+  orig: 80, 325
+  offset: 0, 0
+  index: -1
+xysg_hero_effect_lightcircle
+  rotate: false
+  xy: 84, 221
+  size: 139, 139
+  orig: 139, 139
+  offset: 0, 0
+  index: -1
+xysg_hero_effect_swordlight2
+  rotate: true
+  xy: 337, 402
+  size: 108, 104
+  orig: 108, 104
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,216 @@
+
+车模2.png
+size: 1920,1287
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dabil
+  rotate: true
+  xy: 2, 17
+  size: 88, 244
+  orig: 88, 244
+  offset: 0, 0
+  index: -1
+dabir
+  rotate: false
+  xy: 1851, 1065
+  size: 64, 220
+  orig: 64, 221
+  offset: 0, 0
+  index: -1
+erhuanl1
+  rotate: false
+  xy: 1669, 212
+  size: 9, 13
+  orig: 11, 14
+  offset: 1, 1
+  index: -1
+erhuanl2
+  rotate: false
+  xy: 1760, 77
+  size: 25, 36
+  orig: 25, 38
+  offset: 0, 2
+  index: -1
+erhuanr1
+  rotate: false
+  xy: 1669, 198
+  size: 9, 12
+  orig: 11, 17
+  offset: 1, 4
+  index: -1
+erhuanr2
+  rotate: false
+  xy: 1851, 951
+  size: 19, 33
+  orig: 21, 41
+  offset: 1, 8
+  index: -1
+fashao
+  rotate: false
+  xy: 1851, 986
+  size: 64, 77
+  orig: 66, 79
+  offset: 1, 2
+  index: -1
+kua
+  rotate: false
+  xy: 1229, 11
+  size: 266, 201
+  orig: 266, 202
+  offset: 0, 1
+  index: -1
+lian
+  rotate: false
+  xy: 1497, 19
+  size: 170, 206
+  orig: 170, 211
+  offset: 0, 5
+  index: -1
+qunzi1
+  rotate: true
+  xy: 766, 533
+  size: 325, 785
+  orig: 325, 785
+  offset: 0, 0
+  index: -1
+qunzi2
+  rotate: true
+  xy: 810, 214
+  size: 144, 670
+  orig: 145, 670
+  offset: 0, 0
+  index: -1
+qunzi3
+  rotate: true
+  xy: 2, 107
+  size: 411, 806
+  orig: 411, 806
+  offset: 0, 0
+  index: -1
+shengti
+  rotate: true
+  xy: 1553, 628
+  size: 230, 354
+  orig: 230, 354
+  offset: 0, 0
+  index: -1
+shoul
+  rotate: false
+  xy: 473, 12
+  size: 96, 93
+  orig: 97, 95
+  offset: 1, 2
+  index: -1
+shour
+  rotate: false
+  xy: 1669, 2
+  size: 89, 111
+  orig: 89, 111
+  offset: 0, 0
+  index: -1
+toufa1
+  rotate: false
+  xy: 1612, 375
+  size: 202, 251
+  orig: 202, 251
+  offset: 0, 0
+  index: -1
+toufa3
+  rotate: false
+  xy: 1680, 115
+  size: 118, 258
+  orig: 118, 258
+  offset: 0, 0
+  index: -1
+toufa4
+  rotate: false
+  xy: 1816, 387
+  size: 92, 239
+  orig: 94, 239
+  offset: 2, 0
+  index: -1
+tuil
+  rotate: true
+  xy: 810, 360
+  size: 171, 800
+  orig: 171, 800
+  offset: 0, 0
+  index: -1
+tuir
+  rotate: true
+  xy: 810, 75
+  size: 137, 417
+  orig: 137, 460
+  offset: 0, 0
+  index: -1
+xiaobil
+  rotate: false
+  xy: 248, 15
+  size: 223, 90
+  orig: 223, 94
+  offset: 0, 4
+  index: -1
+xiaobir
+  rotate: true
+  xy: 1482, 227
+  size: 131, 196
+  orig: 131, 196
+  offset: 0, 0
+  index: -1
+yanbai
+  rotate: true
+  xy: 1553, 536
+  size: 90, 39
+  orig: 92, 42
+  offset: 1, 2
+  index: -1
+yanjing1
+  rotate: false
+  xy: 620, 87
+  size: 18, 18
+  orig: 19, 19
+  offset: 0, 1
+  index: -1
+yanjing2
+  rotate: true
+  xy: 1594, 608
+  size: 18, 16
+  orig: 18, 18
+  offset: 0, 1
+  index: -1
+zuiba
+  rotate: false
+  xy: 571, 71
+  size: 47, 34
+  orig: 47, 34
+  offset: 0, 0
+  index: -1
+嘴唇
+  rotate: true
+  xy: 1800, 188
+  size: 185, 118
+  orig: 191, 118
+  offset: 1, 0
+  index: -1
+手掌
+  rotate: false
+  xy: 1800, 31
+  size: 112, 155
+  orig: 121, 155
+  offset: 0, 0
+  index: -1
+闪光
+  rotate: false
+  xy: 2, 520
+  size: 762, 765
+  orig: 1080, 1080
+  offset: 139, 148
+  index: -1
+黑车
+  rotate: false
+  xy: 766, 860
+  size: 1083, 425
+  orig: 1118, 428
+  offset: 25, 3
+  index: -1

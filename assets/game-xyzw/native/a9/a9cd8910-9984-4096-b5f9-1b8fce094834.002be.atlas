@@ -1,0 +1,139 @@
+
+zhangjiao.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hero_effect_box2
+  rotate: false
+  xy: 215, 82
+  size: 82, 82
+  orig: 82, 82
+  offset: 0, 0
+  index: -1
+hero_effect_halo1
+  rotate: false
+  xy: 208, 19
+  size: 46, 46
+  orig: 46, 46
+  offset: 0, 0
+  index: -1
+hero_eye_cry
+  rotate: false
+  xy: 164, 14
+  size: 42, 51
+  orig: 42, 51
+  offset: 0, 0
+  index: -1
+xysg_hero_effect_box
+  rotate: false
+  xy: 136, 10
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+zhangjiao_beard
+  rotate: false
+  xy: 237, 295
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+zhangjiao_body
+  rotate: true
+  xy: 2, 38
+  size: 184, 141
+  orig: 184, 141
+  offset: 0, 0
+  index: -1
+zhangjiao_eye
+  rotate: false
+  xy: 136, 2
+  size: 6, 6
+  orig: 6, 6
+  offset: 0, 0
+  index: -1
+zhangjiao_eyebrow
+  rotate: false
+  xy: 96, 7
+  size: 38, 29
+  orig: 38, 29
+  offset: 0, 0
+  index: -1
+zhangjiao_eyewhite
+  rotate: true
+  xy: 68, 6
+  size: 30, 26
+  orig: 30, 26
+  offset: 0, 0
+  index: -1
+zhangjiao_hair1
+  rotate: false
+  xy: 145, 161
+  size: 39, 93
+  orig: 39, 93
+  offset: 0, 0
+  index: -1
+zhangjiao_hair2
+  rotate: false
+  xy: 145, 67
+  size: 68, 92
+  orig: 68, 101
+  offset: 0, 0
+  index: -1
+zhangjiao_handl
+  rotate: false
+  xy: 256, 37
+  size: 42, 43
+  orig: 42, 43
+  offset: 0, 0
+  index: -1
+zhangjiao_handr1
+  rotate: true
+  xy: 237, 335
+  size: 43, 42
+  orig: 43, 44
+  offset: 0, 2
+  index: -1
+zhangjiao_handr2
+  rotate: true
+  xy: 2, 2
+  size: 34, 39
+  orig: 34, 42
+  offset: 0, 3
+  index: -1
+zhangjiao_head
+  rotate: true
+  xy: 133, 380
+  size: 130, 117
+  orig: 130, 118
+  offset: 0, 1
+  index: -1
+zhangjiao_jaw
+  rotate: false
+  xy: 133, 256
+  size: 102, 122
+  orig: 102, 126
+  offset: 0, 4
+  index: -1
+zhangjiao_legr
+  rotate: false
+  xy: 43, 5
+  size: 23, 31
+  orig: 23, 31
+  offset: 0, 0
+  index: -1
+zhangjiao_tail
+  rotate: true
+  xy: 186, 166
+  size: 88, 68
+  orig: 88, 68
+  offset: 0, 0
+  index: -1
+zhangjiao_weapon
+  rotate: false
+  xy: 2, 224
+  size: 129, 286
+  orig: 129, 294
+  offset: 0, 8
+  index: -1

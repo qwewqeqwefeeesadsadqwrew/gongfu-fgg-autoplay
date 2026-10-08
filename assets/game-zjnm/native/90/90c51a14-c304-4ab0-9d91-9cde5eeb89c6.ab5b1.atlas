@@ -1,0 +1,13 @@
+
+hit.png
+size: 364,364
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+rad
+  rotate: false
+  xy: 2, 2
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1

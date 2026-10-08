@@ -1,0 +1,160 @@
+
+牛魔王.png
+size: 1429,516
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+L手2
+  rotate: false
+  xy: 758, 29
+  size: 145, 173
+  orig: 200, 240
+  offset: 33, 40
+  index: -1
+L手3
+  rotate: true
+  xy: 1178, 8
+  size: 116, 141
+  orig: 140, 141
+  offset: 17, 0
+  index: -1
+L手4
+  rotate: false
+  xy: 1143, 283
+  size: 182, 231
+  orig: 182, 243
+  offset: 0, 12
+  index: -1
+L手4s
+  rotate: false
+  xy: 427, 65
+  size: 28, 45
+  orig: 28, 45
+  offset: 0, 0
+  index: -1
+R手1-1
+  rotate: false
+  xy: 427, 21
+  size: 14, 42
+  orig: 15, 43
+  offset: 1, 1
+  index: -1
+no
+  rotate: true
+  xy: 303, 20
+  size: 176, 122
+  orig: 176, 122
+  offset: 0, 0
+  index: -1
+嘴
+  rotate: false
+  xy: 427, 2
+  size: 38, 17
+  orig: 38, 17
+  offset: 0, 0
+  index: -1
+图层 26
+  rotate: true
+  xy: 443, 30
+  size: 33, 13
+  orig: 33, 13
+  offset: 0, 0
+  index: -1
+失败头
+  rotate: true
+  xy: 427, 151
+  size: 45, 44
+  orig: 45, 44
+  offset: 0, 0
+  index: -1
+失败手R
+  rotate: false
+  xy: 1143, 126
+  size: 96, 155
+  orig: 113, 155
+  offset: 17, 0
+  index: -1
+失败腿
+  rotate: false
+  xy: 2, 12
+  size: 299, 184
+  orig: 299, 311
+  offset: 0, 127
+  index: -1
+头
+  rotate: true
+  xy: 477, 16
+  size: 186, 279
+  orig: 186, 279
+  offset: 0, 0
+  index: -1
+待机右臂
+  rotate: true
+  xy: 1321, 6
+  size: 114, 106
+  orig: 120, 120
+  offset: 6, 5
+  index: -1
+待机手
+  rotate: true
+  xy: 1241, 207
+  size: 74, 70
+  orig: 74, 70
+  offset: 0, 0
+  index: -1
+特效
+  rotate: true
+  xy: 1327, 122
+  size: 392, 96
+  orig: 576, 116
+  offset: 12, 8
+  index: -1
+腿
+  rotate: false
+  xy: 2, 198
+  size: 473, 316
+  orig: 520, 316
+  offset: 30, 0
+  index: -1
+身体
+  rotate: false
+  xy: 954, 87
+  size: 187, 427
+  orig: 200, 480
+  offset: 0, 0
+  index: -1
+速度线
+  rotate: false
+  xy: 931, 13
+  size: 245, 72
+  orig: 245, 72
+  offset: 0, 0
+  index: -1
+阴影
+  rotate: true
+  xy: 905, 76
+  size: 126, 24
+  orig: 126, 24
+  offset: 0, 0
+  index: -1
+鱼叉
+  rotate: false
+  xy: 477, 204
+  size: 475, 310
+  orig: 477, 310
+  offset: 1, 0
+  index: -1
+鼻子
+  rotate: false
+  xy: 427, 112
+  size: 31, 37
+  orig: 31, 37
+  offset: 0, 0
+  index: -1
+鼻环
+  rotate: true
+  xy: 457, 90
+  size: 20, 15
+  orig: 20, 15
+  offset: 0, 0
+  index: -1

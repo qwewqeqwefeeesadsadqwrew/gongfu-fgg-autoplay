@@ -1,0 +1,160 @@
+
+gun_game_place2.png
+size: 1691,1691
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ff1_body
+  rotate: false
+  xy: 1296, 397
+  size: 371, 1292
+  orig: 371, 1292
+  offset: 0, 0
+  index: -1
+ff1_hair
+  rotate: false
+  xy: 982, 751
+  size: 87, 194
+  orig: 87, 194
+  offset: 0, 0
+  index: -1
+ff1_handL
+  rotate: true
+  xy: 1296, 18
+  size: 135, 295
+  orig: 135, 295
+  offset: 0, 0
+  index: -1
+ff1_handL2
+  rotate: false
+  xy: 846, 429
+  size: 100, 221
+  orig: 100, 221
+  offset: 0, 0
+  index: -1
+ff1_handR
+  rotate: false
+  xy: 846, 652
+  size: 134, 293
+  orig: 134, 293
+  offset: 0, 0
+  index: -1
+ff2_body
+  rotate: true
+  xy: 2, 14
+  size: 281, 1292
+  orig: 281, 1292
+  offset: 0, 0
+  index: -1
+ff2_hair
+  rotate: false
+  xy: 1187, 558
+  size: 87, 194
+  orig: 87, 194
+  offset: 0, 0
+  index: -1
+ff2_handL
+  rotate: true
+  xy: 846, 947
+  size: 209, 230
+  orig: 209, 230
+  offset: 0, 0
+  index: -1
+ff2_handR
+  rotate: true
+  xy: 948, 450
+  size: 108, 155
+  orig: 110, 157
+  offset: 1, 1
+  index: -1
+fire1
+  rotate: true
+  xy: 1078, 938
+  size: 218, 214
+  orig: 223, 214
+  offset: 5, 0
+  index: -1
+nezha_pgsj_00
+  rotate: false
+  xy: 1296, 155
+  size: 240, 240
+  orig: 288, 288
+  offset: 24, 24
+  index: -1
+nezha_pgsj_02
+  rotate: false
+  xy: 1071, 754
+  size: 190, 182
+  orig: 288, 288
+  offset: 39, 48
+  index: -1
+nezha_pgsj_04
+  rotate: true
+  xy: 982, 560
+  size: 189, 203
+  orig: 288, 288
+  offset: 46, 35
+  index: -1
+nezha_pgsj_06
+  rotate: false
+  xy: 846, 305
+  size: 171, 122
+  orig: 288, 288
+  offset: 54, 63
+  index: -1
+nezha_pgsj_08
+  rotate: false
+  xy: 1593, 90
+  size: 77, 69
+  orig: 288, 288
+  offset: 105, 102
+  index: -1
+suipian_1
+  rotate: false
+  xy: 1593, 23
+  size: 62, 65
+  orig: 63, 71
+  offset: 1, 6
+  index: -1
+suipian_2
+  rotate: true
+  xy: 1105, 514
+  size: 44, 76
+  orig: 44, 76
+  offset: 0, 0
+  index: -1
+xiaodi1_body
+  rotate: false
+  xy: 426, 334
+  size: 418, 1355
+  orig: 418, 1355
+  offset: 0, 0
+  index: -1
+xiaodi1_hand
+  rotate: false
+  xy: 1538, 161
+  size: 151, 234
+  orig: 151, 234
+  offset: 0, 0
+  index: -1
+xiaodi2_body
+  rotate: false
+  xy: 2, 297
+  size: 422, 1392
+  orig: 422, 1392
+  offset: 0, 0
+  index: -1
+xiaodi2_hand1
+  rotate: false
+  xy: 846, 1355
+  size: 422, 334
+  orig: 422, 334
+  offset: 0, 0
+  index: -1
+xiaodi2_hand2
+  rotate: false
+  xy: 846, 1158
+  size: 422, 195
+  orig: 422, 195
+  offset: 0, 0
+  index: -1

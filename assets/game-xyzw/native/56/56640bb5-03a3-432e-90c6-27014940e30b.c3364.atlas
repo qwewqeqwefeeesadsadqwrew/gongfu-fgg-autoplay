@@ -1,0 +1,20 @@
+
+zhangxingcai_skill_loop.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+zhangxingcai_skill1
+  rotate: false
+  xy: 2, 2
+  size: 96, 97
+  orig: 96, 97
+  offset: 0, 0
+  index: -1
+zhangxingcai_skill2
+  rotate: false
+  xy: 100, 2
+  size: 96, 97
+  orig: 96, 97
+  offset: 0, 0
+  index: -1

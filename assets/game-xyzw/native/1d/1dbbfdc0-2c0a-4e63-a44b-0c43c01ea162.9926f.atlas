@@ -1,0 +1,146 @@
+
+dongzhuo.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dongzhuo_body1
+  rotate: true
+  xy: 315, 372
+  size: 71, 123
+  orig: 71, 123
+  offset: 0, 0
+  index: -1
+dongzhuo_body2
+  rotate: false
+  xy: 2, 2
+  size: 156, 134
+  orig: 156, 134
+  offset: 0, 0
+  index: -1
+dongzhuo_body3
+  rotate: true
+  xy: 107, 251
+  size: 60, 122
+  orig: 60, 122
+  offset: 0, 0
+  index: -1
+dongzhuo_eye
+  rotate: false
+  xy: 231, 258
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+dongzhuo_eyebrow
+  rotate: true
+  xy: 160, 105
+  size: 38, 36
+  orig: 38, 36
+  offset: 0, 0
+  index: -1
+dongzhuo_eyewhite
+  rotate: false
+  xy: 160, 71
+  size: 30, 32
+  orig: 30, 32
+  offset: 0, 0
+  index: -1
+dongzhuo_handl
+  rotate: false
+  xy: 440, 401
+  size: 39, 42
+  orig: 39, 42
+  offset: 0, 0
+  index: -1
+dongzhuo_handr
+  rotate: false
+  xy: 278, 272
+  size: 33, 39
+  orig: 33, 39
+  offset: 0, 0
+  index: -1
+dongzhuo_handr2
+  rotate: true
+  xy: 231, 269
+  size: 42, 45
+  orig: 42, 45
+  offset: 0, 0
+  index: -1
+dongzhuo_head
+  rotate: false
+  xy: 107, 313
+  size: 206, 130
+  orig: 206, 130
+  offset: 0, 0
+  index: -1
+dongzhuo_legr
+  rotate: true
+  xy: 440, 376
+  size: 23, 31
+  orig: 23, 31
+  offset: 0, 0
+  index: -1
+dongzhuo_mouth
+  rotate: false
+  xy: 417, 300
+  size: 66, 70
+  orig: 66, 70
+  offset: 0, 0
+  index: -1
+dongzhuo_shoulderl
+  rotate: true
+  xy: 107, 197
+  size: 52, 51
+  orig: 52, 51
+  offset: 0, 0
+  index: -1
+dongzhuo_tail
+  rotate: false
+  xy: 270, 99
+  size: 103, 64
+  orig: 103, 64
+  offset: 0, 0
+  index: -1
+dongzhuo_tie
+  rotate: true
+  xy: 374, 193
+  size: 75, 102
+  orig: 75, 104
+  offset: 0, 0
+  index: -1
+dongzhuo_weapon
+  rotate: false
+  xy: 2, 138
+  size: 103, 305
+  orig: 103, 305
+  offset: 0, 0
+  index: -1
+hero_eye_cry
+  rotate: false
+  xy: 107, 144
+  size: 42, 51
+  orig: 42, 51
+  offset: 0, 0
+  index: -1
+ui_effect_light_circle3
+  rotate: false
+  xy: 315, 270
+  size: 100, 100
+  orig: 102, 102
+  offset: 1, 1
+  index: -1
+xysg_hero_effect_swordlight2
+  rotate: false
+  xy: 160, 145
+  size: 108, 104
+  orig: 108, 104
+  offset: 0, 0
+  index: -1
+xysg_hero_guanyu_shadow
+  rotate: false
+  xy: 270, 165
+  size: 102, 102
+  orig: 102, 102
+  offset: 0, 0
+  index: -1

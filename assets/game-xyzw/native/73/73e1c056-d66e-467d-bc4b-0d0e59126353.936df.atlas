@@ -1,0 +1,69 @@
+
+xiaobing2_mianju.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hero_eye_cry
+  rotate: true
+  xy: 331, 31
+  size: 42, 51
+  orig: 42, 51
+  offset: 0, 0
+  index: -1
+sc2_monster3_body
+  rotate: false
+  xy: 2, 2
+  size: 122, 118
+  orig: 122, 118
+  offset: 0, 0
+  index: -1
+sc2_monster3_handr1
+  rotate: false
+  xy: 384, 38
+  size: 34, 35
+  orig: 35, 38
+  offset: 0, 3
+  index: -1
+sc2_monster3_handr2
+  rotate: false
+  xy: 420, 42
+  size: 27, 31
+  orig: 29, 36
+  offset: 0, 5
+  index: -1
+sc2_monster3_legr
+  rotate: true
+  xy: 449, 38
+  size: 18, 25
+  orig: 18, 25
+  offset: 0, 0
+  index: -1
+sc2_monster3_mask
+  rotate: false
+  xy: 126, 17
+  size: 125, 103
+  orig: 125, 110
+  offset: 0, 7
+  index: -1
+sc2_monster3_shield
+  rotate: true
+  xy: 253, 11
+  size: 62, 76
+  orig: 62, 76
+  offset: 0, 0
+  index: -1
+sc2_monster3_tail
+  rotate: true
+  xy: 457, 58
+  size: 62, 49
+  orig: 63, 52
+  offset: 0, 3
+  index: -1
+sc2_monster3_weapon
+  rotate: true
+  xy: 253, 75
+  size: 45, 202
+  orig: 45, 202
+  offset: 0, 0
+  index: -1

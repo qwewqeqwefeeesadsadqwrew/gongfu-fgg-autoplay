@@ -1,0 +1,125 @@
+
+房东之家_装饰动画.png
+size: 151,758
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+身体-包租婆
+  rotate: true
+  xy: 2, 67
+  size: 57, 77
+  orig: 57, 77
+  offset: 0, 0
+  index: -1
+头-包租婆
+  rotate: false
+  xy: 2, 215
+  size: 99, 87
+  orig: 99, 87
+  offset: 0, 0
+  index: -1
+头-包租婆生气
+  rotate: false
+  xy: 2, 126
+  size: 99, 87
+  orig: 99, 87
+  offset: 0, 0
+  index: -1
+尖叫
+  rotate: false
+  xy: 81, 56
+  size: 66, 62
+  orig: 68, 64
+  offset: 1, 1
+  index: -1
+房东之家-内裤
+  rotate: false
+  xy: 103, 120
+  size: 46, 49
+  orig: 48, 52
+  offset: 1, 1
+  index: -1
+房东之家-底框
+  rotate: false
+  xy: 2, 304
+  size: 103, 101
+  orig: 105, 103
+  offset: 1, 1
+  index: -1
+房东之家-窗框
+  rotate: false
+  xy: 2, 407
+  size: 117, 117
+  orig: 119, 119
+  offset: 1, 1
+  index: -1
+房东之家-绳子
+  rotate: true
+  xy: 107, 171
+  size: 160, 30
+  orig: 160, 30
+  offset: 0, 0
+  index: -1
+房东之家-花盆
+  rotate: true
+  xy: 2, 12
+  size: 53, 70
+  orig: 53, 70
+  offset: 0, 0
+  index: -1
+房东之家-袜子1
+  rotate: true
+  xy: 107, 333
+  size: 33, 38
+  orig: 38, 46
+  offset: 3, 3
+  index: -1
+房东之家-袜子2
+  rotate: false
+  xy: 107, 368
+  size: 38, 37
+  orig: 42, 40
+  offset: 1, 1
+  index: -1
+房东之家1__窗户L
+  rotate: true
+  xy: 2, 700
+  size: 56, 136
+  orig: 56, 136
+  offset: 0, 0
+  index: -1
+房东之家1__窗户R
+  rotate: true
+  xy: 2, 642
+  size: 56, 136
+  orig: 56, 136
+  offset: 0, 0
+  index: -1
+房东之家2__窗户L
+  rotate: true
+  xy: 2, 526
+  size: 56, 136
+  orig: 56, 136
+  offset: 0, 0
+  index: -1
+房东之家2__窗户R
+  rotate: true
+  xy: 2, 584
+  size: 56, 136
+  orig: 56, 136
+  offset: 0, 0
+  index: -1
+手R-包租婆
+  rotate: false
+  xy: 121, 461
+  size: 26, 63
+  orig: 27, 63
+  offset: 0, 0
+  index: -1
+生气
+  rotate: false
+  xy: 74, 2
+  size: 59, 52
+  orig: 59, 52
+  offset: 0, 0
+  index: -1

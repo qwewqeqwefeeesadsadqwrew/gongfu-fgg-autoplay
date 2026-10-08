@@ -1,0 +1,27 @@
+
+zhenji_attack_loop.png
+size: 128,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hero_effect_halo1
+  rotate: false
+  xy: 2, 12
+  size: 46, 46
+  orig: 46, 46
+  offset: 0, 0
+  index: -1
+zhenji_effect3
+  rotate: true
+  xy: 50, 2
+  size: 56, 15
+  orig: 56, 15
+  offset: 0, 0
+  index: -1
+zhenji_effect4
+  rotate: false
+  xy: 2, 6
+  size: 15, 4
+  orig: 15, 4
+  offset: 0, 0
+  index: -1

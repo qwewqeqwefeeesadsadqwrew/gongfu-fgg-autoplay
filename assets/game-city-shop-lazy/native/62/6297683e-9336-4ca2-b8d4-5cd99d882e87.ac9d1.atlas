@@ -1,0 +1,111 @@
+
+zaotang_main_0.png
+size: 291,291
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+包租公_残影
+  rotate: false
+  xy: 2, 129
+  size: 62, 160
+  orig: 62, 160
+  offset: 0, 0
+  index: -1
+头-包租公
+  rotate: true
+  xy: 2, 47
+  size: 80, 90
+  orig: 80, 90
+  offset: 0, 0
+  index: -1
+头-包租公0
+  rotate: true
+  xy: 66, 209
+  size: 80, 90
+  orig: 80, 90
+  offset: 0, 0
+  index: -1
+头-包租公2
+  rotate: true
+  xy: 158, 220
+  size: 69, 90
+  orig: 69, 90
+  offset: 0, 0
+  index: -1
+头-包租公3
+  rotate: true
+  xy: 66, 138
+  size: 69, 106
+  orig: 69, 106
+  offset: 0, 0
+  index: -1
+头-包租公脸红
+  rotate: true
+  xy: 143, 90
+  size: 46, 23
+  orig: 51, 25
+  offset: 1, 1
+  index: -1
+感叹号
+  rotate: false
+  xy: 160, 47
+  size: 12, 41
+  orig: 12, 50
+  offset: 0, 6
+  index: -1
+手R-包租公
+  rotate: true
+  xy: 94, 39
+  size: 25, 64
+  orig: 25, 64
+  offset: 0, 0
+  index: -1
+拖把
+  rotate: false
+  xy: 174, 62
+  size: 66, 156
+  orig: 66, 156
+  offset: 0, 0
+  index: -1
+爱心
+  rotate: false
+  xy: 223, 29
+  size: 35, 31
+  orig: 35, 31
+  offset: 0, 0
+  index: -1
+笑
+  rotate: true
+  xy: 174, 20
+  size: 40, 47
+  orig: 40, 47
+  offset: 0, 0
+  index: -1
+脚L_包租公
+  rotate: true
+  xy: 83, 3
+  size: 34, 60
+  orig: 34, 61
+  offset: 0, 1
+  index: -1
+身体_包租公
+  rotate: false
+  xy: 94, 66
+  size: 47, 70
+  orig: 56, 84
+  offset: 5, 13
+  index: -1
+阴影
+  rotate: false
+  xy: 2, 13
+  size: 79, 32
+  orig: 81, 34
+  offset: 1, 1
+  index: -1
+音符
+  rotate: false
+  xy: 145, 2
+  size: 22, 35
+  orig: 40, 47
+  offset: 7, 6
+  index: -1

@@ -1,0 +1,27 @@
+
+锁.png
+size: 160,47
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 68, 2
+  size: 43, 51
+  orig: 45, 53
+  offset: 1, 1
+  index: -1
+2
+  rotate: true
+  xy: 2, 2
+  size: 43, 64
+  orig: 45, 66
+  offset: 1, 1
+  index: -1
+星
+  rotate: false
+  xy: 121, 8
+  size: 37, 37
+  orig: 39, 39
+  offset: 1, 1
+  index: -1

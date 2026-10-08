@@ -1,0 +1,202 @@
+
+模拟经营_揽客机器.png
+size: 714,714
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+10
+  rotate: true
+  xy: 601, 302
+  size: 125, 49
+  orig: 125, 49
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 213, 52
+  size: 98, 50
+  orig: 98, 50
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 463, 126
+  size: 98, 50
+  orig: 98, 50
+  offset: 0, 0
+  index: -1
+8
+  rotate: true
+  xy: 161, 2
+  size: 100, 50
+  orig: 100, 50
+  offset: 0, 0
+  index: -1
+中间
+  rotate: false
+  xy: 2, 380
+  size: 265, 264
+  orig: 265, 264
+  offset: 0, 0
+  index: -1
+中间-屏幕
+  rotate: false
+  xy: 429, 414
+  size: 136, 136
+  orig: 136, 136
+  offset: 0, 0
+  index: -1
+中间-屏幕2
+  rotate: false
+  xy: 187, 242
+  size: 136, 136
+  orig: 136, 136
+  offset: 0, 0
+  index: -1
+字1
+  rotate: true
+  xy: 72, 29
+  size: 349, 27
+  orig: 349, 27
+  offset: 0, 0
+  index: -1
+屏幕-外发光
+  rotate: false
+  xy: 269, 392
+  size: 158, 158
+  orig: 160, 160
+  offset: 1, 1
+  index: -1
+屏幕-底框10
+  rotate: false
+  xy: 325, 116
+  size: 136, 136
+  orig: 136, 136
+  offset: 0, 0
+  index: -1
+屏幕-底框3
+  rotate: false
+  xy: 325, 254
+  size: 136, 136
+  orig: 136, 136
+  offset: 0, 0
+  index: -1
+屏幕-底框5
+  rotate: false
+  xy: 463, 276
+  size: 136, 136
+  orig: 136, 136
+  offset: 0, 0
+  index: -1
+屏幕-底框8
+  rotate: false
+  xy: 187, 104
+  size: 136, 136
+  orig: 136, 136
+  offset: 0, 0
+  index: -1
+底部
+  rotate: true
+  xy: 570, 429
+  size: 283, 142
+  orig: 283, 142
+  offset: 0, 0
+  index: -1
+彩带1
+  rotate: false
+  xy: 269, 380
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+彩带2
+  rotate: false
+  xy: 429, 392
+  size: 19, 20
+  orig: 19, 20
+  offset: 0, 0
+  index: -1
+彩带3
+  rotate: false
+  xy: 2, 26
+  size: 37, 29
+  orig: 37, 29
+  offset: 0, 0
+  index: -1
+揽客宣传
+  rotate: false
+  xy: 269, 552
+  size: 262, 92
+  orig: 262, 92
+  offset: 0, 0
+  index: -1
+摇杆
+  rotate: false
+  xy: 561, 200
+  size: 68, 74
+  orig: 68, 74
+  offset: 0, 0
+  index: -1
+标题板
+  rotate: true
+  xy: 101, 163
+  size: 215, 84
+  orig: 215, 84
+  offset: 0, 0
+  index: -1
+灯-紫
+  rotate: false
+  xy: 563, 126
+  size: 72, 72
+  orig: 76, 76
+  offset: 2, 2
+  index: -1
+灯-红
+  rotate: false
+  xy: 463, 178
+  size: 96, 96
+  orig: 104, 104
+  offset: 4, 4
+  index: -1
+灯-黄
+  rotate: false
+  xy: 637, 144
+  size: 72, 72
+  orig: 78, 78
+  offset: 3, 3
+  index: -1
+灯ray
+  rotate: false
+  xy: 631, 218
+  size: 73, 73
+  orig: 77, 77
+  offset: 2, 2
+  index: -1
+红眼
+  rotate: true
+  xy: 2, 57
+  size: 321, 68
+  orig: 334, 80
+  offset: 7, 6
+  index: -1
+顶部
+  rotate: false
+  xy: 2, 646
+  size: 566, 66
+  orig: 566, 66
+  offset: 0, 0
+  index: -1
+黄色-按钮
+  rotate: true
+  xy: 101, 2
+  size: 159, 58
+  orig: 159, 58
+  offset: 0, 0
+  index: -1
+黄色-按钮2
+  rotate: true
+  xy: 652, 293
+  size: 134, 28
+  orig: 134, 28
+  offset: 0, 0
+  index: -1

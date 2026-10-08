@@ -1,0 +1,342 @@
+
+ch11_phone.png
+size: 2033,2033
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2
+  rotate: true
+  xy: 834, 230
+  size: 176, 21
+  orig: 176, 21
+  offset: 0, 0
+  index: -1
+5
+  rotate: true
+  xy: 1361, 894
+  size: 93, 21
+  orig: 93, 21
+  offset: 0, 0
+  index: -1
+bangjia-1
+  rotate: false
+  xy: 557, 408
+  size: 306, 461
+  orig: 306, 461
+  offset: 0, 0
+  index: -1
+bangjia-2
+  rotate: true
+  xy: 2, 16
+  size: 366, 695
+  orig: 366, 695
+  offset: 0, 0
+  index: -1
+jjr
+  rotate: false
+  xy: 2, 961
+  size: 623, 1070
+  orig: 623, 1070
+  offset: 0, 0
+  index: -1
+mp3ch11/s1
+  rotate: false
+  xy: 1361, 871
+  size: 90, 21
+  orig: 90, 21
+  offset: 0, 0
+  index: -1
+mp3ch11/s1-2
+  rotate: true
+  xy: 1770, 461
+  size: 49, 20
+  orig: 49, 20
+  offset: 0, 0
+  index: -1
+mp3ch11/s2
+  rotate: false
+  xy: 1811, 737
+  size: 177, 96
+  orig: 177, 96
+  offset: 0, 0
+  index: -1
+mp3ch11/s3
+  rotate: true
+  xy: 1947, 848
+  size: 177, 59
+  orig: 177, 59
+  offset: 0, 0
+  index: -1
+mp3ch11/s4
+  rotate: true
+  xy: 1770, 512
+  size: 220, 59
+  orig: 220, 59
+  offset: 0, 0
+  index: -1
+mp3ch11/s5
+  rotate: false
+  xy: 1384, 963
+  size: 135, 59
+  orig: 135, 59
+  offset: 0, 0
+  index: -1
+ssbg
+  rotate: true
+  xy: 627, 1152
+  size: 324, 756
+  orig: 324, 756
+  offset: 0, 0
+  index: -1
+z1
+  rotate: true
+  xy: 1761, 139
+  size: 73, 48
+  orig: 77, 50
+  offset: 2, 1
+  index: -1
+女主/女主-表情7
+  rotate: false
+  xy: 1385, 1024
+  size: 422, 452
+  orig: 422, 452
+  offset: 0, 0
+  index: -1
+女主/女主头
+  rotate: false
+  xy: 1521, 461
+  size: 247, 271
+  orig: 422, 452
+  offset: 74, 103
+  index: -1
+女主/女主头发1
+  rotate: false
+  xy: 557, 871
+  size: 62, 88
+  orig: 159, 224
+  offset: 48, 68
+  index: -1
+女主/女主头发2
+  rotate: false
+  xy: 1521, 182
+  size: 216, 277
+  orig: 216, 277
+  offset: 0, 0
+  index: -1
+女主/女主胸-破烂
+  rotate: true
+  xy: 1939, 508
+  size: 96, 70
+  orig: 96, 70
+  offset: 0, 0
+  index: -1
+女主/女主身体-破烂
+  rotate: true
+  xy: 627, 871
+  size: 117, 590
+  orig: 117, 590
+  offset: 0, 0
+  index: -1
+尖叫
+  rotate: true
+  xy: 1761, 76
+  size: 61, 58
+  orig: 61, 58
+  offset: 0, 0
+  index: -1
+感叹号
+  rotate: false
+  xy: 1463, 876
+  size: 56, 85
+  orig: 56, 85
+  offset: 0, 0
+  index: -1
+手指2
+  rotate: true
+  xy: 1277, 21
+  size: 166, 200
+  orig: 225, 270
+  offset: 31, 32
+  index: -1
+手机滤镜
+  rotate: true
+  xy: 1479, 46
+  size: 134, 280
+  orig: 134, 280
+  offset: 0, 0
+  index: -1
+拒绝
+  rotate: true
+  xy: 1219, 883
+  size: 104, 140
+  orig: 104, 140
+  offset: 0, 0
+  index: -1
+接受
+  rotate: false
+  xy: 1831, 594
+  size: 104, 141
+  orig: 104, 141
+  offset: 0, 0
+  index: -1
+新手机
+  rotate: true
+  xy: 627, 1478
+  size: 553, 1130
+  orig: 553, 1130
+  offset: 0, 0
+  index: -1
+来电界面
+  rotate: false
+  xy: 1759, 1479
+  size: 260, 552
+  orig: 260, 552
+  offset: 0, 0
+  index: -1
+气泡/对话框1
+  rotate: false
+  xy: 834, 2
+  size: 254, 185
+  orig: 254, 185
+  offset: 0, 0
+  index: -1
+气泡/尖叫气泡框
+  rotate: true
+  xy: 1809, 1141
+  size: 336, 202
+  orig: 353, 219
+  offset: 9, 8
+  index: -1
+气泡/气泡头像-底框
+  rotate: false
+  xy: 1090, 2
+  size: 185, 185
+  orig: 185, 185
+  offset: 0, 0
+  index: -1
+气泡/气泡头像-气泡
+  rotate: true
+  xy: 699, 23
+  size: 383, 133
+  orig: 383, 133
+  offset: 0, 0
+  index: -1
+气泡/生气
+  rotate: false
+  xy: 1831, 499
+  size: 106, 93
+  orig: 106, 93
+  offset: 0, 0
+  index: -1
+火1
+  rotate: true
+  xy: 1739, 293
+  size: 78, 62
+  orig: 78, 62
+  offset: 0, 0
+  index: -1
+火2
+  rotate: true
+  xy: 1739, 214
+  size: 77, 64
+  orig: 77, 64
+  offset: 0, 0
+  index: -1
+火3
+  rotate: false
+  xy: 1384, 894
+  size: 77, 67
+  orig: 77, 67
+  offset: 0, 0
+  index: -1
+点击进入
+  rotate: false
+  xy: 1251, 989
+  size: 131, 161
+  orig: 133, 162
+  offset: 1, 0
+  index: -1
+男主/L手-摊手
+  rotate: true
+  xy: 1809, 1027
+  size: 112, 203
+  orig: 112, 203
+  offset: 0, 0
+  index: -1
+男主/R手-摊手
+  rotate: false
+  xy: 1811, 835
+  size: 134, 190
+  orig: 134, 190
+  offset: 0, 0
+  index: -1
+男主/头
+  rotate: false
+  xy: 865, 530
+  size: 326, 339
+  orig: 326, 339
+  offset: 0, 0
+  index: -1
+男主/男主-身体小
+  rotate: true
+  xy: 1937, 606
+  size: 129, 68
+  orig: 129, 68
+  offset: 0, 0
+  index: -1
+男主/表情13
+  rotate: false
+  xy: 1193, 189
+  size: 326, 339
+  orig: 326, 339
+  offset: 0, 0
+  index: -1
+男主/表情2-
+  rotate: false
+  xy: 865, 189
+  size: 326, 339
+  orig: 326, 339
+  offset: 0, 0
+  index: -1
+男主/表情5-愤怒（被泼水）
+  rotate: false
+  xy: 1193, 530
+  size: 326, 339
+  orig: 326, 339
+  offset: 0, 0
+  index: -1
+男主/说话嘴巴0
+  rotate: true
+  xy: 1739, 373
+  size: 86, 53
+  orig: 326, 339
+  offset: 103, 71
+  index: -1
+男主/说话嘴巴2
+  rotate: false
+  xy: 1792, 489
+  size: 37, 21
+  orig: 39, 21
+  offset: 1, 0
+  index: -1
+男主/身体
+  rotate: true
+  xy: 627, 990
+  size: 160, 622
+  orig: 160, 622
+  offset: 0, 0
+  index: -1
+速度线
+  rotate: false
+  xy: 1521, 734
+  size: 288, 288
+  orig: 288, 288
+  offset: 0, 0
+  index: -1
+速度线bg
+  rotate: false
+  xy: 2, 384
+  size: 553, 575
+  orig: 553, 575
+  offset: 0, 0
+  index: -1

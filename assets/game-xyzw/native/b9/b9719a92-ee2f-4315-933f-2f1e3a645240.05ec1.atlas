@@ -1,0 +1,174 @@
+
+diaochan.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+diaochan_body
+  rotate: true
+  xy: 212, 29
+  size: 81, 69
+  orig: 108, 90
+  offset: 0, 0
+  index: -1
+diaochan_clothup
+  rotate: true
+  xy: 116, 126
+  size: 128, 57
+  orig: 128, 57
+  offset: 0, 0
+  index: -1
+diaochan_cornerhair
+  rotate: true
+  xy: 175, 112
+  size: 15, 48
+  orig: 16, 48
+  offset: 1, 0
+  index: -1
+diaochan_earring
+  rotate: true
+  xy: 249, 11
+  size: 16, 26
+  orig: 16, 27
+  offset: 0, 0
+  index: -1
+diaochan_earring1
+  rotate: true
+  xy: 212, 10
+  size: 17, 35
+  orig: 18, 36
+  offset: 0, 0
+  index: -1
+diaochan_eye1
+  rotate: false
+  xy: 245, 114
+  size: 13, 13
+  orig: 15, 13
+  offset: 1, 0
+  index: -1
+diaochan_eye2
+  rotate: false
+  xy: 128, 114
+  size: 10, 10
+  orig: 11, 12
+  offset: 1, 1
+  index: -1
+diaochan_eyewhite1
+  rotate: true
+  xy: 379, 30
+  size: 40, 39
+  orig: 40, 39
+  offset: 0, 0
+  index: -1
+diaochan_eyewhite2
+  rotate: false
+  xy: 393, 171
+  size: 29, 35
+  orig: 30, 35
+  offset: 0, 0
+  index: -1
+diaochan_fan
+  rotate: false
+  xy: 292, 135
+  size: 51, 54
+  orig: 51, 54
+  offset: 0, 0
+  index: -1
+diaochan_hair
+  rotate: true
+  xy: 2, 112
+  size: 142, 112
+  orig: 142, 112
+  offset: 0, 0
+  index: -1
+diaochan_hair2
+  rotate: false
+  xy: 387, 100
+  size: 30, 38
+  orig: 30, 43
+  offset: 0, 4
+  index: -1
+diaochan_handl
+  rotate: false
+  xy: 335, 5
+  size: 42, 56
+  orig: 42, 56
+  offset: 0, 0
+  index: -1
+diaochan_handr
+  rotate: false
+  xy: 345, 140
+  size: 46, 49
+  orig: 46, 49
+  offset: 0, 0
+  index: -1
+diaochan_head
+  rotate: true
+  xy: 175, 129
+  size: 125, 115
+  orig: 125, 142
+  offset: 0, 0
+  index: -1
+diaochan_mouth1
+  rotate: true
+  xy: 116, 112
+  size: 12, 10
+  orig: 14, 10
+  offset: 1, 0
+  index: -1
+diaochan_mouth2
+  rotate: false
+  xy: 225, 114
+  size: 18, 13
+  orig: 18, 14
+  offset: 0, 0
+  index: -1
+diaochan_pifeng1
+  rotate: false
+  xy: 292, 191
+  size: 63, 63
+  orig: 63, 63
+  offset: 0, 0
+  index: -1
+diaochan_pifeng2
+  rotate: true
+  xy: 341, 72
+  size: 61, 44
+  orig: 61, 44
+  offset: 0, 0
+  index: -1
+diaochan_tail
+  rotate: true
+  xy: 283, 63
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+hero_effect_hert
+  rotate: true
+  xy: 283, 2
+  size: 59, 50
+  orig: 59, 50
+  offset: 0, 0
+  index: -1
+xysg_hero_effect_die3
+  rotate: false
+  xy: 357, 208
+  size: 46, 46
+  orig: 46, 46
+  offset: 0, 0
+  index: -1
+xysg_hero_effect_swordlight2
+  rotate: true
+  xy: 2, 2
+  size: 108, 104
+  orig: 108, 104
+  offset: 0, 0
+  index: -1
+xysg_hero_guanyu_shadow
+  rotate: false
+  xy: 108, 8
+  size: 102, 102
+  orig: 102, 102
+  offset: 0, 0
+  index: -1

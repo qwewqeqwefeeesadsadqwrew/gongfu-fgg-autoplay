@@ -1,0 +1,20 @@
+
+zhuye_yun.png
+size: 1128,656
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+zhuye_san
+  rotate: true
+  xy: 2, 2
+  size: 650, 741
+  orig: 650, 745
+  offset: 0, 0
+  index: -1
+zhuye_yun
+  rotate: true
+  xy: 745, 2
+  size: 650, 380
+  orig: 650, 421
+  offset: 0, 0
+  index: -1

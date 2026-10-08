@@ -1,0 +1,706 @@
+
+ch22_2.png
+size: 3860,3860
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 867, 23
+  size: 162, 68
+  orig: 194, 93
+  offset: 16, 10
+  index: -1
+bg2
+  rotate: false
+  xy: 2, 2346
+  size: 1512, 1512
+  orig: 1512, 1512
+  offset: 0, 0
+  index: -1
+bg2-2
+  rotate: true
+  xy: 2, 832
+  size: 1512, 1334
+  orig: 1512, 1334
+  offset: 0, 0
+  index: -1
+dengzi
+  rotate: true
+  xy: 3678, 1211
+  size: 148, 173
+  orig: 148, 173
+  offset: 0, 0
+  index: -1
+huoyunxs
+  rotate: true
+  xy: 2521, 1716
+  size: 141, 415
+  orig: 141, 416
+  offset: 0, 1
+  index: -1
+laor1
+  rotate: false
+  xy: 2123, 218
+  size: 257, 637
+  orig: 257, 637
+  offset: 0, 0
+  index: -1
+laor2
+  rotate: true
+  xy: 2855, 309
+  size: 216, 160
+  orig: 216, 160
+  offset: 0, 0
+  index: -1
+laor3
+  rotate: false
+  xy: 1708, 857
+  size: 480, 1487
+  orig: 480, 1487
+  offset: 0, 0
+  index: -1
+laor4
+  rotate: false
+  xy: 1880, 183
+  size: 241, 647
+  orig: 241, 647
+  offset: 0, 0
+  index: -1
+mp-火云邪神
+  rotate: true
+  xy: 3535, 2545
+  size: 171, 319
+  orig: 171, 319
+  offset: 0, 0
+  index: -1
+pig
+  rotate: false
+  xy: 2521, 2589
+  size: 510, 434
+  orig: 510, 434
+  offset: 0, 0
+  index: -1
+stx
+  rotate: false
+  xy: 3544, 821
+  size: 313, 255
+  orig: 313, 255
+  offset: 0, 0
+  index: -1
+syr1
+  rotate: true
+  xy: 2521, 1175
+  size: 330, 339
+  orig: 338, 347
+  offset: 4, 4
+  index: -1
+syr2
+  rotate: true
+  xy: 3337, 1162
+  size: 330, 339
+  orig: 338, 347
+  offset: 4, 4
+  index: -1
+syr3
+  rotate: true
+  xy: 2862, 1127
+  size: 330, 339
+  orig: 338, 347
+  offset: 4, 4
+  index: -1
+syr4
+  rotate: true
+  xy: 2521, 843
+  size: 330, 339
+  orig: 338, 347
+  offset: 4, 4
+  index: -1
+yanwu1
+  rotate: false
+  xy: 1882, 3502
+  size: 306, 356
+  orig: 306, 356
+  offset: 0, 0
+  index: -1
+yanwu2
+  rotate: false
+  xy: 2521, 1859
+  size: 428, 311
+  orig: 428, 311
+  offset: 0, 0
+  index: -1
+yanwu3
+  rotate: false
+  xy: 3381, 1494
+  size: 397, 313
+  orig: 397, 313
+  offset: 0, 0
+  index: -1
+yanwus1
+  rotate: false
+  xy: 1882, 3144
+  size: 306, 356
+  orig: 306, 356
+  offset: 0, 0
+  index: -1
+yanwus2
+  rotate: false
+  xy: 2951, 1774
+  size: 428, 311
+  orig: 428, 311
+  offset: 0, 0
+  index: -1
+yanwus3
+  rotate: false
+  xy: 2938, 1459
+  size: 397, 313
+  orig: 397, 313
+  offset: 0, 0
+  index: -1
+yun
+  rotate: false
+  xy: 2, 92
+  size: 650, 738
+  orig: 650, 763
+  offset: 0, 10
+  index: -1
+光圈
+  rotate: true
+  xy: 2521, 10
+  size: 221, 220
+  orig: 230, 230
+  offset: 5, 4
+  index: -1
+刀
+  rotate: true
+  xy: 672, 17
+  size: 74, 193
+  orig: 270, 339
+  offset: 101, 80
+  index: -1
+刀痕
+  rotate: false
+  xy: 3201, 324
+  size: 147, 201
+  orig: 156, 211
+  offset: 5, 5
+  index: -1
+前景
+  rotate: true
+  xy: 1516, 2346
+  size: 1512, 364
+  orig: 1512, 364
+  offset: 0, 0
+  index: -1
+台词20250920/1
+  rotate: false
+  xy: 1708, 832
+  size: 197, 23
+  orig: 197, 23
+  offset: 0, 0
+  index: -1
+台词20250920/2
+  rotate: false
+  xy: 1907, 833
+  size: 163, 22
+  orig: 163, 22
+  offset: 0, 0
+  index: -1
+台词20250920/3
+  rotate: false
+  xy: 1283, 31
+  size: 162, 60
+  orig: 162, 60
+  offset: 0, 0
+  index: -1
+台词20250920/4
+  rotate: false
+  xy: 1380, 6
+  size: 207, 23
+  orig: 207, 23
+  offset: 0, 0
+  index: -1
+台词20250920/5
+  rotate: false
+  xy: 1148, 5
+  size: 230, 23
+  orig: 230, 23
+  offset: 0, 0
+  index: -1
+台词20250920/6
+  rotate: false
+  xy: 1589, 6
+  size: 207, 23
+  orig: 207, 23
+  offset: 0, 0
+  index: -1
+台词20250920/7
+  rotate: true
+  xy: 2451, 2906
+  size: 131, 60
+  orig: 131, 60
+  offset: 0, 0
+  index: -1
+台词20250920/8
+  rotate: false
+  xy: 1447, 31
+  size: 162, 60
+  orig: 162, 60
+  offset: 0, 0
+  index: -1
+台词20250920/9
+  rotate: false
+  xy: 1611, 90
+  size: 175, 23
+  orig: 175, 23
+  offset: 0, 0
+  index: -1
+图层 1
+  rotate: false
+  xy: 1031, 2
+  size: 115, 26
+  orig: 115, 26
+  offset: 0, 0
+  index: -1
+图层 2
+  rotate: false
+  xy: 2164, 2363
+  size: 118, 28
+  orig: 118, 28
+  offset: 0, 0
+  index: -1
+图层 3
+  rotate: false
+  xy: 2123, 183
+  size: 117, 33
+  orig: 117, 33
+  offset: 0, 0
+  index: -1
+大人-后发
+  rotate: true
+  xy: 1893, 3
+  size: 178, 438
+  orig: 178, 438
+  offset: 0, 0
+  index: -1
+大人-大臂R
+  rotate: false
+  xy: 2659, 264
+  size: 194, 300
+  orig: 194, 300
+  offset: 0, 0
+  index: -1
+大人-头
+  rotate: false
+  xy: 2521, 566
+  size: 331, 275
+  orig: 331, 275
+  offset: 0, 0
+  index: -1
+大人-头s
+  rotate: true
+  xy: 2382, 233
+  size: 331, 275
+  orig: 331, 275
+  offset: 0, 0
+  index: -1
+大人-小臂R
+  rotate: true
+  xy: 2521, 1507
+  size: 207, 356
+  orig: 207, 356
+  offset: 0, 0
+  index: -1
+大人-手L
+  rotate: false
+  xy: 3203, 1197
+  size: 117, 115
+  orig: 117, 115
+  offset: 0, 0
+  index: -1
+大人-手R
+  rotate: false
+  xy: 3203, 1314
+  size: 118, 143
+  orig: 118, 143
+  offset: 0, 0
+  index: -1
+大人-手Rs
+  rotate: false
+  xy: 2044, 2393
+  size: 405, 595
+  orig: 405, 595
+  offset: 0, 0
+  index: -1
+大人-手臂L
+  rotate: true
+  xy: 2521, 3025
+  size: 259, 531
+  orig: 259, 581
+  offset: 0, 50
+  index: -1
+大人-手臂Ls
+  rotate: true
+  xy: 3022, 2238
+  size: 324, 482
+  orig: 324, 482
+  offset: 0, 0
+  index: -1
+大人-眼镜
+  rotate: false
+  xy: 1611, 32
+  size: 150, 56
+  orig: 150, 56
+  offset: 0, 0
+  index: -1
+大人-腿
+  rotate: true
+  xy: 3022, 2087
+  size: 149, 439
+  orig: 149, 439
+  offset: 0, 0
+  index: -1
+大人-身体
+  rotate: true
+  xy: 2521, 3286
+  size: 572, 1094
+  orig: 572, 1094
+  offset: 0, 0
+  index: -1
+大人-身体s
+  rotate: true
+  xy: 654, 93
+  size: 737, 883
+  orig: 737, 883
+  offset: 0, 0
+  index: -1
+姿势5-P2
+  rotate: false
+  xy: 3617, 2990
+  size: 229, 596
+  orig: 230, 596
+  offset: 1, 0
+  index: -1
+小人-头
+  rotate: true
+  xy: 3506, 2151
+  size: 392, 342
+  orig: 392, 342
+  offset: 0, 0
+  index: -1
+小人-头2
+  rotate: false
+  xy: 3463, 1809
+  size: 392, 340
+  orig: 392, 342
+  offset: 0, 1
+  index: -1
+小人-头L
+  rotate: true
+  xy: 2451, 2524
+  size: 95, 51
+  orig: 95, 51
+  offset: 0, 0
+  index: -1
+小人-手R
+  rotate: true
+  xy: 204, 6
+  size: 84, 52
+  orig: 84, 52
+  offset: 0, 0
+  index: -1
+小人-手臂L
+  rotate: true
+  xy: 3541, 599
+  size: 220, 309
+  orig: 220, 309
+  offset: 0, 0
+  index: -1
+小人-手臂L2
+  rotate: false
+  xy: 1882, 2995
+  size: 304, 147
+  orig: 304, 147
+  offset: 0, 0
+  index: -1
+小人-手臂R
+  rotate: true
+  xy: 2190, 3721
+  size: 137, 329
+  orig: 137, 329
+  offset: 0, 0
+  index: -1
+小人-手臂R2
+  rotate: true
+  xy: 3617, 3588
+  size: 270, 233
+  orig: 270, 233
+  offset: 0, 0
+  index: -1
+小人-眉毛L
+  rotate: false
+  xy: 867, 5
+  size: 24, 16
+  orig: 24, 16
+  offset: 0, 0
+  index: -1
+小人-眉毛R
+  rotate: true
+  xy: 1763, 32
+  size: 56, 33
+  orig: 56, 33
+  offset: 0, 0
+  index: -1
+小人-身体
+  rotate: false
+  xy: 1539, 115
+  size: 339, 715
+  orig: 339, 716
+  offset: 0, 0
+  index: -1
+小人-身体死亡
+  rotate: true
+  xy: 3033, 2564
+  size: 383, 500
+  orig: 385, 500
+  offset: 2, 0
+  index: -1
+废墟前景
+  rotate: true
+  xy: 1338, 832
+  size: 1512, 368
+  orig: 1512, 368
+  offset: 0, 0
+  index: -1
+母鸡飞踢
+  rotate: false
+  xy: 2521, 2172
+  size: 499, 415
+  orig: 499, 415
+  offset: 0, 0
+  index: -1
+母鸡飞踢2
+  rotate: true
+  xy: 3017, 313
+  size: 212, 182
+  orig: 212, 182
+  offset: 0, 0
+  index: -1
+气泡/对话框1
+  rotate: true
+  xy: 2743, 8
+  size: 254, 185
+  orig: 254, 185
+  offset: 0, 0
+  index: -1
+气泡/尖叫气泡框
+  rotate: false
+  xy: 3203, 630
+  size: 336, 202
+  orig: 353, 219
+  offset: 9, 8
+  index: -1
+火焰弹_爆炸_002
+  rotate: false
+  xy: 3584, 2718
+  size: 270, 270
+  orig: 270, 270
+  offset: 0, 0
+  index: -1
+火焰弹_爆炸_003
+  rotate: false
+  xy: 2930, 527
+  size: 270, 270
+  orig: 270, 270
+  offset: 0, 0
+  index: -1
+火焰弹_爆炸_004
+  rotate: false
+  xy: 3220, 52
+  size: 270, 270
+  orig: 270, 270
+  offset: 0, 0
+  index: -1
+火焰弹_爆炸_005
+  rotate: false
+  xy: 3350, 327
+  size: 270, 270
+  orig: 270, 270
+  offset: 0, 0
+  index: -1
+火焰弹_爆炸_006
+  rotate: false
+  xy: 3492, 55
+  size: 270, 270
+  orig: 270, 270
+  offset: 0, 0
+  index: -1
+点击交易
+  rotate: true
+  xy: 3678, 1078
+  size: 131, 161
+  orig: 133, 162
+  offset: 1, 0
+  index: -1
+男主/L手-拿手机
+  rotate: false
+  xy: 3678, 1361
+  size: 176, 131
+  orig: 176, 131
+  offset: 0, 0
+  index: -1
+男主/L手-插裤兜
+  rotate: true
+  xy: 2, 3
+  size: 87, 200
+  orig: 87, 200
+  offset: 0, 0
+  index: -1
+男主/R手
+  rotate: true
+  xy: 1031, 30
+  size: 61, 250
+  orig: 61, 250
+  offset: 0, 0
+  index: -1
+男主/R手-摊手
+  rotate: true
+  xy: 2190, 863
+  size: 134, 190
+  orig: 134, 190
+  offset: 0, 0
+  index: -1
+男主/头
+  rotate: false
+  xy: 2190, 3380
+  size: 326, 339
+  orig: 326, 339
+  offset: 0, 0
+  index: -1
+男主/表情13
+  rotate: true
+  xy: 3203, 834
+  size: 326, 339
+  orig: 326, 339
+  offset: 0, 0
+  index: -1
+男主/表情19-疑惑（包租婆敲门）
+  rotate: true
+  xy: 2862, 799
+  size: 326, 339
+  orig: 326, 339
+  offset: 0, 0
+  index: -1
+男主/表情2-
+  rotate: false
+  xy: 2190, 3039
+  size: 326, 339
+  orig: 326, 339
+  offset: 0, 0
+  index: -1
+男主/表情4-
+  rotate: false
+  xy: 2190, 2022
+  size: 326, 339
+  orig: 326, 339
+  offset: 0, 0
+  index: -1
+男主/表情5-愤怒（被泼水）
+  rotate: false
+  xy: 2190, 1681
+  size: 326, 339
+  orig: 326, 339
+  offset: 0, 0
+  index: -1
+男主/表情6-诧异（前女友来电）
+  rotate: false
+  xy: 2190, 1340
+  size: 326, 339
+  orig: 326, 339
+  offset: 0, 0
+  index: -1
+男主/表情7-惊讶（分手）
+  rotate: false
+  xy: 2190, 999
+  size: 326, 339
+  orig: 326, 339
+  offset: 0, 0
+  index: -1
+男主/说话嘴2
+  rotate: false
+  xy: 2106, 2350
+  size: 56, 41
+  orig: 62, 45
+  offset: 0, 3
+  index: -1
+男主/说话嘴巴1
+  rotate: false
+  xy: 2242, 187
+  size: 53, 29
+  orig: 55, 30
+  offset: 2, 0
+  index: -1
+男主/说话嘴巴2
+  rotate: false
+  xy: 2072, 834
+  size: 37, 21
+  orig: 39, 21
+  offset: 1, 0
+  index: -1
+男主/身体
+  rotate: false
+  xy: 1882, 2366
+  size: 160, 622
+  orig: 160, 622
+  offset: 0, 0
+  index: -1
+组 2
+  rotate: false
+  xy: 258, 11
+  size: 412, 79
+  orig: 412, 79
+  offset: 0, 0
+  index: -1
+表现素材/提示
+  rotate: false
+  xy: 2333, 2
+  size: 186, 214
+  orig: 206, 237
+  offset: 10, 11
+  index: -1
+表现素材/生气
+  rotate: true
+  xy: 1798, 7
+  size: 106, 93
+  orig: 106, 93
+  offset: 0, 0
+  index: -1
+表现素材/速度线
+  rotate: false
+  xy: 2930, 19
+  size: 288, 288
+  orig: 288, 288
+  offset: 0, 0
+  index: -1
+阴影
+  rotate: true
+  xy: 2451, 2621
+  size: 283, 54
+  orig: 283, 54
+  offset: 0, 0
+  index: -1
+鹅2
+  rotate: false
+  xy: 3054, 2949
+  size: 528, 335
+  orig: 528, 335
+  offset: 0, 0
+  index: -1
+黑色转场
+  rotate: true
+  xy: 2044, 2346
+  size: 45, 60
+  orig: 45, 60
+  offset: 0, 0
+  index: -1

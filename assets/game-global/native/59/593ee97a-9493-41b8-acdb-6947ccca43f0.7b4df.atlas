@@ -1,0 +1,41 @@
+
+转场.png
+size: 418,418
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+云1
+  rotate: true
+  xy: 2, 52
+  size: 237, 192
+  orig: 401, 193
+  offset: 0, 1
+  index: -1
+云2
+  rotate: true
+  xy: 259, 192
+  size: 224, 157
+  orig: 225, 169
+  offset: 1, 1
+  index: -1
+云3
+  rotate: false
+  xy: 196, 77
+  size: 188, 113
+  orig: 188, 113
+  offset: 0, 0
+  index: -1
+云4
+  rotate: false
+  xy: 2, 291
+  size: 255, 125
+  orig: 255, 125
+  offset: 0, 0
+  index: -1
+遮罩
+  rotate: false
+  xy: 196, 205
+  size: 36, 84
+  orig: 36, 84
+  offset: 0, 0
+  index: -1

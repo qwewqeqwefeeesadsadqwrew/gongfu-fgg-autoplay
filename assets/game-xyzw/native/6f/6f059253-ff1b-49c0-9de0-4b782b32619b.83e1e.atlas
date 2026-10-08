@@ -1,0 +1,27 @@
+
+madai_skill_loop.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hero_effect_halo1
+  rotate: false
+  xy: 193, 50
+  size: 42, 42
+  orig: 46, 46
+  offset: 2, 2
+  index: -1
+madai_weapon
+  rotate: true
+  xy: 2, 2
+  size: 90, 189
+  orig: 90, 189
+  offset: 0, 0
+  index: -1
+xysg_hero_effect_box
+  rotate: true
+  xy: 193, 24
+  size: 24, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1

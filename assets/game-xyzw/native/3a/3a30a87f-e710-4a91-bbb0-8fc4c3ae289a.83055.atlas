@@ -1,0 +1,62 @@
+
+boss_xianyuwang_hit.png
+size: 256,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hero_effect_box2
+  rotate: false
+  xy: 58, 4
+  size: 103, 52
+  orig: 103, 102
+  offset: 0, 50
+  index: -1
+hero_effect_circle
+  rotate: false
+  xy: 2, 58
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+hero_effect_halo1
+  rotate: false
+  xy: 2, 2
+  size: 54, 54
+  orig: 58, 58
+  offset: 2, 2
+  index: -1
+xianyuwang_skill1
+  rotate: true
+  xy: 132, 296
+  size: 48, 50
+  orig: 48, 50
+  offset: 0, 0
+  index: -1
+xianyuwang_skill2
+  rotate: false
+  xy: 2, 188
+  size: 128, 156
+  orig: 128, 156
+  offset: 0, 0
+  index: -1
+xianyuwang_skill3
+  rotate: false
+  xy: 132, 250
+  size: 23, 21
+  orig: 23, 21
+  offset: 0, 0
+  index: -1
+xianyuwang_skill4
+  rotate: false
+  xy: 157, 259
+  size: 14, 12
+  orig: 14, 12
+  offset: 0, 0
+  index: -1
+xianyuwang_skill5
+  rotate: false
+  xy: 132, 273
+  size: 29, 21
+  orig: 29, 21
+  offset: 0, 0
+  index: -1

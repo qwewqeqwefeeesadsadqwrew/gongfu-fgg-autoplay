@@ -1,0 +1,76 @@
+
+caoren_skill_hit.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+caoren_skill2
+  rotate: true
+  xy: 377, 21
+  size: 51, 30
+  orig: 51, 30
+  offset: 0, 0
+  index: -1
+caoren_skill3
+  rotate: false
+  xy: 316, 13
+  size: 51, 28
+  orig: 51, 28
+  offset: 0, 0
+  index: -1
+caoren_skill4
+  rotate: true
+  xy: 2, 51
+  size: 69, 138
+  orig: 77, 146
+  offset: 7, 5
+  index: -1
+caoren_skill5
+  rotate: true
+  xy: 142, 55
+  size: 65, 106
+  orig: 68, 106
+  offset: 3, 0
+  index: -1
+caoren_skill6
+  rotate: false
+  xy: 267, 9
+  size: 47, 32
+  orig: 51, 34
+  offset: 4, 1
+  index: -1
+hero_effect_halo1
+  rotate: false
+  xy: 351, 74
+  size: 46, 46
+  orig: 46, 46
+  offset: 0, 0
+  index: -1
+skill_effect_lg_0
+  rotate: false
+  xy: 250, 73
+  size: 99, 47
+  orig: 154, 48
+  offset: 17, 1
+  index: -1
+skill_effect_lg_1
+  rotate: false
+  xy: 267, 43
+  size: 108, 28
+  orig: 154, 48
+  offset: 37, 1
+  index: -1
+skill_effect_lg_2
+  rotate: false
+  xy: 135, 9
+  size: 130, 40
+  orig: 154, 48
+  offset: 24, 7
+  index: -1
+skill_effect_lg_3
+  rotate: false
+  xy: 2, 2
+  size: 131, 47
+  orig: 154, 48
+  offset: 1, 1
+  index: -1

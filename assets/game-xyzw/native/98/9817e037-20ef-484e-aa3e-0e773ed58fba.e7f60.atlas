@@ -1,0 +1,111 @@
+
+xiaobing3_jian.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hero_eye_cry
+  rotate: false
+  xy: 271, 115
+  size: 42, 51
+  orig: 42, 51
+  offset: 0, 0
+  index: -1
+sc3_monster2_body
+  rotate: false
+  xy: 174, 172
+  size: 55, 82
+  orig: 55, 82
+  offset: 0, 0
+  index: -1
+sc3_monster2_cloak
+  rotate: false
+  xy: 170, 94
+  size: 99, 50
+  orig: 99, 50
+  offset: 0, 0
+  index: -1
+sc3_monster2_eye
+  rotate: false
+  xy: 191, 86
+  size: 6, 6
+  orig: 6, 6
+  offset: 0, 0
+  index: -1
+sc3_monster2_eyebrow
+  rotate: false
+  xy: 170, 82
+  size: 19, 10
+  orig: 19, 10
+  offset: 0, 0
+  index: -1
+sc3_monster2_eyewhite
+  rotate: false
+  xy: 174, 158
+  size: 27, 12
+  orig: 27, 12
+  offset: 0, 0
+  index: -1
+sc3_monster2_hair
+  rotate: true
+  xy: 231, 168
+  size: 86, 48
+  orig: 89, 49
+  offset: 1, 1
+  index: -1
+sc3_monster2_handl
+  rotate: false
+  xy: 281, 214
+  size: 31, 40
+  orig: 31, 40
+  offset: 0, 0
+  index: -1
+sc3_monster2_handr
+  rotate: false
+  xy: 203, 153
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+sc3_monster2_hat
+  rotate: true
+  xy: 2, 76
+  size: 178, 64
+  orig: 178, 64
+  offset: 0, 0
+  index: -1
+sc3_monster2_head
+  rotate: false
+  xy: 142, 2
+  size: 77, 78
+  orig: 77, 78
+  offset: 0, 0
+  index: -1
+sc3_monster2_mask
+  rotate: false
+  xy: 2, 4
+  size: 138, 70
+  orig: 138, 70
+  offset: 0, 0
+  index: -1
+sc3_monster2_tail
+  rotate: false
+  xy: 68, 82
+  size: 100, 62
+  orig: 100, 62
+  offset: 0, 0
+  index: -1
+sc3_monster2_weapon
+  rotate: true
+  xy: 221, 7
+  size: 85, 67
+  orig: 85, 67
+  offset: 0, 0
+  index: -1
+xysg_hero_effect_swordlight2
+  rotate: true
+  xy: 68, 146
+  size: 108, 104
+  orig: 108, 104
+  offset: 0, 0
+  index: -1

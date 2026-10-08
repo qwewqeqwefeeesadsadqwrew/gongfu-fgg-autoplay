@@ -1,0 +1,13 @@
+
+buff_chenmo.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+xysg_hero_guanyu_shadow
+  rotate: false
+  xy: 2, 2
+  size: 102, 102
+  orig: 102, 102
+  offset: 0, 0
+  index: -1

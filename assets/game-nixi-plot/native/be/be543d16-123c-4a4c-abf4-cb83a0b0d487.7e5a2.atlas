@@ -1,0 +1,531 @@
+
+开场1.png
+size: 1789,1789
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1开场特写摩托车
+  rotate: false
+  xy: 364, 842
+  size: 349, 220
+  orig: 349, 220
+  offset: 0, 0
+  index: -1
+1开场特写摩托车屁股
+  rotate: false
+  xy: 330, 348
+  size: 270, 281
+  orig: 270, 281
+  offset: 0, 0
+  index: -1
+1开场特写摩托车屁股bg
+  rotate: true
+  xy: 1216, 255
+  size: 163, 100
+  orig: 163, 100
+  offset: 0, 0
+  index: -1
+1开城特写摩托车正面
+  rotate: false
+  xy: 2, 941
+  size: 360, 462
+  orig: 360, 462
+  offset: 0, 0
+  index: -1
+1骑车bg0
+  rotate: false
+  xy: 2, 1405
+  size: 630, 382
+  orig: 630, 382
+  offset: 0, 0
+  index: -1
+pig
+  rotate: true
+  xy: 874, 413
+  size: 210, 154
+  orig: 210, 154
+  offset: 0, 0
+  index: -1
+pig2
+  rotate: false
+  xy: 1030, 429
+  size: 203, 194
+  orig: 203, 194
+  offset: 0, 0
+  index: -1
+光圈
+  rotate: false
+  xy: 1095, 741
+  size: 230, 230
+  orig: 230, 230
+  offset: 0, 0
+  index: -1
+啪！
+  rotate: false
+  xy: 1375, 48
+  size: 68, 77
+  orig: 68, 77
+  offset: 0, 0
+  index: -1
+图层 1
+  rotate: false
+  xy: 1722, 1584
+  size: 64, 203
+  orig: 64, 203
+  offset: 0, 0
+  index: -1
+图层 2
+  rotate: false
+  xy: 1235, 420
+  size: 64, 203
+  orig: 64, 203
+  offset: 0, 0
+  index: -1
+尖叫
+  rotate: false
+  xy: 602, 366
+  size: 61, 58
+  orig: 61, 58
+  offset: 0, 0
+  index: -1
+手写字/哗
+  rotate: true
+  xy: 1712, 219
+  size: 135, 75
+  orig: 135, 75
+  offset: 0, 0
+  index: -1
+手写字/啪-橙色
+  rotate: false
+  xy: 1487, 643
+  size: 90, 95
+  orig: 90, 95
+  offset: 0, 0
+  index: -1
+手写字/碰1
+  rotate: false
+  xy: 1416, 138
+  size: 90, 95
+  orig: 90, 95
+  offset: 0, 0
+  index: -1
+手指
+  rotate: false
+  xy: 1569, 766
+  size: 166, 200
+  orig: 225, 270
+  offset: 31, 32
+  index: -1
+打击3
+  rotate: false
+  xy: 1455, 331
+  size: 149, 149
+  orig: 149, 149
+  offset: 0, 0
+  index: -1
+托儿车
+  rotate: true
+  xy: 1327, 745
+  size: 270, 163
+  orig: 270, 163
+  offset: 0, 0
+  index: -1
+报纸糊脸
+  rotate: true
+  xy: 892, 28
+  size: 112, 140
+  orig: 112, 140
+  offset: 0, 0
+  index: -1
+报纸糊脸s
+  rotate: true
+  xy: 1280, 51
+  size: 74, 93
+  orig: 74, 93
+  offset: 0, 0
+  index: -1
+报纸糊脸s2
+  rotate: false
+  xy: 1445, 43
+  size: 74, 93
+  orig: 74, 93
+  offset: 0, 0
+  index: -1
+报纸糊脸s4
+  rotate: true
+  xy: 1722, 1474
+  size: 108, 54
+  orig: 108, 54
+  offset: 0, 0
+  index: -1
+接电话手
+  rotate: true
+  xy: 1594, 968
+  size: 167, 181
+  orig: 167, 181
+  offset: 0, 0
+  index: -1
+提示
+  rotate: false
+  xy: 1606, 235
+  size: 104, 119
+  orig: 104, 119
+  offset: 0, 0
+  index: -1
+摩托等
+  rotate: false
+  xy: 1508, 142
+  size: 93, 91
+  orig: 93, 91
+  offset: 0, 0
+  index: -1
+文字/1前女友
+  rotate: false
+  xy: 1595, 1137
+  size: 174, 322
+  orig: 174, 322
+  offset: 0, 0
+  index: -1
+文字/1前女友-前
+  rotate: true
+  xy: 1013, 755
+  size: 41, 58
+  orig: 41, 78
+  offset: 0, 12
+  index: -1
+文字/你是谁！ 你让阿美接电话！ 你！
+  rotate: false
+  xy: 1013, 625
+  size: 244, 114
+  orig: 244, 114
+  offset: 0, 0
+  index: -1
+文字/别和舔 狗聊了， 我们继续
+  rotate: false
+  xy: 1259, 625
+  size: 131, 114
+  orig: 131, 114
+  offset: 0, 0
+  index: -1
+文字/我们分手吧！
+  rotate: true
+  xy: 1737, 790
+  size: 176, 32
+  orig: 176, 32
+  offset: 0, 0
+  index: -1
+文字/我去！ 你不长眼睛啊你！
+  rotate: false
+  xy: 1034, 51
+  size: 244, 74
+  orig: 244, 74
+  offset: 0, 0
+  index: -1
+文字/阿美， 我到底做错了什么！
+  rotate: true
+  xy: 1492, 740
+  size: 275, 75
+  orig: 275, 75
+  offset: 0, 0
+  index: -1
+旗袍/对话框1
+  rotate: false
+  xy: 1045, 973
+  size: 254, 185
+  orig: 254, 185
+  offset: 0, 0
+  index: -1
+旗袍/尖叫气泡框
+  rotate: true
+  xy: 332, 10
+  size: 336, 202
+  orig: 353, 219
+  offset: 9, 8
+  index: -1
+旗袍/生气
+  rotate: true
+  xy: 1392, 637
+  size: 106, 93
+  orig: 106, 93
+  offset: 0, 0
+  index: -1
+树
+  rotate: false
+  xy: 536, 46
+  size: 140, 300
+  orig: 140, 300
+  offset: 0, 0
+  index: -1
+水花
+  rotate: false
+  xy: 1020, 1160
+  size: 283, 299
+  orig: 283, 299
+  offset: 0, 0
+  index: -1
+爱心
+  rotate: false
+  xy: 1603, 157
+  size: 92, 76
+  orig: 92, 76
+  offset: 0, 0
+  index: -1
+电话女友1
+  rotate: false
+  xy: 852, 142
+  size: 180, 269
+  orig: 180, 269
+  offset: 0, 0
+  index: -1
+电话女友huangmao
+  rotate: true
+  xy: 715, 962
+  size: 180, 328
+  orig: 180, 328
+  offset: 0, 0
+  index: -1
+电话女友屏保
+  rotate: false
+  xy: 678, 143
+  size: 172, 281
+  orig: 227, 402
+  offset: 25, 20
+  index: -1
+电话女友屏保2
+  rotate: true
+  xy: 634, 1485
+  size: 302, 404
+  orig: 302, 404
+  offset: 0, 0
+  index: -1
+电话女友屏保3
+  rotate: true
+  xy: 330, 924
+  size: 15, 32
+  orig: 15, 32
+  offset: 0, 0
+  index: -1
+电话女友电话
+  rotate: true
+  xy: 1305, 1017
+  size: 152, 287
+  orig: 152, 287
+  offset: 0, 0
+  index: -1
+电话女友身体
+  rotate: false
+  xy: 1034, 239
+  size: 180, 188
+  orig: 180, 188
+  offset: 0, 0
+  index: -1
+电话女友身体2
+  rotate: true
+  xy: 2, 32
+  size: 225, 328
+  orig: 225, 328
+  offset: 0, 0
+  index: -1
+电话女友身体嘴巴
+  rotate: false
+  xy: 1579, 644
+  size: 143, 120
+  orig: 143, 120
+  offset: 0, 0
+  index: -1
+男主表情/嘴巴说话
+  rotate: false
+  xy: 2, 600
+  size: 326, 339
+  orig: 326, 339
+  offset: 0, 0
+  index: -1
+男主表情/头
+  rotate: false
+  xy: 2, 259
+  size: 326, 339
+  orig: 326, 339
+  offset: 0, 0
+  index: -1
+男主表情/表情5-愤怒（被泼水）
+  rotate: true
+  xy: 1040, 1461
+  size: 326, 339
+  orig: 326, 339
+  offset: 0, 0
+  index: -1
+男主表情/表情6-诧异（前女友来电）
+  rotate: true
+  xy: 1381, 1461
+  size: 326, 339
+  orig: 326, 339
+  offset: 0, 0
+  index: -1
+男主表情/表情8-悲伤（分手）
+  rotate: false
+  xy: 364, 1064
+  size: 326, 339
+  orig: 326, 339
+  offset: 0, 0
+  index: -1
+男主表情/表情9-震惊（NTR）
+  rotate: false
+  xy: 692, 1144
+  size: 326, 339
+  orig: 326, 339
+  offset: 0, 0
+  index: -1
+男主表情/说话嘴巴2
+  rotate: false
+  xy: 1416, 235
+  size: 37, 21
+  orig: 39, 21
+  offset: 1, 0
+  index: -1
+自行车-脚蹬
+  rotate: true
+  xy: 892, 2
+  size: 24, 44
+  orig: 24, 44
+  offset: 0, 0
+  index: -1
+自行车-货物
+  rotate: false
+  xy: 1301, 441
+  size: 94, 182
+  orig: 94, 182
+  offset: 0, 0
+  index: -1
+自行车-踏板
+  rotate: false
+  xy: 1020, 1144
+  size: 23, 14
+  orig: 23, 14
+  offset: 0, 0
+  index: -1
+自行车-车架
+  rotate: false
+  xy: 330, 631
+  size: 360, 209
+  orig: 360, 209
+  offset: 0, 0
+  index: -1
+自行车-轮胎
+  rotate: false
+  xy: 1397, 482
+  size: 150, 153
+  orig: 150, 153
+  offset: 0, 0
+  index: -1
+速度线
+  rotate: false
+  xy: 1305, 1171
+  size: 288, 288
+  orig: 288, 288
+  offset: 0, 0
+  index: -1
+铭牌/周星星
+  rotate: true
+  xy: 692, 625
+  size: 171, 319
+  orig: 171, 319
+  offset: 0, 0
+  index: -1
+阴影
+  rotate: false
+  xy: 1697, 172
+  size: 90, 45
+  orig: 90, 45
+  offset: 0, 0
+  index: -1
+雨
+  rotate: true
+  xy: 715, 798
+  size: 162, 378
+  orig: 162, 378
+  offset: 0, 0
+  index: -1
+骑车男主L手
+  rotate: false
+  xy: 1606, 356
+  size: 107, 137
+  orig: 107, 137
+  offset: 0, 0
+  index: -1
+骑车男主L手-举
+  rotate: true
+  xy: 1455, 235
+  size: 94, 149
+  orig: 94, 149
+  offset: 0, 0
+  index: -1
+骑车男主R手
+  rotate: false
+  xy: 1258, 128
+  size: 77, 125
+  orig: 77, 125
+  offset: 0, 0
+  index: -1
+骑车男主R手-举
+  rotate: false
+  xy: 1659, 497
+  size: 85, 145
+  orig: 85, 145
+  offset: 0, 0
+  index: -1
+骑车男主R手-拿手机
+  rotate: false
+  xy: 1521, 53
+  size: 75, 87
+  orig: 75, 87
+  offset: 0, 0
+  index: -1
+骑车男主R手-握拳
+  rotate: false
+  xy: 1337, 127
+  size: 77, 129
+  orig: 77, 129
+  offset: 0, 0
+  index: -1
+骑车男主脚
+  rotate: true
+  xy: 1034, 127
+  size: 110, 222
+  orig: 110, 222
+  offset: 0, 0
+  index: -1
+骑车男主身体
+  rotate: false
+  xy: 1549, 495
+  size: 108, 146
+  orig: 108, 146
+  offset: 0, 0
+  index: -1
+骑车第一视角bg
+  rotate: false
+  xy: 1318, 258
+  size: 135, 181
+  orig: 135, 181
+  offset: 0, 0
+  index: -1
+骑车第一视角che2
+  rotate: false
+  xy: 602, 426
+  size: 270, 197
+  orig: 270, 197
+  offset: 0, 0
+  index: -1
+骑车第一视角自行车手机
+  rotate: true
+  xy: 678, 2
+  size: 138, 212
+  orig: 138, 212
+  offset: 0, 0
+  index: -1
+黑色转场
+  rotate: false
+  xy: 634, 1423
+  size: 45, 60
+  orig: 45, 60
+  offset: 0, 0
+  index: -1

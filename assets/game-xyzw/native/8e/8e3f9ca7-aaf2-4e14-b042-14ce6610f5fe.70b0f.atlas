@@ -1,0 +1,27 @@
+
+buff_bingdong.png
+size: 256,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect_buff_ice2
+  rotate: false
+  xy: 2, 11
+  size: 77, 33
+  orig: 77, 33
+  offset: 0, 0
+  index: -1
+xysg_hero_effect_box
+  rotate: false
+  xy: 125, 18
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+xysg_hero_effect_die3
+  rotate: false
+  xy: 81, 2
+  size: 42, 42
+  orig: 46, 46
+  offset: 2, 2
+  index: -1

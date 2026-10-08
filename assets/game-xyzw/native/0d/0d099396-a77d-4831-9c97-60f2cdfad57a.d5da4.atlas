@@ -1,0 +1,195 @@
+
+xiaobing_daobing.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hero_eye_cry
+  rotate: false
+  xy: 456, 2
+  size: 42, 51
+  orig: 42, 51
+  offset: 0, 0
+  index: -1
+monster6_body
+  rotate: true
+  xy: 353, 118
+  size: 136, 96
+  orig: 136, 96
+  offset: 0, 0
+  index: -1
+monster6_eye
+  rotate: false
+  xy: 2, 5
+  size: 9, 10
+  orig: 9, 10
+  offset: 0, 0
+  index: -1
+monster6_eyebrow
+  rotate: false
+  xy: 451, 118
+  size: 27, 30
+  orig: 27, 30
+  offset: 0, 0
+  index: -1
+monster6_eyewhite
+  rotate: false
+  xy: 480, 62
+  size: 37, 42
+  orig: 37, 43
+  offset: 0, 0
+  index: -1
+monster6_hair1
+  rotate: false
+  xy: 103, 4
+  size: 41, 77
+  orig: 41, 77
+  offset: 0, 0
+  index: -1
+monster6_hair2
+  rotate: false
+  xy: 451, 150
+  size: 24, 51
+  orig: 25, 52
+  offset: 1, 1
+  index: -1
+monster6_hair3
+  rotate: false
+  xy: 519, 220
+  size: 24, 34
+  orig: 25, 34
+  offset: 1, 0
+  index: -1
+monster6_handl
+  rotate: false
+  xy: 480, 106
+  size: 42, 44
+  orig: 43, 44
+  offset: 0, 0
+  index: -1
+monster6_handr1
+  rotate: false
+  xy: 451, 203
+  size: 37, 51
+  orig: 38, 53
+  offset: 0, 1
+  index: -1
+monster6_handr2
+  rotate: false
+  xy: 506, 163
+  size: 35, 40
+  orig: 36, 42
+  offset: 1, 1
+  index: -1
+monster6_hat1
+  rotate: false
+  xy: 371, 27
+  size: 59, 89
+  orig: 64, 89
+  offset: 5, 0
+  index: -1
+monster6_hat2
+  rotate: false
+  xy: 432, 55
+  size: 46, 61
+  orig: 50, 62
+  offset: 0, 0
+  index: -1
+monster6_head
+  rotate: false
+  xy: 246, 108
+  size: 105, 146
+  orig: 105, 162
+  offset: 0, 16
+  index: -1
+monster6_horse1
+  rotate: true
+  xy: 371, 2
+  size: 23, 40
+  orig: 23, 40
+  offset: 0, 0
+  index: -1
+monster6_horse2
+  rotate: false
+  xy: 500, 26
+  size: 19, 34
+  orig: 21, 35
+  offset: 1, 1
+  index: -1
+monster6_horse3
+  rotate: true
+  xy: 519, 75
+  size: 29, 17
+  orig: 30, 17
+  offset: 1, 0
+  index: -1
+monster6_horse4
+  rotate: true
+  xy: 103, 83
+  size: 171, 141
+  orig: 171, 159
+  offset: 0, 0
+  index: -1
+monster6_horse5
+  rotate: true
+  xy: 500, 5
+  size: 19, 30
+  orig: 20, 30
+  offset: 1, 0
+  index: -1
+monster6_legl
+  rotate: false
+  xy: 477, 152
+  size: 27, 49
+  orig: 27, 49
+  offset: 0, 0
+  index: -1
+monster6_legr
+  rotate: false
+  xy: 490, 205
+  size: 27, 49
+  orig: 27, 49
+  offset: 0, 0
+  index: -1
+monster6_tail
+  rotate: false
+  xy: 146, 12
+  size: 113, 69
+  orig: 113, 69
+  offset: 0, 0
+  index: -1
+monster6_tie1
+  rotate: false
+  xy: 432, 28
+  size: 17, 25
+  orig: 17, 26
+  offset: 0, 0
+  index: -1
+monster6_tie2
+  rotate: true
+  xy: 413, 5
+  size: 20, 41
+  orig: 20, 41
+  offset: 0, 0
+  index: -1
+monster6_tie3
+  rotate: false
+  xy: 521, 45
+  size: 17, 28
+  orig: 18, 28
+  offset: 1, 0
+  index: -1
+monster6_weapon
+  rotate: true
+  xy: 2, 17
+  size: 237, 99
+  orig: 237, 99
+  offset: 0, 0
+  index: -1
+xysg_hero_effect_swordlight2
+  rotate: false
+  xy: 261, 2
+  size: 108, 104
+  orig: 108, 104
+  offset: 0, 0
+  index: -1

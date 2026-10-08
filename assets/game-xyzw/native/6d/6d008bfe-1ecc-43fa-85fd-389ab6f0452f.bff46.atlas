@@ -1,0 +1,20 @@
+
+zhangzhao_skill_loop.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+zhangzhao_skill1
+  rotate: false
+  xy: 84, 43
+  size: 64, 182
+  orig: 64, 183
+  offset: 0, 1
+  index: -1
+zhangzhao_skill3
+  rotate: false
+  xy: 2, 2
+  size: 80, 223
+  orig: 83, 227
+  offset: 1, 2
+  index: -1

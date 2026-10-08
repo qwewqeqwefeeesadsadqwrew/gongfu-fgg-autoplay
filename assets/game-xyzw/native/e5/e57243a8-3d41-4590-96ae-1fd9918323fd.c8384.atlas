@@ -1,0 +1,34 @@
+
+yujin_skill_loop.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+yujin_skill1
+  rotate: false
+  xy: 2, 2
+  size: 110, 10
+  orig: 122, 10
+  offset: 0, 0
+  index: -1
+yujin_skill2
+  rotate: false
+  xy: 114, 2
+  size: 93, 10
+  orig: 96, 10
+  offset: 1, 0
+  index: -1
+yujin_skill3
+  rotate: false
+  xy: 2, 14
+  size: 256, 108
+  orig: 256, 108
+  offset: 0, 0
+  index: -1
+yujin_skill4
+  rotate: false
+  xy: 260, 14
+  size: 245, 108
+  orig: 245, 108
+  offset: 0, 0
+  index: -1

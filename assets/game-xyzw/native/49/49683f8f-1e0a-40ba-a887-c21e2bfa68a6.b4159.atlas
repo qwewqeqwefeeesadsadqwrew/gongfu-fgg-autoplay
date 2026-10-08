@@ -1,0 +1,181 @@
+
+startskill_blue.png
+size: 997,997
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baobing_0010
+  rotate: true
+  xy: 750, 125
+  size: 142, 60
+  orig: 1350, 1152
+  offset: 598, 505
+  index: -1
+bingbaoa_0000
+  rotate: false
+  xy: 90, 688
+  size: 284, 307
+  orig: 1350, 1152
+  offset: 517, 404
+  index: -1
+bingbaoa_0001
+  rotate: false
+  xy: 90, 412
+  size: 239, 274
+  orig: 1350, 1152
+  offset: 535, 442
+  index: -1
+bingbaoa_0002
+  rotate: true
+  xy: 658, 722
+  size: 237, 251
+  orig: 1350, 1152
+  offset: 550, 470
+  index: -1
+bingbaoa_0003
+  rotate: true
+  xy: 2, 2
+  size: 250, 298
+  orig: 1350, 1152
+  offset: 548, 433
+  index: -1
+bingbaoa_0004
+  rotate: true
+  xy: 658, 482
+  size: 238, 263
+  orig: 1350, 1152
+  offset: 546, 474
+  index: -1
+bingbaoa_0005
+  rotate: false
+  xy: 302, 17
+  size: 233, 270
+  orig: 1350, 1152
+  offset: 552, 472
+  index: -1
+bingbaoa_0006
+  rotate: true
+  xy: 376, 730
+  size: 229, 280
+  orig: 1350, 1152
+  offset: 545, 473
+  index: -1
+bingbaoa_0007
+  rotate: true
+  xy: 331, 289
+  size: 226, 278
+  orig: 1350, 1152
+  offset: 548, 479
+  index: -1
+bingbaoa_0008
+  rotate: true
+  xy: 611, 269
+  size: 211, 276
+  orig: 1350, 1152
+  offset: 563, 477
+  index: -1
+bingbaoa_0009
+  rotate: true
+  xy: 376, 517
+  size: 211, 280
+  orig: 1350, 1152
+  offset: 563, 477
+  index: -1
+glow
+  rotate: false
+  xy: 537, 43
+  size: 211, 224
+  orig: 1350, 1152
+  offset: 551, 436
+  index: -1
+icejian_0000
+  rotate: false
+  xy: 2, 254
+  size: 42, 741
+  orig: 360, 900
+  offset: 161, 128
+  index: -1
+icejian_0001
+  rotate: false
+  xy: 46, 354
+  size: 42, 641
+  orig: 360, 900
+  offset: 161, 128
+  index: -1
+icejian_0002
+  rotate: true
+  xy: 376, 961
+  size: 34, 532
+  orig: 360, 900
+  offset: 165, 138
+  index: -1
+icejian_0003
+  rotate: false
+  xy: 922, 60
+  size: 30, 420
+  orig: 360, 900
+  offset: 168, 148
+  index: -1
+icejian_0004
+  rotate: true
+  xy: 537, 11
+  size: 30, 349
+  orig: 360, 900
+  offset: 168, 158
+  index: -1
+icejian_0005
+  rotate: false
+  xy: 889, 151
+  size: 31, 329
+  orig: 360, 900
+  offset: 168, 168
+  index: -1
+icejian_0006
+  rotate: false
+  xy: 923, 666
+  size: 31, 329
+  orig: 360, 900
+  offset: 168, 168
+  index: -1
+icejian_0007
+  rotate: false
+  xy: 956, 667
+  size: 31, 328
+  orig: 360, 900
+  offset: 168, 170
+  index: -1
+icejian_0008
+  rotate: false
+  xy: 954, 336
+  size: 31, 328
+  orig: 360, 900
+  offset: 168, 169
+  index: -1
+icejian_0009
+  rotate: false
+  xy: 954, 23
+  size: 31, 311
+  orig: 360, 900
+  offset: 168, 175
+  index: -1
+icejian_0010
+  rotate: false
+  xy: 331, 557
+  size: 30, 129
+  orig: 360, 900
+  offset: 168, 212
+  index: -1
+icejian_0011
+  rotate: false
+  xy: 331, 557
+  size: 30, 129
+  orig: 360, 900
+  offset: 168, 212
+  index: -1
+jian
+  rotate: true
+  xy: 90, 360
+  size: 50, 135
+  orig: 50, 186
+  offset: 0, 51
+  index: -1

@@ -1,0 +1,153 @@
+
+zhangxingcai.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hero_effect_box2
+  rotate: false
+  xy: 428, 132
+  size: 82, 82
+  orig: 82, 82
+  offset: 0, 0
+  index: -1
+hero_effect_halo1
+  rotate: false
+  xy: 320, 5
+  size: 46, 46
+  orig: 46, 46
+  offset: 0, 0
+  index: -1
+xysg_hero_effect_swordlight2
+  rotate: false
+  xy: 318, 110
+  size: 108, 104
+  orig: 108, 104
+  offset: 0, 0
+  index: -1
+zhangxingcai_armr
+  rotate: false
+  xy: 252, 12
+  size: 45, 30
+  orig: 45, 30
+  offset: 0, 0
+  index: -1
+zhangxingcai_body
+  rotate: false
+  xy: 2, 3
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+zhangxingcai_eye1
+  rotate: false
+  xy: 398, 90
+  size: 17, 18
+  orig: 17, 18
+  offset: 0, 0
+  index: -1
+zhangxingcai_eye2
+  rotate: true
+  xy: 234, 12
+  size: 14, 16
+  orig: 14, 16
+  offset: 0, 0
+  index: -1
+zhangxingcai_eyebrow1
+  rotate: false
+  xy: 214, 5
+  size: 18, 21
+  orig: 18, 21
+  offset: 0, 0
+  index: -1
+zhangxingcai_eyebrow2
+  rotate: true
+  xy: 299, 13
+  size: 29, 19
+  orig: 29, 19
+  offset: 0, 0
+  index: -1
+zhangxingcai_eyelid1
+  rotate: false
+  xy: 428, 107
+  size: 78, 23
+  orig: 78, 23
+  offset: 0, 0
+  index: -1
+zhangxingcai_eyelid2
+  rotate: false
+  xy: 320, 80
+  size: 76, 28
+  orig: 76, 28
+  offset: 0, 0
+  index: -1
+zhangxingcai_eyewhite
+  rotate: false
+  xy: 320, 53
+  size: 70, 25
+  orig: 70, 25
+  offset: 0, 0
+  index: -1
+zhangxingcai_hair1
+  rotate: false
+  xy: 189, 28
+  size: 61, 60
+  orig: 61, 60
+  offset: 0, 0
+  index: -1
+zhangxingcai_hair2
+  rotate: true
+  xy: 438, 216
+  size: 38, 58
+  orig: 38, 58
+  offset: 0, 0
+  index: -1
+zhangxingcai_handr
+  rotate: false
+  xy: 189, 2
+  size: 23, 24
+  orig: 23, 24
+  offset: 0, 0
+  index: -1
+zhangxingcai_head
+  rotate: false
+  xy: 2, 95
+  size: 162, 159
+  orig: 162, 159
+  offset: 0, 0
+  index: -1
+zhangxingcai_hip
+  rotate: false
+  xy: 252, 44
+  size: 66, 44
+  orig: 66, 44
+  offset: 0, 0
+  index: -1
+zhangxingcai_shield
+  rotate: true
+  xy: 94, 2
+  size: 86, 93
+  orig: 86, 93
+  offset: 0, 0
+  index: -1
+zhangxingcai_shoulderl
+  rotate: true
+  xy: 368, 13
+  size: 38, 36
+  orig: 38, 38
+  offset: 0, 2
+  index: -1
+zhangxingcai_tail
+  rotate: false
+  xy: 166, 90
+  size: 150, 124
+  orig: 150, 124
+  offset: 0, 0
+  index: -1
+zhangxingcai_weapon
+  rotate: true
+  xy: 166, 216
+  size: 38, 270
+  orig: 38, 270
+  offset: 0, 0
+  index: -1

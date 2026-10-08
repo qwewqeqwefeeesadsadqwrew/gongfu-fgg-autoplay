@@ -1,0 +1,20 @@
+
+星女郎_小词条解锁.png
+size: 213,173
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+爱心ray
+  rotate: false
+  xy: 2, 2
+  size: 187, 169
+  orig: 187, 169
+  offset: 0, 0
+  index: -1
+进度条
+  rotate: true
+  xy: 191, 148
+  size: 23, 20
+  orig: 35, 35
+  offset: 6, 8
+  index: -1

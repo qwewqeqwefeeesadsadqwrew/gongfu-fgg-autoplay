@@ -1,0 +1,55 @@
+
+套圈.png
+size: 726,284
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ray2
+  rotate: false
+  xy: 645, 52
+  size: 53, 53
+  orig: 61, 61
+  offset: 4, 4
+  index: -1
+圈
+  rotate: true
+  xy: 423, 26
+  size: 256, 220
+  orig: 258, 222
+  offset: 1, 1
+  index: -1
+大拇指
+  rotate: false
+  xy: 645, 107
+  size: 79, 175
+  orig: 79, 175
+  offset: 0, 0
+  index: -1
+尖叫气泡框
+  rotate: false
+  xy: 2, 2
+  size: 127, 98
+  orig: 196, 122
+  offset: 35, 11
+  index: -1
+尖叫气泡框2
+  rotate: false
+  xy: 131, 2
+  size: 127, 98
+  orig: 127, 98
+  offset: 0, 0
+  index: -1
+尖叫气泡框3
+  rotate: false
+  xy: 260, 2
+  size: 127, 98
+  orig: 127, 98
+  offset: 0, 0
+  index: -1
+手 - 张开
+  rotate: true
+  xy: 2, 102
+  size: 180, 419
+  orig: 184, 423
+  offset: 2, 2
+  index: -1

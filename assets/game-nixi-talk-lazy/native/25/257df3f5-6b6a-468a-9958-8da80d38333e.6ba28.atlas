@@ -1,0 +1,167 @@
+
+厨房女3.png
+size: 1949,459
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+下身
+  rotate: false
+  xy: 2, 8
+  size: 587, 449
+  orig: 640, 640
+  offset: 38, 89
+  index: -1
+刘海1
+  rotate: false
+  xy: 1621, 95
+  size: 74, 141
+  orig: 74, 141
+  offset: 0, 0
+  index: -1
+刘海2
+  rotate: false
+  xy: 1286, 59
+  size: 58, 66
+  orig: 58, 66
+  offset: 0, 0
+  index: -1
+刘海3
+  rotate: true
+  xy: 1714, 197
+  size: 63, 193
+  orig: 63, 193
+  offset: 0, 0
+  index: -1
+右手
+  rotate: true
+  xy: 1367, 134
+  size: 102, 252
+  orig: 102, 252
+  offset: 0, 0
+  index: -1
+右手上臂
+  rotate: true
+  xy: 591, 2
+  size: 123, 256
+  orig: 160, 256
+  offset: 29, 0
+  index: -1
+右眉
+  rotate: false
+  xy: 1899, 264
+  size: 41, 18
+  orig: 42, 18
+  offset: 1, 0
+  index: -1
+右眼珠
+  rotate: false
+  xy: 1346, 112
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+右腿
+  rotate: true
+  xy: 591, 289
+  size: 168, 769
+  orig: 168, 769
+  offset: 0, 0
+  index: -1
+后发
+  rotate: false
+  xy: 1837, 40
+  size: 63, 155
+  orig: 63, 155
+  offset: 0, 0
+  index: -1
+嘴唇
+  rotate: false
+  xy: 1118, 20
+  size: 166, 105
+  orig: 170, 105
+  offset: 0, 0
+  index: -1
+嘴巴
+  rotate: false
+  xy: 1756, 52
+  size: 52, 39
+  orig: 52, 39
+  offset: 0, 0
+  index: -1
+左手上臂
+  rotate: true
+  xy: 1367, 7
+  size: 125, 219
+  orig: 160, 219
+  offset: 10, 0
+  index: -1
+左手臂
+  rotate: true
+  xy: 849, 29
+  size: 96, 267
+  orig: 96, 267
+  offset: 0, 0
+  index: -1
+左眉
+  rotate: false
+  xy: 1286, 43
+  size: 44, 14
+  orig: 44, 14
+  offset: 0, 0
+  index: -1
+左眼珠
+  rotate: false
+  xy: 1697, 222
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+左腿
+  rotate: true
+  xy: 591, 127
+  size: 160, 774
+  orig: 160, 774
+  offset: 0, 0
+  index: -1
+手掌
+  rotate: true
+  xy: 1697, 93
+  size: 102, 138
+  orig: 107, 138
+  offset: 0, 0
+  index: -1
+眼白
+  rotate: false
+  xy: 849, 6
+  size: 93, 21
+  orig: 94, 21
+  offset: 0, 0
+  index: -1
+脸
+  rotate: false
+  xy: 1714, 262
+  size: 183, 195
+  orig: 200, 240
+  offset: 11, 27
+  index: -1
+身体
+  rotate: true
+  xy: 1367, 238
+  size: 219, 345
+  orig: 219, 345
+  offset: 0, 0
+  index: -1
+辫子1
+  rotate: false
+  xy: 1899, 284
+  size: 48, 173
+  orig: 48, 173
+  offset: 0, 0
+  index: -1
+辫子2
+  rotate: true
+  xy: 1588, 33
+  size: 58, 166
+  orig: 58, 166
+  offset: 0, 0
+  index: -1

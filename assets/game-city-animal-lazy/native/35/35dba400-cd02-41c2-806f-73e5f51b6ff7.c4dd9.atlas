@@ -1,0 +1,69 @@
+
+s_goose.png
+size: 181,181
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+s_goose_腿1
+  rotate: true
+  xy: 140, 77
+  size: 21, 28
+  orig: 21, 28
+  offset: 0, 0
+  index: -1
+s_goose_腿1_bai
+  rotate: false
+  xy: 137, 49
+  size: 19, 26
+  orig: 19, 26
+  offset: 0, 0
+  index: -1
+s_goose_腿2
+  rotate: false
+  xy: 137, 21
+  size: 19, 26
+  orig: 19, 26
+  offset: 0, 0
+  index: -1
+s_goose_腿2_bai
+  rotate: false
+  xy: 158, 52
+  size: 17, 23
+  orig: 17, 23
+  offset: 0, 0
+  index: -1
+s_goose_身体
+  rotate: false
+  xy: 70, 92
+  size: 68, 87
+  orig: 68, 87
+  offset: 0, 0
+  index: -1
+s_goose_身体2
+  rotate: false
+  xy: 2, 89
+  size: 66, 90
+  orig: 66, 90
+  offset: 0, 0
+  index: -1
+s_goose_身体3
+  rotate: false
+  xy: 2, 2
+  size: 66, 85
+  orig: 66, 85
+  offset: 0, 0
+  index: -1
+s_goose_身体4
+  rotate: false
+  xy: 70, 5
+  size: 65, 85
+  orig: 65, 85
+  offset: 0, 0
+  index: -1
+阴影
+  rotate: true
+  xy: 140, 100
+  size: 79, 32
+  orig: 81, 34
+  offset: 1, 1
+  index: -1

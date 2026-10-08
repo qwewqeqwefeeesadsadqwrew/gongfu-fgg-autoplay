@@ -1,0 +1,83 @@
+
+挑战按钮.png
+size: 179,490
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+图层 1
+  rotate: true
+  xy: 91, 212
+  size: 232, 86
+  orig: 234, 88
+  offset: 1, 1
+  index: -1
+图层 2
+  rotate: false
+  xy: 2, 446
+  size: 159, 42
+  orig: 161, 44
+  offset: 1, 1
+  index: -1
+火1
+  rotate: false
+  xy: 2, 375
+  size: 87, 69
+  orig: 87, 69
+  offset: 0, 0
+  index: -1
+火2
+  rotate: false
+  xy: 89, 141
+  size: 85, 69
+  orig: 85, 71
+  offset: 0, 1
+  index: -1
+火3
+  rotate: false
+  xy: 2, 233
+  size: 85, 70
+  orig: 85, 74
+  offset: 0, 2
+  index: -1
+火4
+  rotate: false
+  xy: 2, 90
+  size: 85, 69
+  orig: 85, 77
+  offset: 0, 4
+  index: -1
+火5
+  rotate: false
+  xy: 89, 70
+  size: 85, 69
+  orig: 85, 73
+  offset: 0, 2
+  index: -1
+火6
+  rotate: false
+  xy: 2, 161
+  size: 85, 70
+  orig: 85, 74
+  offset: 0, 2
+  index: -1
+火7
+  rotate: false
+  xy: 2, 19
+  size: 85, 69
+  orig: 85, 75
+  offset: 0, 3
+  index: -1
+火8
+  rotate: false
+  xy: 89, 2
+  size: 85, 66
+  orig: 85, 66
+  offset: 0, 0
+  index: -1
+火9
+  rotate: false
+  xy: 2, 305
+  size: 86, 68
+  orig: 86, 68
+  offset: 0, 0
+  index: -1

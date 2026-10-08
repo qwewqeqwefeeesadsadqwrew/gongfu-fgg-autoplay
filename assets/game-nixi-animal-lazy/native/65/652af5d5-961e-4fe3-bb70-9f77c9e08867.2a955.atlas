@@ -1,0 +1,160 @@
+
+chicken.png
+size: 913,913
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+哥哥翅膀
+  rotate: true
+  xy: 501, 50
+  size: 209, 115
+  orig: 209, 120
+  offset: 0, 0
+  index: -1
+哥哥腿前
+  rotate: true
+  xy: 731, 501
+  size: 81, 148
+  orig: 81, 149
+  offset: 0, 0
+  index: -1
+哥哥腿后
+  rotate: false
+  xy: 399, 47
+  size: 100, 212
+  orig: 100, 212
+  offset: 0, 0
+  index: -1
+嘴1乌骨鸡
+  rotate: false
+  xy: 48, 3
+  size: 42, 27
+  orig: 60, 46
+  offset: 8, 10
+  index: -1
+嘴2乌骨鸡
+  rotate: false
+  xy: 132, 7
+  size: 38, 23
+  orig: 57, 56
+  offset: 7, 14
+  index: -1
+大公鸡尾巴
+  rotate: true
+  xy: 2, 32
+  size: 212, 293
+  orig: 212, 293
+  offset: 0, 0
+  index: -1
+大公鸡翅膀
+  rotate: true
+  xy: 729, 63
+  size: 205, 107
+  orig: 206, 107
+  offset: 1, 0
+  index: -1
+大公鸡腿前
+  rotate: true
+  xy: 745, 584
+  size: 81, 148
+  orig: 81, 149
+  offset: 0, 0
+  index: -1
+大公鸡腿后
+  rotate: false
+  xy: 297, 32
+  size: 100, 212
+  orig: 100, 212
+  offset: 0, 0
+  index: -1
+翅膀乌骨鸡
+  rotate: true
+  xy: 731, 294
+  size: 205, 107
+  orig: 206, 107
+  offset: 1, 0
+  index: -1
+阴影
+  rotate: true
+  xy: 639, 270
+  size: 315, 90
+  orig: 315, 90
+  offset: 0, 0
+  index: -1
+鸡_嘴1
+  rotate: false
+  xy: 2, 2
+  size: 44, 28
+  orig: 47, 32
+  offset: 2, 4
+  index: -1
+鸡_嘴2
+  rotate: false
+  xy: 92, 7
+  size: 38, 23
+  orig: 41, 24
+  offset: 2, 1
+  index: -1
+鸡_翅膀
+  rotate: true
+  xy: 618, 51
+  size: 208, 109
+  orig: 208, 109
+  offset: 0, 0
+  index: -1
+鸡_腿前
+  rotate: false
+  xy: 641, 757
+  size: 84, 154
+  orig: 84, 154
+  offset: 0, 0
+  index: -1
+鸡_腿前乌骨鸡
+  rotate: true
+  xy: 745, 667
+  size: 110, 154
+  orig: 135, 154
+  offset: 25, 0
+  index: -1
+鸡_腿后
+  rotate: false
+  xy: 641, 589
+  size: 102, 166
+  orig: 102, 213
+  offset: 0, 0
+  index: -1
+鸡_腿后乌骨鸡
+  rotate: true
+  xy: 731, 779
+  size: 132, 176
+  orig: 162, 213
+  offset: 30, 0
+  index: -1
+鸡_身体
+  rotate: true
+  xy: 328, 587
+  size: 324, 311
+  orig: 331, 316
+  offset: 7, 5
+  index: -1
+鸡_身体2
+  rotate: false
+  xy: 2, 579
+  size: 324, 332
+  orig: 331, 360
+  offset: 7, 27
+  index: -1
+鸡_身体3
+  rotate: true
+  xy: 334, 261
+  size: 324, 303
+  orig: 331, 360
+  offset: 7, 27
+  index: -1
+鸡_身体4
+  rotate: true
+  xy: 2, 246
+  size: 331, 330
+  orig: 331, 360
+  offset: 0, 30
+  index: -1

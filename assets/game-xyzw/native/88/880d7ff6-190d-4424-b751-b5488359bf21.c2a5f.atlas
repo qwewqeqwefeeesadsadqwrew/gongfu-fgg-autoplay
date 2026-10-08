@@ -1,0 +1,83 @@
+
+xiaobing4_feidao.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hero_eye_cry
+  rotate: false
+  xy: 2, 13
+  size: 42, 51
+  orig: 42, 51
+  offset: 0, 0
+  index: -1
+sc4_feidao_body
+  rotate: false
+  xy: 2, 66
+  size: 141, 109
+  orig: 141, 109
+  offset: 0, 0
+  index: -1
+sc4_feidao_eye
+  rotate: false
+  xy: 243, 170
+  size: 6, 5
+  orig: 6, 5
+  offset: 0, 0
+  index: -1
+sc4_feidao_eyewhite
+  rotate: false
+  xy: 121, 38
+  size: 21, 26
+  orig: 21, 26
+  offset: 0, 0
+  index: -1
+sc4_feidao_handl
+  rotate: true
+  xy: 46, 29
+  size: 35, 36
+  orig: 36, 37
+  offset: 1, 1
+  index: -1
+sc4_feidao_handr1
+  rotate: true
+  xy: 84, 30
+  size: 34, 35
+  orig: 35, 38
+  offset: 0, 3
+  index: -1
+sc4_feidao_handr2
+  rotate: true
+  xy: 84, 2
+  size: 26, 31
+  orig: 27, 35
+  offset: 0, 4
+  index: -1
+sc4_feidao_head
+  rotate: false
+  xy: 145, 81
+  size: 96, 94
+  orig: 96, 94
+  offset: 0, 0
+  index: -1
+sc4_feidao_jaw
+  rotate: true
+  xy: 145, 15
+  size: 64, 87
+  orig: 64, 87
+  offset: 0, 0
+  index: -1
+sc4_feidao_legr
+  rotate: false
+  xy: 121, 13
+  size: 18, 23
+  orig: 18, 23
+  offset: 0, 0
+  index: -1
+sc4_feidao_weapon
+  rotate: false
+  xy: 234, 5
+  size: 17, 74
+  orig: 17, 74
+  offset: 0, 0
+  index: -1

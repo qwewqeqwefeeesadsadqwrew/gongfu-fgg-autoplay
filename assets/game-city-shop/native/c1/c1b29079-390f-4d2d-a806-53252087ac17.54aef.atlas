@@ -1,0 +1,90 @@
+
+初始店主9.png
+size: 172,172
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+链家/身体-包租婆
+  rotate: false
+  xy: 2, 4
+  size: 57, 77
+  orig: 57, 77
+  offset: 0, 0
+  index: -1
+链家/嘴巴-包租婆
+  rotate: false
+  xy: 137, 90
+  size: 31, 19
+  orig: 32, 21
+  offset: 1, 0
+  index: -1
+链家/嘴巴2-包租婆
+  rotate: true
+  xy: 144, 30
+  size: 32, 16
+  orig: 32, 21
+  offset: 0, 3
+  index: -1
+链家/嘴巴3-包租婆
+  rotate: true
+  xy: 115, 58
+  size: 31, 19
+  orig: 31, 19
+  offset: 0, 0
+  index: -1
+链家/头-包租婆
+  rotate: false
+  xy: 2, 83
+  size: 99, 87
+  orig: 99, 87
+  offset: 0, 0
+  index: -1
+链家/手R-包租婆
+  rotate: false
+  xy: 61, 18
+  size: 27, 63
+  orig: 27, 63
+  offset: 0, 0
+  index: -1
+链家/提示
+  rotate: false
+  xy: 90, 13
+  size: 27, 31
+  orig: 27, 31
+  offset: 0, 0
+  index: -1
+链家/脚R-包租婆
+  rotate: false
+  xy: 137, 111
+  size: 30, 59
+  orig: 30, 59
+  offset: 0, 0
+  index: -1
+链家/表情-包租婆
+  rotate: true
+  xy: 90, 46
+  size: 35, 23
+  orig: 35, 24
+  offset: 0, 1
+  index: -1
+链家/表情2-包租婆
+  rotate: true
+  xy: 119, 21
+  size: 35, 23
+  orig: 35, 24
+  offset: 0, 1
+  index: -1
+链家/表情3-包租婆
+  rotate: false
+  xy: 136, 64
+  size: 34, 24
+  orig: 34, 24
+  offset: 0, 0
+  index: -1
+阴影
+  rotate: true
+  xy: 103, 91
+  size: 79, 32
+  orig: 81, 34
+  offset: 1, 1
+  index: -1

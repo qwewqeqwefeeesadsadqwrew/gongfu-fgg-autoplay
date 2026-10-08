@@ -1,0 +1,13 @@
+
+diaochan_attack_loop.png
+size: 64,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+xysg_hero_guanyu_shadow
+  rotate: false
+  xy: 2, 2
+  size: 56, 102
+  orig: 102, 102
+  offset: 46, 0
+  index: -1

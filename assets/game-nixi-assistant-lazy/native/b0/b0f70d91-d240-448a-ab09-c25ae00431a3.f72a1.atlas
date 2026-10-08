@@ -1,0 +1,202 @@
+
+1.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+张敏_发1
+  rotate: false
+  xy: 1276, 416
+  size: 92, 94
+  orig: 93, 94
+  offset: 1, 0
+  index: -1
+张敏_发2
+  rotate: false
+  xy: 1165, 60
+  size: 65, 134
+  orig: 69, 134
+  offset: 0, 0
+  index: -1
+张敏_发yy
+  rotate: false
+  xy: 1243, 257
+  size: 76, 107
+  orig: 76, 110
+  offset: 0, 2
+  index: -1
+张敏_后发L
+  rotate: false
+  xy: 1037, 45
+  size: 126, 149
+  orig: 126, 149
+  offset: 0, 0
+  index: -1
+张敏_后发R
+  rotate: true
+  xy: 1016, 196
+  size: 50, 77
+  orig: 50, 80
+  offset: 0, 3
+  index: -1
+张敏_嘴巴
+  rotate: false
+  xy: 110, 7
+  size: 49, 37
+  orig: 49, 37
+  offset: 0, 0
+  index: -1
+张敏_大臂R
+  rotate: true
+  xy: 1198, 366
+  size: 144, 76
+  orig: 144, 76
+  offset: 0, 0
+  index: -1
+张敏_小臂
+  rotate: true
+  xy: 1145, 252
+  size: 110, 96
+  orig: 110, 96
+  offset: 0, 0
+  index: -1
+张敏_手臂L
+  rotate: false
+  xy: 808, 13
+  size: 105, 172
+  orig: 105, 172
+  offset: 0, 0
+  index: -1
+张敏_摸头大臂
+  rotate: true
+  xy: 1078, 248
+  size: 114, 65
+  orig: 114, 65
+  offset: 0, 0
+  index: -1
+张敏_摸头小臂
+  rotate: false
+  xy: 250, 21
+  size: 66, 23
+  orig: 66, 23
+  offset: 0, 0
+  index: -1
+张敏_摸头手
+  rotate: false
+  xy: 1173, 201
+  size: 82, 49
+  orig: 82, 49
+  offset: 0, 0
+  index: -1
+张敏_眉毛L
+  rotate: true
+  xy: 2, 4
+  size: 40, 14
+  orig: 40, 14
+  offset: 0, 0
+  index: -1
+张敏_眉毛R
+  rotate: false
+  xy: 179, 2
+  size: 23, 12
+  orig: 24, 12
+  offset: 0, 0
+  index: -1
+张敏_眼白1
+  rotate: true
+  xy: 161, 12
+  size: 32, 16
+  orig: 34, 18
+  offset: 1, 1
+  index: -1
+张敏_眼白2
+  rotate: true
+  xy: 231, 19
+  size: 25, 17
+  orig: 26, 18
+  offset: 1, 0
+  index: -1
+张敏_眼镜L
+  rotate: true
+  xy: 250, 2
+  size: 17, 16
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+张敏_眼镜R
+  rotate: false
+  xy: 231, 2
+  size: 16, 15
+  orig: 16, 15
+  offset: 0, 0
+  index: -1
+张敏_耳坠
+  rotate: true
+  xy: 179, 16
+  size: 28, 50
+  orig: 28, 50
+  offset: 0, 0
+  index: -1
+张敏_脸
+  rotate: false
+  xy: 915, 31
+  size: 120, 154
+  orig: 121, 154
+  offset: 1, 0
+  index: -1
+张敏_腿L
+  rotate: false
+  xy: 2, 46
+  size: 357, 464
+  orig: 357, 464
+  offset: 0, 0
+  index: -1
+张敏_腿R
+  rotate: false
+  xy: 361, 47
+  size: 225, 463
+  orig: 247, 463
+  offset: 0, 0
+  index: -1
+张敏_身体
+  rotate: false
+  xy: 588, 48
+  size: 218, 462
+  orig: 218, 478
+  offset: 0, 0
+  index: -1
+张敏_身体2
+  rotate: false
+  xy: 1078, 364
+  size: 118, 146
+  orig: 218, 478
+  offset: 80, 235
+  index: -1
+张敏_车
+  rotate: true
+  xy: 808, 187
+  size: 323, 206
+  orig: 323, 206
+  offset: 0, 0
+  index: -1
+张敏_飞吻手1
+  rotate: false
+  xy: 1095, 196
+  size: 76, 50
+  orig: 76, 50
+  offset: 0, 0
+  index: -1
+张敏_飞吻手2
+  rotate: true
+  xy: 18, 6
+  size: 38, 90
+  orig: 38, 90
+  offset: 0, 0
+  index: -1
+阴影
+  rotate: true
+  xy: 1016, 248
+  size: 262, 60
+  orig: 280, 80
+  offset: 9, 10
+  index: -1

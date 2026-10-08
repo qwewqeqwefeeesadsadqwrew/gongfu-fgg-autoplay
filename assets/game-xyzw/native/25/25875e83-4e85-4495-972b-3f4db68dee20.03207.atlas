@@ -1,0 +1,13 @@
+
+guanyinping_skill_line.png
+size: 256,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guanyinping_skill
+  rotate: false
+  xy: 2, 2
+  size: 205, 52
+  orig: 205, 52
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,167 @@
+
+yanliang.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hero_effect_box2
+  rotate: false
+  xy: 267, 303
+  size: 82, 82
+  orig: 82, 82
+  offset: 0, 0
+  index: -1
+hero_effect_box3
+  rotate: false
+  xy: 351, 298
+  size: 82, 82
+  orig: 82, 82
+  offset: 0, 0
+  index: -1
+hero_eye_cry
+  rotate: true
+  xy: 352, 386
+  size: 42, 51
+  orig: 42, 51
+  offset: 0, 0
+  index: -1
+xysg_hero_effect_die3
+  rotate: false
+  xy: 405, 382
+  size: 46, 46
+  orig: 46, 46
+  offset: 0, 0
+  index: -1
+xysg_hero_effect_swordlight2
+  rotate: false
+  xy: 255, 192
+  size: 108, 104
+  orig: 108, 104
+  offset: 0, 0
+  index: -1
+xysg_hero_guanyu_shadow
+  rotate: false
+  xy: 151, 205
+  size: 102, 102
+  orig: 102, 102
+  offset: 0, 0
+  index: -1
+yanliang_beard
+  rotate: true
+  xy: 121, 394
+  size: 34, 46
+  orig: 35, 46
+  offset: 0, 0
+  index: -1
+yanliang_body
+  rotate: false
+  xy: 2, 87
+  size: 146, 132
+  orig: 146, 132
+  offset: 0, 0
+  index: -1
+yanliang_eye
+  rotate: false
+  xy: 2, 418
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+yanliang_eyebrow
+  rotate: false
+  xy: 79, 396
+  size: 40, 32
+  orig: 41, 32
+  offset: 0, 0
+  index: -1
+yanliang_eyewhite
+  rotate: true
+  xy: 210, 390
+  size: 38, 40
+  orig: 38, 40
+  offset: 0, 0
+  index: -1
+yanliang_hair
+  rotate: true
+  xy: 2, 318
+  size: 76, 105
+  orig: 77, 105
+  offset: 0, 0
+  index: -1
+yanliang_handl
+  rotate: true
+  xy: 307, 387
+  size: 41, 43
+  orig: 41, 43
+  offset: 0, 0
+  index: -1
+yanliang_handr
+  rotate: false
+  xy: 169, 391
+  size: 39, 37
+  orig: 41, 38
+  offset: 1, 0
+  index: -1
+yanliang_handr1
+  rotate: false
+  xy: 252, 388
+  size: 53, 40
+  orig: 53, 40
+  offset: 0, 0
+  index: -1
+yanliang_hat1
+  rotate: true
+  xy: 2, 221
+  size: 86, 147
+  orig: 86, 147
+  offset: 0, 0
+  index: -1
+yanliang_hat2
+  rotate: true
+  xy: 14, 411
+  size: 17, 28
+  orig: 18, 28
+  offset: 0, 0
+  index: -1
+yanliang_head
+  rotate: false
+  xy: 365, 170
+  size: 138, 126
+  orig: 138, 126
+  offset: 0, 0
+  index: -1
+yanliang_legl
+  rotate: true
+  xy: 44, 403
+  size: 25, 33
+  orig: 25, 33
+  offset: 0, 0
+  index: -1
+yanliang_legr
+  rotate: true
+  xy: 44, 403
+  size: 25, 33
+  orig: 25, 33
+  offset: 0, 0
+  index: -1
+yanliang_shoulderl
+  rotate: true
+  xy: 453, 370
+  size: 58, 50
+  orig: 58, 50
+  offset: 0, 0
+  index: -1
+yanliang_tail
+  rotate: false
+  xy: 109, 309
+  size: 156, 77
+  orig: 156, 77
+  offset: 0, 0
+  index: -1
+yanliang_weaponr
+  rotate: false
+  xy: 150, 2
+  size: 201, 188
+  orig: 201, 188
+  offset: 0, 0
+  index: -1

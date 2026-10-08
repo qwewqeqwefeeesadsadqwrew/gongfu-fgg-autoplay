@@ -1,0 +1,83 @@
+
+boss_21.png
+size: 860,632
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+21+
+  rotate: false
+  xy: 2, 6
+  size: 621, 621
+  orig: 621, 621
+  offset: 0, 0
+  index: -1
+A_ci_fen_3
+  rotate: false
+  xy: 625, 191
+  size: 115, 156
+  orig: 115, 230
+  offset: 0, 71
+  index: -1
+A_ci_fen_4
+  rotate: false
+  xy: 625, 52
+  size: 115, 137
+  orig: 115, 230
+  offset: 0, 93
+  index: -1
+A_ci_fen_5
+  rotate: false
+  xy: 742, 241
+  size: 115, 106
+  orig: 115, 230
+  offset: 0, 124
+  index: -1
+A_ci_fen_6
+  rotate: false
+  xy: 742, 144
+  size: 115, 95
+  orig: 115, 230
+  offset: 0, 135
+  index: -1
+A_tu_dis_10
+  rotate: false
+  xy: 742, 33
+  size: 81, 52
+  orig: 153, 77
+  offset: 16, 15
+  index: -1
+A_tu_dis_11
+  rotate: false
+  xy: 625, 2
+  size: 75, 48
+  orig: 153, 77
+  offset: 16, 18
+  index: -1
+A_tu_dis_12
+  rotate: false
+  xy: 702, 10
+  size: 30, 40
+  orig: 153, 77
+  offset: 16, 20
+  index: -1
+A_tu_dis_13
+  rotate: false
+  xy: 825, 57
+  size: 19, 28
+  orig: 153, 77
+  offset: 17, 31
+  index: -1
+A_tu_dis_9
+  rotate: false
+  xy: 742, 87
+  size: 104, 55
+  orig: 153, 77
+  offset: 16, 13
+  index: -1
+boss21
+  rotate: false
+  xy: 625, 349
+  size: 233, 278
+  orig: 233, 278
+  offset: 0, 0
+  index: -1

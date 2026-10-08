@@ -1,0 +1,83 @@
+
+gun_game_place4.png
+size: 2036,2036
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fire1
+  rotate: false
+  xy: 2, 2
+  size: 218, 214
+  orig: 223, 214
+  offset: 5, 0
+  index: -1
+nezha_pgsj_00
+  rotate: false
+  xy: 535, 437
+  size: 240, 240
+  orig: 288, 288
+  offset: 24, 24
+  index: -1
+nezha_pgsj_02
+  rotate: true
+  xy: 413, 26
+  size: 190, 182
+  orig: 288, 288
+  offset: 39, 48
+  index: -1
+nezha_pgsj_04
+  rotate: false
+  xy: 222, 13
+  size: 189, 203
+  orig: 288, 288
+  offset: 46, 35
+  index: -1
+nezha_pgsj_06
+  rotate: true
+  xy: 535, 264
+  size: 171, 122
+  orig: 288, 288
+  offset: 54, 63
+  index: -1
+nezha_pgsj_08
+  rotate: true
+  xy: 659, 358
+  size: 77, 69
+  orig: 288, 288
+  offset: 105, 102
+  index: -1
+xiaodi1_body
+  rotate: false
+  xy: 426, 679
+  size: 418, 1355
+  orig: 418, 1355
+  offset: 0, 0
+  index: -1
+xiaodi1_hand
+  rotate: false
+  xy: 597, 28
+  size: 151, 234
+  orig: 151, 234
+  offset: 0, 0
+  index: -1
+xiaodi2_body
+  rotate: false
+  xy: 2, 642
+  size: 422, 1392
+  orig: 422, 1392
+  offset: 0, 0
+  index: -1
+xiaodi2_hand1
+  rotate: true
+  xy: 2, 218
+  size: 422, 334
+  orig: 422, 334
+  offset: 0, 0
+  index: -1
+xiaodi2_hand2
+  rotate: true
+  xy: 338, 218
+  size: 422, 195
+  orig: 422, 195
+  offset: 0, 0
+  index: -1

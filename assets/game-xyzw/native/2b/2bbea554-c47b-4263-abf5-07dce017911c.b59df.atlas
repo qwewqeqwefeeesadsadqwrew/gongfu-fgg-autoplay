@@ -1,0 +1,34 @@
+
+lusu_skill_hit.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hero_effect_box2
+  rotate: false
+  xy: 143, 163
+  size: 82, 82
+  orig: 82, 82
+  offset: 0, 0
+  index: -1
+ui_effect_light_circle3
+  rotate: false
+  xy: 2, 2
+  size: 102, 102
+  orig: 102, 102
+  offset: 0, 0
+  index: -1
+xysg_hero_effect_lightcircle
+  rotate: false
+  xy: 2, 106
+  size: 139, 139
+  orig: 139, 139
+  offset: 0, 0
+  index: -1
+xysg_hero_guanyu_shadow
+  rotate: false
+  xy: 106, 2
+  size: 102, 102
+  orig: 102, 102
+  offset: 0, 0
+  index: -1

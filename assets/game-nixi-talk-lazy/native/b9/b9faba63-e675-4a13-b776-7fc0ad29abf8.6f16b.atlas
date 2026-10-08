@@ -1,0 +1,181 @@
+
+女教师1.png
+size: 1745,396
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+L眉毛
+  rotate: true
+  xy: 380, 13
+  size: 25, 20
+  orig: 26, 21
+  offset: 0, 0
+  index: -1
+L眼
+  rotate: false
+  xy: 346, 5
+  size: 12, 12
+  orig: 24, 24
+  offset: 6, 8
+  index: -1
+L腿
+  rotate: true
+  xy: 702, 9
+  size: 142, 655
+  orig: 142, 655
+  offset: 0, 0
+  index: -1
+R眉毛
+  rotate: false
+  xy: 330, 19
+  size: 48, 19
+  orig: 50, 20
+  offset: 1, 1
+  index: -1
+R眼
+  rotate: true
+  xy: 330, 2
+  size: 15, 14
+  orig: 24, 24
+  offset: 4, 7
+  index: -1
+R腿
+  rotate: true
+  xy: 639, 224
+  size: 170, 648
+  orig: 170, 648
+  offset: 0, 0
+  index: -1
+R臂
+  rotate: true
+  xy: 260, 40
+  size: 98, 228
+  orig: 98, 230
+  offset: 0, 1
+  index: -1
+书
+  rotate: true
+  xy: 1459, 11
+  size: 214, 182
+  orig: 214, 182
+  offset: 0, 0
+  index: -1
+书页
+  rotate: false
+  xy: 490, 33
+  size: 210, 105
+  orig: 210, 105
+  offset: 0, 0
+  index: -1
+亲嘴
+  rotate: true
+  xy: 1359, 72
+  size: 80, 88
+  orig: 80, 88
+  offset: 0, 0
+  index: -1
+侧后发
+  rotate: true
+  xy: 843, 153
+  size: 69, 134
+  orig: 73, 170
+  offset: 0, 0
+  index: -1
+刘海
+  rotate: false
+  xy: 1228, 154
+  size: 98, 68
+  orig: 99, 68
+  offset: 0, 0
+  index: -1
+后发
+  rotate: true
+  xy: 1113, 163
+  size: 59, 113
+  orig: 62, 114
+  offset: 0, 0
+  index: -1
+嘴巴
+  rotate: true
+  xy: 1643, 17
+  size: 51, 41
+  orig: 139, 182
+  offset: 37, 7
+  index: -1
+图层 3
+  rotate: false
+  xy: 1289, 227
+  size: 266, 167
+  orig: 266, 170
+  offset: 0, 0
+  index: -1
+大拇指
+  rotate: false
+  xy: 1359, 7
+  size: 61, 63
+  orig: 62, 64
+  offset: 1, 1
+  index: -1
+头发1
+  rotate: true
+  xy: 639, 153
+  size: 69, 202
+  orig: 70, 202
+  offset: 1, 0
+  index: -1
+头发2
+  rotate: true
+  xy: 1643, 70
+  size: 43, 85
+  orig: 46, 90
+  offset: 0, 5
+  index: -1
+手掌
+  rotate: false
+  xy: 1643, 115
+  size: 100, 138
+  orig: 107, 138
+  offset: 0, 0
+  index: -1
+眼白
+  rotate: false
+  xy: 260, 3
+  size: 68, 35
+  orig: 70, 36
+  offset: 1, 1
+  index: -1
+眼镜
+  rotate: false
+  xy: 1328, 154
+  size: 129, 71
+  orig: 129, 72
+  offset: 0, 1
+  index: -1
+笔
+  rotate: false
+  xy: 979, 157
+  size: 132, 65
+  orig: 134, 67
+  offset: 1, 0
+  index: -1
+脸
+  rotate: true
+  xy: 1557, 255
+  size: 139, 182
+  orig: 139, 182
+  offset: 0, 0
+  index: -1
+身体
+  rotate: true
+  xy: 2, 140
+  size: 254, 635
+  orig: 373, 728
+  offset: 119, 0
+  index: -1
+领带
+  rotate: true
+  xy: 2, 8
+  size: 130, 256
+  orig: 130, 256
+  offset: 0, 0
+  index: -1

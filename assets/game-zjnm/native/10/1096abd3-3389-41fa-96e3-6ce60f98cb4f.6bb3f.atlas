@@ -1,0 +1,20 @@
+
+dankong.png
+size: 159,159
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dankong
+  rotate: false
+  xy: 2, 53
+  size: 97, 104
+  orig: 99, 104
+  offset: 1, 0
+  index: -1
+dankongs
+  rotate: true
+  xy: 2, 2
+  size: 49, 53
+  orig: 99, 104
+  offset: 26, 26
+  index: -1

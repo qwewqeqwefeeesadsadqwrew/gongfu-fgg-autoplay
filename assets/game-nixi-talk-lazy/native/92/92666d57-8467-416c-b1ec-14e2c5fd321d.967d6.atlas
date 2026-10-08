@@ -1,0 +1,188 @@
+
+四妹2.png
+size: 1309, 523
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+L手
+  rotate: true
+  xy: 1173, 198
+  size: 83, 70
+  orig: 83, 70
+  offset: 0, 0
+  index: -1
+L手臂
+  rotate: false
+  xy: 1018, 5
+  size: 107, 516
+  orig: 112, 519
+  offset: 5, 1
+  index: -1
+L眉毛
+  rotate: false
+  xy: 1127, 14
+  size: 30, 11
+  orig: 31, 15
+  offset: 0, 3
+  index: -1
+L眼珠
+  rotate: false
+  xy: 1171, 2
+  size: 15, 10
+  orig: 17, 11
+  offset: 1, 1
+  index: -1
+L眼白
+  rotate: false
+  xy: 1151, 2
+  size: 18, 10
+  orig: 18, 10
+  offset: 0, 0
+  index: -1
+L耳环
+  rotate: true
+  xy: 612, 13
+  size: 12, 36
+  orig: 12, 36
+  offset: 0, 0
+  index: -1
+R手臂
+  rotate: true
+  xy: 2, 13
+  size: 188, 608
+  orig: 188, 609
+  offset: 0, 1
+  index: -1
+R手臂+
+  rotate: false
+  xy: 891, 212
+  size: 125, 309
+  orig: 125, 316
+  offset: 0, 5
+  index: -1
+R手装饰
+  rotate: false
+  xy: 1208, 92
+  size: 99, 104
+  orig: 100, 104
+  offset: 0, 0
+  index: -1
+R手装饰2
+  rotate: true
+  xy: 1276, 477
+  size: 44, 28
+  orig: 44, 28
+  offset: 0, 0
+  index: -1
+R眉毛
+  rotate: false
+  xy: 714, 30
+  size: 35, 12
+  orig: 35, 15
+  offset: 0, 2
+  index: -1
+R眼珠
+  rotate: false
+  xy: 1159, 14
+  size: 19, 11
+  orig: 21, 14
+  offset: 1, 3
+  index: -1
+R眼白
+  rotate: false
+  xy: 1127, 2
+  size: 22, 10
+  orig: 22, 10
+  offset: 0, 0
+  index: -1
+R耳环
+  rotate: false
+  xy: 1246, 285
+  size: 13, 37
+  orig: 13, 37
+  offset: 0, 0
+  index: -1
+R飘带+
+  rotate: false
+  xy: 1127, 187
+  size: 44, 334
+  orig: 44, 334
+  offset: 0, 0
+  index: -1
+丝巾
+  rotate: false
+  xy: 612, 44
+  size: 185, 157
+  orig: 187, 157
+  offset: 2, 0
+  index: -1
+后发
+  rotate: false
+  xy: 1173, 283
+  size: 71, 238
+  orig: 71, 242
+  offset: 0, 1
+  index: -1
+嘴
+  rotate: false
+  xy: 799, 40
+  size: 107, 161
+  orig: 107, 161
+  offset: 0, 0
+  index: -1
+嘴唇
+  rotate: true
+  xy: 1127, 61
+  size: 124, 79
+  orig: 127, 79
+  offset: 0, 0
+  index: -1
+头
+  rotate: false
+  xy: 908, 49
+  size: 107, 161
+  orig: 107, 161
+  offset: 0, 0
+  index: -1
+头发1
+  rotate: false
+  xy: 1246, 414
+  size: 28, 107
+  orig: 28, 107
+  offset: 0, 0
+  index: -1
+头发2
+  rotate: false
+  xy: 1246, 324
+  size: 43, 88
+  orig: 44, 89
+  offset: 0, 0
+  index: -1
+头发3
+  rotate: true
+  xy: 1127, 27
+  size: 32, 56
+  orig: 32, 56
+  offset: 0, 0
+  index: -1
+玉手
+  rotate: true
+  xy: 1208, 16
+  size: 74, 98
+  orig: 80, 103
+  offset: 1, 3
+  index: -1
+肚子装饰
+  rotate: true
+  xy: 612, 27
+  size: 15, 100
+  orig: 15, 101
+  offset: 0, 1
+  index: -1
+身体
+  rotate: true
+  xy: 2, 203
+  size: 318, 887
+  orig: 322, 920
+  offset: 4, 33
+  index: -1

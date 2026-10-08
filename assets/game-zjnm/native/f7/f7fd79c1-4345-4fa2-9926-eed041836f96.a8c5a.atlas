@@ -1,0 +1,13 @@
+
+finish.png
+size: 434,434
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+finish
+  rotate: false
+  xy: 2, 315
+  size: 430, 117
+  orig: 442, 122
+  offset: 6, 1
+  index: -1

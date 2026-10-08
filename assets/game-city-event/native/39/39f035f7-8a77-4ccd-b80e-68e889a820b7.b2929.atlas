@@ -1,0 +1,34 @@
+
+人鱼和鱼人.png
+size: 1683,295
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ray
+  rotate: true
+  xy: 811, 40
+  size: 253, 359
+  orig: 253, 359
+  offset: 0, 0
+  index: -1
+ray2
+  rotate: false
+  xy: 1172, 11
+  size: 256, 282
+  orig: 256, 282
+  offset: 0, 0
+  index: -1
+人鱼
+  rotate: true
+  xy: 2, 2
+  size: 291, 807
+  orig: 291, 807
+  offset: 0, 0
+  index: -1
+鱼人2
+  rotate: false
+  xy: 1430, 26
+  size: 251, 267
+  orig: 288, 367
+  offset: 4, 39
+  index: -1

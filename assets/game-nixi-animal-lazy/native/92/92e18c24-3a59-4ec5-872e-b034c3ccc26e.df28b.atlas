@@ -1,0 +1,181 @@
+
+goose.png
+size: 678,678
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+嘴上
+  rotate: false
+  xy: 143, 2
+  size: 68, 55
+  orig: 68, 62
+  offset: 0, 5
+  index: -1
+嘴下
+  rotate: false
+  xy: 580, 121
+  size: 65, 27
+  orig: 66, 28
+  offset: 0, 0
+  index: -1
+捣蛋嘴上
+  rotate: false
+  xy: 72, 2
+  size: 69, 55
+  orig: 77, 60
+  offset: 7, 3
+  index: -1
+捣蛋嘴下
+  rotate: false
+  xy: 283, 4
+  size: 64, 26
+  orig: 79, 33
+  offset: 7, 3
+  index: -1
+捣蛋翅膀
+  rotate: true
+  xy: 465, 94
+  size: 195, 113
+  orig: 195, 113
+  offset: 0, 0
+  index: -1
+捣蛋脖子
+  rotate: false
+  xy: 72, 59
+  size: 97, 245
+  orig: 98, 259
+  offset: 0, 7
+  index: -1
+捣蛋腿前
+  rotate: false
+  xy: 539, 399
+  size: 86, 92
+  orig: 86, 92
+  offset: 0, 0
+  index: -1
+捣蛋腿后
+  rotate: true
+  xy: 580, 150
+  size: 80, 79
+  orig: 86, 80
+  offset: 5, 1
+  index: -1
+捣蛋身体
+  rotate: false
+  xy: 2, 306
+  size: 283, 184
+  orig: 299, 194
+  offset: 8, 6
+  index: -1
+捣蛋鹅头
+  rotate: false
+  xy: 539, 316
+  size: 86, 81
+  orig: 88, 101
+  offset: 2, 15
+  index: -1
+狮头鹅嘴上
+  rotate: false
+  xy: 213, 3
+  size: 68, 54
+  orig: 68, 54
+  offset: 0, 0
+  index: -1
+狮头鹅嘴下
+  rotate: false
+  xy: 283, 32
+  size: 64, 26
+  orig: 64, 26
+  offset: 0, 0
+  index: -1
+狮头鹅翅膀
+  rotate: false
+  xy: 268, 60
+  size: 195, 113
+  orig: 195, 113
+  offset: 0, 0
+  index: -1
+狮头鹅脖子
+  rotate: true
+  xy: 287, 291
+  size: 94, 242
+  orig: 94, 243
+  offset: 0, 1
+  index: -1
+狮头鹅身体
+  rotate: false
+  xy: 287, 493
+  size: 279, 183
+  orig: 279, 183
+  offset: 0, 0
+  index: -1
+狮头鹅鹅头
+  rotate: true
+  xy: 465, 10
+  size: 82, 93
+  orig: 82, 108
+  offset: 0, 0
+  index: -1
+翅膀
+  rotate: false
+  xy: 268, 175
+  size: 195, 114
+  orig: 195, 114
+  offset: 0, 0
+  index: -1
+脖子
+  rotate: false
+  xy: 171, 59
+  size: 95, 245
+  orig: 95, 245
+  offset: 0, 0
+  index: -1
+腿前
+  rotate: false
+  xy: 568, 582
+  size: 93, 94
+  orig: 93, 94
+  offset: 0, 0
+  index: -1
+腿后
+  rotate: true
+  xy: 560, 6
+  size: 86, 79
+  orig: 86, 80
+  offset: 0, 1
+  index: -1
+身体
+  rotate: false
+  xy: 2, 492
+  size: 283, 184
+  orig: 283, 185
+  offset: 0, 1
+  index: -1
+阴影
+  rotate: true
+  xy: 2, 11
+  size: 293, 68
+  orig: 315, 90
+  offset: 11, 11
+  index: -1
+鹅头
+  rotate: true
+  xy: 580, 232
+  size: 82, 77
+  orig: 82, 77
+  offset: 0, 0
+  index: -1
+鹅鸭杀脖子
+  rotate: true
+  xy: 287, 387
+  size: 104, 250
+  orig: 108, 270
+  offset: 0, 12
+  index: -1
+鹅鸭杀鹅头
+  rotate: false
+  xy: 568, 494
+  size: 96, 86
+  orig: 96, 86
+  offset: 0, 0
+  index: -1

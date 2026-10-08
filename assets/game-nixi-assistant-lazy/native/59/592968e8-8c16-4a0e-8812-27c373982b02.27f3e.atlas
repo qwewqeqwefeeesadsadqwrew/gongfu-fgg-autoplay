@@ -1,0 +1,125 @@
+
+4.png
+size: 759,759
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+亦菲_发1
+  rotate: true
+  xy: 191, 45
+  size: 142, 220
+  orig: 142, 220
+  offset: 0, 0
+  index: -1
+亦菲_后发
+  rotate: false
+  xy: 244, 413
+  size: 244, 344
+  orig: 244, 344
+  offset: 0, 0
+  index: -1
+亦菲_头
+  rotate: false
+  xy: 2, 6
+  size: 187, 181
+  orig: 187, 181
+  offset: 0, 0
+  index: -1
+亦菲_手L
+  rotate: false
+  xy: 490, 436
+  size: 137, 321
+  orig: 137, 321
+  offset: 0, 0
+  index: -1
+亦菲_手R
+  rotate: true
+  xy: 413, 20
+  size: 109, 262
+  orig: 109, 263
+  offset: 0, 1
+  index: -1
+亦菲_手R2
+  rotate: false
+  xy: 629, 459
+  size: 125, 298
+  orig: 125, 298
+  offset: 0, 0
+  index: -1
+亦菲_手臂R
+  rotate: true
+  xy: 413, 146
+  size: 84, 195
+  orig: 84, 195
+  offset: 0, 0
+  index: -1
+亦菲_眉毛L
+  rotate: false
+  xy: 372, 32
+  size: 25, 11
+  orig: 25, 11
+  offset: 0, 0
+  index: -1
+亦菲_眉毛R
+  rotate: false
+  xy: 306, 28
+  size: 46, 15
+  orig: 46, 15
+  offset: 0, 0
+  index: -1
+亦菲_眼白
+  rotate: false
+  xy: 191, 5
+  size: 91, 38
+  orig: 94, 40
+  offset: 1, 1
+  index: -1
+亦菲_眼镜L
+  rotate: true
+  xy: 354, 28
+  size: 15, 16
+  orig: 15, 16
+  offset: 0, 0
+  index: -1
+亦菲_眼镜R
+  rotate: false
+  xy: 284, 25
+  size: 20, 18
+  orig: 22, 18
+  offset: 1, 0
+  index: -1
+亦菲_衣服边
+  rotate: true
+  xy: 677, 2
+  size: 127, 61
+  orig: 127, 62
+  offset: 0, 1
+  index: -1
+亦菲_身体
+  rotate: false
+  xy: 2, 189
+  size: 240, 568
+  orig: 240, 569
+  offset: 0, 0
+  index: -1
+亦菲_退L
+  rotate: true
+  xy: 244, 232
+  size: 72, 423
+  orig: 200, 700
+  offset: 63, 139
+  index: -1
+亦菲_退R
+  rotate: true
+  xy: 244, 306
+  size: 105, 434
+  orig: 200, 600
+  offset: 46, 82
+  index: -1
+阴影
+  rotate: true
+  xy: 680, 131
+  size: 326, 74
+  orig: 350, 100
+  offset: 12, 13
+  index: -1

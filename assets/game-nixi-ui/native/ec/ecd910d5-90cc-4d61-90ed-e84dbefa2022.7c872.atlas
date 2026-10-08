@@ -1,0 +1,125 @@
+
+redidle.png
+size: 186,186
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0
+  rotate: false
+  xy: 2, 166
+  size: 32, 18
+  orig: 32, 18
+  offset: 0, 0
+  index: -1
+1
+  rotate: false
+  xy: 36, 166
+  size: 69, 18
+  orig: 69, 18
+  offset: 0, 0
+  index: -1
+10
+  rotate: false
+  xy: 97, 71
+  size: 87, 18
+  orig: 87, 18
+  offset: 0, 0
+  index: -1
+11
+  rotate: false
+  xy: 2, 31
+  size: 97, 18
+  orig: 97, 18
+  offset: 0, 0
+  index: -1
+12
+  rotate: true
+  xy: 151, 91
+  size: 73, 18
+  orig: 73, 18
+  offset: 0, 0
+  index: -1
+13
+  rotate: false
+  xy: 2, 66
+  size: 86, 18
+  orig: 86, 18
+  offset: 0, 0
+  index: -1
+14
+  rotate: false
+  xy: 2, 11
+  size: 97, 18
+  orig: 97, 18
+  offset: 0, 0
+  index: -1
+15
+  rotate: false
+  xy: 90, 51
+  size: 86, 18
+  orig: 86, 18
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 107, 166
+  size: 77, 18
+  orig: 77, 18
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 2, 146
+  size: 85, 18
+  orig: 85, 18
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 89, 146
+  size: 60, 18
+  orig: 60, 18
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 2, 126
+  size: 61, 18
+  orig: 61, 18
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 65, 126
+  size: 70, 18
+  orig: 70, 18
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 2, 106
+  size: 78, 18
+  orig: 78, 18
+  offset: 0, 0
+  index: -1
+8
+  rotate: false
+  xy: 82, 106
+  size: 61, 18
+  orig: 61, 18
+  offset: 0, 0
+  index: -1
+9
+  rotate: false
+  xy: 2, 86
+  size: 93, 18
+  orig: 93, 18
+  offset: 0, 0
+  index: -1
+红气泡
+  rotate: false
+  xy: 101, 11
+  size: 70, 38
+  orig: 70, 38
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,167 @@
+
+xingdaorong.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hero_effect_box2
+  rotate: false
+  xy: 116, 218
+  size: 82, 82
+  orig: 82, 82
+  offset: 0, 0
+  index: -1
+hero_eye_cry
+  rotate: true
+  xy: 362, 189
+  size: 42, 51
+  orig: 42, 51
+  offset: 0, 0
+  index: -1
+xingdaorong_beard1
+  rotate: false
+  xy: 362, 233
+  size: 54, 26
+  orig: 54, 27
+  offset: 0, 1
+  index: -1
+xingdaorong_beard2
+  rotate: true
+  xy: 189, 94
+  size: 52, 21
+  orig: 52, 21
+  offset: 0, 0
+  index: -1
+xingdaorong_beard3
+  rotate: false
+  xy: 116, 134
+  size: 57, 82
+  orig: 57, 82
+  offset: 0, 0
+  index: -1
+xingdaorong_beard4
+  rotate: false
+  xy: 189, 40
+  size: 17, 52
+  orig: 17, 52
+  offset: 0, 0
+  index: -1
+xingdaorong_beard5
+  rotate: false
+  xy: 362, 117
+  size: 44, 26
+  orig: 44, 26
+  offset: 0, 0
+  index: -1
+xingdaorong_beard6
+  rotate: true
+  xy: 175, 148
+  size: 68, 34
+  orig: 68, 35
+  offset: 0, 1
+  index: -1
+xingdaorong_body
+  rotate: true
+  xy: 2, 118
+  size: 182, 112
+  orig: 182, 116
+  offset: 0, 0
+  index: -1
+xingdaorong_effect
+  rotate: false
+  xy: 2, 302
+  size: 212, 202
+  orig: 214, 210
+  offset: 1, 7
+  index: -1
+xingdaorong_eye
+  rotate: true
+  xy: 2, 2
+  size: 8, 9
+  orig: 8, 10
+  offset: 0, 0
+  index: -1
+xingdaorong_eyewhite
+  rotate: true
+  xy: 408, 129
+  size: 22, 28
+  orig: 22, 28
+  offset: 0, 0
+  index: -1
+xingdaorong_hair
+  rotate: false
+  xy: 112, 3
+  size: 75, 113
+  orig: 75, 113
+  offset: 0, 0
+  index: -1
+xingdaorong_handl
+  rotate: true
+  xy: 376, 75
+  size: 40, 42
+  orig: 40, 42
+  offset: 0, 0
+  index: -1
+xingdaorong_handr1
+  rotate: false
+  xy: 362, 145
+  size: 44, 42
+  orig: 46, 44
+  offset: 0, 2
+  index: -1
+xingdaorong_handr2
+  rotate: true
+  xy: 408, 153
+  size: 34, 38
+  orig: 34, 42
+  offset: 0, 4
+  index: -1
+xingdaorong_head
+  rotate: true
+  xy: 216, 309
+  size: 195, 171
+  orig: 195, 171
+  offset: 0, 0
+  index: -1
+xingdaorong_legr
+  rotate: true
+  xy: 415, 208
+  size: 23, 31
+  orig: 23, 31
+  offset: 0, 0
+  index: -1
+xingdaorong_mouth
+  rotate: false
+  xy: 295, 60
+  size: 79, 51
+  orig: 79, 51
+  offset: 0, 0
+  index: -1
+xingdaorong_shoulderl
+  rotate: false
+  xy: 212, 30
+  size: 81, 81
+  orig: 81, 81
+  offset: 0, 0
+  index: -1
+xingdaorong_weapon
+  rotate: false
+  xy: 216, 113
+  size: 144, 194
+  orig: 144, 194
+  offset: 0, 0
+  index: -1
+xysg_hero_effect_die3
+  rotate: false
+  xy: 362, 261
+  size: 46, 46
+  orig: 46, 46
+  offset: 0, 0
+  index: -1
+xysg_hero_effect_swordlight2
+  rotate: false
+  xy: 2, 12
+  size: 108, 104
+  orig: 108, 104
+  offset: 0, 0
+  index: -1

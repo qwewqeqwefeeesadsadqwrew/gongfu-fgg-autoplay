@@ -1,0 +1,132 @@
+
+xunyu.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hero_effect_box2
+  rotate: false
+  xy: 2, 86
+  size: 82, 82
+  orig: 82, 82
+  offset: 0, 0
+  index: -1
+hero_effect_box3
+  rotate: false
+  xy: 2, 2
+  size: 82, 82
+  orig: 82, 82
+  offset: 0, 0
+  index: -1
+hero_eye_cry
+  rotate: false
+  xy: 466, 197
+  size: 42, 51
+  orig: 42, 51
+  offset: 0, 0
+  index: -1
+ui_effect_light_circle3
+  rotate: false
+  xy: 169, 85
+  size: 102, 102
+  orig: 102, 102
+  offset: 0, 0
+  index: -1
+xunyu_beard1
+  rotate: false
+  xy: 482, 258
+  size: 26, 18
+  orig: 26, 18
+  offset: 0, 0
+  index: -1
+xunyu_beard2
+  rotate: false
+  xy: 482, 278
+  size: 26, 21
+  orig: 26, 21
+  offset: 0, 0
+  index: -1
+xunyu_body
+  rotate: false
+  xy: 169, 189
+  size: 169, 143
+  orig: 169, 143
+  offset: 0, 0
+  index: -1
+xunyu_eye
+  rotate: true
+  xy: 482, 250
+  size: 6, 8
+  orig: 6, 8
+  offset: 0, 0
+  index: -1
+xunyu_eyewhite
+  rotate: false
+  xy: 431, 120
+  size: 33, 37
+  orig: 33, 37
+  offset: 0, 0
+  index: -1
+xunyu_handl
+  rotate: true
+  xy: 466, 156
+  size: 39, 42
+  orig: 39, 42
+  offset: 0, 0
+  index: -1
+xunyu_head
+  rotate: false
+  xy: 2, 170
+  size: 165, 162
+  orig: 165, 162
+  offset: 0, 0
+  index: -1
+xunyu_legr
+  rotate: false
+  xy: 482, 301
+  size: 23, 31
+  orig: 23, 31
+  offset: 0, 0
+  index: -1
+xunyu_shoulderl
+  rotate: true
+  xy: 273, 113
+  size: 74, 52
+  orig: 74, 52
+  offset: 0, 0
+  index: -1
+xunyu_shoulderr
+  rotate: false
+  xy: 466, 117
+  size: 43, 37
+  orig: 43, 37
+  offset: 0, 0
+  index: -1
+xunyu_tail
+  rotate: false
+  xy: 340, 250
+  size: 140, 82
+  orig: 140, 82
+  offset: 0, 0
+  index: -1
+xunyu_weapon1
+  rotate: true
+  xy: 340, 159
+  size: 89, 124
+  orig: 89, 124
+  offset: 0, 0
+  index: -1
+xunyu_weapon2
+  rotate: true
+  xy: 431, 61
+  size: 54, 62
+  orig: 54, 62
+  offset: 0, 0
+  index: -1
+xysg_hero_guanyu_shadow
+  rotate: false
+  xy: 327, 55
+  size: 102, 102
+  orig: 102, 102
+  offset: 0, 0
+  index: -1

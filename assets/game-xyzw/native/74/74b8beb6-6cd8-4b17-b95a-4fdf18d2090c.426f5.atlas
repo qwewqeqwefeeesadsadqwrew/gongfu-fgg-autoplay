@@ -1,0 +1,104 @@
+
+xiaobing_bianpao.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hero_eye_cry
+  rotate: false
+  xy: 2, 7
+  size: 42, 51
+  orig: 42, 51
+  offset: 0, 0
+  index: -1
+monster1_body
+  rotate: false
+  xy: 2, 60
+  size: 137, 193
+  orig: 137, 193
+  offset: 0, 0
+  index: -1
+monster1_effect_spark1
+  rotate: true
+  xy: 266, 141
+  size: 44, 37
+  orig: 45, 38
+  offset: 0, 1
+  index: -1
+monster1_effect_spark2
+  rotate: true
+  xy: 46, 7
+  size: 51, 36
+  orig: 52, 36
+  offset: 0, 0
+  index: -1
+monster1_effect_spark3
+  rotate: true
+  xy: 266, 187
+  size: 66, 44
+  orig: 66, 45
+  offset: 0, 1
+  index: -1
+monster1_eye
+  rotate: false
+  xy: 141, 63
+  size: 8, 10
+  orig: 8, 10
+  offset: 0, 0
+  index: -1
+monster1_eyewhite
+  rotate: false
+  xy: 141, 75
+  size: 43, 45
+  orig: 43, 46
+  offset: 0, 1
+  index: -1
+monster1_firecracker
+  rotate: false
+  xy: 205, 137
+  size: 59, 116
+  orig: 59, 116
+  offset: 0, 0
+  index: -1
+monster1_footl
+  rotate: true
+  xy: 274, 107
+  size: 32, 31
+  orig: 32, 31
+  offset: 0, 0
+  index: -1
+monster1_hair
+  rotate: false
+  xy: 134, 9
+  size: 68, 49
+  orig: 68, 49
+  offset: 0, 0
+  index: -1
+monster1_handl
+  rotate: false
+  xy: 141, 122
+  size: 62, 131
+  orig: 62, 131
+  offset: 0, 0
+  index: -1
+monster1_handr
+  rotate: false
+  xy: 84, 8
+  size: 48, 50
+  orig: 48, 50
+  offset: 0, 0
+  index: -1
+monster1_tail
+  rotate: true
+  xy: 204, 2
+  size: 118, 68
+  orig: 118, 68
+  offset: 0, 0
+  index: -1
+xysg_hero_effect_box
+  rotate: false
+  xy: 305, 159
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1

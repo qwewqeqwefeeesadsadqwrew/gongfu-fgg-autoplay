@@ -1,0 +1,104 @@
+
+手.png
+size: 743,743
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+广告1
+  rotate: false
+  xy: 388, 518
+  size: 328, 223
+  orig: 328, 223
+  offset: 0, 0
+  index: -1
+广告2
+  rotate: false
+  xy: 388, 293
+  size: 328, 223
+  orig: 328, 223
+  offset: 0, 0
+  index: -1
+广告3
+  rotate: false
+  xy: 299, 68
+  size: 328, 223
+  orig: 328, 223
+  offset: 0, 0
+  index: -1
+手1
+  rotate: true
+  xy: 2, 9
+  size: 393, 295
+  orig: 393, 295
+  offset: 0, 0
+  index: -1
+手2
+  rotate: false
+  xy: 2, 404
+  size: 384, 337
+  orig: 384, 337
+  offset: 0, 0
+  index: -1
+火1
+  rotate: false
+  xy: 299, 6
+  size: 78, 60
+  orig: 78, 62
+  offset: 0, 2
+  index: -1
+火2
+  rotate: false
+  xy: 379, 5
+  size: 77, 61
+  orig: 77, 64
+  offset: 0, 3
+  index: -1
+火3
+  rotate: false
+  xy: 458, 2
+  size: 77, 64
+  orig: 77, 67
+  offset: 0, 3
+  index: -1
+火4
+  rotate: false
+  xy: 299, 336
+  size: 77, 66
+  orig: 77, 69
+  offset: 0, 2
+  index: -1
+火5
+  rotate: false
+  xy: 629, 89
+  size: 77, 65
+  orig: 77, 66
+  offset: 0, 1
+  index: -1
+火6
+  rotate: false
+  xy: 629, 156
+  size: 77, 66
+  orig: 77, 67
+  offset: 0, 1
+  index: -1
+火7
+  rotate: false
+  xy: 629, 224
+  size: 77, 67
+  orig: 77, 68
+  offset: 0, 1
+  index: -1
+火8
+  rotate: false
+  xy: 629, 30
+  size: 77, 57
+  orig: 77, 59
+  offset: 0, 2
+  index: -1
+火9
+  rotate: false
+  xy: 537, 7
+  size: 77, 59
+  orig: 77, 61
+  offset: 0, 2
+  index: -1

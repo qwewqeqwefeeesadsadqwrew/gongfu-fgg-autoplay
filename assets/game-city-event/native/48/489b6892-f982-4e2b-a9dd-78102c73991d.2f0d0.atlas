@@ -1,0 +1,20 @@
+
+抓小偷bg_速度线.png
+size: 353,197
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+速度线1
+  rotate: false
+  xy: 2, 2
+  size: 349, 93
+  orig: 351, 95
+  offset: 1, 1
+  index: -1
+速度线2
+  rotate: false
+  xy: 2, 97
+  size: 349, 98
+  orig: 351, 100
+  offset: 1, 1
+  index: -1

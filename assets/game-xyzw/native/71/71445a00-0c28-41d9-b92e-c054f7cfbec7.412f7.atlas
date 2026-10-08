@@ -1,0 +1,83 @@
+
+zhouyu_skill_loop.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+xysg_hero_effect_box
+  rotate: false
+  xy: 144, 51
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+xysg_hero_effect_die3
+  rotate: false
+  xy: 63, 35
+  size: 42, 42
+  orig: 46, 46
+  offset: 2, 2
+  index: -1
+zhouyu_skill_boat1
+  rotate: false
+  xy: 2, 79
+  size: 165, 63
+  orig: 165, 63
+  offset: 0, 0
+  index: -1
+zhouyu_skill_boat2
+  rotate: false
+  xy: 2, 144
+  size: 300, 98
+  orig: 300, 98
+  offset: 0, 0
+  index: -1
+zhouyu_skill_boat3
+  rotate: false
+  xy: 2, 244
+  size: 196, 265
+  orig: 196, 265
+  offset: 0, 0
+  index: -1
+zhouyu_skill_eye
+  rotate: false
+  xy: 139, 10
+  size: 6, 7
+  orig: 6, 7
+  offset: 0, 0
+  index: -1
+zhouyu_skill_eyewhite
+  rotate: true
+  xy: 160, 25
+  size: 24, 18
+  orig: 24, 18
+  offset: 0, 0
+  index: -1
+zhouyu_skill_flag1
+  rotate: true
+  xy: 2, 2
+  size: 75, 59
+  orig: 75, 59
+  offset: 0, 0
+  index: -1
+zhouyu_skill_flag2
+  rotate: true
+  xy: 63, 19
+  size: 14, 95
+  orig: 14, 95
+  offset: 0, 0
+  index: -1
+zhouyu_skill_flag3
+  rotate: true
+  xy: 107, 39
+  size: 38, 35
+  orig: 38, 35
+  offset: 0, 0
+  index: -1
+zhouyu_skill_flag4
+  rotate: true
+  xy: 63, 7
+  size: 10, 74
+  orig: 10, 74
+  offset: 0, 0
+  index: -1

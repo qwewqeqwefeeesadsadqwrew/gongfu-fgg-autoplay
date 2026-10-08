@@ -1,0 +1,55 @@
+
+ui_end.png
+size: 1284,324
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+A_ci_fen_3
+  rotate: false
+  xy: 1057, 164
+  size: 115, 156
+  orig: 115, 230
+  offset: 0, 71
+  index: -1
+A_ci_fen_4
+  rotate: false
+  xy: 1057, 25
+  size: 115, 137
+  orig: 115, 230
+  offset: 0, 93
+  index: -1
+A_ci_fen_5
+  rotate: true
+  xy: 1174, 205
+  size: 115, 106
+  orig: 115, 230
+  offset: 0, 124
+  index: -1
+A_ci_fen_6
+  rotate: true
+  xy: 1174, 88
+  size: 115, 95
+  orig: 115, 230
+  offset: 0, 135
+  index: -1
+ui_end_1
+  rotate: true
+  xy: 2, 8
+  size: 312, 362
+  orig: 316, 364
+  offset: 2, 0
+  index: -1
+ui_end_2
+  rotate: false
+  xy: 366, 2
+  size: 354, 318
+  orig: 360, 364
+  offset: 1, 36
+  index: -1
+ui_end_3
+  rotate: false
+  xy: 722, 35
+  size: 333, 285
+  orig: 360, 364
+  offset: 27, 43
+  index: -1

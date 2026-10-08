@@ -1,0 +1,27 @@
+
+早餐店_装饰动画.png
+size: 178,157
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+早餐店-挂件1
+  rotate: false
+  xy: 134, 2
+  size: 42, 34
+  orig: 42, 34
+  offset: 0, 0
+  index: -1
+早餐店-挂件2
+  rotate: false
+  xy: 134, 38
+  size: 36, 117
+  orig: 36, 118
+  offset: 0, 1
+  index: -1
+烟雾ww
+  rotate: true
+  xy: 2, 13
+  size: 142, 130
+  orig: 155, 144
+  offset: 7, 6
+  index: -1

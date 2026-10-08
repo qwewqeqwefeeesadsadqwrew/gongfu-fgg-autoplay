@@ -1,0 +1,125 @@
+
+zhuangji_texiao.png
+size: 1369,1369
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2_0000
+  rotate: false
+  xy: 1163, 2
+  size: 158, 150
+  orig: 648, 648
+  offset: 249, 241
+  index: -1
+2_0001
+  rotate: false
+  xy: 436, 23
+  size: 197, 158
+  orig: 648, 648
+  offset: 245, 244
+  index: -1
+2_0002
+  rotate: false
+  xy: 216, 12
+  size: 218, 169
+  orig: 648, 648
+  offset: 242, 247
+  index: -1
+2_0003
+  rotate: false
+  xy: 2, 4
+  size: 212, 177
+  orig: 648, 648
+  offset: 239, 257
+  index: -1
+2_0004
+  rotate: true
+  xy: 1163, 154
+  size: 207, 150
+  orig: 648, 648
+  offset: 239, 272
+  index: -1
+2_0005
+  rotate: true
+  xy: 1229, 661
+  size: 184, 135
+  orig: 184, 144
+  offset: 0, 9
+  index: -1
+2_0006
+  rotate: false
+  xy: 1229, 630
+  size: 95, 29
+  orig: 95, 29
+  offset: 0, 0
+  index: -1
+qiangci_00
+  rotate: false
+  xy: 926, 363
+  size: 318, 220
+  orig: 320, 258
+  offset: 2, 36
+  index: -1
+qiangci_01
+  rotate: false
+  xy: 926, 1109
+  size: 320, 258
+  orig: 320, 260
+  offset: 0, 2
+  index: -1
+qiangci_02
+  rotate: false
+  xy: 926, 585
+  size: 301, 260
+  orig: 320, 260
+  offset: 0, 0
+  index: -1
+qiangci_03
+  rotate: false
+  xy: 926, 847
+  size: 314, 260
+  orig: 320, 260
+  offset: 0, 0
+  index: -1
+qiangci_04
+  rotate: false
+  xy: 324, 183
+  size: 317, 260
+  orig: 320, 260
+  offset: 0, 0
+  index: -1
+qiangci_05
+  rotate: false
+  xy: 2, 183
+  size: 320, 260
+  orig: 320, 260
+  offset: 0, 0
+  index: -1
+qiangci_06
+  rotate: false
+  xy: 643, 184
+  size: 275, 259
+  orig: 320, 260
+  offset: 0, 0
+  index: -1
+qiangci_07
+  rotate: false
+  xy: 920, 146
+  size: 241, 215
+  orig: 320, 260
+  offset: 20, 13
+  index: -1
+冲击波
+  rotate: false
+  xy: 643, 37
+  size: 180, 145
+  orig: 180, 171
+  offset: 0, 0
+  index: -1
+旋风1
+  rotate: false
+  xy: 2, 445
+  size: 922, 922
+  orig: 922, 922
+  offset: 0, 0
+  index: -1

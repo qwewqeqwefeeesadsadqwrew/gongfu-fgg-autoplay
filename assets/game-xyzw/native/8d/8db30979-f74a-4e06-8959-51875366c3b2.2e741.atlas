@@ -1,0 +1,202 @@
+
+huangyueying.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hero_effect_box2
+  rotate: false
+  xy: 99, 165
+  size: 82, 82
+  orig: 82, 82
+  offset: 0, 0
+  index: -1
+hero_effect_halo1
+  rotate: false
+  xy: 288, 45
+  size: 46, 46
+  orig: 46, 46
+  offset: 0, 0
+  index: -1
+huangyueying_arml
+  rotate: true
+  xy: 78, 9
+  size: 54, 61
+  orig: 54, 61
+  offset: 0, 0
+  index: -1
+huangyueying_armr
+  rotate: false
+  xy: 263, 93
+  size: 68, 82
+  orig: 68, 82
+  offset: 0, 0
+  index: -1
+huangyueying_body1
+  rotate: true
+  xy: 2, 165
+  size: 82, 95
+  orig: 82, 95
+  offset: 0, 0
+  index: -1
+huangyueying_body2
+  rotate: false
+  xy: 160, 32
+  size: 71, 65
+  orig: 71, 66
+  offset: 0, 0
+  index: -1
+huangyueying_effect1
+  rotate: true
+  xy: 183, 99
+  size: 76, 78
+  orig: 78, 81
+  offset: 1, 1
+  index: -1
+huangyueying_effect2
+  rotate: false
+  xy: 336, 53
+  size: 30, 29
+  orig: 31, 30
+  offset: 1, 0
+  index: -1
+huangyueying_eye1
+  rotate: false
+  xy: 183, 233
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+huangyueying_eye2
+  rotate: false
+  xy: 491, 153
+  size: 16, 15
+  orig: 16, 15
+  offset: 0, 0
+  index: -1
+huangyueying_eyebrow1
+  rotate: true
+  xy: 469, 137
+  size: 21, 10
+  orig: 21, 10
+  offset: 0, 0
+  index: -1
+huangyueying_eyebrow2
+  rotate: true
+  xy: 491, 170
+  size: 26, 9
+  orig: 26, 9
+  offset: 0, 0
+  index: -1
+huangyueying_eyelid1
+  rotate: true
+  xy: 491, 198
+  size: 76, 16
+  orig: 76, 16
+  offset: 0, 0
+  index: -1
+huangyueying_eyelid2
+  rotate: true
+  xy: 338, 195
+  size: 70, 22
+  orig: 70, 22
+  offset: 0, 0
+  index: -1
+huangyueying_eyewhite
+  rotate: true
+  xy: 338, 125
+  size: 68, 20
+  orig: 68, 20
+  offset: 0, 0
+  index: -1
+huangyueying_face
+  rotate: false
+  xy: 368, 160
+  size: 121, 114
+  orig: 121, 114
+  offset: 0, 0
+  index: -1
+huangyueying_hair1
+  rotate: false
+  xy: 205, 267
+  size: 161, 148
+  orig: 161, 148
+  offset: 0, 0
+  index: -1
+huangyueying_hair2
+  rotate: false
+  xy: 2, 48
+  size: 74, 58
+  orig: 74, 58
+  offset: 0, 0
+  index: -1
+huangyueying_handr
+  rotate: true
+  xy: 469, 46
+  size: 54, 41
+  orig: 55, 42
+  offset: 0, 1
+  index: -1
+huangyueying_line1
+  rotate: true
+  xy: 2, 2
+  size: 44, 64
+  orig: 44, 64
+  offset: 0, 0
+  index: -1
+huangyueying_line2
+  rotate: false
+  xy: 2, 108
+  size: 100, 55
+  orig: 100, 55
+  offset: 0, 0
+  index: -1
+huangyueying_mask
+  rotate: true
+  xy: 104, 65
+  size: 98, 54
+  orig: 98, 54
+  offset: 0, 0
+  index: -1
+huangyueying_tail1
+  rotate: false
+  xy: 2, 249
+  size: 201, 166
+  orig: 201, 166
+  offset: 0, 0
+  index: -1
+huangyueying_tail2
+  rotate: false
+  xy: 205, 177
+  size: 131, 88
+  orig: 131, 88
+  offset: 0, 0
+  index: -1
+huangyueying_weapon1
+  rotate: true
+  xy: 481, 102
+  size: 49, 28
+  orig: 49, 28
+  offset: 0, 0
+  index: -1
+huangyueying_weapon2
+  rotate: false
+  xy: 233, 45
+  size: 53, 46
+  orig: 53, 46
+  offset: 0, 0
+  index: -1
+huangyueying_weapon3
+  rotate: true
+  xy: 360, 84
+  size: 74, 107
+  orig: 74, 107
+  offset: 0, 0
+  index: -1
+xysg_hero_effect_lightcircle
+  rotate: false
+  xy: 368, 276
+  size: 139, 139
+  orig: 139, 139
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,125 @@
+
+xiaobing3_nu.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hero_eye_cry
+  rotate: false
+  xy: 289, 201
+  size: 42, 51
+  orig: 42, 51
+  offset: 0, 0
+  index: -1
+sc3_monster1_body
+  rotate: true
+  xy: 139, 127
+  size: 125, 102
+  orig: 125, 103
+  offset: 0, 1
+  index: -1
+sc3_monster1_eye
+  rotate: false
+  xy: 190, 119
+  size: 6, 6
+  orig: 6, 6
+  offset: 0, 0
+  index: -1
+sc3_monster1_eyebrow
+  rotate: false
+  xy: 166, 109
+  size: 22, 16
+  orig: 22, 16
+  offset: 0, 0
+  index: -1
+sc3_monster1_eyewhite
+  rotate: true
+  xy: 204, 67
+  size: 25, 28
+  orig: 25, 28
+  offset: 0, 0
+  index: -1
+sc3_monster1_hair
+  rotate: false
+  xy: 243, 137
+  size: 44, 55
+  orig: 44, 55
+  offset: 0, 0
+  index: -1
+sc3_monster1_handl
+  rotate: true
+  xy: 289, 165
+  size: 34, 32
+  orig: 34, 32
+  offset: 0, 0
+  index: -1
+sc3_monster1_handr1
+  rotate: false
+  xy: 198, 6
+  size: 34, 34
+  orig: 36, 38
+  offset: 1, 4
+  index: -1
+sc3_monster1_handr2
+  rotate: false
+  xy: 204, 94
+  size: 26, 31
+  orig: 26, 35
+  offset: 0, 4
+  index: -1
+sc3_monster1_head
+  rotate: false
+  xy: 234, 14
+  size: 106, 111
+  orig: 106, 111
+  offset: 0, 0
+  index: -1
+sc3_monster1_legr
+  rotate: true
+  xy: 139, 106
+  size: 19, 25
+  orig: 19, 25
+  offset: 0, 0
+  index: -1
+sc3_monster1_nouth
+  rotate: true
+  xy: 155, 2
+  size: 38, 41
+  orig: 38, 41
+  offset: 0, 0
+  index: -1
+sc3_monster1_tail
+  rotate: true
+  xy: 152, 42
+  size: 62, 50
+  orig: 62, 54
+  offset: 0, 4
+  index: -1
+sc3_monster1_tie
+  rotate: false
+  xy: 243, 194
+  size: 44, 58
+  orig: 44, 58
+  offset: 0, 0
+  index: -1
+sc3_monster1_weapon1
+  rotate: false
+  xy: 2, 42
+  size: 148, 58
+  orig: 148, 58
+  offset: 0, 0
+  index: -1
+sc3_monster1_weapon2
+  rotate: false
+  xy: 2, 3
+  size: 151, 37
+  orig: 151, 38
+  offset: 0, 1
+  index: -1
+sc3_monster1_weapon3
+  rotate: false
+  xy: 2, 102
+  size: 135, 150
+  orig: 135, 150
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,167 @@
+
+女教师3.png
+size: 1873,475
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+L眉毛
+  rotate: false
+  xy: 1642, 2
+  size: 27, 18
+  orig: 27, 18
+  offset: 0, 0
+  index: -1
+L眼
+  rotate: false
+  xy: 1702, 273
+  size: 12, 12
+  orig: 24, 24
+  offset: 6, 8
+  index: -1
+R眉毛
+  rotate: false
+  xy: 1361, 44
+  size: 49, 16
+  orig: 50, 16
+  offset: 1, 0
+  index: -1
+R眼
+  rotate: true
+  xy: 1702, 409
+  size: 15, 14
+  orig: 24, 24
+  offset: 4, 7
+  index: -1
+亲嘴
+  rotate: false
+  xy: 1721, 35
+  size: 80, 88
+  orig: 80, 88
+  offset: 0, 0
+  index: -1
+侧后发
+  rotate: true
+  xy: 1216, 7
+  size: 53, 143
+  orig: 62, 176
+  offset: 9, 0
+  index: -1
+刘海
+  rotate: false
+  xy: 1770, 125
+  size: 90, 81
+  orig: 90, 81
+  offset: 0, 0
+  index: -1
+后发
+  rotate: true
+  xy: 1770, 208
+  size: 77, 101
+  orig: 79, 103
+  offset: 2, 1
+  index: -1
+嘴巴
+  rotate: true
+  xy: 1841, 84
+  size: 39, 30
+  orig: 39, 30
+  offset: 0, 0
+  index: -1
+头
+  rotate: false
+  xy: 1563, 242
+  size: 137, 182
+  orig: 147, 182
+  offset: 8, 0
+  index: -1
+头发1
+  rotate: false
+  xy: 1542, 12
+  size: 98, 195
+  orig: 98, 195
+  offset: 0, 0
+  index: -1
+头发2
+  rotate: false
+  xy: 1803, 42
+  size: 36, 81
+  orig: 37, 98
+  offset: 1, 12
+  index: -1
+小臂右
+  rotate: false
+  xy: 1416, 209
+  size: 145, 215
+  orig: 145, 215
+  offset: 0, 0
+  index: -1
+小臂右2
+  rotate: true
+  xy: 1216, 62
+  size: 145, 215
+  orig: 145, 215
+  offset: 0, 0
+  index: -1
+小臂左
+  rotate: false
+  xy: 1216, 209
+  size: 198, 215
+  orig: 198, 215
+  offset: 0, 0
+  index: -1
+手掌
+  rotate: true
+  xy: 1718, 373
+  size: 100, 138
+  orig: 107, 138
+  offset: 0, 0
+  index: -1
+手臂右
+  rotate: false
+  xy: 1433, 7
+  size: 107, 200
+  orig: 107, 200
+  offset: 0, 0
+  index: -1
+手臂左
+  rotate: false
+  xy: 1642, 22
+  size: 77, 218
+  orig: 77, 218
+  offset: 0, 0
+  index: -1
+眼白
+  rotate: false
+  xy: 1563, 218
+  size: 72, 22
+  orig: 74, 23
+  offset: 1, 1
+  index: -1
+眼镜
+  rotate: true
+  xy: 1721, 148
+  size: 137, 47
+  orig: 138, 49
+  offset: 0, 1
+  index: -1
+耳朵
+  rotate: false
+  xy: 1702, 287
+  size: 135, 84
+  orig: 135, 84
+  offset: 0, 0
+  index: -1
+身体
+  rotate: true
+  xy: 2, 11
+  size: 462, 1212
+  orig: 462, 1212
+  offset: 0, 0
+  index: -1
+鞭子
+  rotate: false
+  xy: 1216, 426
+  size: 500, 47
+  orig: 500, 47
+  offset: 0, 0
+  index: -1

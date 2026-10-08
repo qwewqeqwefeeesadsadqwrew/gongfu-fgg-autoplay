@@ -1,0 +1,48 @@
+
+初始店主1.png
+size: 276,276
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+阴影
+  rotate: true
+  xy: 2, 31
+  size: 79, 32
+  orig: 81, 34
+  offset: 1, 1
+  index: -1
+阿鬼_头
+  rotate: false
+  xy: 2, 196
+  size: 72, 78
+  orig: 74, 80
+  offset: 1, 1
+  index: -1
+阿鬼_头嘴巴
+  rotate: false
+  xy: 36, 36
+  size: 30, 12
+  orig: 30, 12
+  offset: 0, 0
+  index: -1
+阿鬼_手臂
+  rotate: true
+  xy: 2, 2
+  size: 27, 65
+  orig: 27, 66
+  offset: 0, 1
+  index: -1
+阿鬼_腿
+  rotate: false
+  xy: 36, 50
+  size: 34, 60
+  orig: 34, 61
+  offset: 0, 1
+  index: -1
+阿鬼_身体
+  rotate: false
+  xy: 2, 112
+  size: 56, 82
+  orig: 56, 84
+  offset: 0, 1
+  index: -1

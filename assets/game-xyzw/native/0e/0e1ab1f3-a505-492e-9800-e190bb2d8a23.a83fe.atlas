@@ -1,0 +1,202 @@
+
+lvbu.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hero_effect_box2
+  rotate: false
+  xy: 413, 428
+  size: 82, 82
+  orig: 82, 82
+  offset: 0, 0
+  index: -1
+hero_effect_halo1
+  rotate: false
+  xy: 414, 384
+  size: 42, 42
+  orig: 46, 46
+  offset: 2, 2
+  index: -1
+hero_eye_cry
+  rotate: true
+  xy: 317, 367
+  size: 42, 51
+  orig: 42, 51
+  offset: 0, 0
+  index: -1
+lvbu_body
+  rotate: false
+  xy: 2, 8
+  size: 174, 122
+  orig: 174, 122
+  offset: 0, 0
+  index: -1
+lvbu_effect1
+  rotate: false
+  xy: 331, 138
+  size: 12, 13
+  orig: 12, 13
+  offset: 0, 0
+  index: -1
+lvbu_effect2
+  rotate: false
+  xy: 400, 314
+  size: 51, 50
+  orig: 51, 50
+  offset: 0, 0
+  index: -1
+lvbu_eye
+  rotate: false
+  xy: 345, 141
+  size: 9, 10
+  orig: 12, 10
+  offset: 0, 0
+  index: -1
+lvbu_eyebrow
+  rotate: true
+  xy: 409, 227
+  size: 41, 29
+  orig: 41, 29
+  offset: 0, 0
+  index: -1
+lvbu_eyewhite
+  rotate: true
+  xy: 453, 347
+  size: 35, 38
+  orig: 35, 38
+  offset: 0, 0
+  index: -1
+lvbu_feather1
+  rotate: true
+  xy: 178, 7
+  size: 123, 156
+  orig: 123, 156
+  offset: 0, 0
+  index: -1
+lvbu_feather2
+  rotate: true
+  xy: 336, 27
+  size: 109, 166
+  orig: 109, 166
+  offset: 0, 0
+  index: -1
+lvbu_hair
+  rotate: true
+  xy: 153, 364
+  size: 146, 162
+  orig: 154, 162
+  offset: 0, 0
+  index: -1
+lvbu_handl
+  rotate: false
+  xy: 400, 270
+  size: 40, 42
+  orig: 40, 42
+  offset: 0, 0
+  index: -1
+lvbu_handr1
+  rotate: false
+  xy: 370, 366
+  size: 42, 43
+  orig: 42, 44
+  offset: 0, 1
+  index: -1
+lvbu_handr2
+  rotate: false
+  xy: 458, 388
+  size: 33, 38
+  orig: 33, 41
+  offset: 0, 3
+  index: -1
+lvbu_horse1
+  rotate: true
+  xy: 336, 3
+  size: 22, 40
+  orig: 22, 40
+  offset: 0, 0
+  index: -1
+lvbu_horse3
+  rotate: true
+  xy: 378, 5
+  size: 20, 43
+  orig: 20, 43
+  offset: 0, 0
+  index: -1
+lvbu_horse4
+  rotate: false
+  xy: 153, 132
+  size: 128, 89
+  orig: 128, 90
+  offset: 0, 0
+  index: -1
+lvbu_horse5
+  rotate: false
+  xy: 283, 135
+  size: 46, 16
+  orig: 46, 16
+  offset: 0, 0
+  index: -1
+lvbu_legr
+  rotate: true
+  xy: 423, 2
+  size: 23, 31
+  orig: 23, 31
+  offset: 0, 0
+  index: -1
+lvbu_mouth
+  rotate: true
+  xy: 283, 153
+  size: 68, 138
+  orig: 68, 138
+  offset: 0, 0
+  index: -1
+lvbu_rope
+  rotate: false
+  xy: 294, 228
+  size: 113, 24
+  orig: 114, 26
+  offset: 0, 0
+  index: -1
+lvbu_shoulderl
+  rotate: true
+  xy: 317, 411
+  size: 99, 94
+  orig: 99, 94
+  offset: 0, 0
+  index: -1
+lvbu_tail
+  rotate: true
+  xy: 442, 160
+  size: 152, 57
+  orig: 152, 57
+  offset: 0, 0
+  index: -1
+lvbu_weapon
+  rotate: false
+  xy: 2, 132
+  size: 149, 378
+  orig: 149, 378
+  offset: 0, 0
+  index: -1
+xysg_hero_effect_box
+  rotate: false
+  xy: 453, 319
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+xysg_hero_effect_lightcircle
+  rotate: false
+  xy: 153, 223
+  size: 139, 139
+  orig: 139, 139
+  offset: 0, 0
+  index: -1
+xysg_hero_effect_swordlight2
+  rotate: true
+  xy: 294, 254
+  size: 108, 104
+  orig: 108, 104
+  offset: 0, 0
+  index: -1

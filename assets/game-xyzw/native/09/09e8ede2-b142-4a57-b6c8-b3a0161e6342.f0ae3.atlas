@@ -1,0 +1,27 @@
+
+bj_tx.png
+size: 1401,1401
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bj
+  rotate: false
+  xy: 2, 415
+  size: 585, 984
+  orig: 598, 998
+  offset: 6, 7
+  index: -1
+bj-bg
+  rotate: false
+  xy: 589, 825
+  size: 810, 574
+  orig: 810, 574
+  offset: 0, 0
+  index: -1
+bj-zz
+  rotate: false
+  xy: 589, 261
+  size: 808, 562
+  orig: 808, 562
+  offset: 0, 0
+  index: -1

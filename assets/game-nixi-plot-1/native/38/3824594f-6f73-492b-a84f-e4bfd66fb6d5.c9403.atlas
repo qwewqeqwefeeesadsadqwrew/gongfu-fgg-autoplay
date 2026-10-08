@@ -1,0 +1,202 @@
+
+ch4dongwu.png
+size: 1816,1816
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+black
+  rotate: true
+  xy: 987, 1097
+  size: 65, 151
+  orig: 65, 151
+  offset: 0, 0
+  index: -1
+jjr1
+  rotate: false
+  xy: 2, 1029
+  size: 398, 785
+  orig: 398, 785
+  offset: 0, 0
+  index: -1
+jjr2
+  rotate: false
+  xy: 402, 1048
+  size: 169, 114
+  orig: 169, 114
+  offset: 0, 0
+  index: -1
+pig
+  rotate: true
+  xy: 828, 2
+  size: 510, 434
+  orig: 510, 434
+  offset: 0, 0
+  index: -1
+rbg
+  rotate: false
+  xy: 806, 514
+  size: 324, 556
+  orig: 324, 556
+  offset: 0, 0
+  index: -1
+r上臂1
+  rotate: false
+  xy: 720, 44
+  size: 106, 275
+  orig: 106, 275
+  offset: 0, 0
+  index: -1
+r上臂2
+  rotate: false
+  xy: 2, 4
+  size: 125, 311
+  orig: 125, 311
+  offset: 0, 0
+  index: -1
+r举手-前
+  rotate: false
+  xy: 205, 317
+  size: 160, 710
+  orig: 160, 710
+  offset: 0, 0
+  index: -1
+r举手-后
+  rotate: false
+  xy: 2, 317
+  size: 201, 710
+  orig: 201, 710
+  offset: 0, 0
+  index: -1
+r女人身体
+  rotate: true
+  xy: 129, 5
+  size: 310, 589
+  orig: 310, 589
+  offset: 0, 0
+  index: -1
+r对话框2
+  rotate: true
+  xy: 367, 321
+  size: 706, 437
+  orig: 706, 437
+  offset: 0, 0
+  index: -1
+r小臂1
+  rotate: false
+  xy: 1132, 523
+  size: 372, 145
+  orig: 372, 145
+  offset: 0, 0
+  index: -1
+r小臂2
+  rotate: true
+  xy: 1345, 677
+  size: 383, 224
+  orig: 383, 224
+  offset: 0, 0
+  index: -1
+r提示
+  rotate: false
+  xy: 573, 1054
+  size: 95, 108
+  orig: 104, 119
+  offset: 5, 5
+  index: -1
+r鹅1
+  rotate: false
+  xy: 1048, 1632
+  size: 214, 182
+  orig: 214, 182
+  offset: 0, 0
+  index: -1
+r鹅2
+  rotate: false
+  xy: 1048, 1184
+  size: 212, 182
+  orig: 212, 182
+  offset: 0, 0
+  index: -1
+r黑云
+  rotate: true
+  xy: 402, 1164
+  size: 650, 644
+  orig: 650, 644
+  offset: 0, 0
+  index: -1
+仍动物小弟1
+  rotate: false
+  xy: 1132, 670
+  size: 211, 390
+  orig: 211, 390
+  offset: 0, 0
+  index: -1
+哗
+  rotate: false
+  xy: 850, 1087
+  size: 135, 75
+  orig: 135, 75
+  offset: 0, 0
+  index: -1
+啪-白色
+  rotate: true
+  xy: 762, 1072
+  size: 90, 86
+  orig: 90, 86
+  offset: 0, 0
+  index: -1
+打击
+  rotate: false
+  xy: 1506, 415
+  size: 266, 260
+  orig: 266, 260
+  offset: 0, 0
+  index: -1
+母鸡飞踢
+  rotate: false
+  xy: 1264, 1062
+  size: 499, 415
+  orig: 499, 415
+  offset: 0, 0
+  index: -1
+碰1
+  rotate: false
+  xy: 670, 1067
+  size: 90, 95
+  orig: 90, 95
+  offset: 0, 0
+  index: -1
+腿
+  rotate: false
+  xy: 1571, 681
+  size: 216, 379
+  orig: 216, 379
+  offset: 0, 0
+  index: -1
+表情-丢鸡
+  rotate: true
+  xy: 1264, 366
+  size: 155, 176
+  orig: 155, 176
+  offset: 0, 0
+  index: -1
+速度线
+  rotate: true
+  xy: 1048, 1368
+  size: 262, 213
+  orig: 262, 213
+  offset: 0, 0
+  index: -1
+鹅1
+  rotate: false
+  xy: 1264, 20
+  size: 262, 344
+  orig: 262, 344
+  offset: 0, 0
+  index: -1
+鹅2
+  rotate: false
+  xy: 1264, 1479
+  size: 528, 335
+  orig: 528, 335
+  offset: 0, 0
+  index: -1

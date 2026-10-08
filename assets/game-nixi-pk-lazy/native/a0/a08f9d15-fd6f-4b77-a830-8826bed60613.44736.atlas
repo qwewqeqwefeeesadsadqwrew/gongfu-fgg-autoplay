@@ -1,0 +1,90 @@
+
+火云邪神.png
+size: 941,861
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+动作2-手
+  rotate: true
+  xy: 486, 260
+  size: 129, 108
+  orig: 129, 108
+  offset: 0, 0
+  index: -1
+动作2-身体
+  rotate: true
+  xy: 2, 391
+  size: 468, 706
+  orig: 468, 706
+  offset: 0, 0
+  index: -1
+动作4-右手
+  rotate: true
+  xy: 592, 55
+  size: 94, 257
+  orig: 94, 259
+  offset: 0, 0
+  index: -1
+动作4-左手
+  rotate: true
+  xy: 486, 7
+  size: 141, 101
+  orig: 141, 101
+  offset: 0, 0
+  index: -1
+动作4-左臂
+  rotate: true
+  xy: 698, 165
+  size: 89, 185
+  orig: 89, 185
+  offset: 0, 0
+  index: -1
+动作4-身体
+  rotate: false
+  xy: 710, 256
+  size: 229, 603
+  orig: 229, 603
+  offset: 0, 0
+  index: -1
+动作5
+  rotate: false
+  xy: 2, 2
+  size: 482, 387
+  orig: 513, 393
+  offset: 30, 0
+  index: -1
+打击
+  rotate: false
+  xy: 596, 299
+  size: 86, 90
+  orig: 95, 95
+  offset: 4, 3
+  index: -1
+移动烟雾
+  rotate: true
+  xy: 851, 106
+  size: 57, 27
+  orig: 67, 30
+  offset: 5, 2
+  index: -1
+表情1
+  rotate: false
+  xy: 486, 150
+  size: 104, 108
+  orig: 111, 110
+  offset: 7, 2
+  index: -1
+表情3
+  rotate: false
+  xy: 592, 151
+  size: 104, 107
+  orig: 118, 110
+  offset: 10, 1
+  index: -1
+阴影
+  rotate: false
+  xy: 596, 265
+  size: 76, 32
+  orig: 76, 32
+  offset: 0, 0
+  index: -1

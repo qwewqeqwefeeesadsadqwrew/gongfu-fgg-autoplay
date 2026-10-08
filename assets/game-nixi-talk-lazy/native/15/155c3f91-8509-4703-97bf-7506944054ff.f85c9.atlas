@@ -1,0 +1,62 @@
+
+拥抱特写.png
+size: 2998,564
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sdbg
+  rotate: true
+  xy: 1765, 5
+  size: 253, 589
+  orig: 253, 589
+  offset: 0, 0
+  index: -1
+sd光晕
+  rotate: true
+  xy: 2356, 5
+  size: 253, 589
+  orig: 253, 589
+  offset: 0, 0
+  index: -1
+sd女主
+  rotate: true
+  xy: 2, 10
+  size: 552, 785
+  orig: 552, 785
+  offset: 0, 0
+  index: -1
+sd投影
+  rotate: true
+  xy: 1546, 260
+  size: 302, 816
+  orig: 323, 827
+  offset: 2, 0
+  index: -1
+sd男-拿铲子的手臂
+  rotate: false
+  xy: 789, 12
+  size: 755, 550
+  orig: 755, 550
+  offset: 0, 0
+  index: -1
+sd男-挠头手臂
+  rotate: true
+  xy: 1546, 2
+  size: 256, 217
+  orig: 258, 218
+  offset: 1, 1
+  index: -1
+sd男主
+  rotate: true
+  xy: 2364, 280
+  size: 282, 632
+  orig: 282, 632
+  offset: 0, 0
+  index: -1
+爱心
+  rotate: false
+  xy: 2947, 235
+  size: 43, 43
+  orig: 49, 43
+  offset: 3, 0
+  index: -1

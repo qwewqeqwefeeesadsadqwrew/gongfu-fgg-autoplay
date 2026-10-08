@@ -1,0 +1,20 @@
+
+niumo.png
+size: 1218,1218
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+niumo
+  rotate: false
+  xy: 414, 580
+  size: 802, 636
+  orig: 802, 753
+  offset: 0, 117
+  index: -1
+quanquan
+  rotate: false
+  xy: 2, 806
+  size: 410, 410
+  orig: 410, 410
+  offset: 0, 0
+  index: -1

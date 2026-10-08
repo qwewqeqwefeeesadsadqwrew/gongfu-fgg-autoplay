@@ -1,0 +1,13 @@
+
+gongsunzan_attack_loop.png
+size: 128,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gongsunzan_arrow
+  rotate: false
+  xy: 2, 2
+  size: 79, 53
+  orig: 79, 53
+  offset: 0, 0
+  index: -1

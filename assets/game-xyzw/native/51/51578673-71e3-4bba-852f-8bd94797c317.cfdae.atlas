@@ -1,0 +1,146 @@
+
+zhouyu.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hero_effect_box2
+  rotate: false
+  xy: 63, 260
+  size: 82, 82
+  orig: 82, 82
+  offset: 0, 0
+  index: -1
+hero_eye_cry
+  rotate: false
+  xy: 210, 295
+  size: 42, 51
+  orig: 42, 51
+  offset: 0, 0
+  index: -1
+xysg_hero_effect_box
+  rotate: false
+  xy: 162, 345
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+xysg_hero_effect_die3
+  rotate: false
+  xy: 254, 325
+  size: 46, 46
+  orig: 46, 46
+  offset: 0, 0
+  index: -1
+xysg_hero_effect_swordlight2
+  rotate: true
+  xy: 205, 164
+  size: 108, 104
+  orig: 108, 104
+  offset: 0, 0
+  index: -1
+zhouyu_body
+  rotate: true
+  xy: 162, 373
+  size: 137, 111
+  orig: 137, 111
+  offset: 0, 0
+  index: -1
+zhouyu_eye
+  rotate: false
+  xy: 80, 102
+  size: 8, 9
+  orig: 8, 12
+  offset: 0, 0
+  index: -1
+zhouyu_eyebrow
+  rotate: false
+  xy: 235, 132
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+zhouyu_eyewhite
+  rotate: false
+  xy: 205, 112
+  size: 28, 50
+  orig: 28, 50
+  offset: 0, 0
+  index: -1
+zhouyu_flute
+  rotate: false
+  xy: 2, 258
+  size: 59, 252
+  orig: 59, 252
+  offset: 0, 0
+  index: -1
+zhouyu_hair1
+  rotate: true
+  xy: 66, 3
+  size: 84, 150
+  orig: 84, 150
+  offset: 0, 0
+  index: -1
+zhouyu_hair2
+  rotate: false
+  xy: 63, 344
+  size: 97, 166
+  orig: 97, 166
+  offset: 0, 0
+  index: -1
+zhouyu_handl
+  rotate: false
+  xy: 298, 281
+  size: 39, 42
+  orig: 39, 42
+  offset: 0, 0
+  index: -1
+zhouyu_handr1
+  rotate: true
+  xy: 254, 280
+  size: 43, 42
+  orig: 43, 42
+  offset: 0, 0
+  index: -1
+zhouyu_handr2
+  rotate: false
+  xy: 218, 72
+  size: 33, 38
+  orig: 33, 38
+  offset: 0, 0
+  index: -1
+zhouyu_head
+  rotate: false
+  xy: 80, 113
+  size: 123, 145
+  orig: 135, 145
+  offset: 0, 0
+  index: -1
+zhouyu_legr
+  rotate: true
+  xy: 190, 348
+  size: 23, 31
+  orig: 23, 31
+  offset: 0, 0
+  index: -1
+zhouyu_mouth
+  rotate: false
+  xy: 2, 2
+  size: 62, 85
+  orig: 62, 85
+  offset: 0, 0
+  index: -1
+zhouyu_shoulderl
+  rotate: true
+  xy: 147, 274
+  size: 68, 61
+  orig: 68, 61
+  offset: 0, 0
+  index: -1
+zhouyu_tail
+  rotate: true
+  xy: 2, 89
+  size: 167, 76
+  orig: 167, 76
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,216 @@
+
+ch6_2.png
+size: 1599,1599
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+6
+  rotate: true
+  xy: 908, 340
+  size: 158, 53
+  orig: 158, 53
+  offset: 0, 0
+  index: -1
+bg3
+  rotate: false
+  xy: 2, 85
+  size: 648, 1512
+  orig: 648, 1512
+  offset: 0, 0
+  index: -1
+仙帝表情/L手-抱礼物
+  rotate: false
+  xy: 1084, 1146
+  size: 187, 158
+  orig: 187, 158
+  offset: 0, 0
+  index: -1
+仙帝表情/头
+  rotate: false
+  xy: 1275, 1100
+  size: 320, 311
+  orig: 320, 311
+  offset: 0, 0
+  index: -1
+仙帝表情/表情1
+  rotate: false
+  xy: 705, 9
+  size: 320, 311
+  orig: 320, 311
+  offset: 0, 0
+  index: -1
+仙帝表情/表情1-2
+  rotate: false
+  xy: 652, 1567
+  size: 51, 30
+  orig: 320, 311
+  offset: 149, 62
+  index: -1
+仙帝表情/表情3
+  rotate: false
+  xy: 1027, 9
+  size: 320, 311
+  orig: 320, 311
+  offset: 0, 0
+  index: -1
+仙帝表情/表情3-2
+  rotate: true
+  xy: 57, 18
+  size: 65, 45
+  orig: 320, 311
+  offset: 146, 53
+  index: -1
+仙帝表情/身体
+  rotate: true
+  xy: 705, 1306
+  size: 120, 568
+  orig: 120, 568
+  offset: 0, 0
+  index: -1
+光圈
+  rotate: false
+  xy: 1046, 924
+  size: 221, 220
+  orig: 230, 230
+  offset: 5, 4
+  index: -1
+桌子 - 副本
+  rotate: true
+  xy: 1318, 1413
+  size: 184, 271
+  orig: 184, 271
+  offset: 0, 0
+  index: -1
+气泡/对话框1
+  rotate: false
+  xy: 652, 371
+  size: 254, 185
+  orig: 254, 185
+  offset: 0, 0
+  index: -1
+点击获得
+  rotate: true
+  xy: 1349, 189
+  size: 131, 161
+  orig: 133, 162
+  offset: 1, 0
+  index: -1
+男主/头
+  rotate: true
+  xy: 705, 886
+  size: 326, 339
+  orig: 326, 339
+  offset: 0, 0
+  index: -1
+男主/男主-L手
+  rotate: true
+  xy: 104, 20
+  size: 63, 259
+  orig: 63, 259
+  offset: 0, 0
+  index: -1
+男主/男主-R手
+  rotate: true
+  xy: 459, 26
+  size: 57, 244
+  orig: 57, 244
+  offset: 0, 0
+  index: -1
+男主/男主-腿
+  rotate: true
+  xy: 1266, 663
+  size: 94, 331
+  orig: 94, 331
+  offset: 0, 0
+  index: -1
+男主/男主-身体
+  rotate: true
+  xy: 705, 1214
+  size: 90, 377
+  orig: 90, 377
+  offset: 0, 0
+  index: -1
+男主/男主-身体walk
+  rotate: true
+  xy: 705, 1428
+  size: 169, 611
+  orig: 169, 621
+  offset: 0, 10
+  index: -1
+男主/表情13
+  rotate: false
+  xy: 1269, 759
+  size: 326, 339
+  orig: 326, 339
+  offset: 0, 0
+  index: -1
+男主/表情19-疑惑（包租婆敲门）
+  rotate: true
+  xy: 705, 558
+  size: 326, 339
+  orig: 326, 339
+  offset: 0, 0
+  index: -1
+男主/表情21
+  rotate: true
+  xy: 1046, 596
+  size: 326, 218
+  orig: 326, 339
+  offset: 0, 121
+  index: -1
+男主/表情24
+  rotate: false
+  xy: 1266, 322
+  size: 326, 339
+  orig: 326, 339
+  offset: 0, 0
+  index: -1
+男主/说话嘴2
+  rotate: true
+  xy: 365, 21
+  size: 62, 45
+  orig: 62, 45
+  offset: 0, 0
+  index: -1
+男主/说话嘴巴2
+  rotate: false
+  xy: 459, 3
+  size: 39, 21
+  orig: 39, 21
+  offset: 0, 0
+  index: -1
+表现素材/感叹号
+  rotate: true
+  xy: 908, 500
+  size: 56, 85
+  orig: 56, 85
+  offset: 0, 0
+  index: -1
+表现素材/提示
+  rotate: true
+  xy: 1027, 350
+  size: 206, 237
+  orig: 206, 237
+  offset: 0, 0
+  index: -1
+表现素材/问号
+  rotate: false
+  xy: 2, 13
+  size: 53, 70
+  orig: 53, 70
+  offset: 0, 0
+  index: -1
+表现素材/黑色转场
+  rotate: false
+  xy: 412, 23
+  size: 45, 60
+  orig: 45, 60
+  offset: 0, 0
+  index: -1
+阴影
+  rotate: true
+  xy: 652, 1475
+  size: 90, 45
+  orig: 90, 45
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,146 @@
+
+boss_world2.png
+size: 2681,2681
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+A_glow
+  rotate: false
+  xy: 2, 2
+  size: 47, 47
+  orig: 58, 58
+  offset: 6, 5
+  index: -1
+A_line_yellow 02
+  rotate: true
+  xy: 2520, 1404
+  size: 105, 115
+  orig: 115, 115
+  offset: 1, 0
+  index: -1
+bg
+  rotate: true
+  xy: 1909, 723
+  size: 324, 756
+  orig: 324, 756
+  offset: 0, 0
+  index: -1
+bg_qianj
+  rotate: true
+  xy: 1222, 1152
+  size: 648, 706
+  orig: 648, 714
+  offset: 0, 0
+  index: -1
+bgc
+  rotate: false
+  xy: 1606, 198
+  size: 216, 504
+  orig: 216, 504
+  offset: 0, 0
+  index: -1
+bighandL
+  rotate: true
+  xy: 1930, 1049
+  size: 460, 588
+  orig: 460, 591
+  offset: 0, 2
+  index: -1
+bighandR
+  rotate: false
+  xy: 1606, 704
+  size: 301, 446
+  orig: 301, 446
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 1127
+  size: 1218, 1552
+  orig: 1218, 1552
+  offset: 0, 0
+  index: -1
+handR
+  rotate: true
+  xy: 1606, 31
+  size: 165, 256
+  orig: 165, 256
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 1222, 2445
+  size: 234, 354
+  orig: 248, 358
+  offset: 9, 4
+  index: -1
+liehen
+  rotate: false
+  xy: 1864, 94
+  size: 257, 259
+  orig: 287, 285
+  offset: 13, 14
+  index: -1
+liehen2
+  rotate: false
+  xy: 2123, 99
+  size: 249, 254
+  orig: 249, 254
+  offset: 0, 0
+  index: -1
+littlehandL
+  rotate: true
+  xy: 1222, 1802
+  size: 641, 350
+  orig: 644, 350
+  offset: 0, 0
+  index: -1
+piaodaiL
+  rotate: false
+  xy: 904, 57
+  size: 700, 1068
+  orig: 707, 1085
+  offset: 0, 0
+  index: -1
+piaodaiR
+  rotate: true
+  xy: 1824, 355
+  size: 347, 834
+  orig: 347, 834
+  offset: 0, 0
+  index: -1
+piaodaiR2
+  rotate: true
+  xy: 1574, 1816
+  size: 264, 416
+  orig: 271, 416
+  offset: 7, 0
+  index: -1
+piaodaibei
+  rotate: false
+  xy: 1606, 2082
+  size: 977, 597
+  orig: 979, 606
+  offset: 0, 9
+  index: -1
+pipa
+  rotate: true
+  xy: 2, 51
+  size: 1074, 900
+  orig: 1075, 912
+  offset: 0, 6
+  index: -1
+sdaw
+  rotate: true
+  xy: 2374, 128
+  size: 225, 232
+  orig: 225, 232
+  offset: 0, 0
+  index: -1
+xuan
+  rotate: false
+  xy: 1992, 1511
+  size: 681, 569
+  orig: 681, 569
+  offset: 0, 0
+  index: -1

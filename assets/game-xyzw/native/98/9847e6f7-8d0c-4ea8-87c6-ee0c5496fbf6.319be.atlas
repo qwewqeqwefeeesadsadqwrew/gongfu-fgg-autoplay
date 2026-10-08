@@ -1,0 +1,13 @@
+
+taishici_attack_loop.png
+size: 32,32
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+xysg_hero_effect_box
+  rotate: false
+  xy: 2, 2
+  size: 26, 17
+  orig: 26, 26
+  offset: 0, 4
+  index: -1

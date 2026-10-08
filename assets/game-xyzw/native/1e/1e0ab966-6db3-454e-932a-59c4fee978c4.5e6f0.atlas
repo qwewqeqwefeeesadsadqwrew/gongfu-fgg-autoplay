@@ -1,0 +1,27 @@
+
+chengpu_skill_loop.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chengpu_skill1
+  rotate: true
+  xy: 143, 30
+  size: 68, 37
+  orig: 70, 39
+  offset: 1, 1
+  index: -1
+chengpu_skill2
+  rotate: false
+  xy: 2, 11
+  size: 139, 87
+  orig: 140, 87
+  offset: 0, 0
+  index: -1
+chengpu_weapon1
+  rotate: false
+  xy: 143, 2
+  size: 34, 26
+  orig: 34, 26
+  offset: 0, 0
+  index: -1

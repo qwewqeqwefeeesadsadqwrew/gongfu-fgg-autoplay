@@ -1,0 +1,244 @@
+
+sunjian.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hero_effect_box2
+  rotate: false
+  xy: 423, 107
+  size: 77, 77
+  orig: 77, 77
+  offset: 0, 0
+  index: -1
+hero_effect_halo1
+  rotate: false
+  xy: 284, 48
+  size: 40, 40
+  orig: 44, 44
+  offset: 2, 2
+  index: -1
+hero_eye_cry
+  rotate: false
+  xy: 286, 95
+  size: 39, 48
+  orig: 39, 48
+  offset: 0, 0
+  index: -1
+sunjian_body
+  rotate: false
+  xy: 2, 43
+  size: 185, 147
+  orig: 185, 147
+  offset: 0, 0
+  index: -1
+sunjian_bread
+  rotate: false
+  xy: 189, 90
+  size: 95, 97
+  orig: 95, 97
+  offset: 0, 0
+  index: -1
+sunjian_effect1
+  rotate: true
+  xy: 286, 145
+  size: 42, 41
+  orig: 44, 43
+  offset: 1, 1
+  index: -1
+sunjian_effect2
+  rotate: false
+  xy: 391, 381
+  size: 25, 25
+  orig: 28, 28
+  offset: 2, 2
+  index: -1
+sunjian_effect3
+  rotate: true
+  xy: 124, 211
+  size: 48, 41
+  orig: 48, 41
+  offset: 0, 0
+  index: -1
+sunjian_effect4
+  rotate: true
+  xy: 353, 338
+  size: 41, 48
+  orig: 41, 48
+  offset: 0, 0
+  index: -1
+sunjian_effect5
+  rotate: true
+  xy: 124, 261
+  size: 48, 46
+  orig: 48, 46
+  offset: 0, 0
+  index: -1
+sunjian_effect6
+  rotate: true
+  xy: 454, 286
+  size: 48, 38
+  orig: 48, 38
+  offset: 0, 0
+  index: -1
+sunjian_eye
+  rotate: true
+  xy: 143, 204
+  size: 5, 6
+  orig: 5, 6
+  offset: 0, 0
+  index: -1
+sunjian_eyebrow
+  rotate: false
+  xy: 454, 215
+  size: 41, 26
+  orig: 41, 26
+  offset: 0, 0
+  index: -1
+sunjian_eyewhite
+  rotate: true
+  xy: 110, 13
+  size: 28, 29
+  orig: 28, 29
+  offset: 0, 0
+  index: -1
+sunjian_hair
+  rotate: false
+  xy: 423, 4
+  size: 75, 101
+  orig: 75, 101
+  offset: 0, 0
+  index: -1
+sunjian_handl1
+  rotate: true
+  xy: 284, 6
+  size: 40, 39
+  orig: 41, 42
+  offset: 0, 3
+  index: -1
+sunjian_handl2
+  rotate: true
+  xy: 72, 10
+  size: 31, 36
+  orig: 32, 39
+  offset: 0, 3
+  index: -1
+sunjian_handr
+  rotate: false
+  xy: 454, 243
+  size: 36, 41
+  orig: 36, 41
+  offset: 0, 0
+  index: -1
+sunjian_head
+  rotate: false
+  xy: 346, 186
+  size: 106, 131
+  orig: 106, 131
+  offset: 0, 0
+  index: -1
+sunjian_jaw
+  rotate: true
+  xy: 326, 4
+  size: 74, 87
+  orig: 74, 87
+  offset: 0, 0
+  index: -1
+sunjian_legr
+  rotate: true
+  xy: 268, 313
+  size: 22, 29
+  orig: 22, 29
+  offset: 0, 0
+  index: -1
+sunjian_mouth
+  rotate: true
+  xy: 2, 11
+  size: 30, 68
+  orig: 30, 68
+  offset: 0, 0
+  index: -1
+sunjian_shoulderl
+  rotate: false
+  xy: 189, 2
+  size: 93, 86
+  orig: 93, 86
+  offset: 0, 0
+  index: -1
+sunjian_shoulderr
+  rotate: true
+  xy: 329, 80
+  size: 104, 92
+  orig: 104, 92
+  offset: 0, 0
+  index: -1
+sunjian_skill1
+  rotate: false
+  xy: 257, 381
+  size: 132, 128
+  orig: 132, 128
+  offset: 0, 0
+  index: -1
+sunjian_skill2
+  rotate: false
+  xy: 189, 189
+  size: 155, 120
+  orig: 170, 122
+  offset: 14, 1
+  index: -1
+sunjian_skill3
+  rotate: false
+  xy: 124, 311
+  size: 142, 65
+  orig: 147, 67
+  offset: 2, 1
+  index: -1
+sunjian_skill4
+  rotate: true
+  xy: 418, 336
+  size: 70, 89
+  orig: 70, 89
+  offset: 0, 0
+  index: -1
+sunjian_skill5
+  rotate: false
+  xy: 299, 319
+  size: 79, 16
+  orig: 83, 16
+  offset: 3, 0
+  index: -1
+sunjian_tail
+  rotate: false
+  xy: 268, 337
+  size: 83, 42
+  orig: 83, 42
+  offset: 0, 0
+  index: -1
+sunjian_teeth
+  rotate: false
+  xy: 124, 192
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+sunjian_weapon
+  rotate: false
+  xy: 2, 192
+  size: 120, 317
+  orig: 120, 317
+  offset: 0, 0
+  index: -1
+xysg_hero_effect_lightcircle
+  rotate: false
+  xy: 124, 378
+  size: 131, 131
+  orig: 131, 131
+  offset: 0, 0
+  index: -1
+xysg_hero_effect_swordlight2
+  rotate: true
+  xy: 391, 408
+  size: 101, 98
+  orig: 101, 98
+  offset: 0, 0
+  index: -1

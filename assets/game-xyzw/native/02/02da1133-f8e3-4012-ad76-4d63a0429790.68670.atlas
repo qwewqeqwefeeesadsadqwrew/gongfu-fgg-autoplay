@@ -1,0 +1,146 @@
+
+zhoutai.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hero_effect_box2
+  rotate: false
+  xy: 132, 21
+  size: 82, 82
+  orig: 82, 82
+  offset: 0, 0
+  index: -1
+hero_effect_box3
+  rotate: false
+  xy: 216, 21
+  size: 82, 82
+  orig: 82, 82
+  offset: 0, 0
+  index: -1
+hero_effect_halfcircle1
+  rotate: false
+  xy: 187, 256
+  size: 86, 40
+  orig: 86, 40
+  offset: 0, 0
+  index: -1
+hero_eye_cry
+  rotate: false
+  xy: 300, 55
+  size: 42, 51
+  orig: 42, 51
+  offset: 0, 0
+  index: -1
+ui_effect_light_circle3
+  rotate: false
+  xy: 187, 298
+  size: 102, 102
+  orig: 102, 102
+  offset: 0, 0
+  index: -1
+xysg_hero_effect_swordlight2
+  rotate: true
+  xy: 187, 402
+  size: 108, 104
+  orig: 108, 104
+  offset: 0, 0
+  index: -1
+zhoutai_body
+  rotate: true
+  xy: 131, 105
+  size: 142, 114
+  orig: 142, 114
+  offset: 0, 0
+  index: -1
+zhoutai_eye
+  rotate: false
+  xy: 31, 12
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+zhoutai_eyebrow
+  rotate: false
+  xy: 2, 2
+  size: 27, 17
+  orig: 27, 17
+  offset: 0, 0
+  index: -1
+zhoutai_eyewhite
+  rotate: false
+  xy: 307, 133
+  size: 33, 36
+  orig: 33, 36
+  offset: 0, 0
+  index: -1
+zhoutai_hair
+  rotate: false
+  xy: 247, 170
+  size: 55, 84
+  orig: 55, 84
+  offset: 0, 0
+  index: -1
+zhoutai_handl
+  rotate: false
+  xy: 300, 11
+  size: 39, 42
+  orig: 39, 42
+  offset: 0, 0
+  index: -1
+zhoutai_handr
+  rotate: false
+  xy: 341, 16
+  size: 37, 37
+  orig: 37, 37
+  offset: 0, 0
+  index: -1
+zhoutai_handr2
+  rotate: false
+  xy: 275, 256
+  size: 49, 40
+  orig: 49, 40
+  offset: 0, 0
+  index: -1
+zhoutai_head
+  rotate: true
+  xy: 2, 81
+  size: 166, 127
+  orig: 166, 132
+  offset: 0, 0
+  index: -1
+zhoutai_legr
+  rotate: true
+  xy: 304, 171
+  size: 23, 31
+  orig: 23, 31
+  offset: 0, 0
+  index: -1
+zhoutai_mouth
+  rotate: false
+  xy: 247, 108
+  size: 58, 60
+  orig: 58, 60
+  offset: 0, 0
+  index: -1
+zhoutai_shoulderr
+  rotate: true
+  xy: 304, 196
+  size: 58, 51
+  orig: 58, 51
+  offset: 0, 0
+  index: -1
+zhoutai_tail
+  rotate: false
+  xy: 2, 21
+  size: 128, 58
+  orig: 128, 58
+  offset: 0, 0
+  index: -1
+zhoutai_weaponr
+  rotate: false
+  xy: 2, 249
+  size: 183, 261
+  orig: 183, 262
+  offset: 0, 1
+  index: -1

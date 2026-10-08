@@ -1,0 +1,41 @@
+
+金蛋.png
+size: 1220,364
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ray3
+  rotate: false
+  xy: 1178, 322
+  size: 40, 40
+  orig: 48, 48
+  offset: 4, 4
+  index: -1
+光
+  rotate: true
+  xy: 884, 4
+  size: 16, 137
+  orig: 16, 137
+  offset: 0, 0
+  index: -1
+金蛋
+  rotate: true
+  xy: 2, 2
+  size: 360, 439
+  orig: 368, 446
+  offset: 4, 4
+  index: -1
+金蛋s
+  rotate: true
+  xy: 443, 2
+  size: 360, 439
+  orig: 368, 446
+  offset: 4, 4
+  index: -1
+锤子
+  rotate: false
+  xy: 884, 22
+  size: 292, 340
+  orig: 294, 343
+  offset: 1, 1
+  index: -1

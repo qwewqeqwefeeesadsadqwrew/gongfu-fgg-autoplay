@@ -1,0 +1,34 @@
+
+dongzhuo_skill_hit.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hero_effect_box2
+  rotate: false
+  xy: 208, 30
+  size: 82, 82
+  orig: 82, 82
+  offset: 0, 0
+  index: -1
+ui_effect_light_circle3
+  rotate: false
+  xy: 106, 12
+  size: 100, 100
+  orig: 102, 102
+  offset: 1, 1
+  index: -1
+xysg_hero_effect_box
+  rotate: false
+  xy: 208, 2
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+xysg_hero_guanyu_shadow
+  rotate: false
+  xy: 2, 10
+  size: 102, 102
+  orig: 102, 102
+  offset: 0, 0
+  index: -1

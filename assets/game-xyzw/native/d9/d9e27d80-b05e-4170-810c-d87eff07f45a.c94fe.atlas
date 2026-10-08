@@ -1,0 +1,13 @@
+
+zhenji_skill_loop.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+zhenji_skill1
+  rotate: false
+  xy: 2, 2
+  size: 113, 111
+  orig: 114, 114
+  offset: 0, 1
+  index: -1

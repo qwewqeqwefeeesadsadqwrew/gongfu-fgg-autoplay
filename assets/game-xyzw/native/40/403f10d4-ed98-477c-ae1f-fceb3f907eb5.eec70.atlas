@@ -1,0 +1,104 @@
+
+xiaobing2_fazhang.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hero_effect_halo1
+  rotate: false
+  xy: 135, 58
+  size: 46, 46
+  orig: 46, 46
+  offset: 0, 0
+  index: -1
+hero_eye_cry
+  rotate: true
+  xy: 116, 144
+  size: 42, 51
+  orig: 42, 51
+  offset: 0, 0
+  index: -1
+sc2_monster1_body
+  rotate: false
+  xy: 2, 10
+  size: 131, 92
+  orig: 131, 92
+  offset: 0, 0
+  index: -1
+sc2_monster1_eye
+  rotate: false
+  xy: 2, 2
+  size: 5, 6
+  orig: 5, 6
+  offset: 0, 0
+  index: -1
+sc2_monster1_eyewhite
+  rotate: true
+  xy: 219, 61
+  size: 21, 31
+  orig: 21, 31
+  offset: 0, 0
+  index: -1
+sc2_monster1_hair
+  rotate: false
+  xy: 219, 39
+  size: 30, 20
+  orig: 30, 20
+  offset: 0, 0
+  index: -1
+sc2_monster1_handl
+  rotate: false
+  xy: 116, 106
+  size: 36, 36
+  orig: 36, 38
+  offset: 0, 2
+  index: -1
+sc2_monster1_handr1
+  rotate: true
+  xy: 183, 49
+  size: 33, 34
+  orig: 35, 38
+  offset: 0, 4
+  index: -1
+sc2_monster1_handr2
+  rotate: true
+  xy: 154, 116
+  size: 26, 31
+  orig: 28, 36
+  offset: 0, 5
+  index: -1
+sc2_monster1_head
+  rotate: false
+  xy: 2, 104
+  size: 112, 145
+  orig: 112, 145
+  offset: 0, 0
+  index: -1
+sc2_monster1_legr
+  rotate: true
+  xy: 179, 29
+  size: 18, 25
+  orig: 18, 25
+  offset: 0, 0
+  index: -1
+sc2_monster1_ring
+  rotate: true
+  xy: 135, 31
+  size: 25, 42
+  orig: 25, 42
+  offset: 0, 0
+  index: -1
+sc2_monster1_tail
+  rotate: false
+  xy: 116, 188
+  size: 70, 61
+  orig: 70, 61
+  offset: 0, 0
+  index: -1
+sc2_monster1_weapon
+  rotate: false
+  xy: 188, 84
+  size: 61, 165
+  orig: 61, 165
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,188 @@
+
+车模3.png
+size: 1986,1294
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+右大腿
+  rotate: true
+  xy: 1639, 283
+  size: 186, 303
+  orig: 276, 361
+  offset: 0, 58
+  index: -1
+右小腿
+  rotate: false
+  xy: 1683, 79
+  size: 205, 202
+  orig: 205, 202
+  offset: 0, 0
+  index: -1
+右手
+  rotate: true
+  xy: 1149, 2
+  size: 61, 168
+  orig: 61, 168
+  offset: 0, 0
+  index: -1
+右臂
+  rotate: true
+  xy: 920, 185
+  size: 93, 482
+  orig: 93, 482
+  offset: 0, 0
+  index: -1
+嘴唇
+  rotate: false
+  xy: 1149, 65
+  size: 185, 118
+  orig: 191, 118
+  offset: 1, 0
+  index: -1
+嘴巴
+  rotate: false
+  xy: 866, 572
+  size: 50, 39
+  orig: 50, 39
+  offset: 0, 0
+  index: -1
+外套
+  rotate: false
+  xy: 1838, 981
+  size: 115, 311
+  orig: 475, 311
+  offset: 360, 0
+  index: -1
+外套后
+  rotate: true
+  xy: 1699, 680
+  size: 248, 285
+  orig: 250, 285
+  offset: 1, 0
+  index: -1
+大臂
+  rotate: false
+  xy: 1404, 6
+  size: 277, 272
+  orig: 475, 311
+  offset: 0, 11
+  index: -1
+头
+  rotate: true
+  xy: 935, 10
+  size: 173, 212
+  orig: 173, 212
+  offset: 0, 0
+  index: -1
+头发后
+  rotate: true
+  xy: 2, 167
+  size: 358, 916
+  orig: 358, 916
+  offset: 0, 0
+  index: -1
+小臂
+  rotate: false
+  xy: 1699, 471
+  size: 285, 207
+  orig: 285, 207
+  offset: 0, 0
+  index: -1
+尾巴
+  rotate: false
+  xy: 1540, 930
+  size: 296, 362
+  orig: 296, 362
+  offset: 0, 0
+  index: -1
+左大腿
+  rotate: true
+  xy: 2, 3
+  size: 162, 931
+  orig: 162, 931
+  offset: 0, 0
+  index: -1
+左大腿2
+  rotate: true
+  xy: 766, 613
+  size: 162, 931
+  orig: 162, 931
+  offset: 0, 0
+  index: -1
+手掌
+  rotate: true
+  xy: 1540, 816
+  size: 112, 155
+  orig: 121, 155
+  offset: 0, 0
+  index: -1
+眉毛
+  rotate: false
+  xy: 766, 556
+  size: 98, 55
+  orig: 100, 63
+  offset: 1, 1
+  index: -1
+眼珠
+  rotate: true
+  xy: 1890, 212
+  size: 69, 43
+  orig: 69, 44
+  offset: 0, 0
+  index: -1
+眼白
+  rotate: false
+  xy: 1838, 935
+  size: 79, 44
+  orig: 80, 45
+  offset: 0, 1
+  index: -1
+碎发1
+  rotate: false
+  xy: 1944, 365
+  size: 39, 104
+  orig: 39, 104
+  offset: 0, 0
+  index: -1
+碎发2
+  rotate: true
+  xy: 1639, 515
+  size: 96, 51
+  orig: 99, 51
+  offset: 0, 0
+  index: -1
+耳朵1
+  rotate: true
+  xy: 1336, 102
+  size: 81, 59
+  orig: 81, 59
+  offset: 0, 0
+  index: -1
+耳朵2
+  rotate: true
+  xy: 1683, 5
+  size: 72, 76
+  orig: 72, 78
+  offset: 0, 2
+  index: -1
+身体
+  rotate: true
+  xy: 920, 280
+  size: 331, 717
+  orig: 331, 717
+  offset: 0, 0
+  index: -1
+车
+  rotate: false
+  xy: 766, 777
+  size: 772, 515
+  orig: 777, 525
+  offset: 0, 10
+  index: -1
+闪光
+  rotate: false
+  xy: 2, 527
+  size: 762, 765
+  orig: 1080, 1080
+  offset: 139, 148
+  index: -1

@@ -1,0 +1,118 @@
+
+long_tx.png
+size: 1705,1705
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+long
+  rotate: false
+  xy: 2, 573
+  size: 877, 1130
+  orig: 878, 1130
+  offset: 0, 0
+  index: -1
+longbg
+  rotate: false
+  xy: 881, 413
+  size: 620, 1290
+  orig: 620, 1290
+  offset: 0, 0
+  index: -1
+longzz
+  rotate: false
+  xy: 2, 2
+  size: 578, 569
+  orig: 578, 570
+  offset: 0, 0
+  index: -1
+zi_long
+  rotate: true
+  xy: 856, 24
+  size: 185, 180
+  orig: 190, 182
+  offset: 3, 2
+  index: -1
+zi_nu
+  rotate: false
+  xy: 866, 211
+  size: 191, 200
+  orig: 194, 202
+  offset: 1, 2
+  index: -1
+zi_shi
+  rotate: false
+  xy: 582, 375
+  size: 212, 196
+  orig: 213, 198
+  offset: 1, 2
+  index: -1
+zi_yan
+  rotate: true
+  xy: 582, 185
+  size: 188, 202
+  orig: 197, 204
+  offset: 5, 2
+  index: -1
+火1
+  rotate: true
+  xy: 786, 135
+  size: 70, 55
+  orig: 70, 55
+  offset: 0, 0
+  index: -1
+火2
+  rotate: false
+  xy: 786, 207
+  size: 68, 57
+  orig: 68, 57
+  offset: 0, 0
+  index: -1
+火3
+  rotate: false
+  xy: 796, 387
+  size: 68, 59
+  orig: 68, 59
+  offset: 0, 0
+  index: -1
+火4
+  rotate: false
+  xy: 796, 510
+  size: 68, 61
+  orig: 68, 62
+  offset: 0, 0
+  index: -1
+火5
+  rotate: false
+  xy: 786, 266
+  size: 68, 58
+  orig: 68, 58
+  offset: 0, 0
+  index: -1
+火6
+  rotate: false
+  xy: 796, 326
+  size: 68, 59
+  orig: 68, 59
+  offset: 0, 0
+  index: -1
+火7
+  rotate: false
+  xy: 796, 448
+  size: 68, 60
+  orig: 68, 60
+  offset: 0, 0
+  index: -1
+火8
+  rotate: false
+  xy: 582, 9
+  size: 68, 53
+  orig: 68, 53
+  offset: 0, 0
+  index: -1
+火9
+  rotate: true
+  xy: 582, 64
+  size: 69, 54
+  orig: 69, 54
+  offset: 0, 0
+  index: -1

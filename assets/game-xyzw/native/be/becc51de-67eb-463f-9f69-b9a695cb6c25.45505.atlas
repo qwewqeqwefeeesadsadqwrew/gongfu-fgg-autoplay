@@ -1,0 +1,41 @@
+
+huangyueying_attack_line.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+huangyueying_effect2
+  rotate: true
+  xy: 108, 32
+  size: 30, 29
+  orig: 31, 30
+  offset: 1, 0
+  index: -1
+huangyueying_line3
+  rotate: false
+  xy: 2, 2
+  size: 76, 6
+  orig: 76, 6
+  offset: 0, 0
+  index: -1
+huangyueying_weapon1
+  rotate: true
+  xy: 78, 13
+  size: 49, 28
+  orig: 49, 28
+  offset: 0, 0
+  index: -1
+huangyueying_weapon2
+  rotate: true
+  xy: 78, 64
+  size: 53, 46
+  orig: 53, 46
+  offset: 0, 0
+  index: -1
+huangyueying_weapon3
+  rotate: false
+  xy: 2, 10
+  size: 74, 107
+  orig: 74, 107
+  offset: 0, 0
+  index: -1

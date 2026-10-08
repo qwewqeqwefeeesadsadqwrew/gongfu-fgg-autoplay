@@ -1,0 +1,27 @@
+
+ganning_skill_loop.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ganning_skill1
+  rotate: false
+  xy: 2, 30
+  size: 102, 87
+  orig: 102, 87
+  offset: 0, 0
+  index: -1
+ganning_skill2
+  rotate: false
+  xy: 2, 10
+  size: 51, 18
+  orig: 51, 18
+  offset: 0, 0
+  index: -1
+xysg_hero_effect_box
+  rotate: false
+  xy: 55, 2
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1

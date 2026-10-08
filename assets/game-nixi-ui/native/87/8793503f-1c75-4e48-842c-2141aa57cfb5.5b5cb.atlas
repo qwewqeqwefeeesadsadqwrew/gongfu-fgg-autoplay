@@ -1,0 +1,482 @@
+
+ch3.png
+size: 1747,1747
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+R手-仙人指路
+  rotate: true
+  xy: 1554, 497
+  size: 321, 120
+  orig: 321, 120
+  offset: 0, 0
+  index: -1
+a
+  rotate: true
+  xy: 604, 17
+  size: 265, 128
+  orig: 267, 130
+  offset: 1, 1
+  index: -1
+b
+  rotate: false
+  xy: 818, 309
+  size: 265, 131
+  orig: 267, 132
+  offset: 1, 1
+  index: -1
+bg
+  rotate: false
+  xy: 756, 1185
+  size: 240, 560
+  orig: 240, 560
+  offset: 0, 0
+  index: -1
+包装肉丸
+  rotate: false
+  xy: 1535, 311
+  size: 107, 72
+  orig: 107, 72
+  offset: 0, 0
+  index: -1
+包装肉丸xx
+  rotate: true
+  xy: 1677, 806
+  size: 105, 68
+  orig: 120, 100
+  offset: 8, 16
+  index: -1
+回头头
+  rotate: false
+  xy: 395, 560
+  size: 222, 275
+  orig: 222, 275
+  offset: 0, 0
+  index: -1
+墩子
+  rotate: true
+  xy: 1676, 615
+  size: 89, 48
+  orig: 89, 48
+  offset: 0, 0
+  index: -1
+字/1
+  rotate: false
+  xy: 1147, 22
+  size: 185, 70
+  orig: 185, 70
+  offset: 0, 0
+  index: -1
+字/11
+  rotate: true
+  xy: 982, 569
+  size: 90, 200
+  orig: 90, 200
+  offset: 0, 0
+  index: -1
+字/2
+  rotate: true
+  xy: 1646, 1027
+  size: 85, 24
+  orig: 85, 24
+  offset: 0, 0
+  index: -1
+字/22
+  rotate: true
+  xy: 978, 471
+  size: 96, 193
+  orig: 96, 193
+  offset: 0, 0
+  index: -1
+字/3
+  rotate: true
+  xy: 1676, 913
+  size: 199, 69
+  orig: 199, 69
+  offset: 0, 0
+  index: -1
+字/4
+  rotate: false
+  xy: 2, 5
+  size: 209, 24
+  orig: 209, 24
+  offset: 0, 0
+  index: -1
+字/5
+  rotate: true
+  xy: 1419, 371
+  size: 149, 114
+  orig: 149, 114
+  offset: 0, 0
+  index: -1
+字/6
+  rotate: false
+  xy: 1535, 385
+  size: 135, 25
+  orig: 135, 25
+  offset: 0, 0
+  index: -1
+字/7
+  rotate: true
+  xy: 1510, 61
+  size: 209, 24
+  orig: 209, 24
+  offset: 0, 0
+  index: -1
+思考头
+  rotate: false
+  xy: 617, 309
+  size: 199, 242
+  orig: 199, 242
+  offset: 0, 0
+  index: -1
+惊讶头
+  rotate: true
+  xy: 982, 661
+  size: 199, 242
+  orig: 199, 242
+  offset: 0, 0
+  index: -1
+桌子 - 副本
+  rotate: true
+  xy: 998, 1124
+  size: 204, 301
+  orig: 204, 301
+  offset: 0, 0
+  index: -1
+气泡/对话框1
+  rotate: true
+  xy: 619, 553
+  size: 282, 205
+  orig: 282, 205
+  offset: 0, 0
+  index: -1
+气泡/尖叫气泡框
+  rotate: false
+  xy: 1294, 1502
+  size: 392, 243
+  orig: 392, 243
+  offset: 0, 0
+  index: -1
+特写/3333
+  rotate: false
+  xy: 826, 442
+  size: 150, 180
+  orig: 150, 180
+  offset: 0, 0
+  index: -1
+特写/bg
+  rotate: false
+  xy: 1342, 268
+  size: 72, 128
+  orig: 72, 128
+  offset: 0, 0
+  index: -1
+特写/扒手s
+  rotate: false
+  xy: 826, 624
+  size: 154, 294
+  orig: 154, 350
+  offset: 0, 28
+  index: -1
+特写/仙帝1
+  rotate: true
+  xy: 1301, 1175
+  size: 192, 343
+  orig: 192, 343
+  offset: 0, 0
+  index: -1
+特写/仙帝2
+  rotate: true
+  xy: 1301, 984
+  size: 189, 343
+  orig: 189, 343
+  offset: 0, 0
+  index: -1
+特写/呕吐
+  rotate: true
+  xy: 1676, 706
+  size: 98, 58
+  orig: 99, 60
+  offset: 0, 1
+  index: -1
+特写/图层 1
+  rotate: true
+  xy: 1644, 317
+  size: 66, 29
+  orig: 128, 29
+  offset: 0, 0
+  index: -1
+特写/如花
+  rotate: true
+  xy: 1280, 820
+  size: 162, 351
+  orig: 162, 351
+  offset: 0, 0
+  index: -1
+特写/如花表情
+  rotate: false
+  xy: 1185, 94
+  size: 160, 171
+  orig: 160, 171
+  offset: 0, 0
+  index: -1
+特写/如花表情2
+  rotate: false
+  xy: 1347, 95
+  size: 161, 171
+  orig: 163, 179
+  offset: 1, 4
+  index: -1
+特写/掩体箱子
+  rotate: false
+  xy: 987, 862
+  size: 291, 260
+  orig: 291, 260
+  offset: 0, 0
+  index: -1
+特写/爱心max2
+  rotate: false
+  xy: 1416, 272
+  size: 108, 97
+  orig: 134, 121
+  offset: 13, 12
+  index: -1
+特写/特写仙帝
+  rotate: false
+  xy: 998, 1330
+  size: 294, 415
+  orig: 294, 415
+  offset: 0, 0
+  index: -1
+特写/特写仙帝-表情1
+  rotate: true
+  xy: 1004, 2
+  size: 120, 141
+  orig: 120, 141
+  offset: 0, 0
+  index: -1
+特写/特写仙帝-表情2
+  rotate: false
+  xy: 1062, 124
+  size: 121, 141
+  orig: 122, 141
+  offset: 0, 0
+  index: -1
+特写/特写仙帝-表情3
+  rotate: true
+  xy: 860, 2
+  size: 120, 142
+  orig: 120, 142
+  offset: 0, 0
+  index: -1
+特写/特写仙帝-表说话嘴巴
+  rotate: false
+  xy: 755, 862
+  size: 69, 56
+  orig: 69, 56
+  offset: 0, 0
+  index: -1
+特写/特写仙帝yy
+  rotate: true
+  xy: 1536, 202
+  size: 107, 76
+  orig: 107, 76
+  offset: 0, 0
+  index: -1
+特写/特写如花1
+  rotate: true
+  xy: 404, 837
+  size: 184, 349
+  orig: 184, 349
+  offset: 0, 0
+  index: -1
+特写/特写如花2
+  rotate: false
+  xy: 2, 256
+  size: 391, 726
+  orig: 391, 726
+  offset: 0, 0
+  index: -1
+特写/男主手臂1
+  rotate: true
+  xy: 1294, 1369
+  size: 131, 449
+  orig: 131, 449
+  offset: 0, 0
+  index: -1
+特写/男主手臂2
+  rotate: false
+  xy: 351, 26
+  size: 84, 228
+  orig: 84, 228
+  offset: 0, 0
+  index: -1
+特写/男主捂脸
+  rotate: false
+  xy: 860, 124
+  size: 200, 183
+  orig: 200, 183
+  offset: 0, 0
+  index: -1
+特写/男主身体1
+  rotate: false
+  xy: 404, 1023
+  size: 350, 722
+  orig: 350, 722
+  offset: 0, 0
+  index: -1
+特写/男主身体2
+  rotate: false
+  xy: 2, 984
+  size: 400, 761
+  orig: 400, 794
+  offset: 0, 0
+  index: -1
+特写/筷子
+  rotate: false
+  xy: 1280, 1018
+  size: 12, 104
+  orig: 14, 188
+  offset: 2, 0
+  index: -1
+特写/纸箱子1
+  rotate: false
+  xy: 2, 31
+  size: 347, 223
+  orig: 347, 223
+  offset: 0, 0
+  index: -1
+特写/肉丸
+  rotate: false
+  xy: 1490, 522
+  size: 35, 34
+  orig: 35, 34
+  offset: 0, 0
+  index: -1
+特写/脚1
+  rotate: false
+  xy: 734, 9
+  size: 124, 298
+  orig: 124, 298
+  offset: 0, 0
+  index: -1
+特写/脚2
+  rotate: true
+  xy: 1184, 522
+  size: 130, 304
+  orig: 130, 304
+  offset: 0, 0
+  index: -1
+看书大臂L
+  rotate: false
+  xy: 1646, 1114
+  size: 93, 253
+  orig: 93, 253
+  offset: 0, 0
+  index: -1
+看书大臂R
+  rotate: true
+  xy: 1173, 398
+  size: 122, 244
+  orig: 122, 244
+  offset: 0, 0
+  index: -1
+看书小臂R
+  rotate: false
+  xy: 437, 35
+  size: 165, 247
+  orig: 199, 348
+  offset: 34, 0
+  index: -1
+看书手R
+  rotate: true
+  xy: 1535, 412
+  size: 83, 140
+  orig: 83, 140
+  offset: 0, 0
+  index: -1
+肉丸_2敲打_下臂
+  rotate: true
+  xy: 1166, 267
+  size: 129, 174
+  orig: 131, 176
+  offset: 1, 1
+  index: -1
+肉丸_2敲打_手
+  rotate: true
+  xy: 395, 284
+  size: 274, 220
+  orig: 276, 222
+  offset: 1, 1
+  index: -1
+肉丸_身体
+  rotate: true
+  xy: 1226, 654
+  size: 164, 326
+  orig: 164, 326
+  offset: 0, 0
+  index: -1
+表现素材/口区
+  rotate: false
+  xy: 1085, 292
+  size: 79, 177
+  orig: 79, 177
+  offset: 0, 0
+  index: -1
+表现素材/感叹号
+  rotate: false
+  xy: 1490, 558
+  size: 62, 94
+  orig: 62, 94
+  offset: 0, 0
+  index: -1
+表现素材/提示
+  rotate: false
+  xy: 756, 920
+  size: 229, 263
+  orig: 229, 263
+  offset: 0, 0
+  index: -1
+表现素材/问号
+  rotate: false
+  xy: 1676, 535
+  size: 59, 78
+  orig: 59, 78
+  offset: 0, 0
+  index: -1
+表现素材/阴影
+  rotate: true
+  xy: 1614, 226
+  size: 83, 36
+  orig: 100, 50
+  offset: 8, 7
+  index: -1
+阴影
+  rotate: true
+  xy: 1614, 226
+  size: 83, 36
+  orig: 100, 50
+  offset: 8, 7
+  index: -1
+表现素材/黄色方块
+  rotate: false
+  xy: 1536, 123
+  size: 50, 77
+  orig: 50, 77
+  offset: 0, 0
+  index: -1
+隐藏剧情
+  rotate: true
+  xy: 1688, 1549
+  size: 196, 50
+  orig: 197, 50
+  offset: 1, 0
+  index: -1
+颤抖线
+  rotate: false
+  xy: 1736, 744
+  size: 9, 60
+  orig: 9, 60
+  offset: 0, 0
+  index: -1

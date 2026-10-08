@@ -1,0 +1,461 @@
+
+ch15.png
+size: 2415,2415
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: false
+  xy: 576, 1656
+  size: 757, 757
+  orig: 757, 757
+  offset: 0, 0
+  index: -1
+bgbg
+  rotate: false
+  xy: 1178, 1349
+  size: 250, 305
+  orig: 253, 306
+  offset: 2, 1
+  index: -1
+dengzi
+  rotate: false
+  xy: 2239, 1052
+  size: 148, 173
+  orig: 148, 173
+  offset: 0, 0
+  index: -1
+lrysb
+  rotate: false
+  xy: 2, 772
+  size: 511, 545
+  orig: 511, 545
+  offset: 0, 0
+  index: -1
+mp-diqv
+  rotate: true
+  xy: 1048, 898
+  size: 176, 318
+  orig: 176, 318
+  offset: 0, 0
+  index: -1
+mp-天残
+  rotate: true
+  xy: 1164, 45
+  size: 169, 320
+  orig: 169, 320
+  offset: 0, 0
+  index: -1
+yanwu1
+  rotate: false
+  xy: 2106, 1658
+  size: 306, 356
+  orig: 306, 356
+  offset: 0, 0
+  index: -1
+yanwu2
+  rotate: false
+  xy: 1676, 1648
+  size: 428, 311
+  orig: 428, 311
+  offset: 0, 0
+  index: -1
+yanwu3
+  rotate: true
+  xy: 2100, 2016
+  size: 397, 313
+  orig: 397, 313
+  offset: 0, 0
+  index: -1
+刀
+  rotate: false
+  xy: 1960, 950
+  size: 277, 256
+  orig: 285, 256
+  offset: 4, 0
+  index: -1
+刀痕
+  rotate: false
+  xy: 1015, 71
+  size: 147, 201
+  orig: 156, 211
+  offset: 5, 5
+  index: -1
+大人-后发
+  rotate: false
+  xy: 1980, 1208
+  size: 178, 438
+  orig: 178, 438
+  offset: 0, 0
+  index: -1
+大人-大臂R
+  rotate: false
+  xy: 1423, 1038
+  size: 194, 300
+  orig: 194, 300
+  offset: 0, 0
+  index: -1
+大人-头
+  rotate: true
+  xy: 1926, 617
+  size: 331, 275
+  orig: 331, 275
+  offset: 0, 0
+  index: -1
+大人-小臂R
+  rotate: false
+  xy: 1430, 1340
+  size: 207, 356
+  orig: 207, 356
+  offset: 0, 0
+  index: -1
+大人-手L
+  rotate: true
+  xy: 2179, 150
+  size: 117, 115
+  orig: 117, 115
+  offset: 0, 0
+  index: -1
+大人-手R
+  rotate: true
+  xy: 2160, 1227
+  size: 118, 143
+  orig: 118, 143
+  offset: 0, 0
+  index: -1
+大人-手臂L
+  rotate: true
+  xy: 515, 866
+  size: 259, 531
+  orig: 259, 581
+  offset: 0, 50
+  index: -1
+大人-眼镜
+  rotate: false
+  xy: 2140, 269
+  size: 150, 56
+  orig: 150, 56
+  offset: 0, 0
+  index: -1
+大人-腿
+  rotate: true
+  xy: 2, 2
+  size: 149, 439
+  orig: 149, 439
+  offset: 0, 0
+  index: -1
+大人-身体
+  rotate: false
+  xy: 2, 1319
+  size: 572, 1094
+  orig: 572, 1094
+  offset: 0, 0
+  index: -1
+女主/L手-扭捏
+  rotate: false
+  xy: 1820, 583
+  size: 104, 407
+  orig: 104, 407
+  offset: 0, 0
+  index: -1
+女主/R手-扭捏
+  rotate: false
+  xy: 371, 153
+  size: 248, 617
+  orig: 248, 617
+  offset: 0, 0
+  index: -1
+女主/女主-表情2
+  rotate: false
+  xy: 1676, 1961
+  size: 422, 452
+  orig: 422, 452
+  offset: 0, 0
+  index: -1
+女主/女主头
+  rotate: false
+  xy: 1174, 1076
+  size: 247, 271
+  orig: 422, 452
+  offset: 74, 103
+  index: -1
+女主/女主头发1
+  rotate: false
+  xy: 2305, 1257
+  size: 62, 88
+  orig: 159, 224
+  offset: 48, 68
+  index: -1
+女主/女主头发2
+  rotate: true
+  xy: 1900, 17
+  size: 216, 277
+  orig: 216, 277
+  offset: 0, 0
+  index: -1
+女主/女主胸-破烂
+  rotate: false
+  xy: 515, 794
+  size: 96, 70
+  orig: 96, 70
+  offset: 0, 0
+  index: -1
+女主/女主身体-破烂
+  rotate: false
+  xy: 1045, 274
+  size: 117, 590
+  orig: 117, 590
+  offset: 0, 0
+  index: -1
+女主嘴巴/女主-嘴巴3
+  rotate: false
+  xy: 621, 412
+  size: 422, 452
+  orig: 422, 452
+  offset: 0, 0
+  index: -1
+姿势5-P2
+  rotate: true
+  xy: 576, 1127
+  size: 229, 596
+  orig: 230, 596
+  offset: 1, 0
+  index: -1
+小人-头
+  rotate: false
+  xy: 621, 68
+  size: 392, 342
+  orig: 392, 342
+  offset: 0, 0
+  index: -1
+小人-头L
+  rotate: true
+  xy: 1368, 979
+  size: 95, 51
+  orig: 95, 51
+  offset: 0, 0
+  index: -1
+小人-手R
+  rotate: false
+  xy: 1795, 36
+  size: 84, 52
+  orig: 84, 52
+  offset: 0, 0
+  index: -1
+小人-手臂L
+  rotate: false
+  xy: 2160, 1347
+  size: 220, 309
+  orig: 220, 309
+  offset: 0, 0
+  index: -1
+小人-手臂R
+  rotate: true
+  xy: 1492, 171
+  size: 137, 329
+  orig: 137, 329
+  offset: 0, 0
+  index: -1
+小人-眉毛L
+  rotate: false
+  xy: 1639, 1680
+  size: 24, 16
+  orig: 24, 16
+  offset: 0, 0
+  index: -1
+小人-眉毛R
+  rotate: true
+  xy: 586, 95
+  size: 56, 33
+  orig: 56, 33
+  offset: 0, 0
+  index: -1
+小人-身体
+  rotate: false
+  xy: 1335, 1698
+  size: 339, 715
+  orig: 339, 716
+  offset: 0, 0
+  index: -1
+气泡/对话框1
+  rotate: true
+  xy: 1820, 327
+  size: 254, 185
+  orig: 254, 185
+  offset: 0, 0
+  index: -1
+琛哥/1
+  rotate: false
+  xy: 2203, 650
+  size: 198, 59
+  orig: 198, 59
+  offset: 0, 0
+  index: -1
+琛哥/2
+  rotate: false
+  xy: 2239, 991
+  size: 136, 59
+  orig: 136, 59
+  offset: 0, 0
+  index: -1
+琛哥/3
+  rotate: true
+  xy: 2297, 492
+  size: 156, 96
+  orig: 156, 96
+  offset: 0, 0
+  index: -1
+琛哥/4
+  rotate: true
+  xy: 2297, 322
+  size: 168, 59
+  orig: 168, 59
+  offset: 0, 0
+  index: -1
+琛哥/5
+  rotate: false
+  xy: 1486, 29
+  size: 169, 59
+  orig: 169, 59
+  offset: 0, 0
+  index: -1
+琛哥/6
+  rotate: false
+  xy: 1048, 1104
+  size: 113, 21
+  orig: 113, 21
+  offset: 0, 0
+  index: -1
+琛哥/7
+  rotate: true
+  xy: 515, 1141
+  size: 176, 59
+  orig: 176, 59
+  offset: 0, 0
+  index: -1
+琛哥/8
+  rotate: false
+  xy: 1657, 29
+  size: 136, 59
+  orig: 136, 59
+  offset: 0, 0
+  index: -1
+琛哥s
+  rotate: true
+  xy: 576, 1358
+  size: 296, 600
+  orig: 296, 600
+  offset: 0, 0
+  index: -1
+男主/zb身体
+  rotate: false
+  xy: 2, 154
+  size: 367, 616
+  orig: 367, 616
+  offset: 0, 0
+  index: -1
+男主/头
+  rotate: true
+  xy: 1639, 1320
+  size: 326, 339
+  orig: 326, 339
+  offset: 0, 0
+  index: -1
+男主/漏人手
+  rotate: true
+  xy: 1926, 583
+  size: 32, 50
+  orig: 32, 50
+  offset: 0, 0
+  index: -1
+男主/表情1-
+  rotate: true
+  xy: 1619, 992
+  size: 326, 339
+  orig: 326, 339
+  offset: 0, 0
+  index: -1
+男主/表情13
+  rotate: false
+  xy: 1492, 651
+  size: 326, 339
+  orig: 326, 339
+  offset: 0, 0
+  index: -1
+男主/表情19-疑惑（包租婆敲门）
+  rotate: false
+  xy: 1492, 310
+  size: 326, 339
+  orig: 326, 339
+  offset: 0, 0
+  index: -1
+男主/表情2-
+  rotate: false
+  xy: 1164, 557
+  size: 326, 339
+  orig: 326, 339
+  offset: 0, 0
+  index: -1
+男主/表情6-诧异（前女友来电）
+  rotate: false
+  xy: 1164, 216
+  size: 326, 339
+  orig: 326, 339
+  offset: 0, 0
+  index: -1
+男主/说话嘴2
+  rotate: false
+  xy: 1823, 192
+  size: 56, 41
+  orig: 62, 45
+  offset: 0, 3
+  index: -1
+男主/说话嘴巴1
+  rotate: false
+  xy: 1335, 1667
+  size: 53, 29
+  orig: 55, 30
+  offset: 2, 0
+  index: -1
+男主/说话嘴巴2
+  rotate: false
+  xy: 2140, 246
+  size: 37, 21
+  orig: 39, 21
+  offset: 1, 0
+  index: -1
+组 2
+  rotate: false
+  xy: 1486, 90
+  size: 412, 79
+  orig: 412, 79
+  offset: 0, 0
+  index: -1
+表现素材/打击3
+  rotate: false
+  xy: 443, 2
+  size: 141, 149
+  orig: 149, 149
+  offset: 8, 0
+  index: -1
+表现素材/提示
+  rotate: false
+  xy: 2203, 711
+  size: 206, 237
+  orig: 206, 237
+  offset: 0, 0
+  index: -1
+表现素材/速度线
+  rotate: false
+  xy: 2007, 327
+  size: 288, 288
+  orig: 288, 288
+  offset: 0, 0
+  index: -1
+阴影
+  rotate: false
+  xy: 1823, 235
+  size: 315, 90
+  orig: 315, 90
+  offset: 0, 0
+  index: -1

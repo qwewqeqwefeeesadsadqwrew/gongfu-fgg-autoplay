@@ -1,0 +1,20 @@
+
+豆腐店_装饰动画.png
+size: 237,166
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+烟雾ww
+  rotate: false
+  xy: 2, 2
+  size: 178, 162
+  orig: 194, 180
+  offset: 8, 8
+  index: -1
+豆腐店旗子
+  rotate: false
+  xy: 182, 89
+  size: 53, 75
+  orig: 109, 75
+  offset: 28, 0
+  index: -1

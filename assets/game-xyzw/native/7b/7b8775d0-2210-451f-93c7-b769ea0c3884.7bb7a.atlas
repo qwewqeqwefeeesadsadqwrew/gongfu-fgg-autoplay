@@ -1,0 +1,27 @@
+
+xiaobing3_xie_loop.png
+size: 256,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sc3_monster4_bomb
+  rotate: false
+  xy: 2, 4
+  size: 55, 49
+  orig: 55, 49
+  offset: 0, 0
+  index: -1
+sc3_monster4_fire
+  rotate: false
+  xy: 114, 31
+  size: 14, 22
+  orig: 14, 22
+  offset: 0, 0
+  index: -1
+sc3_monster4_line
+  rotate: false
+  xy: 59, 2
+  size: 53, 51
+  orig: 53, 51
+  offset: 0, 0
+  index: -1

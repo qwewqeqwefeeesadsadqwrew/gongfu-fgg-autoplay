@@ -1,0 +1,27 @@
+
+powu_duqi.png
+size: 539,539
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+表现素材/cy
+  rotate: false
+  xy: 2, 492
+  size: 57, 45
+  orig: 57, 45
+  offset: 0, 0
+  index: -1
+表现素材/yl
+  rotate: true
+  xy: 243, 439
+  size: 98, 294
+  orig: 111, 323
+  offset: 5, 12
+  index: -1
+表现素材/写实云
+  rotate: false
+  xy: 61, 452
+  size: 180, 85
+  orig: 200, 200
+  offset: 11, 58
+  index: -1

@@ -1,0 +1,97 @@
+
+ch25.png
+size: 1798,1798
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+16
+  rotate: false
+  xy: 401, 3
+  size: 175, 60
+  orig: 175, 60
+  offset: 0, 0
+  index: -1
+17
+  rotate: false
+  xy: 401, 65
+  size: 185, 60
+  orig: 185, 60
+  offset: 0, 0
+  index: -1
+18
+  rotate: false
+  xy: 401, 127
+  size: 198, 60
+  orig: 198, 60
+  offset: 0, 0
+  index: -1
+19
+  rotate: false
+  xy: 578, 3
+  size: 162, 60
+  orig: 162, 60
+  offset: 0, 0
+  index: -1
+bg2
+  rotate: false
+  xy: 1468, 1040
+  size: 324, 756
+  orig: 324, 756
+  offset: 0, 0
+  index: -1
+dashu/dashu-bg
+  rotate: false
+  xy: 823, 23
+  size: 643, 1773
+  orig: 643, 1773
+  offset: 0, 0
+  index: -1
+dashu/dashu-bg3
+  rotate: false
+  xy: 2, 189
+  size: 819, 1607
+  orig: 819, 1607
+  offset: 0, 0
+  index: -1
+气泡/对话框1
+  rotate: false
+  xy: 2, 2
+  size: 254, 185
+  orig: 254, 185
+  offset: 0, 0
+  index: -1
+男主/gui
+  rotate: true
+  xy: 1468, 646
+  size: 392, 231
+  orig: 392, 231
+  offset: 0, 0
+  index: -1
+表现素材/打击3
+  rotate: false
+  xy: 258, 38
+  size: 141, 149
+  orig: 149, 149
+  offset: 8, 0
+  index: -1
+表现素材/速度线
+  rotate: false
+  xy: 1468, 356
+  size: 288, 288
+  orig: 288, 288
+  offset: 0, 0
+  index: -1
+表现素材/黑色转场
+  rotate: false
+  xy: 601, 127
+  size: 45, 60
+  orig: 45, 60
+  offset: 0, 0
+  index: -1
+阴影
+  rotate: false
+  xy: 588, 80
+  size: 90, 45
+  orig: 90, 45
+  offset: 0, 0
+  index: -1

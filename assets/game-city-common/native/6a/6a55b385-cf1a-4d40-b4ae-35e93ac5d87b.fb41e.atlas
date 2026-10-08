@@ -1,0 +1,272 @@
+
+路人.png
+size: 1759,204
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+daoguang
+  rotate: true
+  xy: 1321, 69
+  size: 133, 76
+  orig: 133, 76
+  offset: 0, 0
+  index: -1
+包子
+  rotate: true
+  xy: 1581, 12
+  size: 64, 55
+  orig: 64, 55
+  offset: 0, 0
+  index: -1
+包子2
+  rotate: true
+  xy: 1596, 138
+  size: 64, 55
+  orig: 64, 55
+  offset: 0, 0
+  index: -1
+包子3
+  rotate: false
+  xy: 1596, 81
+  size: 64, 55
+  orig: 64, 55
+  offset: 0, 0
+  index: -1
+包子4
+  rotate: true
+  xy: 1653, 138
+  size: 64, 55
+  orig: 64, 55
+  offset: 0, 0
+  index: -1
+头-包租公脸红
+  rotate: false
+  xy: 1534, 78
+  size: 51, 25
+  orig: 51, 25
+  offset: 0, 0
+  index: -1
+头发
+  rotate: false
+  xy: 1296, 3
+  size: 37, 19
+  orig: 37, 19
+  offset: 0, 0
+  index: -1
+头发2
+  rotate: false
+  xy: 1335, 3
+  size: 37, 19
+  orig: 37, 19
+  offset: 0, 0
+  index: -1
+歌舞厅/酒瓶
+  rotate: true
+  xy: 1399, 73
+  size: 27, 64
+  orig: 27, 64
+  offset: 0, 0
+  index: -1
+烟雾ww
+  rotate: true
+  xy: 608, 8
+  size: 194, 180
+  orig: 194, 180
+  offset: 0, 0
+  index: -1
+理发残影/剪头_泡泡1
+  rotate: true
+  xy: 1710, 148
+  size: 54, 47
+  orig: 54, 47
+  offset: 0, 0
+  index: -1
+理发残影/剪头_泡泡2
+  rotate: false
+  xy: 1662, 82
+  size: 56, 54
+  orig: 56, 54
+  offset: 0, 0
+  index: -1
+理发残影/剪头_泡泡3
+  rotate: true
+  xy: 1450, 8
+  size: 63, 56
+  orig: 63, 56
+  offset: 0, 0
+  index: -1
+理发残影/残影1
+  rotate: true
+  xy: 1198, 52
+  size: 150, 121
+  orig: 150, 121
+  offset: 0, 0
+  index: -1
+立法围脖
+  rotate: true
+  xy: 1501, 105
+  size: 97, 93
+  orig: 97, 93
+  offset: 0, 0
+  index: -1
+路人/勺子
+  rotate: false
+  xy: 1465, 77
+  size: 67, 23
+  orig: 67, 23
+  offset: 0, 0
+  index: -1
+路人/叹气
+  rotate: true
+  xy: 1691, 4
+  size: 36, 32
+  orig: 36, 32
+  offset: 0, 0
+  index: -1
+路人/吃饭嘴巴
+  rotate: false
+  xy: 1374, 5
+  size: 28, 17
+  orig: 28, 17
+  offset: 0, 0
+  index: -1
+路人/商品袋子
+  rotate: true
+  xy: 1691, 42
+  size: 38, 45
+  orig: 38, 45
+  offset: 0, 0
+  index: -1
+路人/张开的大嘴
+  rotate: false
+  xy: 1404, 5
+  size: 28, 17
+  orig: 28, 17
+  offset: 0, 0
+  index: -1
+路人/水点1
+  rotate: false
+  xy: 1321, 57
+  size: 16, 10
+  orig: 16, 10
+  offset: 0, 0
+  index: -1
+路人/水点2
+  rotate: false
+  xy: 1275, 4
+  size: 19, 10
+  orig: 19, 10
+  offset: 0, 0
+  index: -1
+路人/水点3
+  rotate: false
+  xy: 1253, 4
+  size: 20, 10
+  orig: 20, 10
+  offset: 0, 0
+  index: -1
+路人/洗澡_手臂
+  rotate: false
+  xy: 790, 2
+  size: 100, 200
+  orig: 100, 200
+  offset: 0, 0
+  index: -1
+路人/洗澡_腿
+  rotate: false
+  xy: 892, 2
+  size: 100, 200
+  orig: 100, 200
+  offset: 0, 0
+  index: -1
+路人/洗澡_身体
+  rotate: false
+  xy: 2, 2
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+路人/筷子
+  rotate: true
+  xy: 1198, 7
+  size: 7, 53
+  orig: 7, 53
+  offset: 0, 0
+  index: -1
+路人/豆花
+  rotate: false
+  xy: 1385, 24
+  size: 63, 43
+  orig: 63, 43
+  offset: 0, 0
+  index: -1
+路人/路人_嘴巴
+  rotate: false
+  xy: 1399, 102
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+路人/路人_头
+  rotate: false
+  xy: 204, 2
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+路人/路人_手臂
+  rotate: false
+  xy: 994, 2
+  size: 100, 200
+  orig: 100, 200
+  offset: 0, 0
+  index: -1
+路人/路人_腿
+  rotate: false
+  xy: 1096, 2
+  size: 100, 200
+  orig: 100, 200
+  offset: 0, 0
+  index: -1
+路人/路人_身体
+  rotate: false
+  xy: 406, 2
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+路人/面碗
+  rotate: false
+  xy: 1508, 3
+  size: 71, 72
+  orig: 71, 72
+  offset: 0, 0
+  index: -1
+路人/面碗面
+  rotate: true
+  xy: 1638, 14
+  size: 65, 51
+  orig: 65, 51
+  offset: 0, 0
+  index: -1
+钱
+  rotate: true
+  xy: 1720, 101
+  size: 45, 35
+  orig: 45, 35
+  offset: 0, 0
+  index: -1
+阴影
+  rotate: false
+  xy: 1198, 16
+  size: 81, 34
+  orig: 81, 34
+  offset: 0, 0
+  index: -1
+阿鬼操作台_油条1
+  rotate: true
+  xy: 1281, 24
+  size: 26, 102
+  orig: 26, 102
+  offset: 0, 0
+  index: -1

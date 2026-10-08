@@ -1,0 +1,118 @@
+
+经纪人.png
+size: 1773,526
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+声波
+  rotate: false
+  xy: 1531, 21
+  size: 209, 209
+  orig: 215, 215
+  offset: 3, 3
+  index: -1
+失败-头
+  rotate: true
+  xy: 1198, 9
+  size: 174, 172
+  orig: 200, 180
+  offset: 13, 4
+  index: -1
+失败-手臂右
+  rotate: false
+  xy: 979, 185
+  size: 291, 339
+  orig: 291, 339
+  offset: 0, 0
+  index: -1
+失败-手臂左
+  rotate: false
+  xy: 1272, 198
+  size: 171, 326
+  orig: 171, 326
+  offset: 0, 0
+  index: -1
+失败-身体
+  rotate: true
+  xy: 2, 2
+  size: 522, 360
+  orig: 522, 360
+  offset: 0, 0
+  index: -1
+攻击-喇叭头
+  rotate: true
+  xy: 1578, 246
+  size: 138, 119
+  orig: 138, 119
+  offset: 0, 0
+  index: -1
+攻击-喇叭头2
+  rotate: true
+  xy: 1372, 37
+  size: 159, 140
+  orig: 200, 200
+  offset: 23, 29
+  index: -1
+攻击-手左
+  rotate: true
+  xy: 979, 109
+  size: 74, 217
+  orig: 74, 302
+  offset: 0, 85
+  index: -1
+攻击-脸
+  rotate: false
+  xy: 1445, 232
+  size: 131, 152
+  orig: 175, 300
+  offset: 33, 99
+  index: -1
+攻击-脸2
+  rotate: true
+  xy: 899, 19
+  size: 77, 120
+  orig: 77, 120
+  offset: 0, 0
+  index: -1
+攻击-脸3
+  rotate: true
+  xy: 1021, 7
+  size: 100, 27
+  orig: 100, 27
+  offset: 0, 0
+  index: -1
+攻击-腿右
+  rotate: true
+  xy: 364, 3
+  size: 93, 533
+  orig: 93, 533
+  offset: 0, 0
+  index: -1
+攻击-身体
+  rotate: true
+  xy: 364, 98
+  size: 426, 613
+  orig: 462, 766
+  offset: 36, 71
+  index: -1
+烟雾ww
+  rotate: false
+  xy: 1699, 339
+  size: 49, 45
+  orig: 49, 45
+  offset: 0, 0
+  index: -1
+腿左
+  rotate: true
+  xy: 1445, 386
+  size: 138, 326
+  orig: 138, 326
+  offset: 0, 0
+  index: -1
+阴影
+  rotate: false
+  xy: 1372, 5
+  size: 157, 30
+  orig: 157, 30
+  offset: 0, 0
+  index: -1

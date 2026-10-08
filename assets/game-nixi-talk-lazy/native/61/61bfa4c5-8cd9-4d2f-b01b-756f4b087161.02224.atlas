@@ -1,0 +1,272 @@
+
+ch8.png
+size: 1178,1011
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+black
+  rotate: false
+  xy: 1147, 566
+  size: 29, 67
+  orig: 29, 67
+  offset: 0, 0
+  index: -1
+car
+  rotate: false
+  xy: 508, 635
+  size: 651, 200
+  orig: 651, 200
+  offset: 0, 0
+  index: -1
+car2
+  rotate: true
+  xy: 380, 763
+  size: 92, 104
+  orig: 92, 104
+  offset: 0, 0
+  index: -1
+car3
+  rotate: true
+  xy: 483, 303
+  size: 102, 100
+  orig: 102, 100
+  offset: 0, 0
+  index: -1
+deng
+  rotate: true
+  xy: 374, 38
+  size: 259, 113
+  orig: 261, 117
+  offset: 0, 2
+  index: -1
+man脸
+  rotate: false
+  xy: 380, 479
+  size: 100, 114
+  orig: 100, 114
+  offset: 0, 0
+  index: -1
+ray2
+  rotate: false
+  xy: 483, 571
+  size: 22, 22
+  orig: 24, 24
+  offset: 1, 1
+  index: -1
+tx1
+  rotate: true
+  xy: 2, 23
+  size: 274, 122
+  orig: 274, 122
+  offset: 0, 0
+  index: -1
+tx2
+  rotate: true
+  xy: 126, 23
+  size: 274, 122
+  orig: 274, 122
+  offset: 0, 0
+  index: -1
+tx3
+  rotate: true
+  xy: 250, 23
+  size: 274, 122
+  orig: 274, 122
+  offset: 0, 0
+  index: -1
+woman-头
+  rotate: false
+  xy: 380, 303
+  size: 101, 102
+  orig: 104, 107
+  offset: 0, 2
+  index: -1
+woman-表情-开心
+  rotate: true
+  xy: 508, 16
+  size: 57, 51
+  orig: 104, 112
+  offset: 22, 14
+  index: -1
+woman-表情-感动
+  rotate: false
+  xy: 380, 857
+  size: 104, 112
+  orig: 104, 112
+  offset: 0, 0
+  index: -1
+woman动作1-表情-惊羞
+  rotate: false
+  xy: 374, 2
+  size: 56, 34
+  orig: 62, 50
+  offset: 3, 15
+  index: -1
+woman动作1-表情-诧异z
+  rotate: false
+  xy: 59, 6
+  size: 25, 15
+  orig: 56, 56
+  offset: 16, 4
+  index: -1
+姐夫头
+  rotate: false
+  xy: 489, 191
+  size: 93, 110
+  orig: 93, 110
+  offset: 0, 0
+  index: -1
+姐夫头2
+  rotate: false
+  xy: 489, 75
+  size: 92, 114
+  orig: 92, 114
+  offset: 0, 0
+  index: -1
+姐夫身体
+  rotate: false
+  xy: 2, 299
+  size: 376, 710
+  orig: 376, 710
+  offset: 0, 0
+  index: -1
+姐姐头
+  rotate: false
+  xy: 940, 48
+  size: 110, 117
+  orig: 110, 117
+  offset: 0, 0
+  index: -1
+姐姐头2
+  rotate: true
+  xy: 1052, 56
+  size: 109, 116
+  orig: 109, 116
+  offset: 0, 0
+  index: -1
+感叹号
+  rotate: true
+  xy: 86, 11
+  size: 10, 30
+  orig: 10, 30
+  offset: 0, 0
+  index: -1
+求婚1
+  rotate: false
+  xy: 985, 167
+  size: 160, 118
+  orig: 160, 118
+  offset: 0, 0
+  index: -1
+求婚2
+  rotate: false
+  xy: 585, 13
+  size: 205, 392
+  orig: 206, 392
+  offset: 0, 0
+  index: -1
+求婚3
+  rotate: true
+  xy: 380, 595
+  size: 166, 122
+  orig: 166, 122
+  offset: 0, 0
+  index: -1
+表情-开心
+  rotate: true
+  xy: 1052, 2
+  size: 52, 53
+  orig: 52, 53
+  offset: 0, 0
+  index: -1
+表情-开心z
+  rotate: false
+  xy: 2, 3
+  size: 29, 18
+  orig: 52, 53
+  offset: 10, 1
+  index: -1
+表情1z
+  rotate: false
+  xy: 33, 4
+  size: 24, 17
+  orig: 52, 52
+  offset: 15, 0
+  index: -1
+装逼女主-发带
+  rotate: true
+  xy: 432, 5
+  size: 31, 74
+  orig: 31, 74
+  offset: 0, 0
+  index: -1
+装逼女主-手
+  rotate: true
+  xy: 1107, 3
+  size: 51, 50
+  orig: 51, 50
+  offset: 0, 0
+  index: -1
+装逼女主-手2
+  rotate: false
+  xy: 792, 217
+  size: 191, 188
+  orig: 191, 188
+  offset: 0, 0
+  index: -1
+装逼女主-手3
+  rotate: false
+  xy: 380, 414
+  size: 42, 63
+  orig: 42, 63
+  offset: 0, 0
+  index: -1
+装逼女主-手臂
+  rotate: false
+  xy: 424, 416
+  size: 57, 61
+  orig: 57, 61
+  offset: 0, 0
+  index: -1
+装逼女主-手臂2
+  rotate: true
+  xy: 985, 287
+  size: 118, 181
+  orig: 118, 182
+  offset: 0, 0
+  index: -1
+装逼女主-身体
+  rotate: true
+  xy: 508, 407
+  size: 226, 637
+  orig: 226, 637
+  offset: 0, 0
+  index: -1
+装逼女主-马尾
+  rotate: true
+  xy: 380, 971
+  size: 38, 106
+  orig: 38, 106
+  offset: 0, 0
+  index: -1
+装逼男主-手
+  rotate: false
+  xy: 792, 7
+  size: 146, 158
+  orig: 146, 158
+  offset: 0, 0
+  index: -1
+装逼男主-身体
+  rotate: true
+  xy: 489, 837
+  size: 172, 681
+  orig: 172, 681
+  offset: 0, 0
+  index: -1
+阴影
+  rotate: true
+  xy: 1147, 434
+  size: 130, 28
+  orig: 160, 40
+  offset: 15, 6
+  index: -1

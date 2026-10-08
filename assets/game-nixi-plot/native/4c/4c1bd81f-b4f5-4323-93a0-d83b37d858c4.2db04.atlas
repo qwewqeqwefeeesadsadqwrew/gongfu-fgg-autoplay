@@ -1,0 +1,132 @@
+
+包租婆踢门特写.png
+size: 1237,1237
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+交房
+  rotate: false
+  xy: 990, 4
+  size: 123, 27
+  orig: 123, 27
+  offset: 0, 0
+  index: -1
+包租婆-bg
+  rotate: false
+  xy: 837, 850
+  size: 217, 385
+  orig: 217, 385
+  offset: 0, 0
+  index: -1
+包租婆-手
+  rotate: true
+  xy: 1056, 852
+  size: 97, 136
+  orig: 98, 136
+  offset: 0, 0
+  index: -1
+包租婆-破门
+  rotate: false
+  xy: 452, 476
+  size: 383, 759
+  orig: 383, 759
+  offset: 0, 0
+  index: -1
+包租婆-门
+  rotate: true
+  xy: 837, 488
+  size: 156, 257
+  orig: 156, 257
+  offset: 0, 0
+  index: -1
+气泡/尖叫气泡框
+  rotate: false
+  xy: 837, 646
+  size: 336, 202
+  orig: 353, 219
+  offset: 9, 8
+  index: -1
+烟雾
+  rotate: false
+  xy: 292, 2
+  size: 162, 72
+  orig: 162, 72
+  offset: 0, 0
+  index: -1
+男主防御/男主防御-bg
+  rotate: false
+  xy: 1178, 153
+  size: 41, 94
+  orig: 41, 94
+  offset: 0, 0
+  index: -1
+男主防御/男主防御-女主
+  rotate: true
+  xy: 524, 249
+  size: 225, 669
+  orig: 225, 669
+  offset: 0, 0
+  index: -1
+男主防御/男主防御-手
+  rotate: true
+  xy: 452, 323
+  size: 77, 51
+  orig: 77, 51
+  offset: 0, 0
+  index: -1
+男主防御/男主防御-男主
+  rotate: true
+  xy: 524, 23
+  size: 224, 464
+  orig: 224, 464
+  offset: 0, 0
+  index: -1
+男主防御/男主防御-男主2
+  rotate: false
+  xy: 2, 308
+  size: 448, 927
+  orig: 448, 927
+  offset: 0, 0
+  index: -1
+表现素材/写实云
+  rotate: true
+  xy: 452, 402
+  size: 72, 52
+  orig: 72, 72
+  offset: 0, 10
+  index: -1
+表现素材/啪
+  rotate: false
+  xy: 1096, 489
+  size: 137, 155
+  orig: 137, 155
+  offset: 0, 0
+  index: -1
+表现素材/尾音
+  rotate: false
+  xy: 1056, 951
+  size: 163, 284
+  orig: 163, 284
+  offset: 0, 0
+  index: -1
+表现素材/打击3
+  rotate: false
+  xy: 292, 76
+  size: 230, 230
+  orig: 230, 230
+  offset: 0, 0
+  index: -1
+表现素材/提示
+  rotate: false
+  xy: 990, 33
+  size: 186, 214
+  orig: 206, 237
+  offset: 10, 11
+  index: -1
+表现素材/速度线
+  rotate: false
+  xy: 2, 18
+  size: 288, 288
+  orig: 288, 288
+  offset: 0, 0
+  index: -1

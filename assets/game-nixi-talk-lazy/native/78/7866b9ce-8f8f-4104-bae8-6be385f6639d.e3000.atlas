@@ -1,0 +1,251 @@
+
+ch7.png
+size: 1403,1009
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg2
+  rotate: false
+  xy: 248, 84
+  size: 274, 639
+  orig: 274, 639
+  offset: 0, 0
+  index: -1
+black
+  rotate: true
+  xy: 2, 13
+  size: 27, 64
+  orig: 27, 64
+  offset: 0, 0
+  index: -1
+man脸
+  rotate: false
+  xy: 1304, 165
+  size: 95, 108
+  orig: 95, 108
+  offset: 0, 0
+  index: -1
+pa
+  rotate: false
+  xy: 1239, 642
+  size: 100, 66
+  orig: 100, 66
+  offset: 0, 0
+  index: -1
+woman-头
+  rotate: false
+  xy: 1304, 275
+  size: 97, 97
+  orig: 99, 102
+  offset: 0, 2
+  index: -1
+woman-表情-开心
+  rotate: false
+  xy: 1341, 659
+  size: 54, 49
+  orig: 98, 106
+  offset: 21, 13
+  index: -1
+woman-表情-微笑0
+  rotate: false
+  xy: 1251, 534
+  size: 98, 106
+  orig: 98, 106
+  offset: 0, 0
+  index: -1
+woman-表情-微笑0z
+  rotate: false
+  xy: 136, 25
+  size: 24, 15
+  orig: 98, 106
+  offset: 33, 15
+  index: -1
+woman-表情-感动
+  rotate: true
+  xy: 1251, 434
+  size: 98, 106
+  orig: 98, 106
+  offset: 0, 0
+  index: -1
+woman动作1-表情-诧异
+  rotate: false
+  xy: 68, 20
+  size: 46, 20
+  orig: 53, 53
+  offset: 4, 29
+  index: -1
+woman动作1-马尾
+  rotate: false
+  xy: 207, 147
+  size: 33, 100
+  orig: 33, 100
+  offset: 0, 0
+  index: -1
+woman表情-害羞躲闪z
+  rotate: false
+  xy: 116, 23
+  size: 18, 17
+  orig: 59, 46
+  offset: 16, 0
+  index: -1
+xx1
+  rotate: false
+  xy: 863, 379
+  size: 286, 48
+  orig: 286, 48
+  offset: 0, 0
+  index: -1
+xx2
+  rotate: false
+  xy: 651, 16
+  size: 286, 69
+  orig: 286, 69
+  offset: 0, 0
+  index: -1
+动作0-L手-普通
+  rotate: true
+  xy: 939, 2
+  size: 83, 276
+  orig: 83, 276
+  offset: 0, 0
+  index: -1
+动作0-R手-普通
+  rotate: true
+  xy: 237, 10
+  size: 72, 259
+  orig: 72, 259
+  offset: 0, 0
+  index: -1
+动作0-身体-普通 拷贝
+  rotate: false
+  xy: 675, 363
+  size: 186, 644
+  orig: 186, 644
+  offset: 0, 0
+  index: -1
+医院bg
+  rotate: true
+  xy: 664, 87
+  size: 274, 638
+  orig: 274, 638
+  offset: 0, 0
+  index: -1
+叫
+  rotate: false
+  xy: 1151, 366
+  size: 68, 61
+  orig: 68, 61
+  offset: 0, 0
+  index: -1
+屏保
+  rotate: false
+  xy: 863, 621
+  size: 190, 386
+  orig: 190, 386
+  offset: 0, 0
+  index: -1
+康复-手臂1
+  rotate: false
+  xy: 2, 42
+  size: 203, 205
+  orig: 203, 205
+  offset: 0, 0
+  index: -1
+康复-手臂2
+  rotate: false
+  xy: 1239, 710
+  size: 134, 139
+  orig: 134, 139
+  offset: 0, 0
+  index: -1
+康复-身体
+  rotate: false
+  xy: 2, 249
+  size: 244, 474
+  orig: 245, 474
+  offset: 1, 0
+  index: -1
+手机-
+  rotate: true
+  xy: 863, 429
+  size: 190, 386
+  orig: 190, 386
+  offset: 0, 0
+  index: -1
+手机-顶层效果
+  rotate: false
+  xy: 1055, 630
+  size: 182, 377
+  orig: 182, 378
+  offset: 0, 0
+  index: -1
+拥抱
+  rotate: true
+  xy: 2, 725
+  size: 282, 671
+  orig: 282, 671
+  offset: 0, 0
+  index: -1
+病女主-大笔R
+  rotate: true
+  xy: 1221, 374
+  size: 53, 99
+  orig: 53, 99
+  offset: 0, 0
+  index: -1
+病女主-小臂R
+  rotate: true
+  xy: 1217, 2
+  size: 83, 97
+  orig: 83, 97
+  offset: 0, 0
+  index: -1
+病女主-手臂L
+  rotate: true
+  xy: 524, 27
+  size: 103, 125
+  orig: 103, 125
+  offset: 0, 0
+  index: -1
+病女主-身体
+  rotate: false
+  xy: 524, 132
+  size: 138, 591
+  orig: 138, 591
+  offset: 0, 0
+  index: -1
+花束
+  rotate: false
+  xy: 1239, 851
+  size: 152, 156
+  orig: 152, 156
+  offset: 0, 0
+  index: -1
+表情-困惑
+  rotate: false
+  xy: 1304, 114
+  size: 49, 49
+  orig: 49, 50
+  offset: 0, 0
+  index: -1
+表情-开心
+  rotate: false
+  xy: 1316, 59
+  size: 47, 53
+  orig: 97, 117
+  offset: 36, 11
+  index: -1
+表情-开心2
+  rotate: true
+  xy: 1322, 383
+  size: 49, 51
+  orig: 49, 51
+  offset: 0, 0
+  index: -1
+阴影
+  rotate: true
+  xy: 207, 21
+  size: 124, 28
+  orig: 152, 38
+  offset: 14, 5
+  index: -1

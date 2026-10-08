@@ -1,0 +1,230 @@
+
+校服妹2.png
+size: 1442,523
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+元2-丝带1
+  rotate: true
+  xy: 844, 14
+  size: 36, 135
+  orig: 36, 135
+  offset: 0, 0
+  index: -1
+元2-丝带2
+  rotate: true
+  xy: 451, 2
+  size: 30, 122
+  orig: 30, 122
+  offset: 0, 0
+  index: -1
+元2-刘海1
+  rotate: true
+  xy: 287, 3
+  size: 25, 68
+  orig: 25, 68
+  offset: 0, 0
+  index: -1
+元2-刘海2
+  rotate: true
+  xy: 141, 15
+  size: 36, 66
+  orig: 36, 66
+  offset: 0, 0
+  index: -1
+元2-刘海3
+  rotate: true
+  xy: 1259, 8
+  size: 51, 64
+  orig: 51, 64
+  offset: 0, 0
+  index: -1
+元2-刘海4
+  rotate: true
+  xy: 357, 5
+  size: 23, 68
+  orig: 23, 69
+  offset: 0, 1
+  index: -1
+元2-刘海5
+  rotate: true
+  xy: 575, 2
+  size: 30, 70
+  orig: 30, 70
+  offset: 0, 0
+  index: -1
+元2-发丝1
+  rotate: true
+  xy: 1006, 9
+  size: 50, 136
+  orig: 50, 136
+  offset: 0, 0
+  index: -1
+元2-发丝2
+  rotate: true
+  xy: 1144, 23
+  size: 36, 113
+  orig: 36, 113
+  offset: 0, 0
+  index: -1
+元2-发丝3
+  rotate: true
+  xy: 2, 10
+  size: 41, 137
+  orig: 41, 137
+  offset: 0, 0
+  index: -1
+元2-发丝4
+  rotate: true
+  xy: 705, 2
+  size: 36, 137
+  orig: 36, 137
+  offset: 0, 0
+  index: -1
+元2-后发
+  rotate: false
+  xy: 1261, 246
+  size: 178, 275
+  orig: 178, 275
+  offset: 0, 0
+  index: -1
+元2-大臂
+  rotate: false
+  xy: 495, 34
+  size: 208, 193
+  orig: 208, 193
+  offset: 0, 0
+  index: -1
+元2-小臂
+  rotate: false
+  xy: 241, 30
+  size: 208, 103
+  orig: 208, 103
+  offset: 0, 0
+  index: -1
+元2-手笔L
+  rotate: false
+  xy: 705, 40
+  size: 119, 187
+  orig: 119, 187
+  offset: 0, 0
+  index: -1
+元2-手臂1
+  rotate: true
+  xy: 2, 135
+  size: 92, 491
+  orig: 92, 491
+  offset: 0, 0
+  index: -1
+元2-手臂2
+  rotate: true
+  xy: 2, 53
+  size: 80, 237
+  orig: 92, 491
+  offset: 0, 254
+  index: -1
+元2-眉毛1
+  rotate: true
+  xy: 790, 488
+  size: 33, 7
+  orig: 34, 7
+  offset: 0, 0
+  index: -1
+元2-眉毛2
+  rotate: true
+  xy: 981, 19
+  size: 31, 15
+  orig: 32, 15
+  offset: 0, 0
+  index: -1
+元2-眼球1
+  rotate: false
+  xy: 981, 2
+  size: 16, 15
+  orig: 16, 15
+  offset: 0, 0
+  index: -1
+元2-眼球2
+  rotate: false
+  xy: 451, 78
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+元2-眼白
+  rotate: false
+  xy: 209, 3
+  size: 76, 25
+  orig: 76, 26
+  offset: 0, 1
+  index: -1
+元2-脖子
+  rotate: false
+  xy: 826, 52
+  size: 178, 179
+  orig: 179, 179
+  offset: 1, 0
+  index: -1
+元2-脸
+  rotate: false
+  xy: 1006, 61
+  size: 160, 170
+  orig: 160, 179
+  offset: 0, 0
+  index: -1
+元2-脸红
+  rotate: false
+  xy: 1168, 61
+  size: 160, 170
+  orig: 160, 179
+  offset: 0, 0
+  index: -1
+元2-腿1
+  rotate: true
+  xy: 2, 361
+  size: 160, 786
+  orig: 160, 786
+  offset: 0, 0
+  index: -1
+元2-腿2
+  rotate: true
+  xy: 2, 229
+  size: 130, 796
+  orig: 130, 796
+  offset: 0, 0
+  index: -1
+元2-身体
+  rotate: true
+  xy: 800, 233
+  size: 288, 459
+  orig: 288, 459
+  offset: 0, 0
+  index: -1
+嘴唇
+  rotate: true
+  xy: 1330, 100
+  size: 144, 92
+  orig: 148, 92
+  offset: 0, 0
+  index: -1
+嘴巴1
+  rotate: false
+  xy: 647, 5
+  size: 45, 27
+  orig: 45, 27
+  offset: 0, 0
+  index: -1
+嘴巴2
+  rotate: false
+  xy: 451, 97
+  size: 42, 36
+  orig: 44, 37
+  offset: 1, 0
+  index: -1
+手掌
+  rotate: true
+  xy: 1330, 13
+  size: 85, 110
+  orig: 94, 120
+  offset: 2, 5
+  index: -1

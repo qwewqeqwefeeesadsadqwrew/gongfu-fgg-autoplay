@@ -1,0 +1,104 @@
+
+大澡堂_帘子正面A2.png
+size: 688,198
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+大澡堂/大澡堂_帘子
+  rotate: true
+  xy: 198, 77
+  size: 119, 122
+  orig: 119, 122
+  offset: 0, 0
+  index: -1
+大澡堂/大澡堂_帘子_滑索
+  rotate: true
+  xy: 570, 74
+  size: 8, 14
+  orig: 8, 14
+  offset: 0, 0
+  index: -1
+大澡堂/大澡堂_水1
+  rotate: false
+  xy: 493, 3
+  size: 59, 130
+  orig: 59, 130
+  offset: 0, 0
+  index: -1
+大澡堂/大澡堂_水2
+  rotate: true
+  xy: 493, 135
+  size: 61, 130
+  orig: 61, 130
+  offset: 0, 0
+  index: -1
+大澡堂/大澡堂_水3
+  rotate: false
+  xy: 625, 66
+  size: 61, 130
+  orig: 61, 130
+  offset: 0, 0
+  index: -1
+大澡堂/大澡堂_泡泡1
+  rotate: false
+  xy: 308, 2
+  size: 104, 47
+  orig: 104, 47
+  offset: 0, 0
+  index: -1
+大澡堂/大澡堂_泡泡2
+  rotate: false
+  xy: 198, 2
+  size: 108, 47
+  orig: 108, 47
+  offset: 0, 0
+  index: -1
+大澡堂/大澡堂_泡泡3
+  rotate: false
+  xy: 570, 8
+  size: 111, 56
+  orig: 111, 56
+  offset: 0, 0
+  index: -1
+大澡堂/大澡堂_滑杆
+  rotate: true
+  xy: 554, 5
+  size: 128, 14
+  orig: 128, 14
+  offset: 0, 0
+  index: -1
+大澡堂/大澡堂_花洒
+  rotate: true
+  xy: 570, 84
+  size: 49, 46
+  orig: 49, 46
+  offset: 0, 0
+  index: -1
+大澡堂/浴室A1-阴影
+  rotate: true
+  xy: 414, 11
+  size: 38, 75
+  orig: 38, 75
+  offset: 0, 0
+  index: -1
+大澡堂/浴室A2-墙
+  rotate: true
+  xy: 198, 51
+  size: 24, 243
+  orig: 24, 243
+  offset: 0, 0
+  index: -1
+烟雾2
+  rotate: false
+  xy: 322, 94
+  size: 169, 102
+  orig: 169, 102
+  offset: 0, 0
+  index: -1
+烟雾ww
+  rotate: false
+  xy: 2, 16
+  size: 194, 180
+  orig: 194, 180
+  offset: 0, 0
+  index: -1

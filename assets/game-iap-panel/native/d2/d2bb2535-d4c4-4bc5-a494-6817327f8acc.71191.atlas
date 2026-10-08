@@ -1,0 +1,174 @@
+
+6.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+s袁老师_刘海
+  rotate: true
+  xy: 592, 2
+  size: 66, 60
+  orig: 66, 60
+  offset: 0, 0
+  index: -1
+s袁老师_眼白
+  rotate: false
+  xy: 423, 17
+  size: 66, 20
+  orig: 66, 20
+  offset: 0, 0
+  index: -1
+s袁老师_脸
+  rotate: true
+  xy: 2, 17
+  size: 126, 171
+  orig: 126, 171
+  offset: 0, 0
+  index: -1
+袁老师_书本
+  rotate: false
+  xy: 537, 238
+  size: 68, 76
+  orig: 68, 76
+  offset: 0, 0
+  index: -1
+袁老师_书本阴影
+  rotate: true
+  xy: 607, 239
+  size: 75, 107
+  orig: 85, 118
+  offset: 5, 5
+  index: -1
+袁老师_大臂R
+  rotate: false
+  xy: 249, 15
+  size: 50, 146
+  orig: 50, 146
+  offset: 0, 0
+  index: -1
+袁老师_小臂R
+  rotate: true
+  xy: 175, 3
+  size: 150, 72
+  orig: 150, 72
+  offset: 0, 0
+  index: -1
+袁老师_手L
+  rotate: false
+  xy: 301, 6
+  size: 30, 31
+  orig: 104, 106
+  offset: 0, 59
+  index: -1
+袁老师_手R1
+  rotate: false
+  xy: 387, 167
+  size: 76, 53
+  orig: 77, 53
+  offset: 1, 0
+  index: -1
+袁老师_手臂2
+  rotate: false
+  xy: 125, 155
+  size: 84, 355
+  orig: 84, 355
+  offset: 0, 0
+  index: -1
+袁老师_手臂L
+  rotate: false
+  xy: 537, 316
+  size: 90, 194
+  orig: 90, 194
+  offset: 0, 0
+  index: -1
+袁老师_手臂R
+  rotate: false
+  xy: 2, 145
+  size: 121, 365
+  orig: 130, 365
+  offset: 1, 0
+  index: -1
+袁老师_旗袍后摆
+  rotate: false
+  xy: 592, 70
+  size: 73, 166
+  orig: 73, 166
+  offset: 0, 0
+  index: -1
+袁老师_旗袍裤衩子
+  rotate: true
+  xy: 301, 39
+  size: 122, 200
+  orig: 122, 209
+  offset: 0, 4
+  index: -1
+袁老师_眉毛L
+  rotate: true
+  xy: 333, 13
+  size: 24, 14
+  orig: 24, 14
+  offset: 0, 0
+  index: -1
+袁老师_眉毛R
+  rotate: false
+  xy: 491, 2
+  size: 43, 14
+  orig: 43, 14
+  offset: 0, 0
+  index: -1
+袁老师_眼镜L
+  rotate: true
+  xy: 404, 15
+  size: 22, 17
+  orig: 22, 17
+  offset: 0, 0
+  index: -1
+袁老师_眼镜R
+  rotate: true
+  xy: 491, 18
+  size: 19, 17
+  orig: 20, 17
+  offset: 0, 0
+  index: -1
+袁老师_腿L
+  rotate: false
+  xy: 387, 222
+  size: 60, 288
+  orig: 60, 288
+  offset: 0, 0
+  index: -1
+袁老师_腿R
+  rotate: false
+  xy: 449, 226
+  size: 86, 284
+  orig: 86, 284
+  offset: 0, 0
+  index: -1
+袁老师_身体
+  rotate: false
+  xy: 211, 163
+  size: 104, 347
+  orig: 104, 347
+  offset: 0, 0
+  index: -1
+袁老师_马尾
+  rotate: false
+  xy: 503, 40
+  size: 87, 184
+  orig: 87, 184
+  offset: 0, 0
+  index: -1
+袁老师_鬓发R
+  rotate: true
+  xy: 349, 15
+  size: 22, 53
+  orig: 23, 53
+  offset: 0, 0
+  index: -1
+阴影
+  rotate: true
+  xy: 317, 217
+  size: 293, 68
+  orig: 315, 90
+  offset: 11, 11
+  index: -1

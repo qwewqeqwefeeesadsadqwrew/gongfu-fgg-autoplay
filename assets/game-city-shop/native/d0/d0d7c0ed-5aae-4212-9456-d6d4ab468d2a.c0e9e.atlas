@@ -1,0 +1,76 @@
+
+初始店主3.png
+size: 188,188
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+头-包租公脸红
+  rotate: true
+  xy: 163, 13
+  size: 46, 23
+  orig: 51, 25
+  offset: 1, 1
+  index: -1
+裁缝店/胜哥_头
+  rotate: true
+  xy: 2, 27
+  size: 69, 78
+  orig: 70, 78
+  offset: 1, 0
+  index: -1
+裁缝店/胜哥_头2
+  rotate: false
+  xy: 2, 98
+  size: 70, 88
+  orig: 70, 100
+  offset: 0, 1
+  index: -1
+裁缝店/胜哥_头3
+  rotate: true
+  xy: 74, 117
+  size: 69, 78
+  orig: 70, 78
+  offset: 1, 0
+  index: -1
+裁缝店/胜哥_手臂
+  rotate: false
+  xy: 154, 122
+  size: 25, 64
+  orig: 25, 64
+  offset: 0, 0
+  index: -1
+裁缝店/胜哥_腿
+  rotate: false
+  xy: 156, 61
+  size: 30, 59
+  orig: 30, 59
+  offset: 0, 0
+  index: -1
+裁缝店/胜哥_身体
+  rotate: false
+  xy: 104, 46
+  size: 50, 69
+  orig: 50, 69
+  offset: 0, 0
+  index: -1
+路人/路人_头嘴巴
+  rotate: true
+  xy: 82, 66
+  size: 30, 12
+  orig: 30, 12
+  offset: 0, 0
+  index: -1
+路人/张开的大嘴
+  rotate: false
+  xy: 74, 98
+  size: 28, 17
+  orig: 28, 17
+  offset: 0, 0
+  index: -1
+阴影
+  rotate: false
+  xy: 82, 12
+  size: 79, 32
+  orig: 81, 34
+  offset: 1, 1
+  index: -1

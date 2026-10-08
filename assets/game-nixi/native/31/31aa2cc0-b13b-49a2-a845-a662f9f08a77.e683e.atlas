@@ -1,0 +1,573 @@
+
+人.png
+size: 1202,1202
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1_0000
+  rotate: true
+  xy: 164, 111
+  size: 179, 155
+  orig: 252, 252
+  offset: 32, 42
+  index: -1
+1_0001
+  rotate: true
+  xy: 460, 748
+  size: 184, 180
+  orig: 252, 252
+  offset: 29, 27
+  index: -1
+1_0002
+  rotate: true
+  xy: 2, 342
+  size: 172, 170
+  orig: 252, 252
+  offset: 47, 35
+  index: -1
+1_0003
+  rotate: true
+  xy: 2, 516
+  size: 189, 178
+  orig: 252, 252
+  offset: 40, 33
+  index: -1
+1_0004
+  rotate: true
+  xy: 182, 512
+  size: 193, 171
+  orig: 252, 252
+  offset: 44, 40
+  index: -1
+1_0005
+  rotate: false
+  xy: 886, 1049
+  size: 158, 151
+  orig: 252, 252
+  offset: 43, 41
+  index: -1
+bullet1
+  rotate: true
+  xy: 626, 550
+  size: 28, 27
+  orig: 28, 28
+  offset: 0, 1
+  index: -1
+bullet2
+  rotate: false
+  xy: 125, 86
+  size: 32, 34
+  orig: 32, 34
+  offset: 0, 0
+  index: -1
+syr1
+  rotate: true
+  xy: 2, 707
+  size: 222, 227
+  orig: 226, 231
+  offset: 2, 2
+  index: -1
+syr2
+  rotate: true
+  xy: 231, 707
+  size: 222, 227
+  orig: 226, 231
+  offset: 2, 2
+  index: -1
+syr3
+  rotate: true
+  xy: 272, 978
+  size: 222, 227
+  orig: 226, 231
+  offset: 2, 2
+  index: -1
+syr4
+  rotate: true
+  xy: 501, 978
+  size: 222, 227
+  orig: 226, 231
+  offset: 2, 2
+  index: -1
+光球
+  rotate: false
+  xy: 1108, 337
+  size: 63, 63
+  orig: 116, 108
+  offset: 27, 22
+  index: -1
+冲击波
+  rotate: false
+  xy: 2, 931
+  size: 268, 269
+  orig: 270, 270
+  offset: 1, 0
+  index: -1
+刀光2
+  rotate: false
+  xy: 1088, 481
+  size: 107, 75
+  orig: 108, 77
+  offset: 0, 1
+  index: -1
+刀光3
+  rotate: false
+  xy: 1100, 852
+  size: 99, 72
+  orig: 108, 77
+  offset: 6, 3
+  index: -1
+刀光4
+  rotate: false
+  xy: 1119, 211
+  size: 54, 66
+  orig: 108, 77
+  offset: 52, 3
+  index: -1
+刀光5
+  rotate: true
+  xy: 826, 923
+  size: 55, 58
+  orig: 108, 77
+  offset: 50, 2
+  index: -1
+升级--手臂2
+  rotate: true
+  xy: 973, 30
+  size: 52, 144
+  orig: 52, 144
+  offset: 0, 0
+  index: -1
+升级-手
+  rotate: false
+  xy: 640, 4
+  size: 44, 38
+  orig: 44, 38
+  offset: 0, 0
+  index: -1
+升级-手掌
+  rotate: true
+  xy: 1050, 86
+  size: 46, 66
+  orig: 46, 66
+  offset: 0, 0
+  index: -1
+升级-手臂
+  rotate: true
+  xy: 674, 97
+  size: 113, 108
+  orig: 113, 108
+  offset: 0, 0
+  index: -1
+升级-手臂顶天
+  rotate: false
+  xy: 678, 345
+  size: 95, 197
+  orig: 95, 197
+  offset: 0, 0
+  index: -1
+升级-结尾右手
+  rotate: true
+  xy: 976, 827
+  size: 94, 122
+  orig: 94, 122
+  offset: 0, 0
+  index: -1
+升级-结尾左手
+  rotate: true
+  xy: 2, 2
+  size: 118, 121
+  orig: 118, 121
+  offset: 0, 0
+  index: -1
+升级/头
+  rotate: true
+  xy: 890, 923
+  size: 124, 156
+  orig: 124, 156
+  offset: 0, 0
+  index: -1
+升级/字
+  rotate: false
+  xy: 460, 525
+  size: 60, 221
+  orig: 60, 240
+  offset: 0, 9
+  index: -1
+升级/旋风1
+  rotate: false
+  xy: 670, 822
+  size: 154, 154
+  orig: 154, 154
+  offset: 0, 0
+  index: -1
+升级/烟圈
+  rotate: false
+  xy: 321, 19
+  size: 130, 100
+  orig: 130, 100
+  offset: 0, 0
+  index: -1
+升级/烟雾
+  rotate: true
+  xy: 522, 527
+  size: 51, 102
+  orig: 51, 102
+  offset: 0, 0
+  index: -1
+升级/烟雾2
+  rotate: false
+  xy: 1089, 402
+  size: 77, 77
+  orig: 77, 77
+  offset: 0, 0
+  index: -1
+升级/烟雾3
+  rotate: false
+  xy: 1001, 279
+  size: 105, 105
+  orig: 105, 105
+  offset: 0, 0
+  index: -1
+升级/金光
+  rotate: false
+  xy: 592, 225
+  size: 82, 136
+  orig: 82, 136
+  offset: 0, 0
+  index: -1
+地裂
+  rotate: false
+  xy: 730, 1046
+  size: 154, 154
+  orig: 154, 154
+  offset: 0, 0
+  index: -1
+墩子
+  rotate: false
+  xy: 674, 44
+  size: 102, 51
+  orig: 106, 58
+  offset: 1, 7
+  index: -1
+打击3
+  rotate: true
+  xy: 669, 679
+  size: 141, 150
+  orig: 154, 154
+  offset: 9, 4
+  index: -1
+树状光
+  rotate: true
+  xy: 159, 87
+  size: 22, 100
+  orig: 116, 108
+  offset: 51, 8
+  index: -1
+棒子s
+  rotate: false
+  xy: 642, 752
+  size: 25, 180
+  orig: 25, 180
+  offset: 0, 0
+  index: -1
+气浪
+  rotate: false
+  xy: 956, 546
+  size: 130, 93
+  orig: 137, 147
+  offset: 5, 27
+  index: -1
+汗珠
+  rotate: false
+  xy: 626, 529
+  size: 26, 19
+  orig: 26, 19
+  offset: 0, 0
+  index: -1
+演员的自我修养
+  rotate: false
+  xy: 816, 555
+  size: 138, 122
+  orig: 138, 122
+  offset: 0, 0
+  index: -1
+演员的自我修养_书页
+  rotate: false
+  xy: 901, 2
+  size: 70, 103
+  orig: 70, 103
+  offset: 0, 0
+  index: -1
+烟雾ww
+  rotate: true
+  xy: 1088, 558
+  size: 116, 108
+  orig: 116, 108
+  offset: 0, 0
+  index: -1
+看书大臂L
+  rotate: true
+  xy: 935, 386
+  size: 56, 152
+  orig: 56, 152
+  offset: 0, 0
+  index: -1
+看书大臂Lp2
+  rotate: true
+  xy: 730, 980
+  size: 64, 158
+  orig: 90, 180
+  offset: 14, 14
+  index: -1
+看书大臂R
+  rotate: false
+  xy: 975, 84
+  size: 73, 146
+  orig: 73, 146
+  offset: 0, 0
+  index: -1
+看书大臂Rp2
+  rotate: false
+  xy: 592, 77
+  size: 80, 146
+  orig: 90, 146
+  offset: 5, 0
+  index: -1
+看书头
+  rotate: false
+  xy: 336, 272
+  size: 119, 145
+  orig: 119, 145
+  offset: 0, 0
+  index: -1
+看书小臂L
+  rotate: true
+  xy: 1108, 279
+  size: 56, 58
+  orig: 56, 58
+  offset: 0, 0
+  index: -1
+看书小臂R
+  rotate: true
+  xy: 826, 822
+  size: 99, 148
+  orig: 119, 209
+  offset: 20, 0
+  index: -1
+看书手L
+  rotate: true
+  xy: 1050, 134
+  size: 58, 73
+  orig: 58, 73
+  offset: 0, 0
+  index: -1
+看书手R
+  rotate: true
+  xy: 554, 5
+  size: 50, 84
+  orig: 50, 84
+  offset: 0, 0
+  index: -1
+碎肉
+  rotate: true
+  xy: 355, 585
+  size: 120, 103
+  orig: 120, 115
+  offset: 0, 7
+  index: -1
+肉丸_1敲打_上臂
+  rotate: false
+  xy: 174, 292
+  size: 160, 218
+  orig: 160, 218
+  offset: 0, 0
+  index: -1
+肉丸_1敲打_上臂p2
+  rotate: true
+  xy: 459, 363
+  size: 160, 217
+  orig: 160, 218
+  offset: 0, 1
+  index: -1
+肉丸_1敲打_上臂s
+  rotate: true
+  xy: 784, 25
+  size: 80, 115
+  orig: 80, 120
+  offset: 0, 5
+  index: -1
+肉丸_1敲打_上臂sp2
+  rotate: false
+  xy: 2, 122
+  size: 160, 218
+  orig: 160, 218
+  offset: 0, 0
+  index: -1
+肉丸_1敲打_下臂
+  rotate: false
+  xy: 962, 641
+  size: 123, 179
+  orig: 123, 180
+  offset: 0, 1
+  index: -1
+肉丸_1敲打_下臂p2
+  rotate: true
+  xy: 820, 232
+  size: 123, 179
+  orig: 123, 180
+  offset: 0, 1
+  index: -1
+肉丸_2敲打_上臂
+  rotate: true
+  xy: 775, 357
+  size: 85, 158
+  orig: 86, 158
+  offset: 0, 0
+  index: -1
+肉丸_2敲打_上臂p2
+  rotate: false
+  xy: 355, 419
+  size: 102, 164
+  orig: 120, 180
+  offset: 14, 10
+  index: -1
+肉丸_2敲打_下臂
+  rotate: true
+  xy: 973, 465
+  size: 79, 106
+  orig: 79, 106
+  offset: 0, 0
+  index: -1
+肉丸_2敲打_手
+  rotate: true
+  xy: 522, 580
+  size: 166, 133
+  orig: 166, 133
+  offset: 0, 0
+  index: -1
+肉丸_2敲打_手p2
+  rotate: false
+  xy: 657, 544
+  size: 157, 133
+  orig: 166, 133
+  offset: 0, 0
+  index: -1
+肉丸_2敲打_手s
+  rotate: true
+  xy: 1050, 194
+  size: 83, 67
+  orig: 83, 67
+  offset: 0, 0
+  index: -1
+肉丸_2敲打_手sp2
+  rotate: true
+  xy: 457, 204
+  size: 157, 133
+  orig: 166, 133
+  offset: 0, 0
+  index: -1
+肉丸_头_击打
+  rotate: false
+  xy: 1048, 926
+  size: 113, 149
+  orig: 124, 156
+  offset: 5, 1
+  index: -1
+肉丸_头_击打0
+  rotate: false
+  xy: 1087, 676
+  size: 113, 149
+  orig: 124, 156
+  offset: 5, 1
+  index: -1
+肉丸_头_击打mh
+  rotate: false
+  xy: 321, 121
+  size: 131, 149
+  orig: 180, 156
+  offset: 24, 1
+  index: -1
+肉丸_头_收工
+  rotate: true
+  xy: 1046, 1077
+  size: 123, 153
+  orig: 124, 156
+  offset: 1, 0
+  index: -1
+肉丸_头_收工_吐气
+  rotate: true
+  xy: 820, 107
+  size: 123, 153
+  orig: 124, 156
+  offset: 1, 0
+  index: -1
+肉丸_收工_大臂
+  rotate: true
+  xy: 821, 689
+  size: 131, 139
+  orig: 131, 139
+  offset: 0, 0
+  index: -1
+肉丸_收工_大臂p2
+  rotate: true
+  xy: 676, 212
+  size: 131, 142
+  orig: 131, 144
+  offset: 0, 2
+  index: -1
+肉丸_收工_小臂
+  rotate: false
+  xy: 125, 6
+  size: 194, 78
+  orig: 194, 79
+  offset: 0, 0
+  index: -1
+肉丸_身体
+  rotate: false
+  xy: 454, 6
+  size: 98, 196
+  orig: 98, 196
+  offset: 0, 0
+  index: -1
+肉丸_身体p2
+  rotate: true
+  xy: 775, 444
+  size: 98, 196
+  orig: 98, 196
+  offset: 0, 0
+  index: -1
+走地烟雾
+  rotate: false
+  xy: 272, 933
+  size: 92, 43
+  orig: 108, 48
+  offset: 8, 3
+  index: -1
+走地烟雾2
+  rotate: true
+  xy: 1119, 41
+  size: 91, 48
+  orig: 91, 48
+  offset: 0, 0
+  index: -1
+速度线3
+  rotate: false
+  xy: 554, 57
+  size: 35, 145
+  orig: 43, 147
+  offset: 5, 2
+  index: -1
+锤光s
+  rotate: true
+  xy: 366, 934
+  size: 42, 150
+  orig: 42, 150
+  offset: 0, 0
+  index: -1
+锤光sp2
+  rotate: true
+  xy: 518, 934
+  size: 42, 150
+  orig: 42, 150
+  offset: 0, 0
+  index: -1

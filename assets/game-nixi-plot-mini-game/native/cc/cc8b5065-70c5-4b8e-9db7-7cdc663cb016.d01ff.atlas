@@ -1,0 +1,188 @@
+
+fire_game.png
+size: 3265,3265
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 1113, 34
+  size: 199, 59
+  orig: 199, 59
+  offset: 0, 0
+  index: -1
+2
+  rotate: true
+  xy: 524, 13
+  size: 220, 86
+  orig: 220, 86
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 1484, 48
+  size: 157, 53
+  orig: 157, 53
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 1643, 48
+  size: 136, 53
+  orig: 136, 53
+  offset: 0, 0
+  index: -1
+by
+  rotate: false
+  xy: 2429, 772
+  size: 283, 283
+  orig: 283, 283
+  offset: 0, 0
+  index: -1
+tx1
+  rotate: false
+  xy: 1882, 967
+  size: 383, 780
+  orig: 383, 780
+  offset: 0, 0
+  index: -1
+tx2
+  rotate: false
+  xy: 2267, 1057
+  size: 340, 690
+  orig: 340, 690
+  offset: 0, 0
+  index: -1
+txbg
+  rotate: false
+  xy: 2, 235
+  size: 648, 1512
+  orig: 648, 1512
+  offset: 0, 0
+  index: -1
+txzz
+  rotate: false
+  xy: 652, 235
+  size: 648, 1512
+  orig: 648, 1512
+  offset: 0, 0
+  index: -1
+人影
+  rotate: false
+  xy: 2714, 927
+  size: 140, 128
+  orig: 141, 129
+  offset: 1, 1
+  index: -1
+图层 1
+  rotate: false
+  xy: 770, 30
+  size: 341, 203
+  orig: 488, 204
+  offset: 77, 0
+  index: -1
+对话框1
+  rotate: false
+  xy: 1174, 48
+  size: 254, 185
+  orig: 254, 185
+  offset: 0, 0
+  index: -1
+手
+  rotate: true
+  xy: 2609, 1415
+  size: 332, 390
+  orig: 332, 390
+  offset: 0, 0
+  index: -1
+打火机
+  rotate: false
+  xy: 1302, 857
+  size: 108, 47
+  orig: 108, 49
+  offset: 0, 1
+  index: -1
+摄像头
+  rotate: false
+  xy: 2994, 1010
+  size: 177, 131
+  orig: 177, 131
+  offset: 0, 0
+  index: -1
+油桶
+  rotate: false
+  xy: 2994, 1143
+  size: 267, 255
+  orig: 268, 255
+  offset: 0, 0
+  index: -1
+消防栓
+  rotate: true
+  xy: 2609, 1057
+  size: 356, 383
+  orig: 384, 384
+  offset: 12, 1
+  index: -1
+火焰1
+  rotate: false
+  xy: 612, 22
+  size: 156, 211
+  orig: 164, 226
+  offset: 5, 8
+  index: -1
+火焰3
+  rotate: true
+  xy: 2267, 913
+  size: 142, 160
+  orig: 150, 166
+  offset: 3, 5
+  index: -1
+火焰4
+  rotate: true
+  xy: 3001, 1400
+  size: 347, 257
+  orig: 427, 270
+  offset: 5, 9
+  index: -1
+火焰5
+  rotate: true
+  xy: 1430, 103
+  size: 801, 416
+  orig: 805, 543
+  offset: 4, 0
+  index: -1
+火焰6
+  rotate: true
+  xy: 1848, 123
+  size: 781, 518
+  orig: 785, 524
+  offset: 0, 5
+  index: -1
+烟头
+  rotate: true
+  xy: 1430, 16
+  size: 85, 52
+  orig: 85, 52
+  offset: 0, 0
+  index: -1
+背景
+  rotate: false
+  xy: 2, 1749
+  size: 3261, 1514
+  orig: 3261, 1514
+  offset: 0, 0
+  index: -1
+脚印
+  rotate: false
+  xy: 2, 10
+  size: 520, 223
+  orig: 520, 223
+  offset: 0, 0
+  index: -1
+飘飘
+  rotate: true
+  xy: 1302, 906
+  size: 841, 578
+  orig: 842, 578
+  offset: 0, 0
+  index: -1

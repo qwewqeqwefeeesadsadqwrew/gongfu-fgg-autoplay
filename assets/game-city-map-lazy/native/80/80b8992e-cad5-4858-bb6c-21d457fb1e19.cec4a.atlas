@@ -1,0 +1,55 @@
+
+浴室_装饰动画.png
+size: 294,203
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+水花1
+  rotate: true
+  xy: 2, 4
+  size: 17, 9
+  orig: 19, 9
+  offset: 1, 0
+  index: -1
+水花2
+  rotate: false
+  xy: 13, 10
+  size: 29, 11
+  orig: 29, 11
+  offset: 0, 0
+  index: -1
+水花3
+  rotate: false
+  xy: 44, 12
+  size: 28, 9
+  orig: 30, 9
+  offset: 1, 0
+  index: -1
+浴室1-门
+  rotate: true
+  xy: 166, 119
+  size: 82, 126
+  orig: 84, 128
+  offset: 1, 0
+  index: -1
+浴室水滴
+  rotate: true
+  xy: 13, 2
+  size: 6, 41
+  orig: 6, 43
+  offset: 0, 0
+  index: -1
+灯
+  rotate: true
+  xy: 166, 9
+  size: 108, 106
+  orig: 126, 120
+  offset: 9, 9
+  index: -1
+烟雾ww
+  rotate: true
+  xy: 2, 23
+  size: 178, 162
+  orig: 194, 180
+  offset: 8, 8
+  index: -1

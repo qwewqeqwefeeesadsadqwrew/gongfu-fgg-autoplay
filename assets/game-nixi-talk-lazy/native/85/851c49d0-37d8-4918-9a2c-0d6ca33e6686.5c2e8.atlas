@@ -1,0 +1,174 @@
+
+女教师2.png
+size: 380,1030
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chizi1
+  rotate: true
+  xy: 2, 142
+  size: 364, 54
+  orig: 368, 56
+  offset: 2, 1
+  index: -1
+dabil
+  rotate: true
+  xy: 58, 106
+  size: 60, 165
+  orig: 60, 165
+  offset: 0, 0
+  index: -1
+dabir
+  rotate: true
+  xy: 58, 168
+  size: 63, 171
+  orig: 63, 172
+  offset: 0, 1
+  index: -1
+lian
+  rotate: false
+  xy: 257, 386
+  size: 118, 143
+  orig: 118, 143
+  offset: 0, 0
+  index: -1
+qunzi
+  rotate: false
+  xy: 58, 233
+  size: 197, 273
+  orig: 197, 275
+  offset: 0, 1
+  index: -1
+shengti
+  rotate: false
+  xy: 222, 771
+  size: 156, 257
+  orig: 156, 257
+  offset: 0, 0
+  index: -1
+shoul
+  rotate: true
+  xy: 154, 19
+  size: 85, 59
+  orig: 87, 61
+  offset: 1, 1
+  index: -1
+shour
+  rotate: true
+  xy: 291, 18
+  size: 66, 48
+  orig: 71, 51
+  offset: 2, 1
+  index: -1
+toufa1
+  rotate: true
+  xy: 2, 67
+  size: 73, 51
+  orig: 73, 51
+  offset: 0, 0
+  index: -1
+toufa2
+  rotate: true
+  xy: 222, 531
+  size: 64, 154
+  orig: 65, 155
+  offset: 1, 1
+  index: -1
+toufa3
+  rotate: true
+  xy: 349, 678
+  size: 37, 22
+  orig: 39, 25
+  offset: 1, 1
+  index: -1
+toufa4
+  rotate: true
+  xy: 257, 213
+  size: 59, 102
+  orig: 60, 102
+  offset: 1, 0
+  index: -1
+toufa5
+  rotate: true
+  xy: 55, 49
+  size: 55, 97
+  orig: 57, 100
+  offset: 1, 2
+  index: -1
+tuil
+  rotate: false
+  xy: 109, 517
+  size: 111, 511
+  orig: 111, 511
+  offset: 0, 0
+  index: -1
+tuir
+  rotate: false
+  xy: 2, 508
+  size: 105, 520
+  orig: 105, 520
+  offset: 0, 0
+  index: -1
+xiaobil
+  rotate: false
+  xy: 231, 146
+  size: 110, 65
+  orig: 110, 65
+  offset: 0, 0
+  index: -1
+xiaobir
+  rotate: true
+  xy: 215, 35
+  size: 49, 74
+  orig: 49, 74
+  offset: 0, 0
+  index: -1
+yanbai
+  rotate: true
+  xy: 349, 717
+  size: 52, 26
+  orig: 54, 28
+  offset: 1, 1
+  index: -1
+yanjing
+  rotate: false
+  xy: 225, 86
+  size: 99, 58
+  orig: 101, 60
+  offset: 1, 1
+  index: -1
+yanjingl
+  rotate: false
+  xy: 222, 519
+  size: 11, 10
+  orig: 13, 12
+  offset: 1, 1
+  index: -1
+yanjingr
+  rotate: false
+  xy: 359, 374
+  size: 10, 10
+  orig: 12, 12
+  offset: 1, 1
+  index: -1
+亲嘴
+  rotate: false
+  xy: 257, 274
+  size: 100, 110
+  orig: 100, 110
+  offset: 0, 0
+  index: -1
+嘴巴
+  rotate: true
+  xy: 2, 2
+  size: 63, 50
+  orig: 174, 228
+  offset: 47, 10
+  index: -1
+手掌
+  rotate: false
+  xy: 222, 597
+  size: 125, 172
+  orig: 134, 172
+  offset: 0, 0
+  index: -1

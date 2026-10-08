@@ -1,0 +1,13 @@
+
+zhurongfuren_skill_loop.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+zhurongfuren_weaponr2
+  rotate: false
+  xy: 2, 2
+  size: 188, 200
+  orig: 200, 200
+  offset: 3, 0
+  index: -1

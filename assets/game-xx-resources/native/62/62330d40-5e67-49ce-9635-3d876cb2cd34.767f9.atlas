@@ -1,0 +1,174 @@
+
+boss_world5.png
+size: 2112,2112
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: false
+  xy: 590, 314
+  size: 288, 672
+  orig: 288, 672
+  offset: 0, 0
+  index: -1
+bg_qianj
+  rotate: false
+  xy: 1516, 1483
+  size: 576, 627
+  orig: 576, 634
+  offset: 0, 0
+  index: -1
+bgblack
+  rotate: false
+  xy: 2030, 1347
+  size: 58, 134
+  orig: 58, 134
+  offset: 0, 0
+  index: -1
+bgc
+  rotate: false
+  xy: 1364, 1021
+  size: 192, 448
+  orig: 192, 448
+  offset: 0, 0
+  index: -1
+eye
+  rotate: true
+  xy: 1834, 268
+  size: 227, 143
+  orig: 240, 160
+  offset: 6, 8
+  index: -1
+eye_ray
+  rotate: false
+  xy: 1429, 174
+  size: 108, 74
+  orig: 117, 83
+  offset: 6, 3
+  index: -1
+pifeng
+  rotate: true
+  xy: 1277, 458
+  size: 551, 289
+  orig: 551, 289
+  offset: 0, 0
+  index: -1
+redeye
+  rotate: true
+  xy: 1927, 734
+  size: 321, 68
+  orig: 334, 80
+  offset: 7, 6
+  index: -1
+sanguang
+  rotate: true
+  xy: 892, 2
+  size: 25, 40
+  orig: 51, 51
+  offset: 13, 5
+  index: -1
+sdaw
+  rotate: true
+  xy: 1221, 48
+  size: 200, 206
+  orig: 200, 206
+  offset: 0, 0
+  index: -1
+star
+  rotate: false
+  xy: 794, 1471
+  size: 720, 639
+  orig: 800, 800
+  offset: 59, 78
+  index: -1
+xuanzhuan
+  rotate: false
+  xy: 590, 3
+  size: 300, 309
+  orig: 320, 329
+  offset: 10, 10
+  index: -1
+yangjian_beishi
+  rotate: false
+  xy: 1568, 712
+  size: 357, 343
+  orig: 357, 343
+  offset: 0, 0
+  index: -1
+yangjian_body
+  rotate: false
+  xy: 2, 988
+  size: 790, 1122
+  orig: 790, 1122
+  offset: 0, 0
+  index: -1
+yangjian_diaodai
+  rotate: false
+  xy: 1277, 250
+  size: 273, 206
+  orig: 273, 206
+  offset: 0, 0
+  index: -1
+yangjian_diaozui
+  rotate: false
+  xy: 892, 171
+  size: 327, 213
+  orig: 327, 214
+  offset: 0, 0
+  index: -1
+yangjian_diaozui2
+  rotate: true
+  xy: 880, 386
+  size: 623, 395
+  orig: 623, 395
+  offset: 0, 0
+  index: -1
+yangjian_diaozui3
+  rotate: false
+  xy: 1558, 1057
+  size: 496, 136
+  orig: 496, 137
+  offset: 0, 1
+  index: -1
+yangjian_hair
+  rotate: false
+  xy: 1558, 1195
+  size: 470, 286
+  orig: 470, 287
+  offset: 0, 1
+  index: -1
+yangjian_handL1
+  rotate: false
+  xy: 2, 5
+  size: 586, 981
+  orig: 586, 981
+  offset: 0, 0
+  index: -1
+yangjian_handR
+  rotate: false
+  xy: 794, 1011
+  size: 568, 458
+  orig: 568, 458
+  offset: 0, 0
+  index: -1
+yangjian_head
+  rotate: true
+  xy: 1568, 257
+  size: 238, 264
+  orig: 238, 264
+  offset: 0, 0
+  index: -1
+yangjian_jianjiaL
+  rotate: false
+  xy: 1568, 497
+  size: 371, 213
+  orig: 373, 213
+  offset: 1, 0
+  index: -1
+yun3
+  rotate: false
+  xy: 892, 29
+  size: 296, 140
+  orig: 300, 181
+  offset: 3, 4
+  index: -1

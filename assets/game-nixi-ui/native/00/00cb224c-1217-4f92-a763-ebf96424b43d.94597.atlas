@@ -1,0 +1,27 @@
+
+弹窗.png
+size: 734,734
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+截取光
+  rotate: false
+  xy: 410, 611
+  size: 322, 121
+  orig: 323, 123
+  offset: 1, 1
+  index: -1
+狗
+  rotate: false
+  xy: 2, 650
+  size: 82, 82
+  orig: 82, 82
+  offset: 0, 0
+  index: -1
+绿色-框
+  rotate: false
+  xy: 86, 611
+  size: 322, 121
+  orig: 323, 123
+  offset: 1, 1
+  index: -1

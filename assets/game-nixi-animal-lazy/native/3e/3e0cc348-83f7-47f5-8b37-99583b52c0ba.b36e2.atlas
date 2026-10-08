@@ -1,0 +1,216 @@
+
+duck.png
+size: 787,787
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tly下颚
+  rotate: true
+  xy: 720, 40
+  size: 67, 56
+  orig: 67, 62
+  offset: 0, 0
+  index: -1
+tly嘴巴
+  rotate: false
+  xy: 449, 8
+  size: 67, 65
+  orig: 67, 65
+  offset: 0, 0
+  index: -1
+tly翅膀
+  rotate: false
+  xy: 319, 217
+  size: 199, 140
+  orig: 199, 140
+  offset: 0, 0
+  index: -1
+tly脖子
+  rotate: false
+  xy: 652, 565
+  size: 122, 220
+  orig: 122, 220
+  offset: 0, 0
+  index: -1
+tly身体
+  rotate: false
+  xy: 328, 592
+  size: 322, 193
+  orig: 322, 193
+  offset: 0, 0
+  index: -1
+tly鸭头
+  rotate: false
+  xy: 642, 456
+  size: 140, 107
+  orig: 180, 135
+  offset: 37, 28
+  index: -1
+可达鸭下颚
+  rotate: false
+  xy: 518, 10
+  size: 67, 56
+  orig: 67, 62
+  offset: 0, 0
+  index: -1
+可达鸭嘴上
+  rotate: false
+  xy: 310, 2
+  size: 68, 71
+  orig: 68, 71
+  offset: 0, 0
+  index: -1
+可达鸭翅膀
+  rotate: false
+  xy: 2, 40
+  size: 199, 140
+  orig: 199, 140
+  offset: 0, 0
+  index: -1
+可达鸭脖子
+  rotate: false
+  xy: 204, 107
+  size: 113, 217
+  orig: 114, 218
+  offset: 0, 1
+  index: -1
+可达鸭脚前
+  rotate: true
+  xy: 520, 249
+  size: 108, 104
+  orig: 108, 105
+  offset: 0, 0
+  index: -1
+可达鸭脚后
+  rotate: false
+  xy: 626, 152
+  size: 92, 93
+  orig: 92, 93
+  offset: 0, 0
+  index: -1
+可达鸭身体
+  rotate: false
+  xy: 2, 396
+  size: 322, 193
+  orig: 322, 193
+  offset: 0, 0
+  index: -1
+可达鸭鸭头
+  rotate: false
+  xy: 626, 247
+  size: 104, 101
+  orig: 104, 180
+  offset: 0, 51
+  index: -1
+可达鸭鸭头-闭眼
+  rotate: false
+  xy: 520, 146
+  size: 104, 101
+  orig: 104, 180
+  offset: 0, 51
+  index: -1
+野鸭子下颚
+  rotate: true
+  xy: 720, 178
+  size: 67, 56
+  orig: 67, 62
+  offset: 0, 0
+  index: -1
+野鸭子翅膀
+  rotate: false
+  xy: 319, 75
+  size: 198, 140
+  orig: 201, 140
+  offset: 0, 0
+  index: -1
+野鸭子脖子
+  rotate: true
+  xy: 326, 359
+  size: 113, 217
+  orig: 114, 218
+  offset: 0, 1
+  index: -1
+野鸭子脚前
+  rotate: false
+  xy: 641, 350
+  size: 108, 104
+  orig: 108, 105
+  offset: 0, 0
+  index: -1
+野鸭子脚后
+  rotate: false
+  xy: 626, 57
+  size: 92, 93
+  orig: 92, 93
+  offset: 0, 0
+  index: -1
+野鸭子鸭头
+  rotate: false
+  xy: 519, 68
+  size: 104, 76
+  orig: 104, 76
+  offset: 0, 0
+  index: -1
+阴影
+  rotate: false
+  xy: 2, 326
+  size: 293, 68
+  orig: 315, 90
+  offset: 11, 11
+  index: -1
+鸭_下颚
+  rotate: true
+  xy: 720, 109
+  size: 67, 56
+  orig: 68, 64
+  offset: 0, 1
+  index: -1
+鸭_嘴1
+  rotate: false
+  xy: 380, 6
+  size: 67, 67
+  orig: 68, 67
+  offset: 1, 0
+  index: -1
+鸭_翅膀
+  rotate: false
+  xy: 2, 182
+  size: 200, 142
+  orig: 209, 142
+  offset: 0, 0
+  index: -1
+鸭_脖子
+  rotate: true
+  xy: 328, 474
+  size: 116, 220
+  orig: 116, 220
+  offset: 0, 0
+  index: -1
+鸭_脚前
+  rotate: true
+  xy: 550, 480
+  size: 110, 90
+  orig: 110, 107
+  offset: 0, 0
+  index: -1
+鸭_脚后
+  rotate: false
+  xy: 545, 359
+  size: 94, 95
+  orig: 94, 95
+  offset: 0, 0
+  index: -1
+鸭_身体
+  rotate: false
+  xy: 2, 591
+  size: 324, 194
+  orig: 324, 194
+  offset: 0, 0
+  index: -1
+鸭_鸭头
+  rotate: false
+  xy: 203, 28
+  size: 105, 77
+  orig: 105, 77
+  offset: 0, 0
+  index: -1

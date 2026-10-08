@@ -1,0 +1,160 @@
+
+wenchou.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hero_effect_box2
+  rotate: false
+  xy: 2, 61
+  size: 82, 82
+  orig: 82, 82
+  offset: 0, 0
+  index: -1
+hero_effect_box3
+  rotate: false
+  xy: 86, 61
+  size: 82, 82
+  orig: 82, 82
+  offset: 0, 0
+  index: -1
+hero_eye_cry
+  rotate: false
+  xy: 319, 190
+  size: 42, 51
+  orig: 42, 51
+  offset: 0, 0
+  index: -1
+wenchou_body
+  rotate: true
+  xy: 371, 223
+  size: 142, 108
+  orig: 142, 108
+  offset: 0, 0
+  index: -1
+wenchou_eye
+  rotate: true
+  xy: 481, 292
+  size: 10, 12
+  orig: 11, 12
+  offset: 1, 0
+  index: -1
+wenchou_eyebrow
+  rotate: true
+  xy: 473, 176
+  size: 45, 36
+  orig: 45, 37
+  offset: 0, 1
+  index: -1
+wenchou_eyewhite
+  rotate: false
+  xy: 319, 50
+  size: 40, 38
+  orig: 40, 39
+  offset: 0, 0
+  index: -1
+wenchou_handl
+  rotate: false
+  xy: 319, 90
+  size: 41, 43
+  orig: 41, 43
+  offset: 0, 0
+  index: -1
+wenchou_handr1
+  rotate: true
+  xy: 319, 135
+  size: 53, 40
+  orig: 53, 40
+  offset: 0, 0
+  index: -1
+wenchou_handr2
+  rotate: true
+  xy: 473, 135
+  size: 39, 36
+  orig: 41, 38
+  offset: 1, 1
+  index: -1
+wenchou_head
+  rotate: false
+  xy: 242, 243
+  size: 127, 122
+  orig: 127, 131
+  offset: 0, 9
+  index: -1
+wenchou_horn1
+  rotate: false
+  xy: 362, 20
+  size: 118, 95
+  orig: 118, 95
+  offset: 0, 0
+  index: -1
+wenchou_horn2
+  rotate: true
+  xy: 170, 66
+  size: 77, 56
+  orig: 77, 56
+  offset: 0, 0
+  index: -1
+wenchou_legl
+  rotate: false
+  xy: 481, 332
+  size: 25, 33
+  orig: 25, 33
+  offset: 0, 0
+  index: -1
+wenchou_legr
+  rotate: false
+  xy: 481, 332
+  size: 25, 33
+  orig: 25, 33
+  offset: 0, 0
+  index: -1
+wenchou_mouth
+  rotate: false
+  xy: 170, 3
+  size: 51, 61
+  orig: 51, 62
+  offset: 0, 1
+  index: -1
+wenchou_robe
+  rotate: false
+  xy: 228, 20
+  size: 66, 55
+  orig: 66, 55
+  offset: 0, 0
+  index: -1
+wenchou_tail
+  rotate: true
+  xy: 242, 77
+  size: 164, 75
+  orig: 164, 75
+  offset: 0, 0
+  index: -1
+wenchou_weaponr
+  rotate: false
+  xy: 2, 145
+  size: 238, 220
+  orig: 238, 220
+  offset: 0, 0
+  index: -1
+xysg_hero_effect_box
+  rotate: false
+  xy: 481, 304
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+xysg_hero_effect_die3
+  rotate: false
+  xy: 296, 2
+  size: 46, 46
+  orig: 46, 46
+  offset: 0, 0
+  index: -1
+xysg_hero_effect_swordlight2
+  rotate: false
+  xy: 363, 117
+  size: 108, 104
+  orig: 108, 104
+  offset: 0, 0
+  index: -1

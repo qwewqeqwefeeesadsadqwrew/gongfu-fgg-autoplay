@@ -1,0 +1,48 @@
+
+小游戏_鸭1.png
+size: 243,112
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+鸭子-脚1
+  rotate: true
+  xy: 208, 85
+  size: 25, 33
+  orig: 25, 33
+  offset: 0, 0
+  index: -1
+鸭子-脚1b
+  rotate: true
+  xy: 208, 58
+  size: 25, 33
+  orig: 25, 33
+  offset: 0, 0
+  index: -1
+鸭子-脚2
+  rotate: true
+  xy: 208, 32
+  size: 24, 29
+  orig: 24, 29
+  offset: 0, 0
+  index: -1
+鸭子-脚2b
+  rotate: true
+  xy: 208, 6
+  size: 24, 29
+  orig: 24, 29
+  offset: 0, 0
+  index: -1
+鸭子-身体
+  rotate: true
+  xy: 2, 2
+  size: 108, 101
+  orig: 108, 101
+  offset: 0, 0
+  index: -1
+鸭子-身体b
+  rotate: true
+  xy: 105, 2
+  size: 108, 101
+  orig: 108, 101
+  offset: 0, 0
+  index: -1

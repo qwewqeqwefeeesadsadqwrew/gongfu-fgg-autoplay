@@ -1,0 +1,90 @@
+
+随机事件_小偷1.png
+size: 749,171
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+小偷-头幻影
+  rotate: true
+  xy: 670, 79
+  size: 90, 74
+  orig: 100, 100
+  offset: 5, 13
+  index: -1
+小偷-手臂
+  rotate: false
+  xy: 624, 2
+  size: 25, 64
+  orig: 25, 65
+  offset: 0, 1
+  index: -1
+小偷-背包
+  rotate: false
+  xy: 670, 9
+  size: 77, 68
+  orig: 79, 70
+  offset: 1, 1
+  index: -1
+小偷-腿
+  rotate: false
+  xy: 591, 6
+  size: 31, 60
+  orig: 32, 61
+  offset: 0, 1
+  index: -1
+小偷-身体
+  rotate: true
+  xy: 519, 17
+  size: 49, 70
+  orig: 49, 71
+  offset: 0, 1
+  index: -1
+小偷1-头
+  rotate: true
+  xy: 590, 68
+  size: 101, 78
+  orig: 103, 80
+  offset: 1, 1
+  index: -1
+小偷1-头s
+  rotate: true
+  xy: 507, 68
+  size: 101, 81
+  orig: 103, 83
+  offset: 1, 1
+  index: -1
+打击3
+  rotate: false
+  xy: 389, 45
+  size: 116, 124
+  orig: 128, 128
+  offset: 8, 4
+  index: -1
+武器
+  rotate: false
+  xy: 231, 10
+  size: 156, 159
+  orig: 266, 256
+  offset: 52, 45
+  index: -1
+武器2
+  rotate: false
+  xy: 2, 5
+  size: 227, 164
+  orig: 227, 164
+  offset: 0, 0
+  index: -1
+笑
+  rotate: true
+  xy: 470, 3
+  size: 40, 47
+  orig: 40, 47
+  offset: 0, 0
+  index: -1
+阴影
+  rotate: false
+  xy: 389, 11
+  size: 79, 32
+  orig: 81, 34
+  offset: 1, 1
+  index: -1

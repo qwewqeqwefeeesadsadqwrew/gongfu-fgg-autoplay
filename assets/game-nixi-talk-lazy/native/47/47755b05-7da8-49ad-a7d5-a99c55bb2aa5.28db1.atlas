@@ -1,0 +1,181 @@
+
+车模1.png
+size: 1890,1379
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+右小臂
+  rotate: true
+  xy: 1504, 957
+  size: 155, 238
+  orig: 155, 238
+  offset: 0, 0
+  index: -1
+右臂
+  rotate: false
+  xy: 1703, 1121
+  size: 162, 136
+  orig: 162, 136
+  offset: 0, 0
+  index: -1
+右臂投影
+  rotate: true
+  xy: 1807, 542
+  size: 82, 75
+  orig: 86, 84
+  offset: 0, 9
+  index: -1
+嘴唇
+  rotate: false
+  xy: 1703, 1259
+  size: 185, 118
+  orig: 191, 118
+  offset: 1, 0
+  index: -1
+嘴巴
+  rotate: true
+  xy: 1764, 435
+  size: 50, 39
+  orig: 50, 39
+  offset: 0, 0
+  index: -1
+头
+  rotate: false
+  xy: 1504, 1114
+  size: 197, 263
+  orig: 197, 263
+  offset: 0, 0
+  index: -1
+头发后
+  rotate: true
+  xy: 766, 5
+  size: 285, 880
+  orig: 285, 880
+  offset: 0, 0
+  index: -1
+左小臂
+  rotate: true
+  xy: 1504, 860
+  size: 95, 341
+  orig: 95, 350
+  offset: 0, 9
+  index: -1
+左臂
+  rotate: false
+  xy: 1764, 626
+  size: 102, 232
+  orig: 102, 232
+  offset: 0, 0
+  index: -1
+手掌
+  rotate: false
+  xy: 1744, 964
+  size: 112, 155
+  orig: 121, 155
+  offset: 0, 0
+  index: -1
+白车
+  rotate: false
+  xy: 766, 292
+  size: 996, 500
+  orig: 1014, 509
+  offset: 9, 9
+  index: -1
+白车 - 灯
+  rotate: true
+  xy: 1648, 29
+  size: 261, 126
+  orig: 265, 129
+  offset: 2, 2
+  index: -1
+眉毛
+  rotate: false
+  xy: 1648, 9
+  size: 53, 18
+  orig: 111, 31
+  offset: 57, 10
+  index: -1
+眉毛2
+  rotate: true
+  xy: 1867, 1215
+  size: 42, 17
+  orig: 111, 31
+  offset: 1, 1
+  index: -1
+眼珠1
+  rotate: false
+  xy: 1703, 12
+  size: 16, 15
+  orig: 73, 23
+  offset: 57, 8
+  index: -1
+眼珠2
+  rotate: false
+  xy: 1764, 417
+  size: 16, 16
+  orig: 73, 23
+  offset: 0, 0
+  index: -1
+眼白
+  rotate: false
+  xy: 2, 2
+  size: 85, 23
+  orig: 86, 23
+  offset: 0, 0
+  index: -1
+碎发1
+  rotate: false
+  xy: 1439, 821
+  size: 54, 93
+  orig: 54, 93
+  offset: 0, 0
+  index: -1
+碎发2
+  rotate: false
+  xy: 1807, 463
+  size: 77, 77
+  orig: 80, 77
+  offset: 0, 0
+  index: -1
+碎发3
+  rotate: false
+  xy: 1764, 487
+  size: 41, 137
+  orig: 48, 147
+  offset: 2, 0
+  index: -1
+耳环1
+  rotate: true
+  xy: 89, 3
+  size: 22, 48
+  orig: 22, 49
+  offset: 0, 1
+  index: -1
+耳环2
+  rotate: true
+  xy: 1439, 796
+  size: 23, 51
+  orig: 24, 52
+  offset: 1, 0
+  index: -1
+蝴蝶结带
+  rotate: false
+  xy: 1439, 916
+  size: 63, 461
+  orig: 63, 461
+  offset: 0, 0
+  index: -1
+身体
+  rotate: true
+  xy: 2, 794
+  size: 583, 1435
+  orig: 583, 1454
+  offset: 0, 0
+  index: -1
+闪光
+  rotate: false
+  xy: 2, 27
+  size: 762, 765
+  orig: 1080, 1080
+  offset: 139, 148
+  index: -1

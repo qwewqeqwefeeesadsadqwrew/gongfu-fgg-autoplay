@@ -1,0 +1,237 @@
+
+天残地缺.png
+size: 1360,521
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+刀
+  rotate: true
+  xy: 1040, 262
+  size: 33, 87
+  orig: 120, 151
+  offset: 45, 35
+  index: -1
+刀痕
+  rotate: true
+  xy: 588, 134
+  size: 65, 89
+  orig: 69, 94
+  offset: 2, 2
+  index: -1
+图层 1
+  rotate: false
+  xy: 353, 19
+  size: 51, 12
+  orig: 51, 12
+  offset: 0, 0
+  index: -1
+图层 2
+  rotate: false
+  xy: 299, 2
+  size: 52, 12
+  orig: 52, 12
+  offset: 0, 0
+  index: -1
+图层 3
+  rotate: false
+  xy: 299, 16
+  size: 52, 15
+  orig: 52, 15
+  offset: 0, 0
+  index: -1
+大人-后发
+  rotate: false
+  xy: 716, 4
+  size: 79, 195
+  orig: 79, 195
+  offset: 0, 0
+  index: -1
+大人-大臂R
+  rotate: false
+  xy: 1165, 2
+  size: 86, 133
+  orig: 86, 133
+  offset: 0, 0
+  index: -1
+大人-头
+  rotate: false
+  xy: 418, 3
+  size: 147, 122
+  orig: 147, 122
+  offset: 0, 0
+  index: -1
+大人-头s
+  rotate: false
+  xy: 567, 3
+  size: 147, 122
+  orig: 147, 122
+  offset: 0, 0
+  index: -1
+大人-小臂R
+  rotate: true
+  xy: 258, 33
+  size: 92, 158
+  orig: 92, 158
+  offset: 0, 0
+  index: -1
+大人-手L
+  rotate: true
+  xy: 807, 201
+  size: 52, 51
+  orig: 52, 51
+  offset: 0, 0
+  index: -1
+大人-手R
+  rotate: true
+  xy: 741, 201
+  size: 52, 64
+  orig: 52, 64
+  offset: 0, 0
+  index: -1
+大人-手Rs
+  rotate: false
+  xy: 741, 255
+  size: 180, 264
+  orig: 180, 264
+  offset: 0, 0
+  index: -1
+大人-手臂L
+  rotate: false
+  xy: 923, 283
+  size: 115, 236
+  orig: 115, 258
+  offset: 0, 22
+  index: -1
+大人-手臂Ls
+  rotate: false
+  xy: 865, 2
+  size: 144, 214
+  orig: 144, 214
+  offset: 0, 0
+  index: -1
+大人-眼镜
+  rotate: false
+  xy: 2, 6
+  size: 67, 25
+  orig: 67, 25
+  offset: 0, 0
+  index: -1
+大人-腿
+  rotate: false
+  xy: 797, 4
+  size: 66, 195
+  orig: 66, 195
+  offset: 0, 0
+  index: -1
+大人-身体
+  rotate: false
+  xy: 2, 33
+  size: 254, 486
+  orig: 254, 486
+  offset: 0, 0
+  index: -1
+大人-身体s
+  rotate: false
+  xy: 258, 127
+  size: 328, 392
+  orig: 328, 392
+  offset: 0, 0
+  index: -1
+小人-头
+  rotate: true
+  xy: 1011, 42
+  size: 174, 152
+  orig: 174, 152
+  offset: 0, 0
+  index: -1
+小人-头2
+  rotate: false
+  xy: 1165, 137
+  size: 174, 152
+  orig: 174, 152
+  offset: 0, 0
+  index: -1
+小人-头L
+  rotate: false
+  xy: 216, 8
+  size: 42, 23
+  orig: 42, 23
+  offset: 0, 0
+  index: -1
+小人-手R
+  rotate: false
+  xy: 260, 8
+  size: 37, 23
+  orig: 37, 23
+  offset: 0, 0
+  index: -1
+小人-手臂L
+  rotate: true
+  xy: 1212, 358
+  size: 98, 137
+  orig: 98, 137
+  offset: 0, 0
+  index: -1
+小人-手臂L2
+  rotate: false
+  xy: 1212, 291
+  size: 135, 65
+  orig: 135, 65
+  offset: 0, 0
+  index: -1
+小人-手臂R
+  rotate: true
+  xy: 1212, 458
+  size: 61, 146
+  orig: 61, 146
+  offset: 0, 0
+  index: -1
+小人-手臂R2
+  rotate: true
+  xy: 1253, 15
+  size: 120, 104
+  orig: 120, 104
+  offset: 0, 0
+  index: -1
+小人-眉毛L
+  rotate: true
+  xy: 406, 20
+  size: 11, 7
+  orig: 11, 7
+  offset: 0, 0
+  index: -1
+小人-眉毛R
+  rotate: true
+  xy: 71, 6
+  size: 25, 15
+  orig: 25, 15
+  offset: 0, 0
+  index: -1
+小人-身体
+  rotate: false
+  xy: 588, 201
+  size: 151, 318
+  orig: 151, 318
+  offset: 0, 0
+  index: -1
+小人-身体死亡
+  rotate: false
+  xy: 1040, 297
+  size: 170, 222
+  orig: 171, 222
+  offset: 1, 0
+  index: -1
+组 2
+  rotate: false
+  xy: 860, 218
+  size: 183, 35
+  orig: 183, 35
+  offset: 0, 0
+  index: -1
+阴影
+  rotate: false
+  xy: 88, 7
+  size: 126, 24
+  orig: 126, 24
+  offset: 0, 0
+  index: -1

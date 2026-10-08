@@ -1,0 +1,41 @@
+
+ui_btn_menu.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ui_mainbtn_menu1
+  rotate: false
+  xy: 111, 12
+  size: 97, 114
+  orig: 97, 114
+  offset: 0, 0
+  index: -1
+ui_mainbtn_menu2
+  rotate: false
+  xy: 308, 4
+  size: 42, 122
+  orig: 42, 122
+  offset: 0, 0
+  index: -1
+ui_mainbtn_menu3
+  rotate: false
+  xy: 352, 2
+  size: 28, 124
+  orig: 29, 124
+  offset: 1, 0
+  index: -1
+ui_mainbtn_menu4
+  rotate: false
+  xy: 2, 16
+  size: 107, 110
+  orig: 107, 110
+  offset: 0, 0
+  index: -1
+ui_mainbtn_menu5
+  rotate: false
+  xy: 210, 12
+  size: 96, 114
+  orig: 96, 114
+  offset: 0, 0
+  index: -1

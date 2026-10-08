@@ -1,0 +1,125 @@
+
+wuqi_jian.png
+size: 1032,528
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0164_0
+  rotate: true
+  xy: 700, 73
+  size: 189, 165
+  orig: 311, 256
+  offset: 54, 71
+  index: -1
+0164_1
+  rotate: true
+  xy: 201, 262
+  size: 264, 204
+  orig: 311, 256
+  offset: 8, 43
+  index: -1
+0164_2
+  rotate: true
+  xy: 604, 264
+  size: 262, 202
+  orig: 311, 256
+  offset: 8, 45
+  index: -1
+0164_3
+  rotate: true
+  xy: 2, 260
+  size: 266, 197
+  orig: 311, 256
+  offset: 4, 46
+  index: -1
+0164_4
+  rotate: true
+  xy: 407, 263
+  size: 263, 195
+  orig: 311, 256
+  offset: 5, 48
+  index: -1
+0164_5
+  rotate: true
+  xy: 365, 46
+  size: 214, 189
+  orig: 311, 256
+  offset: 50, 50
+  index: -1
+0294_1
+  rotate: true
+  xy: 556, 54
+  size: 207, 142
+  orig: 284, 187
+  offset: 53, 28
+  index: -1
+0294_2
+  rotate: true
+  xy: 2, 12
+  size: 246, 139
+  orig: 284, 187
+  offset: 19, 23
+  index: -1
+0294_3
+  rotate: true
+  xy: 143, 12
+  size: 246, 119
+  orig: 284, 187
+  offset: 13, 28
+  index: -1
+0294_4
+  rotate: true
+  xy: 264, 15
+  size: 245, 99
+  orig: 284, 187
+  offset: 12, 37
+  index: -1
+0294_5
+  rotate: false
+  xy: 739, 10
+  size: 166, 61
+  orig: 284, 187
+  offset: 52, 68
+  index: -1
+0294_6
+  rotate: false
+  xy: 577, 2
+  size: 160, 50
+  orig: 284, 187
+  offset: 54, 75
+  index: -1
+daoguang2
+  rotate: false
+  xy: 867, 410
+  size: 162, 116
+  orig: 162, 116
+  offset: 0, 0
+  index: -1
+daoguang3
+  rotate: false
+  xy: 867, 292
+  size: 162, 116
+  orig: 162, 116
+  offset: 0, 0
+  index: -1
+daoguang4
+  rotate: false
+  xy: 867, 174
+  size: 162, 116
+  orig: 162, 116
+  offset: 0, 0
+  index: -1
+daoguang5
+  rotate: true
+  xy: 907, 10
+  size: 162, 116
+  orig: 162, 116
+  offset: 0, 0
+  index: -1
+line_green_hit
+  rotate: false
+  xy: 365, 15
+  size: 210, 29
+  orig: 218, 29
+  offset: 4, 0
+  index: -1

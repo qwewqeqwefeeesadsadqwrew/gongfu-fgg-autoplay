@@ -1,0 +1,251 @@
+
+mianguan_main_0.png
+size: 570,570
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+包子
+  rotate: true
+  xy: 517, 399
+  size: 64, 51
+  orig: 64, 55
+  offset: 0, 3
+  index: -1
+打击3
+  rotate: false
+  xy: 120, 96
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+水波
+  rotate: false
+  xy: 325, 88
+  size: 111, 42
+  orig: 112, 42
+  offset: 1, 0
+  index: -1
+水花2
+  rotate: false
+  xy: 250, 149
+  size: 74, 105
+  orig: 74, 105
+  offset: 0, 0
+  index: -1
+汗珠
+  rotate: true
+  xy: 522, 465
+  size: 8, 12
+  orig: 9, 12
+  offset: 1, 0
+  index: -1
+汗珠2
+  rotate: false
+  xy: 495, 68
+  size: 44, 31
+  orig: 44, 31
+  offset: 0, 0
+  index: -1
+油泡泡1
+  rotate: true
+  xy: 413, 29
+  size: 39, 23
+  orig: 41, 25
+  offset: 1, 1
+  index: -1
+油泡泡2
+  rotate: true
+  xy: 541, 59
+  size: 40, 27
+  orig: 42, 30
+  offset: 1, 2
+  index: -1
+油泡泡3
+  rotate: false
+  xy: 496, 130
+  size: 69, 26
+  orig: 72, 29
+  offset: 1, 1
+  index: -1
+油泡泡4
+  rotate: false
+  xy: 309, 21
+  size: 86, 19
+  orig: 89, 22
+  offset: 1, 1
+  index: -1
+烟雾2
+  rotate: true
+  xy: 112, 226
+  size: 169, 102
+  orig: 169, 102
+  offset: 0, 0
+  index: -1
+烟雾ww
+  rotate: false
+  xy: 2, 397
+  size: 185, 171
+  orig: 194, 180
+  offset: 4, 4
+  index: -1
+阿鬼_头
+  rotate: false
+  xy: 496, 158
+  size: 72, 78
+  orig: 74, 80
+  offset: 1, 1
+  index: -1
+阿鬼_头嘴巴
+  rotate: true
+  xy: 481, 48
+  size: 30, 12
+  orig: 30, 12
+  offset: 0, 0
+  index: -1
+阿鬼_手臂
+  rotate: true
+  xy: 496, 101
+  size: 27, 65
+  orig: 27, 66
+  offset: 0, 1
+  index: -1
+阿鬼_武器
+  rotate: false
+  xy: 309, 70
+  size: 127, 16
+  orig: 127, 16
+  offset: 0, 0
+  index: -1
+阿鬼_武器旋转
+  rotate: true
+  xy: 483, 336
+  size: 127, 32
+  orig: 150, 200
+  offset: 12, 84
+  index: -1
+阿鬼_腿
+  rotate: false
+  xy: 515, 260
+  size: 34, 60
+  orig: 34, 61
+  offset: 0, 1
+  index: -1
+阿鬼_身体
+  rotate: false
+  xy: 251, 15
+  size: 56, 82
+  orig: 56, 84
+  offset: 0, 1
+  index: -1
+阿鬼操作台_yy
+  rotate: false
+  xy: 120, 18
+  size: 129, 76
+  orig: 129, 76
+  offset: 0, 0
+  index: -1
+阿鬼操作台_桌0_3
+  rotate: false
+  xy: 2, 9
+  size: 116, 161
+  orig: 116, 161
+  offset: 0, 0
+  index: -1
+阿鬼操作台_桌子0_1
+  rotate: true
+  xy: 2, 172
+  size: 223, 108
+  orig: 223, 108
+  offset: 0, 0
+  index: -1
+阿鬼操作台_桌子0_2
+  rotate: true
+  xy: 335, 465
+  size: 103, 185
+  orig: 103, 185
+  offset: 0, 0
+  index: -1
+阿鬼操作台_油条
+  rotate: true
+  xy: 326, 132
+  size: 104, 110
+  orig: 104, 110
+  offset: 0, 0
+  index: -1
+阿鬼操作台_油条1
+  rotate: true
+  xy: 309, 42
+  size: 26, 102
+  orig: 26, 102
+  offset: 0, 0
+  index: -1
+阿鬼操作台_油锅
+  rotate: false
+  xy: 189, 413
+  size: 144, 155
+  orig: 144, 155
+  offset: 0, 0
+  index: -1
+阿鬼操作台_菜板
+  rotate: false
+  xy: 351, 238
+  size: 162, 81
+  orig: 162, 81
+  offset: 0, 0
+  index: -1
+阿鬼操作台_蒸笼0
+  rotate: false
+  xy: 216, 256
+  size: 133, 155
+  orig: 133, 155
+  offset: 0, 0
+  index: -1
+阿鬼操作台_蒸笼2
+  rotate: false
+  xy: 351, 321
+  size: 130, 142
+  orig: 130, 142
+  offset: 0, 0
+  index: -1
+阿鬼操作台_面团
+  rotate: true
+  xy: 438, 129
+  size: 107, 56
+  orig: 107, 56
+  offset: 0, 0
+  index: -1
+阿鬼操作台_面团sp0
+  rotate: false
+  xy: 250, 99
+  size: 73, 48
+  orig: 75, 48
+  offset: 2, 0
+  index: -1
+阿鬼操作台_面团sp1
+  rotate: true
+  xy: 522, 475
+  size: 93, 46
+  orig: 93, 46
+  offset: 0, 0
+  index: -1
+阿鬼操作台_面团sp2
+  rotate: true
+  xy: 517, 322
+  size: 75, 47
+  orig: 75, 47
+  offset: 0, 0
+  index: -1
+阿鬼操作台_面团sp3
+  rotate: false
+  xy: 438, 80
+  size: 55, 47
+  orig: 55, 47
+  offset: 0, 0
+  index: -1
+阿鬼操作台_面团sp4
+  rotate: false
+  xy: 438, 41
+  size: 41, 37
+  orig: 41, 37
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,174 @@
+
+知性美女2.png
+size: 1222,523
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+右手
+  rotate: true
+  xy: 719, 320
+  size: 104, 433
+  orig: 105, 433
+  offset: 0, 0
+  index: -1
+右手上臂
+  rotate: false
+  xy: 612, 179
+  size: 98, 200
+  orig: 98, 200
+  offset: 0, 0
+  index: -1
+右手小臂
+  rotate: false
+  xy: 928, 125
+  size: 161, 57
+  orig: 161, 57
+  offset: 0, 0
+  index: -1
+右眼白
+  rotate: false
+  xy: 1168, 452
+  size: 24, 14
+  orig: 24, 15
+  offset: 0, 1
+  index: -1
+右瞳
+  rotate: false
+  xy: 612, 137
+  size: 12, 11
+  orig: 12, 16
+  offset: 0, 4
+  index: -1
+右腿
+  rotate: true
+  xy: 2, 13
+  size: 122, 654
+  orig: 136, 654
+  offset: 14, 0
+  index: -1
+右袖
+  rotate: true
+  xy: 1168, 468
+  size: 53, 52
+  orig: 53, 52
+  offset: 0, 0
+  index: -1
+嘴唇
+  rotate: true
+  xy: 1115, 174
+  size: 144, 92
+  orig: 148, 92
+  offset: 0, 0
+  index: -1
+嘴巴
+  rotate: true
+  xy: 871, 14
+  size: 46, 38
+  orig: 132, 175
+  offset: 51, 5
+  index: -1
+头
+  rotate: true
+  xy: 930, 184
+  size: 134, 183
+  orig: 134, 183
+  offset: 0, 0
+  index: -1
+左手
+  rotate: true
+  xy: 719, 426
+  size: 95, 447
+  orig: 95, 447
+  offset: 0, 0
+  index: -1
+左手上臂
+  rotate: true
+  xy: 712, 133
+  size: 60, 214
+  orig: 60, 214
+  offset: 0, 0
+  index: -1
+左手小臂
+  rotate: false
+  xy: 658, 62
+  size: 251, 69
+  orig: 251, 69
+  offset: 0, 0
+  index: -1
+左眼白
+  rotate: false
+  xy: 911, 2
+  size: 24, 15
+  orig: 27, 15
+  offset: 2, 0
+  index: -1
+左瞳
+  rotate: false
+  xy: 1154, 412
+  size: 12, 12
+  orig: 12, 16
+  offset: 0, 4
+  index: -1
+左腿
+  rotate: true
+  xy: 2, 381
+  size: 140, 715
+  orig: 140, 715
+  offset: 0, 0
+  index: -1
+左袖
+  rotate: false
+  xy: 780, 3
+  size: 89, 57
+  orig: 89, 57
+  offset: 0, 0
+  index: -1
+手
+  rotate: false
+  xy: 658, 4
+  size: 120, 56
+  orig: 120, 56
+  offset: 0, 0
+  index: -1
+手掌
+  rotate: true
+  xy: 1091, 84
+  size: 88, 117
+  orig: 94, 120
+  offset: 0, 0
+  index: -1
+裙子后 拷贝
+  rotate: false
+  xy: 712, 195
+  size: 216, 123
+  orig: 216, 123
+  offset: 0, 0
+  index: -1
+身体
+  rotate: true
+  xy: 2, 137
+  size: 242, 608
+  orig: 242, 608
+  offset: 0, 0
+  index: -1
+马尾
+  rotate: true
+  xy: 911, 19
+  size: 104, 156
+  orig: 104, 156
+  offset: 0, 0
+  index: -1
+鬓发1
+  rotate: false
+  xy: 1069, 59
+  size: 18, 64
+  orig: 18, 64
+  offset: 0, 0
+  index: -1
+鬓发2
+  rotate: true
+  xy: 612, 150
+  size: 27, 73
+  orig: 27, 73
+  offset: 0, 0
+  index: -1

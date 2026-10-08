@@ -1,0 +1,111 @@
+
+xiaobing_gongbing.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hero_eye_cry
+  rotate: false
+  xy: 717, 72
+  size: 42, 51
+  orig: 42, 51
+  offset: 0, 0
+  index: -1
+monster4_arrow
+  rotate: false
+  xy: 523, 2
+  size: 178, 51
+  orig: 178, 51
+  offset: 0, 0
+  index: -1
+monster4_body
+  rotate: false
+  xy: 387, 23
+  size: 134, 100
+  orig: 134, 100
+  offset: 0, 0
+  index: -1
+monster4_bow
+  rotate: false
+  xy: 2, 3
+  size: 213, 120
+  orig: 215, 122
+  offset: 1, 1
+  index: -1
+monster4_eye
+  rotate: false
+  xy: 217, 15
+  size: 9, 10
+  orig: 9, 10
+  offset: 0, 0
+  index: -1
+monster4_eyewhite
+  rotate: true
+  xy: 805, 83
+  size: 40, 35
+  orig: 40, 35
+  offset: 0, 0
+  index: -1
+monster4_footr
+  rotate: false
+  xy: 905, 34
+  size: 27, 49
+  orig: 27, 49
+  offset: 0, 0
+  index: -1
+monster4_handl
+  rotate: false
+  xy: 761, 79
+  size: 42, 44
+  orig: 43, 44
+  offset: 0, 0
+  index: -1
+monster4_handr
+  rotate: false
+  xy: 751, 20
+  size: 40, 50
+  orig: 42, 51
+  offset: 1, 1
+  index: -1
+monster4_handr2
+  rotate: false
+  xy: 878, 85
+  size: 36, 38
+  orig: 38, 40
+  offset: 1, 1
+  index: -1
+monster4_hat
+  rotate: true
+  xy: 703, 5
+  size: 48, 46
+  orig: 50, 46
+  offset: 1, 0
+  index: -1
+monster4_head
+  rotate: false
+  xy: 217, 27
+  size: 168, 96
+  orig: 168, 98
+  offset: 0, 0
+  index: -1
+monster4_line
+  rotate: false
+  xy: 523, 55
+  size: 192, 68
+  orig: 192, 108
+  offset: 0, 40
+  index: -1
+monster4_mouth
+  rotate: true
+  xy: 842, 82
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+monster4_tail
+  rotate: false
+  xy: 793, 2
+  size: 110, 75
+  orig: 110, 75
+  offset: 0, 0
+  index: -1

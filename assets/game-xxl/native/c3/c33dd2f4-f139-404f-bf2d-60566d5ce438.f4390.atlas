@@ -1,0 +1,62 @@
+
+消除ui.png
+size: 487,1000
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 389, 543
+  size: 200, 91
+  orig: 208, 101
+  offset: 4, 6
+  index: -1
+2
+  rotate: true
+  xy: 2, 2
+  size: 328, 180
+  orig: 333, 227
+  offset: 3, 7
+  index: -1
+3
+  rotate: true
+  xy: 184, 3
+  size: 327, 180
+  orig: 342, 243
+  offset: 13, 7
+  index: -1
+4
+  rotate: false
+  xy: 2, 332
+  size: 385, 185
+  orig: 392, 250
+  offset: 7, 6
+  index: -1
+5
+  rotate: false
+  xy: 2, 519
+  size: 385, 224
+  orig: 390, 254
+  offset: 5, 6
+  index: -1
+6
+  rotate: false
+  xy: 2, 745
+  size: 468, 253
+  orig: 506, 270
+  offset: 12, 7
+  index: -1
+ray2
+  rotate: false
+  xy: 389, 485
+  size: 57, 56
+  orig: 64, 64
+  offset: 4, 4
+  index: -1
+ray4
+  rotate: false
+  xy: 366, 212
+  size: 119, 118
+  orig: 122, 122
+  offset: 1, 2
+  index: -1

@@ -1,0 +1,118 @@
+
+xiaobing_kulou.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hero_eye_cry
+  rotate: false
+  xy: 627, 22
+  size: 42, 51
+  orig: 42, 51
+  offset: 0, 0
+  index: -1
+monster5_body
+  rotate: true
+  xy: 383, 35
+  size: 91, 78
+  orig: 91, 78
+  offset: 0, 0
+  index: -1
+monster5_eye
+  rotate: false
+  xy: 645, 84
+  size: 34, 42
+  orig: 34, 42
+  offset: 0, 0
+  index: -1
+monster5_handl
+  rotate: false
+  xy: 299, 3
+  size: 40, 26
+  orig: 40, 26
+  offset: 0, 0
+  index: -1
+monster5_handr
+  rotate: true
+  xy: 526, 2
+  size: 36, 41
+  orig: 37, 41
+  offset: 1, 0
+  index: -1
+monster5_hat1
+  rotate: false
+  xy: 535, 50
+  size: 62, 76
+  orig: 62, 76
+  offset: 0, 0
+  index: -1
+monster5_hat2
+  rotate: true
+  xy: 213, 21
+  size: 105, 84
+  orig: 106, 84
+  offset: 0, 0
+  index: -1
+monster5_hat3
+  rotate: true
+  xy: 341, 4
+  size: 25, 36
+  orig: 26, 36
+  offset: 1, 0
+  index: -1
+monster5_head
+  rotate: false
+  xy: 299, 31
+  size: 82, 95
+  orig: 82, 95
+  offset: 0, 0
+  index: -1
+monster5_jaw
+  rotate: false
+  xy: 463, 40
+  size: 70, 86
+  orig: 70, 86
+  offset: 0, 0
+  index: -1
+monster5_legr
+  rotate: true
+  xy: 415, 3
+  size: 30, 46
+  orig: 30, 46
+  offset: 0, 0
+  index: -1
+monster5_tail1
+  rotate: true
+  xy: 599, 75
+  size: 51, 44
+  orig: 51, 44
+  offset: 0, 0
+  index: -1
+monster5_tail2
+  rotate: false
+  xy: 379, 4
+  size: 34, 25
+  orig: 48, 40
+  offset: 6, 8
+  index: -1
+monster5_tail3
+  rotate: true
+  xy: 569, 2
+  size: 46, 56
+  orig: 46, 56
+  offset: 0, 0
+  index: -1
+monster5_weapon1
+  rotate: false
+  xy: 463, 4
+  size: 61, 34
+  orig: 61, 34
+  offset: 0, 0
+  index: -1
+monster5_weapon2
+  rotate: true
+  xy: 2, 15
+  size: 111, 209
+  orig: 111, 209
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,41 @@
+
+headshot.png
+size: 1078,1078
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baotou
+  rotate: false
+  xy: 2, 470
+  size: 536, 606
+  orig: 536, 606
+  offset: 0, 0
+  index: -1
+baotou0
+  rotate: false
+  xy: 540, 470
+  size: 536, 606
+  orig: 536, 606
+  offset: 0, 0
+  index: -1
+baotou0s
+  rotate: false
+  xy: 615, 165
+  size: 268, 303
+  orig: 268, 303
+  offset: 0, 0
+  index: -1
+baotous
+  rotate: false
+  xy: 345, 165
+  size: 268, 303
+  orig: 268, 303
+  offset: 0, 0
+  index: -1
+dj_ray
+  rotate: false
+  xy: 2, 128
+  size: 341, 340
+  orig: 369, 363
+  offset: 13, 7
+  index: -1

@@ -1,0 +1,286 @@
+
+ch10.png
+size: 2280,2280
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: false
+  xy: 2, 5
+  size: 325, 757
+  orig: 325, 757
+  offset: 0, 0
+  index: -1
+cj
+  rotate: false
+  xy: 329, 79
+  size: 325, 229
+  orig: 325, 229
+  offset: 0, 0
+  index: -1
+nanzhu
+  rotate: false
+  xy: 654, 1596
+  size: 367, 682
+  orig: 367, 682
+  offset: 0, 0
+  index: -1
+nvzhu
+  rotate: false
+  xy: 654, 830
+  size: 260, 764
+  orig: 260, 764
+  offset: 0, 0
+  index: -1
+sj
+  rotate: true
+  xy: 916, 1418
+  size: 176, 90
+  orig: 176, 90
+  offset: 0, 0
+  index: -1
+sj2
+  rotate: false
+  xy: 912, 104
+  size: 176, 90
+  orig: 176, 90
+  offset: 0, 0
+  index: -1
+tv
+  rotate: false
+  xy: 2, 764
+  size: 650, 1514
+  orig: 650, 1514
+  offset: 0, 0
+  index: -1
+光圈
+  rotate: false
+  xy: 1779, 14
+  size: 221, 220
+  orig: 230, 230
+  offset: 5, 4
+  index: -1
+女主/女主-表情11
+  rotate: false
+  xy: 1447, 1826
+  size: 422, 452
+  orig: 422, 452
+  offset: 0, 0
+  index: -1
+女主/女主-表情2
+  rotate: false
+  xy: 1023, 1826
+  size: 422, 452
+  orig: 422, 452
+  offset: 0, 0
+  index: -1
+女主/女主-表情3-2
+  rotate: false
+  xy: 329, 310
+  size: 422, 452
+  orig: 422, 452
+  offset: 0, 0
+  index: -1
+女主/女主-表情7
+  rotate: true
+  xy: 1023, 1402
+  size: 422, 452
+  orig: 422, 452
+  offset: 0, 0
+  index: -1
+女主/女主-表情担忧
+  rotate: false
+  xy: 1477, 1372
+  size: 422, 452
+  orig: 422, 452
+  offset: 0, 0
+  index: -1
+女主/女主-表情疑惑
+  rotate: false
+  xy: 916, 948
+  size: 422, 452
+  orig: 422, 452
+  offset: 0, 0
+  index: -1
+女主/女主头
+  rotate: false
+  xy: 1094, 251
+  size: 247, 271
+  orig: 422, 452
+  offset: 74, 103
+  index: -1
+女主/女主头发1
+  rotate: false
+  xy: 656, 220
+  size: 62, 88
+  orig: 159, 224
+  offset: 48, 68
+  index: -1
+女主/女主头发2
+  rotate: true
+  xy: 1901, 1380
+  size: 216, 277
+  orig: 216, 277
+  offset: 0, 0
+  index: -1
+女主嘴巴/女主-嘴巴1
+  rotate: true
+  xy: 1340, 948
+  size: 422, 452
+  orig: 422, 452
+  offset: 0, 0
+  index: -1
+女主嘴巴/女主-嘴巴2
+  rotate: true
+  xy: 916, 524
+  size: 422, 452
+  orig: 422, 452
+  offset: 0, 0
+  index: -1
+女主嘴巴/女主-嘴巴3
+  rotate: false
+  xy: 1370, 494
+  size: 422, 452
+  orig: 422, 452
+  offset: 0, 0
+  index: -1
+女主嘴巴/女主-嘴巴4
+  rotate: false
+  xy: 1794, 918
+  size: 422, 452
+  orig: 422, 452
+  offset: 0, 0
+  index: -1
+尖叫
+  rotate: false
+  xy: 912, 44
+  size: 61, 58
+  orig: 61, 58
+  offset: 0, 0
+  index: -1
+手指
+  rotate: false
+  xy: 2002, 34
+  size: 166, 200
+  orig: 225, 270
+  offset: 31, 32
+  index: -1
+旗袍/0
+  rotate: true
+  xy: 2180, 1423
+  size: 173, 33
+  orig: 173, 33
+  offset: 0, 0
+  index: -1
+旗袍/1
+  rotate: true
+  xy: 2199, 2076
+  size: 202, 59
+  orig: 202, 59
+  offset: 0, 0
+  index: -1
+旗袍/2
+  rotate: true
+  xy: 1684, 280
+  size: 212, 97
+  orig: 212, 97
+  offset: 0, 0
+  index: -1
+旗袍/3
+  rotate: false
+  xy: 329, 18
+  size: 199, 59
+  orig: 199, 59
+  offset: 0, 0
+  index: -1
+旗袍/4
+  rotate: false
+  xy: 654, 769
+  size: 220, 59
+  orig: 220, 59
+  offset: 0, 0
+  index: -1
+旗袍/5
+  rotate: true
+  xy: 2122, 705
+  size: 211, 59
+  orig: 211, 59
+  offset: 0, 0
+  index: -1
+旗袍/对话框1
+  rotate: false
+  xy: 656, 9
+  size: 254, 185
+  orig: 254, 185
+  offset: 0, 0
+  index: -1
+男主/头
+  rotate: false
+  xy: 1871, 1939
+  size: 326, 339
+  orig: 326, 339
+  offset: 0, 0
+  index: -1
+男主/表情13
+  rotate: true
+  xy: 753, 196
+  size: 326, 339
+  orig: 326, 339
+  offset: 0, 0
+  index: -1
+男主/表情19-疑惑（包租婆敲门）
+  rotate: true
+  xy: 1343, 166
+  size: 326, 339
+  orig: 326, 339
+  offset: 0, 0
+  index: -1
+男主/表情4-
+  rotate: false
+  xy: 1794, 577
+  size: 326, 339
+  orig: 326, 339
+  offset: 0, 0
+  index: -1
+男主/表情6-诧异（前女友来电）
+  rotate: false
+  xy: 1901, 1598
+  size: 326, 339
+  orig: 326, 339
+  offset: 0, 0
+  index: -1
+男主/表情7-惊讶（分手）
+  rotate: false
+  xy: 1794, 236
+  size: 326, 339
+  orig: 326, 339
+  offset: 0, 0
+  index: -1
+男主/说话嘴2
+  rotate: false
+  xy: 2199, 2033
+  size: 56, 41
+  orig: 62, 45
+  offset: 0, 3
+  index: -1
+男主/说话嘴巴2
+  rotate: true
+  xy: 2257, 2037
+  size: 37, 21
+  orig: 39, 21
+  offset: 1, 0
+  index: -1
+表现素材/提示
+  rotate: true
+  xy: 1094, 43
+  size: 206, 237
+  orig: 206, 237
+  offset: 0, 0
+  index: -1
+表现素材/生气
+  rotate: true
+  xy: 1684, 172
+  size: 106, 93
+  orig: 106, 93
+  offset: 0, 0
+  index: -1

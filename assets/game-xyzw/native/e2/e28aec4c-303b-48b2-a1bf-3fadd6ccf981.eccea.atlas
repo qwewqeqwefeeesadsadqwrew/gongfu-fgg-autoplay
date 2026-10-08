@@ -1,0 +1,48 @@
+
+xiaobing4_luo.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hero_eye_cry
+  rotate: false
+  xy: 223, 74
+  size: 42, 51
+  orig: 42, 51
+  offset: 0, 0
+  index: -1
+sc4_luo_body
+  rotate: true
+  xy: 155, 2
+  size: 123, 66
+  orig: 123, 66
+  offset: 0, 0
+  index: -1
+sc4_luo_eye
+  rotate: true
+  xy: 2, 3
+  size: 6, 5
+  orig: 6, 5
+  offset: 0, 0
+  index: -1
+sc4_luo_eyewhite
+  rotate: true
+  xy: 223, 10
+  size: 26, 21
+  orig: 26, 21
+  offset: 0, 0
+  index: -1
+sc4_luo_shell
+  rotate: false
+  xy: 2, 11
+  size: 151, 114
+  orig: 151, 114
+  offset: 0, 0
+  index: -1
+sc4_luo_weapon
+  rotate: true
+  xy: 223, 38
+  size: 34, 24
+  orig: 34, 24
+  offset: 0, 0
+  index: -1

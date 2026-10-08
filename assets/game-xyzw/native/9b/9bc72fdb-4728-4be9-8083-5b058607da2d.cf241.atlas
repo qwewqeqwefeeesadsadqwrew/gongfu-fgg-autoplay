@@ -1,0 +1,20 @@
+
+qingtong.png
+size: 329,329
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2_xiang
+  rotate: false
+  xy: 2, 2
+  size: 237, 139
+  orig: 243, 145
+  offset: 3, 3
+  index: -1
+2_xiang4
+  rotate: false
+  xy: 2, 143
+  size: 264, 184
+  orig: 270, 191
+  offset: 3, 4
+  index: -1

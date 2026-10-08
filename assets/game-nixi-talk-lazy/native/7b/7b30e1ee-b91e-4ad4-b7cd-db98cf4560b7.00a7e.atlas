@@ -1,0 +1,195 @@
+
+ch6.png
+size: 751,1511
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: false
+  xy: 2, 547
+  size: 252, 588
+  orig: 252, 588
+  offset: 0, 0
+  index: -1
+black
+  rotate: false
+  xy: 474, 1163
+  size: 25, 59
+  orig: 25, 59
+  offset: 0, 0
+  index: -1
+man脸
+  rotate: false
+  xy: 640, 139
+  size: 87, 99
+  orig: 87, 99
+  offset: 0, 0
+  index: -1
+信息1
+  rotate: false
+  xy: 474, 1224
+  size: 265, 285
+  orig: 277, 306
+  offset: 4, 11
+  index: -1
+信息2
+  rotate: true
+  xy: 681, 957
+  size: 265, 45
+  orig: 277, 59
+  offset: 4, 7
+  index: -1
+冲击波
+  rotate: false
+  xy: 732, 332
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+动作0-L手-普通
+  rotate: false
+  xy: 672, 350
+  size: 76, 254
+  orig: 76, 254
+  offset: 0, 0
+  index: -1
+动作0-R手-普通
+  rotate: true
+  xy: 510, 606
+  size: 66, 239
+  orig: 66, 239
+  offset: 0, 0
+  index: -1
+动作0-身体-普通 拷贝
+  rotate: true
+  xy: 2, 373
+  size: 172, 594
+  orig: 172, 594
+  offset: 0, 0
+  index: -1
+叫
+  rotate: false
+  xy: 510, 548
+  size: 63, 56
+  orig: 63, 56
+  offset: 0, 0
+  index: -1
+天霸！
+  rotate: true
+  xy: 510, 949
+  size: 273, 169
+  orig: 273, 169
+  offset: 0, 0
+  index: -1
+手机-
+  rotate: false
+  xy: 293, 16
+  size: 175, 355
+  orig: 175, 355
+  offset: 0, 0
+  index: -1
+手机-顶层效果
+  rotate: false
+  xy: 470, 23
+  size: 168, 348
+  orig: 168, 349
+  offset: 0, 0
+  index: -1
+没用东西， 给我滚远点！
+  rotate: true
+  xy: 510, 674
+  size: 273, 169
+  orig: 273, 169
+  offset: 0, 0
+  index: -1
+烟雾
+  rotate: false
+  xy: 598, 382
+  size: 52, 26
+  orig: 63, 28
+  offset: 4, 1
+  index: -1
+绿茶倒地-手
+  rotate: false
+  xy: 598, 465
+  size: 72, 139
+  orig: 72, 139
+  offset: 0, 0
+  index: -1
+绿茶倒地-身体
+  rotate: false
+  xy: 2, 25
+  size: 289, 346
+  orig: 289, 346
+  offset: 0, 0
+  index: -1
+表情-困惑
+  rotate: false
+  xy: 640, 38
+  size: 45, 45
+  orig: 45, 46
+  offset: 0, 0
+  index: -1
+表情-强颜欢笑
+  rotate: false
+  xy: 640, 85
+  size: 49, 52
+  orig: 90, 108
+  offset: 29, 10
+  index: -1
+表情-悲愤
+  rotate: false
+  xy: 598, 410
+  size: 66, 53
+  orig: 90, 108
+  offset: 19, 11
+  index: -1
+表情-愤怒
+  rotate: false
+  xy: 640, 240
+  size: 90, 108
+  orig: 90, 108
+  offset: 0, 0
+  index: -1
+问号
+  rotate: true
+  xy: 2, 2
+  size: 21, 27
+  orig: 21, 27
+  offset: 0, 0
+  index: -1
+阴影
+  rotate: true
+  xy: 681, 841
+  size: 114, 25
+  orig: 140, 35
+  offset: 13, 5
+  index: -1
+雨
+  rotate: false
+  xy: 256, 547
+  size: 252, 588
+  orig: 252, 588
+  offset: 0, 0
+  index: -1
+雨点1
+  rotate: true
+  xy: 666, 452
+  size: 11, 4
+  orig: 11, 4
+  offset: 0, 0
+  index: -1
+雨点2
+  rotate: true
+  xy: 666, 439
+  size: 11, 4
+  orig: 11, 4
+  offset: 0, 0
+  index: -1
+黄毛-倒地
+  rotate: false
+  xy: 2, 1137
+  size: 470, 372
+  orig: 470, 372
+  offset: 0, 0
+  index: -1

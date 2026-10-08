@@ -1,0 +1,552 @@
+
+ch27.png
+size: 3288,3288
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: false
+  xy: 2, 1774
+  size: 1512, 1512
+  orig: 1512, 1512
+  offset: 0, 0
+  index: -1
+bzg
+  rotate: false
+  xy: 1516, 1823
+  size: 576, 1463
+  orig: 576, 1463
+  offset: 0, 0
+  index: -1
+cg
+  rotate: false
+  xy: 487, 409
+  size: 414, 1363
+  orig: 414, 1363
+  offset: 0, 0
+  index: -1
+eye
+  rotate: false
+  xy: 1608, 1776
+  size: 45, 45
+  orig: 45, 45
+  offset: 0, 0
+  index: -1
+nanzhud
+  rotate: false
+  xy: 2094, 2625
+  size: 1022, 661
+  orig: 1022, 661
+  offset: 0, 0
+  index: -1
+syr1
+  rotate: true
+  xy: 2055, 1294
+  size: 330, 339
+  orig: 338, 347
+  offset: 4, 4
+  index: -1
+syr2
+  rotate: false
+  xy: 2396, 1285
+  size: 330, 339
+  orig: 338, 347
+  offset: 4, 4
+  index: -1
+syr3
+  rotate: false
+  xy: 1485, 841
+  size: 330, 339
+  orig: 338, 347
+  offset: 4, 4
+  index: -1
+syr4
+  rotate: false
+  xy: 1521, 500
+  size: 330, 339
+  orig: 338, 347
+  offset: 4, 4
+  index: -1
+yun
+  rotate: false
+  xy: 2094, 1860
+  size: 650, 763
+  orig: 650, 763
+  offset: 0, 0
+  index: -1
+z/1
+  rotate: true
+  xy: 3079, 359
+  size: 191, 86
+  orig: 191, 86
+  offset: 0, 0
+  index: -1
+z/2
+  rotate: true
+  xy: 3167, 333
+  size: 178, 96
+  orig: 178, 96
+  offset: 0, 0
+  index: -1
+z/3
+  rotate: false
+  xy: 3118, 2641
+  size: 157, 21
+  orig: 157, 21
+  offset: 0, 0
+  index: -1
+z/4
+  rotate: true
+  xy: 3265, 310
+  size: 201, 21
+  orig: 201, 21
+  offset: 0, 0
+  index: -1
+z/5
+  rotate: false
+  xy: 2190, 138
+  size: 197, 59
+  orig: 197, 59
+  offset: 0, 0
+  index: -1
+z/6
+  rotate: true
+  xy: 3267, 1691
+  size: 75, 19
+  orig: 75, 19
+  offset: 0, 0
+  index: -1
+光圈
+  rotate: false
+  xy: 3060, 715
+  size: 221, 220
+  orig: 230, 230
+  offset: 5, 4
+  index: -1
+冲击波
+  rotate: true
+  xy: 487, 4
+  size: 403, 404
+  orig: 405, 405
+  offset: 1, 0
+  index: -1
+包租婆/包租婆-L手1
+  rotate: true
+  xy: 2509, 612
+  size: 110, 191
+  orig: 110, 191
+  offset: 0, 0
+  index: -1
+包租婆/包租婆-L腿
+  rotate: true
+  xy: 2, 9
+  size: 98, 233
+  orig: 98, 233
+  offset: 0, 0
+  index: -1
+包租婆/包租婆-头
+  rotate: true
+  xy: 1817, 1090
+  size: 240, 231
+  orig: 240, 231
+  offset: 0, 0
+  index: -1
+包租婆/包租婆-眉毛L
+  rotate: true
+  xy: 469, 69
+  size: 38, 16
+  orig: 38, 16
+  offset: 0, 0
+  index: -1
+包租婆/包租婆-眉毛R
+  rotate: true
+  xy: 3267, 1641
+  size: 48, 19
+  orig: 49, 21
+  offset: 0, 1
+  index: -1
+包租婆/包租婆-说话的嘴巴1
+  rotate: false
+  xy: 1722, 1182
+  size: 56, 39
+  orig: 56, 39
+  offset: 0, 0
+  index: -1
+包租婆/包租婆-说话的嘴巴2
+  rotate: false
+  xy: 2442, 219
+  size: 58, 41
+  orig: 58, 41
+  offset: 0, 0
+  index: -1
+包租婆/包租婆-身体
+  rotate: false
+  xy: 1485, 1182
+  size: 235, 590
+  orig: 235, 590
+  offset: 0, 0
+  index: -1
+大车
+  rotate: false
+  xy: 2746, 1488
+  size: 332, 1135
+  orig: 332, 1135
+  offset: 0, 0
+  index: -1
+大车man
+  rotate: true
+  xy: 2808, 228
+  size: 274, 269
+  orig: 274, 269
+  offset: 0, 0
+  index: -1
+我练成了
+  rotate: true
+  xy: 903, 768
+  size: 1004, 580
+  orig: 1004, 580
+  offset: 0, 0
+  index: -1
+气泡/对话框1
+  rotate: true
+  xy: 3080, 1512
+  size: 254, 185
+  orig: 254, 185
+  offset: 0, 0
+  index: -1
+气泡/思考气泡
+  rotate: true
+  xy: 1722, 1332
+  size: 489, 331
+  orig: 501, 343
+  offset: 6, 6
+  index: -1
+火焰弹_爆炸_002
+  rotate: true
+  xy: 2666, 26
+  size: 186, 176
+  orig: 270, 270
+  offset: 44, 56
+  index: -1
+火焰弹_爆炸_003
+  rotate: false
+  xy: 2442, 2
+  size: 222, 210
+  orig: 270, 270
+  offset: 24, 43
+  index: -1
+火焰弹_爆炸_004
+  rotate: false
+  xy: 2844, 5
+  size: 234, 221
+  orig: 270, 270
+  offset: 17, 39
+  index: -1
+火焰弹_爆炸_005
+  rotate: false
+  xy: 1817, 869
+  size: 231, 219
+  orig: 270, 270
+  offset: 18, 40
+  index: -1
+火焰弹_爆炸_006
+  rotate: true
+  xy: 2509, 724
+  size: 218, 207
+  orig: 270, 270
+  offset: 26, 45
+  index: -1
+点击0
+  rotate: true
+  xy: 1272, 19
+  size: 131, 161
+  orig: 133, 162
+  offset: 1, 0
+  index: -1
+点击1
+  rotate: false
+  xy: 3059, 552
+  size: 131, 161
+  orig: 133, 162
+  offset: 1, 0
+  index: -1
+烟雾
+  rotate: false
+  xy: 1675, 105
+  size: 139, 65
+  orig: 162, 72
+  offset: 11, 4
+  index: -1
+男主/L手-张开
+  rotate: false
+  xy: 237, 31
+  size: 230, 76
+  orig: 230, 76
+  offset: 0, 0
+  index: -1
+男主/L手-插裤兜
+  rotate: false
+  xy: 3192, 513
+  size: 87, 200
+  orig: 87, 200
+  offset: 0, 0
+  index: -1
+男主/R手
+  rotate: true
+  xy: 2190, 199
+  size: 61, 250
+  orig: 61, 250
+  offset: 0, 0
+  index: -1
+男主/R手-伸手
+  rotate: false
+  xy: 2518, 530
+  size: 198, 80
+  orig: 198, 80
+  offset: 0, 0
+  index: -1
+男主/R手-张开
+  rotate: false
+  xy: 1862, 121
+  size: 202, 64
+  orig: 202, 64
+  offset: 0, 0
+  index: -1
+男主/R手-摊手
+  rotate: true
+  xy: 893, 16
+  size: 134, 190
+  orig: 134, 190
+  offset: 0, 0
+  index: -1
+男主/lxl1
+  rotate: true
+  xy: 893, 152
+  size: 245, 618
+  orig: 245, 618
+  offset: 0, 0
+  index: -1
+男主/lxl2
+  rotate: true
+  xy: 1722, 1223
+  size: 107, 93
+  orig: 107, 93
+  offset: 0, 0
+  index: -1
+男主/lxl3
+  rotate: true
+  xy: 3079, 239
+  size: 118, 67
+  orig: 118, 67
+  offset: 0, 0
+  index: -1
+男主/lxl4
+  rotate: true
+  xy: 1085, 15
+  size: 135, 185
+  orig: 135, 188
+  offset: 0, 2
+  index: -1
+男主/lxl5
+  rotate: false
+  xy: 1435, 16
+  size: 95, 134
+  orig: 95, 134
+  offset: 0, 0
+  index: -1
+男主/zb身体
+  rotate: true
+  xy: 903, 399
+  size: 367, 616
+  orig: 367, 616
+  offset: 0, 0
+  index: -1
+男主/头
+  rotate: true
+  xy: 2728, 1160
+  size: 326, 339
+  orig: 326, 339
+  offset: 0, 0
+  index: -1
+男主/表情1-
+  rotate: true
+  xy: 1521, 172
+  size: 326, 339
+  orig: 326, 339
+  offset: 0, 0
+  index: -1
+男主/表情13
+  rotate: false
+  xy: 2181, 603
+  size: 326, 339
+  orig: 326, 339
+  offset: 0, 0
+  index: -1
+男主/表情15-累
+  rotate: false
+  xy: 2190, 262
+  size: 326, 339
+  orig: 326, 339
+  offset: 0, 0
+  index: -1
+男主/表情19-疑惑（包租婆敲门）
+  rotate: true
+  xy: 2718, 504
+  size: 326, 339
+  orig: 326, 339
+  offset: 0, 0
+  index: -1
+男主/表情2-
+  rotate: true
+  xy: 2050, 966
+  size: 326, 339
+  orig: 326, 339
+  offset: 0, 0
+  index: -1
+男主/表情4-
+  rotate: false
+  xy: 2391, 944
+  size: 326, 339
+  orig: 326, 339
+  offset: 0, 0
+  index: -1
+男主/表情5-愤怒（被泼水）
+  rotate: true
+  xy: 2719, 832
+  size: 326, 339
+  orig: 326, 339
+  offset: 0, 0
+  index: -1
+男主/表情6-诧异（前女友来电）
+  rotate: false
+  xy: 1853, 528
+  size: 326, 339
+  orig: 326, 339
+  offset: 0, 0
+  index: -1
+男主/表情7-惊讶（分手）
+  rotate: false
+  xy: 1862, 187
+  size: 326, 339
+  orig: 326, 339
+  offset: 0, 0
+  index: -1
+男主/说话嘴2
+  rotate: true
+  xy: 2389, 141
+  size: 56, 41
+  orig: 62, 45
+  offset: 0, 3
+  index: -1
+男主/说话嘴巴1
+  rotate: true
+  xy: 2055, 1768
+  size: 53, 29
+  orig: 55, 30
+  offset: 2, 0
+  index: -1
+男主/说话嘴巴2
+  rotate: true
+  xy: 3167, 513
+  size: 37, 21
+  orig: 39, 21
+  offset: 1, 0
+  index: -1
+男主/身体
+  rotate: false
+  xy: 3118, 2664
+  size: 160, 622
+  orig: 160, 622
+  offset: 0, 0
+  index: -1
+碰1
+  rotate: false
+  xy: 2050, 869
+  size: 90, 95
+  orig: 90, 95
+  offset: 0, 0
+  index: -1
+表情s
+  rotate: false
+  xy: 3060, 937
+  size: 221, 221
+  orig: 221, 221
+  offset: 0, 0
+  index: -1
+表现素材/感叹号
+  rotate: true
+  xy: 2066, 129
+  size: 56, 85
+  orig: 56, 85
+  offset: 0, 0
+  index: -1
+表现素材/打击3
+  rotate: false
+  xy: 1532, 21
+  size: 141, 149
+  orig: 149, 149
+  offset: 8, 0
+  index: -1
+表现素材/提示
+  rotate: false
+  xy: 3080, 1768
+  size: 206, 237
+  orig: 206, 237
+  offset: 0, 0
+  index: -1
+表现素材/摩托等
+  rotate: false
+  xy: 3148, 240
+  size: 93, 91
+  orig: 93, 91
+  offset: 0, 0
+  index: -1
+表现素材/生气
+  rotate: false
+  xy: 1675, 10
+  size: 106, 93
+  orig: 106, 93
+  offset: 0, 0
+  index: -1
+表现素材/速度线
+  rotate: false
+  xy: 2518, 214
+  size: 288, 288
+  orig: 288, 288
+  offset: 0, 0
+  index: -1
+表现素材/黑色转场
+  rotate: false
+  xy: 2690, 1798
+  size: 45, 60
+  orig: 45, 60
+  offset: 0, 0
+  index: -1
+裂痕
+  rotate: true
+  xy: 3080, 2007
+  size: 616, 194
+  orig: 616, 194
+  offset: 0, 0
+  index: -1
+邪神
+  rotate: false
+  xy: 2, 109
+  size: 483, 1663
+  orig: 483, 1663
+  offset: 0, 0
+  index: -1
+邪神d
+  rotate: false
+  xy: 2094, 1626
+  size: 594, 232
+  orig: 594, 232
+  offset: 0, 0
+  index: -1
+阴影
+  rotate: false
+  xy: 1516, 1776
+  size: 90, 45
+  orig: 90, 45
+  offset: 0, 0
+  index: -1

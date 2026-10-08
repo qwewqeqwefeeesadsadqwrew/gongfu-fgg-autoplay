@@ -1,0 +1,104 @@
+
+s_pig.png
+size: 264,264
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+eye
+  rotate: true
+  xy: 147, 124
+  size: 7, 8
+  orig: 7, 8
+  offset: 0, 0
+  index: -1
+s_pig_腿1
+  rotate: false
+  xy: 147, 12
+  size: 26, 30
+  orig: 26, 30
+  offset: 0, 0
+  index: -1
+s_pig_腿1_7号
+  rotate: false
+  xy: 209, 39
+  size: 30, 35
+  orig: 30, 35
+  offset: 0, 0
+  index: -1
+s_pig_腿1_八戒
+  rotate: false
+  xy: 176, 47
+  size: 31, 36
+  orig: 31, 36
+  offset: 0, 0
+  index: -1
+s_pig_腿1_黑
+  rotate: false
+  xy: 176, 10
+  size: 30, 35
+  orig: 30, 35
+  offset: 0, 0
+  index: -1
+s_pig_腿2
+  rotate: true
+  xy: 208, 13
+  size: 24, 33
+  orig: 24, 33
+  offset: 0, 0
+  index: -1
+s_pig_腿2_7号
+  rotate: false
+  xy: 147, 133
+  size: 28, 39
+  orig: 28, 39
+  offset: 0, 0
+  index: -1
+s_pig_腿2_八戒
+  rotate: false
+  xy: 228, 76
+  size: 33, 41
+  orig: 33, 41
+  offset: 0, 0
+  index: -1
+s_pig_腿2_黑
+  rotate: false
+  xy: 147, 44
+  size: 27, 39
+  orig: 27, 39
+  offset: 0, 0
+  index: -1
+s_pig_身体
+  rotate: false
+  xy: 2, 2
+  size: 143, 72
+  orig: 143, 72
+  offset: 0, 0
+  index: -1
+s_pig_身体2
+  rotate: false
+  xy: 2, 174
+  size: 174, 88
+  orig: 176, 88
+  offset: 1, 0
+  index: -1
+s_pig_身体_7号
+  rotate: false
+  xy: 2, 76
+  size: 143, 96
+  orig: 143, 120
+  offset: 0, 24
+  index: -1
+s_pig_身体_八戒
+  rotate: true
+  xy: 178, 119
+  size: 143, 77
+  orig: 143, 100
+  offset: 0, 13
+  index: -1
+阴影
+  rotate: false
+  xy: 147, 85
+  size: 79, 32
+  orig: 81, 34
+  offset: 1, 1
+  index: -1

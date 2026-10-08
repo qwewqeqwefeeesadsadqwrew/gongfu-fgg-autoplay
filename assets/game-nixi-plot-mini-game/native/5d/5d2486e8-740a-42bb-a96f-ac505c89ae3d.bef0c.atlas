@@ -1,0 +1,55 @@
+
+hospital_game.png
+size: 366,366
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 302, 142
+  size: 71, 44
+  orig: 72, 44
+  offset: 0, 0
+  index: -1
+光线1
+  rotate: false
+  xy: 350, 117
+  size: 10, 247
+  orig: 10, 252
+  offset: 0, 3
+  index: -1
+光线3
+  rotate: false
+  xy: 57, 2
+  size: 69, 211
+  orig: 71, 215
+  offset: 1, 2
+  index: -1
+光线4
+  rotate: false
+  xy: 2, 68
+  size: 53, 296
+  orig: 54, 314
+  offset: 0, 9
+  index: -1
+刷卡机
+  rotate: true
+  xy: 128, 119
+  size: 94, 161
+  orig: 94, 161
+  offset: 0, 0
+  index: -1
+刷卡机2
+  rotate: true
+  xy: 128, 13
+  size: 102, 172
+  orig: 102, 172
+  offset: 0, 0
+  index: -1
+对话框3
+  rotate: false
+  xy: 57, 215
+  size: 291, 149
+  orig: 291, 149
+  offset: 0, 0
+  index: -1

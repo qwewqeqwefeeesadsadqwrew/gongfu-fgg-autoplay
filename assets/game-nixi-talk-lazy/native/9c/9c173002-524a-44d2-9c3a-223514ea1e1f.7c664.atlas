@@ -1,0 +1,90 @@
+
+半身像.png
+size: 1963,1518
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+man动作2-身体-微蹲
+  rotate: true
+  xy: 2, 993
+  size: 523, 1696
+  orig: 600, 1696
+  offset: 23, 0
+  index: -1
+man脸
+  rotate: false
+  xy: 1700, 1129
+  size: 260, 300
+  orig: 260, 300
+  offset: 0, 0
+  index: -1
+swoman-身体2-基础
+  rotate: true
+  xy: 2, 2
+  size: 587, 1580
+  orig: 587, 1580
+  offset: 0, 0
+  index: -1
+woman-头
+  rotate: true
+  xy: 1594, 460
+  size: 252, 253
+  orig: 260, 268
+  offset: 0, 7
+  index: -1
+woman-头2
+  rotate: true
+  xy: 1704, 206
+  size: 252, 253
+  orig: 260, 268
+  offset: 0, 7
+  index: -1
+woman-表情-微笑0z
+  rotate: true
+  xy: 1594, 927
+  size: 64, 39
+  orig: 259, 280
+  offset: 87, 39
+  index: -1
+woman-表情-担忧
+  rotate: false
+  xy: 1700, 908
+  size: 259, 219
+  orig: 259, 280
+  offset: 0, 61
+  index: -1
+woman动作1-L手-背手
+  rotate: false
+  xy: 1584, 4
+  size: 118, 454
+  orig: 123, 457
+  offset: 1, 2
+  index: -1
+woman动作1-R手-捏下巴
+  rotate: true
+  xy: 1594, 714
+  size: 192, 351
+  orig: 194, 356
+  offset: 1, 4
+  index: -1
+woman动作1-表情
+  rotate: false
+  xy: 1704, 78
+  size: 124, 126
+  orig: 124, 126
+  offset: 0, 0
+  index: -1
+woman动作1-身体-正常
+  rotate: true
+  xy: 2, 591
+  size: 400, 1590
+  orig: 400, 1650
+  offset: 0, 0
+  index: -1
+woman动作1-马尾
+  rotate: true
+  xy: 1700, 1431
+  size: 85, 261
+  orig: 88, 263
+  offset: 2, 1
+  index: -1

@@ -1,0 +1,27 @@
+
+longniang_tx.png
+size: 1796,1796
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+longniang
+  rotate: false
+  xy: 2, 934
+  size: 1168, 860
+  orig: 1168, 860
+  offset: 0, 0
+  index: -1
+longniang_bg
+  rotate: true
+  xy: 2, 2
+  size: 930, 806
+  orig: 930, 806
+  offset: 0, 0
+  index: -1
+longniang_zz
+  rotate: true
+  xy: 810, 15
+  size: 917, 778
+  orig: 917, 778
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,195 @@
+
+ch24_phone.png
+size: 1659,1659
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+14
+  rotate: false
+  xy: 557, 551
+  size: 161, 60
+  orig: 161, 60
+  offset: 0, 0
+  index: -1
+15
+  rotate: false
+  xy: 720, 551
+  size: 154, 60
+  orig: 154, 60
+  offset: 0, 0
+  index: -1
+bangjia-1
+  rotate: false
+  xy: 819, 1023
+  size: 171, 634
+  orig: 171, 634
+  offset: 0, 0
+  index: -1
+lpp
+  rotate: true
+  xy: 2, 2
+  size: 523, 993
+  orig: 523, 993
+  offset: 0, 0
+  index: -1
+ssbg
+  rotate: false
+  xy: 997, 901
+  size: 324, 756
+  orig: 324, 756
+  offset: 0, 0
+  index: -1
+xdt
+  rotate: true
+  xy: 557, 613
+  size: 286, 544
+  orig: 286, 544
+  offset: 0, 0
+  index: -1
+尖叫
+  rotate: false
+  xy: 1103, 753
+  size: 61, 58
+  orig: 61, 58
+  offset: 0, 0
+  index: -1
+感叹号
+  rotate: true
+  xy: 1102, 555
+  size: 56, 85
+  orig: 56, 85
+  offset: 0, 0
+  index: -1
+手指2
+  rotate: true
+  xy: 1323, 919
+  size: 166, 200
+  orig: 225, 270
+  offset: 31, 32
+  index: -1
+手机滤镜
+  rotate: false
+  xy: 1517, 1377
+  size: 134, 280
+  orig: 134, 280
+  offset: 0, 0
+  index: -1
+拒绝
+  rotate: false
+  xy: 1525, 945
+  size: 104, 140
+  orig: 104, 140
+  offset: 0, 0
+  index: -1
+接受
+  rotate: true
+  xy: 813, 917
+  size: 104, 141
+  orig: 104, 141
+  offset: 0, 0
+  index: -1
+新手机
+  rotate: false
+  xy: 2, 527
+  size: 553, 1130
+  orig: 553, 1130
+  offset: 0, 0
+  index: -1
+来电界面
+  rotate: false
+  xy: 557, 1105
+  size: 260, 552
+  orig: 260, 552
+  offset: 0, 0
+  index: -1
+气泡/对话框1
+  rotate: false
+  xy: 557, 918
+  size: 254, 185
+  orig: 254, 185
+  offset: 0, 0
+  index: -1
+气泡/气泡头像-底框
+  rotate: false
+  xy: 1323, 1472
+  size: 185, 185
+  orig: 185, 185
+  offset: 0, 0
+  index: -1
+气泡/气泡头像-气泡
+  rotate: false
+  xy: 997, 67
+  size: 383, 133
+  orig: 383, 133
+  offset: 0, 0
+  index: -1
+点击进入
+  rotate: false
+  xy: 1517, 756
+  size: 131, 161
+  orig: 133, 162
+  offset: 1, 0
+  index: -1
+男主/头
+  rotate: false
+  xy: 997, 202
+  size: 326, 339
+  orig: 326, 339
+  offset: 0, 0
+  index: -1
+男主/男主-身体小
+  rotate: false
+  xy: 876, 543
+  size: 129, 68
+  orig: 129, 68
+  offset: 0, 0
+  index: -1
+男主/表情2-
+  rotate: false
+  xy: 1189, 560
+  size: 326, 339
+  orig: 326, 339
+  offset: 0, 0
+  index: -1
+男主/说话嘴巴0
+  rotate: true
+  xy: 1103, 813
+  size: 86, 53
+  orig: 326, 339
+  offset: 103, 71
+  index: -1
+男主/说话嘴巴2
+  rotate: false
+  xy: 557, 528
+  size: 37, 21
+  orig: 39, 21
+  offset: 1, 0
+  index: -1
+速度线
+  rotate: false
+  xy: 1323, 1087
+  size: 288, 288
+  orig: 288, 288
+  offset: 0, 0
+  index: -1
+陈哥特写嘴巴
+  rotate: false
+  xy: 1007, 549
+  size: 93, 62
+  orig: 93, 62
+  offset: 0, 0
+  index: -1
+陈哥特写正常头
+  rotate: false
+  xy: 1325, 273
+  size: 298, 285
+  orig: 298, 285
+  offset: 0, 0
+  index: -1
+陈哥特写身体
+  rotate: false
+  xy: 1382, 35
+  size: 225, 236
+  orig: 225, 236
+  offset: 0, 0
+  index: -1

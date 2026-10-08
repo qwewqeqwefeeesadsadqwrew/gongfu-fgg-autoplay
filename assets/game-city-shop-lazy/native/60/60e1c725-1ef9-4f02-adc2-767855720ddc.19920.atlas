@@ -1,0 +1,41 @@
+
+小卖部风扇2.png
+size: 214,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+小卖部/小卖部风扇-外框
+  rotate: true
+  xy: 2, 2
+  size: 108, 147
+  orig: 108, 147
+  offset: 0, 0
+  index: -1
+小卖部/小卖部风扇-尖尖
+  rotate: false
+  xy: 124, 164
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+小卖部/小卖部风扇-本体-新
+  rotate: false
+  xy: 2, 112
+  size: 120, 142
+  orig: 120, 142
+  offset: 0, 0
+  index: -1
+小卖部/小卖部风扇-身体-新
+  rotate: false
+  xy: 151, 36
+  size: 61, 146
+  orig: 61, 146
+  offset: 0, 0
+  index: -1
+小卖部/电风扇_扇叶
+  rotate: false
+  xy: 124, 184
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1

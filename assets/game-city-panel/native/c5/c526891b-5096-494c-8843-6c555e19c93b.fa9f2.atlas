@@ -1,0 +1,27 @@
+
+光圈.png
+size: 512,401
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+20240514-175409
+  rotate: false
+  xy: 2, 2
+  size: 301, 298
+  orig: 301, 298
+  offset: 0, 0
+  index: -1
+流光
+  rotate: true
+  xy: 2, 302
+  size: 97, 508
+  orig: 133, 518
+  offset: 16, 10
+  index: -1
+白光
+  rotate: false
+  xy: 305, 52
+  size: 64, 248
+  orig: 100, 300
+  offset: 18, 26
+  index: -1

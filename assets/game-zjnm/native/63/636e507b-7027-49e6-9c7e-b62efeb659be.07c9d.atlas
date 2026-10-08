@@ -1,0 +1,90 @@
+
+gun_game_start.png
+size: 1528,1528
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+mouth
+  rotate: true
+  xy: 1463, 395
+  size: 62, 52
+  orig: 75, 57
+  offset: 3, 0
+  index: -1
+qipao
+  rotate: true
+  xy: 851, 37
+  size: 173, 105
+  orig: 180, 112
+  offset: 4, 3
+  index: -1
+start_bg
+  rotate: false
+  xy: 2, 12
+  size: 650, 1514
+  orig: 650, 1514
+  offset: 0, 0
+  index: -1
+start_cg_body
+  rotate: false
+  xy: 1173, 459
+  size: 353, 1067
+  orig: 353, 1067
+  offset: 0, 0
+  index: -1
+start_cg_hair
+  rotate: false
+  xy: 1463, 339
+  size: 51, 54
+  orig: 53, 56
+  offset: 1, 1
+  index: -1
+start_cg_handL
+  rotate: false
+  xy: 1173, 160
+  size: 288, 297
+  orig: 288, 297
+  offset: 0, 0
+  index: -1
+start_cg_handR
+  rotate: false
+  xy: 1025, 100
+  size: 138, 258
+  orig: 138, 259
+  offset: 0, 0
+  index: -1
+start_cg_head
+  rotate: false
+  xy: 654, 16
+  size: 195, 194
+  orig: 196, 195
+  offset: 1, 1
+  index: -1
+start_xiaodi_body
+  rotate: false
+  xy: 654, 360
+  size: 517, 1166
+  orig: 517, 1166
+  offset: 0, 0
+  index: -1
+start_xiaodi_handL
+  rotate: false
+  xy: 654, 212
+  size: 369, 146
+  orig: 369, 146
+  offset: 0, 0
+  index: -1
+zi1
+  rotate: true
+  xy: 1463, 200
+  size: 137, 47
+  orig: 137, 47
+  offset: 0, 0
+  index: -1
+zi2
+  rotate: true
+  xy: 1463, 100
+  size: 98, 47
+  orig: 98, 47
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,20 @@
+
+ui_guanggaoquan.png
+size: 603,603
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 2, 119
+  size: 320, 482
+  orig: 320, 482
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 2, 2
+  size: 156, 115
+  orig: 157, 115
+  offset: 0, 0
+  index: -1

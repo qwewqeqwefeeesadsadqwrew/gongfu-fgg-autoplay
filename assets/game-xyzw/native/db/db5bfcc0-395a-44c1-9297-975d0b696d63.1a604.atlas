@@ -1,0 +1,13 @@
+
+xiaobing4_feidao_loop.png
+size: 32,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sc4_feidao_weapon
+  rotate: false
+  xy: 2, 2
+  size: 17, 74
+  orig: 17, 74
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,69 @@
+
+ch17.png
+size: 2046,2046
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+qht-bg
+  rotate: false
+  xy: 2, 530
+  size: 650, 1514
+  orig: 650, 1514
+  offset: 0, 0
+  index: -1
+qht-hand
+  rotate: false
+  xy: 2, 83
+  size: 341, 445
+  orig: 341, 445
+  offset: 0, 0
+  index: -1
+qht-hand-yy
+  rotate: true
+  xy: 345, 191
+  size: 337, 252
+  orig: 339, 256
+  offset: 2, 2
+  index: -1
+qht-mz
+  rotate: false
+  xy: 2, 2
+  size: 132, 79
+  orig: 134, 80
+  offset: 1, 0
+  index: -1
+tv
+  rotate: false
+  xy: 654, 532
+  size: 648, 1512
+  orig: 648, 1512
+  offset: 0, 0
+  index: -1
+z
+  rotate: false
+  xy: 136, 40
+  size: 242, 41
+  orig: 242, 41
+  offset: 0, 0
+  index: -1
+光圈
+  rotate: true
+  xy: 599, 307
+  size: 221, 220
+  orig: 230, 230
+  offset: 5, 4
+  index: -1
+气泡/对话框3
+  rotate: false
+  xy: 380, 38
+  size: 293, 151
+  orig: 293, 151
+  offset: 0, 0
+  index: -1
+点击
+  rotate: false
+  xy: 675, 144
+  size: 131, 161
+  orig: 133, 162
+  offset: 1, 0
+  index: -1

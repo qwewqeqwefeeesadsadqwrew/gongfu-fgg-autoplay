@@ -1,0 +1,13 @@
+
+ui_zhouka.png
+size: 559,559
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+角色周卡
+  rotate: false
+  xy: 2, 2
+  size: 184, 555
+  orig: 184, 556
+  offset: 0, 0
+  index: -1

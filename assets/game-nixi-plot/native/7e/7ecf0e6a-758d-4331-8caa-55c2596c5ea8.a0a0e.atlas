@@ -1,0 +1,223 @@
+
+女主躺床上.png
+size: 1812,1812
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+女主躺床上特写/女主倒床特写-上半身-脱衣
+  rotate: false
+  xy: 2, 405
+  size: 650, 697
+  orig: 650, 697
+  offset: 0, 0
+  index: -1
+女主躺床上特写/女主倒床特写-下半身
+  rotate: false
+  xy: 2, 1104
+  size: 650, 706
+  orig: 650, 706
+  offset: 0, 0
+  index: -1
+女主躺床上特写/女主倒床特写-右手
+  rotate: true
+  xy: 1654, 1292
+  size: 67, 134
+  orig: 68, 134
+  offset: 1, 0
+  index: -1
+女主躺床上特写/女主倒床特写-右胸
+  rotate: true
+  xy: 654, 417
+  size: 287, 311
+  orig: 287, 311
+  offset: 0, 0
+  index: -1
+女主躺床上特写/女主倒床特写-右胸2
+  rotate: false
+  xy: 967, 445
+  size: 194, 269
+  orig: 287, 311
+  offset: 0, 0
+  index: -1
+女主躺床上特写/女主倒床特写-右衣角
+  rotate: true
+  xy: 1539, 785
+  size: 187, 115
+  orig: 187, 115
+  offset: 0, 0
+  index: -1
+女主躺床上特写/女主倒床特写-右衣角2
+  rotate: false
+  xy: 483, 44
+  size: 182, 359
+  orig: 182, 359
+  offset: 0, 0
+  index: -1
+女主躺床上特写/女主倒床特写-嘴巴
+  rotate: true
+  xy: 1198, 981
+  size: 59, 50
+  orig: 59, 50
+  offset: 0, 0
+  index: -1
+女主躺床上特写/女主倒床特写-左手
+  rotate: false
+  xy: 654, 706
+  size: 171, 622
+  orig: 171, 622
+  offset: 0, 0
+  index: -1
+女主躺床上特写/女主倒床特写-左胸
+  rotate: false
+  xy: 1271, 1249
+  size: 381, 273
+  orig: 381, 273
+  offset: 0, 0
+  index: -1
+女主躺床上特写/女主倒床特写-左胸2
+  rotate: false
+  xy: 1255, 974
+  size: 381, 273
+  orig: 381, 273
+  offset: 0, 0
+  index: -1
+女主躺床上特写/女主倒床特写-左衣角
+  rotate: false
+  xy: 1504, 401
+  size: 306, 243
+  orig: 306, 243
+  offset: 0, 0
+  index: -1
+女主躺床上特写/女主倒床特写-床
+  rotate: false
+  xy: 995, 63
+  size: 163, 380
+  orig: 163, 380
+  offset: 0, 0
+  index: -1
+女主躺床上特写/女主倒床特写-底
+  rotate: false
+  xy: 654, 1330
+  size: 615, 480
+  orig: 615, 480
+  offset: 0, 0
+  index: -1
+女主躺床上特写/女主倒床特写-眼睛
+  rotate: true
+  xy: 1699, 1698
+  size: 112, 110
+  orig: 112, 110
+  offset: 0, 0
+  index: -1
+女主躺床上特写/女主倒床特写-眼睛2
+  rotate: false
+  xy: 1539, 673
+  size: 112, 110
+  orig: 112, 110
+  offset: 0, 0
+  index: -1
+女主躺床上特写/女主倒床特写-胸-大脱衣
+  rotate: false
+  xy: 1271, 1524
+  size: 426, 286
+  orig: 426, 306
+  offset: 0, 0
+  index: -1
+女主躺床上特写/女主倒床特写-胸-大脱衣2
+  rotate: false
+  xy: 827, 1042
+  size: 426, 286
+  orig: 426, 306
+  offset: 0, 0
+  index: -1
+女主躺床上特写/女主倒床特写-腿
+  rotate: true
+  xy: 2, 58
+  size: 345, 479
+  orig: 345, 479
+  offset: 0, 0
+  index: -1
+女主躺床上特写/女主倒床特写-衣服中
+  rotate: false
+  xy: 1160, 176
+  size: 347, 140
+  orig: 347, 140
+  offset: 0, 0
+  index: -1
+女主躺床上特写/烟雾ww
+  rotate: true
+  xy: 1654, 1361
+  size: 161, 146
+  orig: 175, 162
+  offset: 7, 7
+  index: -1
+女主躺床上特写/胯部打码
+  rotate: true
+  xy: 827, 716
+  size: 324, 369
+  orig: 324, 370
+  offset: 0, 0
+  index: -1
+按钮_解开
+  rotate: false
+  xy: 1509, 203
+  size: 220, 196
+  orig: 220, 196
+  offset: 0, 0
+  index: -1
+摩托等
+  rotate: false
+  xy: 1654, 1209
+  size: 83, 81
+  orig: 93, 91
+  offset: 5, 5
+  index: -1
+文字/脸这么红， 不会出事吧！
+  rotate: true
+  xy: 1699, 1563
+  size: 133, 56
+  orig: 133, 56
+  offset: 0, 0
+  index: -1
+旗袍/气泡头像-底框
+  rotate: false
+  xy: 1545, 16
+  size: 185, 185
+  orig: 185, 185
+  offset: 0, 0
+  index: -1
+旗袍/气泡头像-气泡
+  rotate: false
+  xy: 1160, 41
+  size: 383, 133
+  orig: 383, 133
+  offset: 0, 0
+  index: -1
+男主/男主-身体小
+  rotate: true
+  xy: 1731, 265
+  size: 134, 70
+  orig: 135, 70
+  offset: 1, 0
+  index: -1
+男主表情/嘴巴说话
+  rotate: true
+  xy: 1198, 646
+  size: 326, 339
+  orig: 326, 339
+  offset: 0, 0
+  index: -1
+男主表情/头
+  rotate: false
+  xy: 667, 76
+  size: 326, 339
+  orig: 326, 339
+  offset: 0, 0
+  index: -1
+男主表情/表情7-惊讶（分手）
+  rotate: true
+  xy: 1163, 318
+  size: 326, 339
+  orig: 326, 339
+  offset: 0, 0
+  index: -1

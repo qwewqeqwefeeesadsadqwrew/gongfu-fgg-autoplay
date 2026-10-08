@@ -1,0 +1,174 @@
+
+2.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+仙帝_后发
+  rotate: false
+  xy: 745, 13
+  size: 70, 74
+  orig: 71, 79
+  offset: 1, 4
+  index: -1
+仙帝_嘴巴开心
+  rotate: false
+  xy: 1442, 2
+  size: 44, 29
+  orig: 44, 29
+  offset: 0, 0
+  index: -1
+仙帝_大臂
+  rotate: false
+  xy: 1303, 7
+  size: 137, 214
+  orig: 138, 215
+  offset: 0, 1
+  index: -1
+仙帝_大臂L
+  rotate: true
+  xy: 953, 91
+  size: 109, 223
+  orig: 109, 223
+  offset: 0, 0
+  index: -1
+仙帝_大臂R
+  rotate: false
+  xy: 1178, 5
+  size: 123, 216
+  orig: 123, 216
+  offset: 0, 0
+  index: -1
+仙帝_头
+  rotate: false
+  xy: 1155, 223
+  size: 272, 278
+  orig: 272, 279
+  offset: 0, 1
+  index: -1
+仙帝_小臂L
+  rotate: false
+  xy: 1429, 304
+  size: 104, 197
+  orig: 104, 197
+  offset: 0, 0
+  index: -1
+仙帝_帽檐
+  rotate: true
+  xy: 1143, 34
+  size: 55, 29
+  orig: 55, 32
+  offset: 0, 3
+  index: -1
+仙帝_并发L
+  rotate: false
+  xy: 387, 8
+  size: 28, 78
+  orig: 29, 79
+  offset: 0, 1
+  index: -1
+仙帝_并发R
+  rotate: false
+  xy: 1442, 132
+  size: 42, 102
+  orig: 43, 102
+  offset: 1, 0
+  index: -1
+仙帝_手L
+  rotate: true
+  xy: 1472, 67
+  size: 63, 57
+  orig: 63, 57
+  offset: 0, 0
+  index: -1
+仙帝_手L_鼓掌
+  rotate: false
+  xy: 308, 6
+  size: 77, 80
+  orig: 77, 80
+  offset: 0, 0
+  index: -1
+仙帝_手R
+  rotate: false
+  xy: 1429, 236
+  size: 59, 66
+  orig: 59, 66
+  offset: 0, 0
+  index: -1
+仙帝_手R_鼓掌
+  rotate: true
+  xy: 817, 17
+  size: 70, 96
+  orig: 70, 96
+  offset: 0, 0
+  index: -1
+仙帝_板凳
+  rotate: false
+  xy: 953, 202
+  size: 200, 299
+  orig: 200, 299
+  offset: 0, 0
+  index: -1
+仙帝_眼白
+  rotate: true
+  xy: 1442, 33
+  size: 97, 28
+  orig: 100, 31
+  offset: 2, 1
+  index: -1
+仙帝_眼镜L
+  rotate: false
+  xy: 2, 2
+  size: 17, 17
+  orig: 20, 19
+  offset: 2, 1
+  index: -1
+仙帝_眼镜R
+  rotate: false
+  xy: 21, 3
+  size: 13, 16
+  orig: 16, 18
+  offset: 1, 1
+  index: -1
+仙帝_腿L
+  rotate: false
+  xy: 645, 89
+  size: 306, 412
+  orig: 306, 412
+  offset: 0, 0
+  index: -1
+仙帝_腿R
+  rotate: false
+  xy: 308, 88
+  size: 335, 413
+  orig: 335, 413
+  offset: 0, 0
+  index: -1
+仙帝_裙底
+  rotate: false
+  xy: 982, 21
+  size: 159, 68
+  orig: 159, 68
+  offset: 0, 0
+  index: -1
+仙帝_身体
+  rotate: false
+  xy: 2, 21
+  size: 304, 480
+  orig: 304, 480
+  offset: 0, 0
+  index: -1
+思考气泡
+  rotate: false
+  xy: 915, 18
+  size: 65, 69
+  orig: 98, 85
+  offset: 12, 8
+  index: -1
+阴影
+  rotate: false
+  xy: 417, 12
+  size: 326, 74
+  orig: 350, 100
+  offset: 12, 13
+  index: -1

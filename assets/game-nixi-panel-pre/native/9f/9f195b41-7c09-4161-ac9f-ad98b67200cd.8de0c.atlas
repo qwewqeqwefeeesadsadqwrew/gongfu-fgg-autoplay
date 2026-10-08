@@ -1,0 +1,216 @@
+
+5.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+秋香_刘海
+  rotate: true
+  xy: 427, 25
+  size: 70, 46
+  orig: 70, 46
+  offset: 0, 0
+  index: -1
+秋香_后发
+  rotate: true
+  xy: 600, 2
+  size: 81, 95
+  orig: 81, 95
+  offset: 0, 0
+  index: -1
+秋香_嘴巴1
+  rotate: true
+  xy: 297, 183
+  size: 38, 26
+  orig: 38, 26
+  offset: 0, 0
+  index: -1
+秋香_嘴巴2
+  rotate: true
+  xy: 297, 223
+  size: 39, 26
+  orig: 40, 26
+  offset: 0, 0
+  index: -1
+秋香_大臂L
+  rotate: true
+  xy: 2, 69
+  size: 123, 198
+  orig: 123, 198
+  offset: 0, 0
+  index: -1
+秋香_大臂R
+  rotate: false
+  xy: 938, 378
+  size: 82, 131
+  orig: 82, 131
+  offset: 0, 0
+  index: -1
+秋香_头
+  rotate: false
+  xy: 789, 341
+  size: 147, 168
+  orig: 174, 200
+  offset: 27, 0
+  index: -1
+秋香_头饰
+  rotate: false
+  xy: 637, 172
+  size: 140, 160
+  orig: 140, 160
+  offset: 0, 0
+  index: -1
+秋香_扇子
+  rotate: false
+  xy: 929, 245
+  size: 93, 94
+  orig: 93, 94
+  offset: 0, 0
+  index: -1
+秋香_扇子手L
+  rotate: true
+  xy: 697, 18
+  size: 65, 77
+  orig: 65, 77
+  offset: 0, 0
+  index: -1
+秋香_扇子手R
+  rotate: false
+  xy: 325, 97
+  size: 163, 138
+  orig: 163, 138
+  offset: 0, 0
+  index: -1
+秋香_扇子手臂L
+  rotate: false
+  xy: 490, 2
+  size: 108, 233
+  orig: 146, 273
+  offset: 38, 0
+  index: -1
+秋香_扇子手臂L2
+  rotate: true
+  xy: 600, 85
+  size: 85, 168
+  orig: 146, 273
+  offset: 0, 105
+  index: -1
+秋香_手臂L
+  rotate: false
+  xy: 929, 60
+  size: 86, 183
+  orig: 86, 183
+  offset: 0, 0
+  index: -1
+秋香_眉毛L
+  rotate: true
+  xy: 770, 146
+  size: 24, 14
+  orig: 24, 14
+  offset: 0, 0
+  index: -1
+秋香_眉毛R
+  rotate: true
+  xy: 770, 100
+  size: 44, 13
+  orig: 44, 14
+  offset: 0, 0
+  index: -1
+秋香_眼白1
+  rotate: true
+  xy: 618, 201
+  size: 34, 17
+  orig: 35, 17
+  offset: 1, 0
+  index: -1
+秋香_眼白2
+  rotate: true
+  xy: 999, 36
+  size: 22, 20
+  orig: 23, 20
+  offset: 0, 0
+  index: -1
+秋香_眼镜L
+  rotate: false
+  xy: 618, 178
+  size: 16, 21
+  orig: 17, 23
+  offset: 0, 1
+  index: -1
+秋香_眼镜R
+  rotate: true
+  xy: 999, 14
+  size: 20, 18
+  orig: 21, 18
+  offset: 1, 0
+  index: -1
+秋香_耳坠
+  rotate: false
+  xy: 600, 189
+  size: 16, 46
+  orig: 16, 47
+  offset: 0, 1
+  index: -1
+秋香_胸部
+  rotate: true
+  xy: 202, 31
+  size: 150, 117
+  orig: 150, 117
+  offset: 0, 0
+  index: -1
+秋香_衣服衔接后
+  rotate: true
+  xy: 321, 22
+  size: 73, 104
+  orig: 73, 104
+  offset: 0, 0
+  index: -1
+秋香_装饰吊坠
+  rotate: true
+  xy: 339, 334
+  size: 175, 448
+  orig: 176, 448
+  offset: 1, 0
+  index: -1
+秋香_裙子
+  rotate: true
+  xy: 2, 264
+  size: 245, 335
+  orig: 245, 335
+  offset: 0, 0
+  index: -1
+秋香_身体
+  rotate: false
+  xy: 789, 29
+  size: 138, 310
+  orig: 138, 310
+  offset: 0, 0
+  index: -1
+秋香_长发
+  rotate: true
+  xy: 339, 237
+  size: 95, 296
+  orig: 95, 296
+  offset: 0, 0
+  index: -1
+秋香_鬓发L
+  rotate: true
+  xy: 938, 350
+  size: 26, 76
+  orig: 26, 77
+  offset: 0, 1
+  index: -1
+秋香_鬓发R
+  rotate: true
+  xy: 929, 10
+  size: 48, 68
+  orig: 48, 68
+  offset: 0, 0
+  index: -1
+阴影
+  rotate: false
+  xy: 2, 194
+  size: 293, 68
+  orig: 315, 90
+  offset: 11, 11
+  index: -1

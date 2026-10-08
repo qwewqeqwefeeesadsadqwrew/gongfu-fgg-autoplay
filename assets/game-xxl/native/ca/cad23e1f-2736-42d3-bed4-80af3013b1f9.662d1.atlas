@@ -1,0 +1,41 @@
+
+小游戏_车.png
+size: 507,176
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+后轮
+  rotate: true
+  xy: 381, 24
+  size: 82, 61
+  orig: 82, 61
+  offset: 0, 0
+  index: -1
+后轮2
+  rotate: true
+  xy: 444, 24
+  size: 82, 61
+  orig: 82, 61
+  offset: 0, 0
+  index: -1
+走地烟雾
+  rotate: true
+  xy: 322, 51
+  size: 123, 57
+  orig: 144, 64
+  offset: 10, 4
+  index: -1
+车
+  rotate: false
+  xy: 2, 2
+  size: 318, 172
+  orig: 322, 320
+  offset: 0, 79
+  index: -1
+车阴影
+  rotate: false
+  xy: 381, 108
+  size: 111, 66
+  orig: 111, 66
+  offset: 0, 0
+  index: -1

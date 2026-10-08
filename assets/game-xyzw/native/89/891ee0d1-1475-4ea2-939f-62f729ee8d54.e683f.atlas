@@ -1,0 +1,34 @@
+
+xiaobing_bianpao_loop.png
+size: 512,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+monster1_effect_spark1
+  rotate: true
+  xy: 226, 17
+  size: 44, 37
+  orig: 45, 38
+  offset: 0, 1
+  index: -1
+monster1_effect_spark2
+  rotate: true
+  xy: 188, 10
+  size: 51, 36
+  orig: 52, 36
+  offset: 0, 0
+  index: -1
+monster1_effect_spark3
+  rotate: false
+  xy: 120, 17
+  size: 66, 44
+  orig: 66, 45
+  offset: 0, 1
+  index: -1
+monster1_firecracker
+  rotate: true
+  xy: 2, 2
+  size: 59, 116
+  orig: 59, 116
+  offset: 0, 0
+  index: -1

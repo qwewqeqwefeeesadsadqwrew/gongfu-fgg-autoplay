@@ -1,0 +1,167 @@
+
+琛哥.png
+size: 2015,427
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+冰护肩R
+  rotate: false
+  xy: 692, 15
+  size: 85, 158
+  orig: 203, 282
+  offset: 98, 31
+  index: -1
+冰护肩R2
+  rotate: false
+  xy: 1681, 230
+  size: 72, 100
+  orig: 118, 153
+  offset: 17, 4
+  index: -1
+冰鱼
+  rotate: false
+  xy: 816, 5
+  size: 344, 175
+  orig: 356, 175
+  offset: 12, 0
+  index: -1
+冰鱼剑2
+  rotate: true
+  xy: 1350, 230
+  size: 195, 207
+  orig: 197, 210
+  offset: 1, 1
+  index: -1
+刀光
+  rotate: false
+  xy: 1450, 25
+  size: 102, 95
+  orig: 116, 116
+  offset: 14, 0
+  index: -1
+右手
+  rotate: true
+  xy: 1162, 16
+  size: 104, 286
+  orig: 104, 286
+  offset: 0, 0
+  index: -1
+右腿
+  rotate: true
+  xy: 1559, 332
+  size: 93, 418
+  orig: 93, 418
+  offset: 0, 0
+  index: -1
+图层 1
+  rotate: true
+  xy: 1327, 128
+  size: 64, 15
+  orig: 64, 15
+  offset: 0, 0
+  index: -1
+图层 2
+  rotate: true
+  xy: 1288, 126
+  size: 66, 16
+  orig: 66, 16
+  offset: 0, 0
+  index: -1
+图层 3
+  rotate: true
+  xy: 1306, 127
+  size: 65, 19
+  orig: 65, 19
+  offset: 0, 0
+  index: -1
+失败L
+  rotate: true
+  xy: 1162, 129
+  size: 63, 124
+  orig: 100, 215
+  offset: 1, 17
+  index: -1
+失败R
+  rotate: true
+  xy: 1101, 194
+  size: 231, 247
+  orig: 231, 334
+  offset: 0, 0
+  index: -1
+失败表情
+  rotate: true
+  xy: 1554, 32
+  size: 88, 118
+  orig: 88, 120
+  offset: 0, 0
+  index: -1
+左手
+  rotate: false
+  xy: 1949, 65
+  size: 64, 265
+  orig: 64, 265
+  offset: 0, 0
+  index: -1
+左腿
+  rotate: true
+  xy: 1350, 122
+  size: 106, 417
+  orig: 106, 417
+  offset: 0, 0
+  index: -1
+披风
+  rotate: true
+  xy: 2, 7
+  size: 418, 560
+  orig: 420, 583
+  offset: 0, 8
+  index: -1
+正常表情
+  rotate: true
+  xy: 1559, 242
+  size: 88, 120
+  orig: 88, 120
+  offset: 0, 0
+  index: -1
+法阵
+  rotate: false
+  xy: 564, 47
+  size: 126, 126
+  orig: 128, 128
+  offset: 1, 1
+  index: -1
+生气表情
+  rotate: false
+  xy: 1674, 2
+  size: 87, 118
+  orig: 88, 120
+  offset: 0, 0
+  index: -1
+跪下
+  rotate: true
+  xy: 816, 182
+  size: 243, 283
+  orig: 243, 325
+  offset: 0, 42
+  index: -1
+身体up
+  rotate: false
+  xy: 1769, 15
+  size: 178, 315
+  orig: 178, 315
+  offset: 0, 0
+  index: -1
+速度线
+  rotate: false
+  xy: 564, 175
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+阴影
+  rotate: true
+  xy: 779, 16
+  size: 157, 30
+  orig: 157, 30
+  offset: 0, 0
+  index: -1

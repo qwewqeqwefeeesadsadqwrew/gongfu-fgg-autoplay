@@ -1,0 +1,13 @@
+
+caiwenji_attack_loop.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+caiwenji_skill3
+  rotate: false
+  xy: 2, 2
+  size: 63, 75
+  orig: 64, 75
+  offset: 1, 0
+  index: -1

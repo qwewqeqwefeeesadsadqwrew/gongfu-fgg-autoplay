@@ -1,0 +1,237 @@
+
+主角女鬼1.png
+size: 1920,586
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: false
+  xy: 1604, 63
+  size: 50, 118
+  orig: 50, 118
+  offset: 0, 0
+  index: -1
+发丝1
+  rotate: true
+  xy: 2, 11
+  size: 53, 377
+  orig: 55, 377
+  offset: 0, 0
+  index: -1
+发丝10
+  rotate: true
+  xy: 1714, 320
+  size: 104, 201
+  orig: 104, 201
+  offset: 0, 0
+  index: -1
+发丝11
+  rotate: true
+  xy: 1489, 330
+  size: 94, 223
+  orig: 94, 225
+  offset: 0, 2
+  index: -1
+发丝12
+  rotate: false
+  xy: 1377, 156
+  size: 83, 40
+  orig: 83, 40
+  offset: 0, 0
+  index: -1
+发丝2
+  rotate: true
+  xy: 1491, 4
+  size: 30, 84
+  orig: 30, 84
+  offset: 0, 0
+  index: -1
+发丝3
+  rotate: true
+  xy: 1705, 180
+  size: 39, 180
+  orig: 39, 180
+  offset: 0, 0
+  index: -1
+发丝4
+  rotate: true
+  xy: 916, 11
+  size: 29, 213
+  orig: 29, 213
+  offset: 0, 0
+  index: -1
+发丝5
+  rotate: true
+  xy: 1174, 31
+  size: 84, 221
+  orig: 84, 221
+  offset: 0, 0
+  index: -1
+发丝6
+  rotate: true
+  xy: 1171, 117
+  size: 138, 204
+  orig: 138, 204
+  offset: 0, 0
+  index: -1
+发丝7
+  rotate: true
+  xy: 2, 66
+  size: 47, 429
+  orig: 47, 429
+  offset: 0, 0
+  index: -1
+发丝8
+  rotate: true
+  xy: 916, 42
+  size: 66, 256
+  orig: 66, 256
+  offset: 0, 0
+  index: -1
+发丝9
+  rotate: true
+  xy: 694, 110
+  size: 145, 475
+  orig: 145, 475
+  offset: 0, 0
+  index: -1
+右手
+  rotate: true
+  xy: 1524, 426
+  size: 158, 394
+  orig: 158, 394
+  offset: 0, 0
+  index: -1
+右眼底
+  rotate: false
+  xy: 694, 293
+  size: 27, 15
+  orig: 27, 15
+  offset: 0, 0
+  index: -1
+右瞳
+  rotate: false
+  xy: 580, 13
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+右腿
+  rotate: true
+  xy: 723, 257
+  size: 173, 651
+  orig: 184, 753
+  offset: 11, 0
+  index: -1
+后发
+  rotate: true
+  xy: 2, 115
+  size: 193, 690
+  orig: 193, 691
+  offset: 0, 0
+  index: -1
+嘴唇
+  rotate: true
+  xy: 1397, 10
+  size: 144, 92
+  orig: 148, 92
+  offset: 0, 0
+  index: -1
+嘴巴
+  rotate: true
+  xy: 433, 2
+  size: 111, 145
+  orig: 111, 145
+  offset: 0, 0
+  index: -1
+头
+  rotate: false
+  xy: 1376, 285
+  size: 111, 145
+  orig: 111, 145
+  offset: 0, 0
+  index: -1
+头2
+  rotate: false
+  xy: 1491, 36
+  size: 111, 145
+  orig: 111, 145
+  offset: 0, 0
+  index: -1
+头3
+  rotate: true
+  xy: 1656, 67
+  size: 111, 145
+  orig: 111, 145
+  offset: 0, 0
+  index: -1
+头脸红
+  rotate: false
+  xy: 1803, 33
+  size: 111, 145
+  orig: 111, 145
+  offset: 0, 0
+  index: -1
+左手大臂
+  rotate: true
+  xy: 1710, 221
+  size: 97, 193
+  orig: 97, 193
+  offset: 0, 0
+  index: -1
+左手小臂
+  rotate: true
+  xy: 1489, 240
+  size: 88, 219
+  orig: 88, 219
+  offset: 0, 0
+  index: -1
+左眼底
+  rotate: false
+  xy: 381, 49
+  size: 28, 15
+  orig: 28, 15
+  offset: 0, 0
+  index: -1
+左瞳
+  rotate: false
+  xy: 1131, 27
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+左腿
+  rotate: true
+  xy: 723, 432
+  size: 152, 799
+  orig: 152, 799
+  offset: 0, 0
+  index: -1
+手掌
+  rotate: true
+  xy: 1377, 198
+  size: 85, 110
+  orig: 94, 120
+  offset: 2, 5
+  index: -1
+碎片1
+  rotate: true
+  xy: 580, 28
+  size: 80, 334
+  orig: 80, 334
+  offset: 0, 0
+  index: -1
+碎片2
+  rotate: true
+  xy: 1489, 183
+  size: 55, 214
+  orig: 55, 214
+  offset: 0, 0
+  index: -1
+身体
+  rotate: true
+  xy: 2, 310
+  size: 274, 719
+  orig: 274, 722
+  offset: 0, 3
+  index: -1

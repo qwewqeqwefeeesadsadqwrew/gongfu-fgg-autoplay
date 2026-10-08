@@ -1,0 +1,202 @@
+
+tc_pig.png
+size: 450,450
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: false
+  xy: 2, 65
+  size: 279, 383
+  orig: 279, 383
+  offset: 0, 0
+  index: -1
+eye
+  rotate: true
+  xy: 434, 443
+  size: 5, 6
+  orig: 5, 6
+  offset: 0, 0
+  index: -1
+s_pig_腿1
+  rotate: true
+  xy: 411, 296
+  size: 18, 21
+  orig: 18, 21
+  offset: 0, 0
+  index: -1
+s_pig_腿1_7号
+  rotate: false
+  xy: 283, 287
+  size: 21, 25
+  orig: 21, 25
+  offset: 0, 0
+  index: -1
+s_pig_腿1_八戒
+  rotate: false
+  xy: 283, 314
+  size: 22, 25
+  orig: 22, 25
+  offset: 0, 0
+  index: -1
+s_pig_腿1_黑
+  rotate: false
+  xy: 283, 260
+  size: 21, 25
+  orig: 21, 25
+  offset: 0, 0
+  index: -1
+s_pig_腿2
+  rotate: true
+  xy: 283, 341
+  size: 17, 23
+  orig: 17, 23
+  offset: 0, 0
+  index: -1
+s_pig_腿2_7号
+  rotate: true
+  xy: 411, 337
+  size: 20, 27
+  orig: 20, 27
+  offset: 0, 0
+  index: -1
+s_pig_腿2_八戒
+  rotate: false
+  xy: 283, 360
+  size: 23, 29
+  orig: 23, 29
+  offset: 0, 0
+  index: -1
+s_pig_腿2_黑
+  rotate: true
+  xy: 411, 316
+  size: 19, 27
+  orig: 19, 27
+  offset: 0, 0
+  index: -1
+s_pig_身体
+  rotate: false
+  xy: 309, 209
+  size: 100, 50
+  orig: 100, 50
+  offset: 0, 0
+  index: -1
+s_pig_身体2
+  rotate: false
+  xy: 309, 386
+  size: 123, 62
+  orig: 123, 62
+  offset: 0, 0
+  index: -1
+s_pig_身体_7号
+  rotate: false
+  xy: 309, 317
+  size: 100, 67
+  orig: 100, 84
+  offset: 0, 17
+  index: -1
+s_pig_身体_八戒
+  rotate: false
+  xy: 309, 261
+  size: 100, 54
+  orig: 100, 70
+  offset: 0, 9
+  index: -1
+小烟雾1
+  rotate: true
+  xy: 411, 359
+  size: 25, 27
+  orig: 77, 71
+  offset: 35, 24
+  index: -1
+小烟雾10
+  rotate: false
+  xy: 191, 3
+  size: 57, 60
+  orig: 77, 71
+  offset: 16, 7
+  index: -1
+小烟雾11
+  rotate: false
+  xy: 250, 3
+  size: 57, 60
+  orig: 77, 71
+  offset: 16, 7
+  index: -1
+小烟雾12
+  rotate: false
+  xy: 2, 2
+  size: 58, 61
+  orig: 77, 71
+  offset: 15, 7
+  index: -1
+小烟雾13
+  rotate: true
+  xy: 127, 3
+  size: 60, 62
+  orig: 77, 71
+  offset: 14, 6
+  index: -1
+小烟雾14
+  rotate: true
+  xy: 62, 3
+  size: 60, 63
+  orig: 77, 71
+  offset: 14, 6
+  index: -1
+小烟雾2
+  rotate: false
+  xy: 309, 13
+  size: 40, 43
+  orig: 77, 71
+  offset: 27, 15
+  index: -1
+小烟雾3
+  rotate: true
+  xy: 309, 58
+  size: 43, 46
+  orig: 77, 71
+  offset: 25, 14
+  index: -1
+小烟雾4
+  rotate: true
+  xy: 309, 103
+  size: 46, 50
+  orig: 77, 71
+  offset: 23, 12
+  index: -1
+小烟雾6
+  rotate: true
+  xy: 309, 103
+  size: 46, 50
+  orig: 77, 71
+  offset: 23, 12
+  index: -1
+小烟雾7
+  rotate: true
+  xy: 370, 97
+  size: 53, 56
+  orig: 77, 71
+  offset: 18, 9
+  index: -1
+小烟雾8
+  rotate: true
+  xy: 370, 152
+  size: 55, 57
+  orig: 77, 71
+  offset: 17, 9
+  index: -1
+小烟雾9
+  rotate: true
+  xy: 309, 151
+  size: 56, 59
+  orig: 77, 71
+  offset: 16, 8
+  index: -1
+阴影
+  rotate: true
+  xy: 283, 391
+  size: 57, 24
+  orig: 57, 24
+  offset: 0, 0
+  index: -1

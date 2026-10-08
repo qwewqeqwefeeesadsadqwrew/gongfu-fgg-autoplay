@@ -1,0 +1,62 @@
+
+开场.png
+size: 2600,873
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+boss
+  rotate: false
+  xy: 1876, 411
+  size: 722, 156
+  orig: 722, 156
+  offset: 0, 0
+  index: -1
+rad
+  rotate: false
+  xy: 961, 655
+  size: 214, 216
+  orig: 216, 218
+  offset: 1, 1
+  index: -1
+vs
+  rotate: false
+  xy: 638, 592
+  size: 321, 279
+  orig: 321, 279
+  offset: 0, 0
+  index: -1
+vs2
+  rotate: false
+  xy: 2, 236
+  size: 634, 635
+  orig: 683, 680
+  offset: 28, 13
+  index: -1
+闪电1
+  rotate: true
+  xy: 1278, 569
+  size: 302, 1284
+  orig: 316, 1300
+  offset: 9, 10
+  index: -1
+闪电2
+  rotate: true
+  xy: 638, 260
+  size: 307, 1236
+  orig: 316, 1249
+  offset: 1, 7
+  index: -1
+闪电3
+  rotate: true
+  xy: 2, 2
+  size: 232, 1274
+  orig: 240, 1288
+  offset: 4, 9
+  index: -1
+闪电4
+  rotate: true
+  xy: 1278, 44
+  size: 214, 1214
+  orig: 219, 1232
+  offset: 1, 9
+  index: -1

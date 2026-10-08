@@ -1,0 +1,76 @@
+
+马桶.png
+size: 985,534
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+嘴巴down
+  rotate: false
+  xy: 669, 327
+  size: 299, 205
+  orig: 299, 205
+  offset: 0, 0
+  index: -1
+嘴巴up
+  rotate: true
+  xy: 471, 2
+  size: 224, 183
+  orig: 224, 183
+  offset: 0, 0
+  index: -1
+失败身体
+  rotate: false
+  xy: 2, 10
+  size: 370, 522
+  orig: 400, 750
+  offset: 0, 145
+  index: -1
+打击3
+  rotate: true
+  xy: 854, 13
+  size: 55, 53
+  orig: 83, 83
+  offset: 13, 17
+  index: -1
+攻击手左
+  rotate: true
+  xy: 374, 128
+  size: 404, 84
+  orig: 500, 84
+  offset: 48, 0
+  index: -1
+攻击腿右
+  rotate: false
+  xy: 854, 70
+  size: 129, 255
+  orig: 129, 255
+  offset: 0, 0
+  index: -1
+攻击腿左
+  rotate: false
+  xy: 460, 228
+  size: 207, 304
+  orig: 250, 304
+  offset: 0, 0
+  index: -1
+攻击速度
+  rotate: true
+  xy: 374, 18
+  size: 108, 95
+  orig: 108, 100
+  offset: 0, 5
+  index: -1
+身体
+  rotate: true
+  xy: 656, 21
+  size: 205, 196
+  orig: 205, 196
+  offset: 0, 0
+  index: -1
+阴影
+  rotate: false
+  xy: 669, 295
+  size: 157, 30
+  orig: 157, 30
+  offset: 0, 0
+  index: -1

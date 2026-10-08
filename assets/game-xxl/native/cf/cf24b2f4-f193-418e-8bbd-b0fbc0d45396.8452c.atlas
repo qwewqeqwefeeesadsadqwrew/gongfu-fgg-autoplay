@@ -1,0 +1,48 @@
+
+小游戏_猪1.png
+size: 379,121
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+eye
+  rotate: false
+  xy: 234, 4
+  size: 7, 8
+  orig: 7, 8
+  offset: 0, 0
+  index: -1
+s_pig_腿1
+  rotate: false
+  xy: 258, 17
+  size: 24, 28
+  orig: 26, 30
+  offset: 1, 1
+  index: -1
+s_pig_腿2
+  rotate: false
+  xy: 234, 14
+  size: 22, 31
+  orig: 24, 33
+  offset: 1, 1
+  index: -1
+s_pig_身体
+  rotate: false
+  xy: 234, 47
+  size: 143, 72
+  orig: 143, 72
+  offset: 0, 0
+  index: -1
+猪
+  rotate: true
+  xy: 2, 2
+  size: 117, 114
+  orig: 117, 114
+  offset: 0, 0
+  index: -1
+猪b
+  rotate: true
+  xy: 118, 2
+  size: 117, 114
+  orig: 117, 114
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,27 @@
+
+niumo_tx.png
+size: 1437,1437
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+niumo
+  rotate: false
+  xy: 2, 799
+  size: 802, 636
+  orig: 802, 753
+  offset: 0, 117
+  index: -1
+niumo_bg
+  rotate: true
+  xy: 2, 2
+  size: 795, 511
+  orig: 795, 511
+  offset: 0, 0
+  index: -1
+niumo_zz
+  rotate: true
+  xy: 515, 4
+  size: 793, 492
+  orig: 794, 492
+  offset: 0, 0
+  index: -1

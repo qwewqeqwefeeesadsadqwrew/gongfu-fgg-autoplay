@@ -1,0 +1,97 @@
+
+ch4男主踢门特写.png
+size: 1349,1349
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 739, 297
+  size: 197, 22
+  orig: 200, 22
+  offset: 0, 0
+  index: -1
+nvzhu
+  rotate: false
+  xy: 739, 851
+  size: 430, 496
+  orig: 430, 496
+  offset: 0, 0
+  index: -1
+nvzhubg
+  rotate: true
+  xy: 1171, 916
+  size: 75, 116
+  orig: 75, 116
+  offset: 0, 0
+  index: -1
+xiaodi
+  rotate: true
+  xy: 2, 29
+  size: 263, 971
+  orig: 263, 971
+  offset: 0, 0
+  index: -1
+包租婆-bg
+  rotate: true
+  xy: 739, 608
+  size: 241, 428
+  orig: 241, 428
+  offset: 0, 0
+  index: -1
+包租婆-门
+  rotate: false
+  xy: 739, 321
+  size: 173, 285
+  orig: 173, 285
+  offset: 0, 0
+  index: -1
+气泡/尖叫气泡框
+  rotate: false
+  xy: 975, 60
+  size: 372, 224
+  orig: 392, 243
+  offset: 11, 9
+  index: -1
+烟雾
+  rotate: true
+  xy: 1171, 993
+  size: 180, 80
+  orig: 180, 80
+  offset: 0, 0
+  index: -1
+男主/pomen
+  rotate: false
+  xy: 2, 294
+  size: 735, 1053
+  orig: 735, 1053
+  offset: 0, 0
+  index: -1
+表现素材/啪
+  rotate: false
+  xy: 1171, 1175
+  size: 152, 172
+  orig: 152, 172
+  offset: 0, 0
+  index: -1
+表现素材/感叹号
+  rotate: true
+  xy: 1169, 619
+  size: 62, 94
+  orig: 62, 94
+  offset: 0, 0
+  index: -1
+表现素材/打击3
+  rotate: false
+  xy: 1169, 683
+  size: 166, 166
+  orig: 166, 166
+  offset: 0, 0
+  index: -1
+表现素材/速度线
+  rotate: false
+  xy: 975, 286
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: -1

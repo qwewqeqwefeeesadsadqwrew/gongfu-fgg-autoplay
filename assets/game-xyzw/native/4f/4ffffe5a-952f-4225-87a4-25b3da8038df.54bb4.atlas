@@ -1,0 +1,13 @@
+
+xiaobing2_gongjian_loop.png
+size: 128,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sc2_monster5_arrow
+  rotate: false
+  xy: 2, 2
+  size: 97, 39
+  orig: 105, 39
+  offset: 0, 0
+  index: -1

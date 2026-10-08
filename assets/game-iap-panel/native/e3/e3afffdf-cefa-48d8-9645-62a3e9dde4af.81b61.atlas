@@ -1,0 +1,62 @@
+
+ui_zhongshenmianguang.png
+size: 1484,1484
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dikuang
+  rotate: false
+  xy: 2, 816
+  size: 648, 666
+  orig: 648, 670
+  offset: 0, 1
+  index: -1
+dikuangs
+  rotate: false
+  xy: 837, 115
+  size: 216, 222
+  orig: 216, 223
+  offset: 0, 0
+  index: -1
+ray2
+  rotate: false
+  xy: 537, 293
+  size: 42, 44
+  orig: 55, 55
+  offset: 6, 5
+  index: -1
+ray3
+  rotate: false
+  xy: 581, 300
+  size: 37, 37
+  orig: 43, 43
+  offset: 3, 3
+  index: -1
+ray4
+  rotate: true
+  xy: 2, 279
+  size: 535, 533
+  orig: 549, 549
+  offset: 7, 7
+  index: -1
+zhongshengmianguan
+  rotate: false
+  xy: 537, 339
+  size: 597, 475
+  orig: 635, 477
+  offset: 19, 1
+  index: -1
+冲击波
+  rotate: false
+  xy: 652, 1078
+  size: 403, 404
+  orig: 405, 405
+  offset: 1, 0
+  index: -1
+角色周卡
+  rotate: true
+  xy: 2, 2
+  size: 275, 833
+  orig: 275, 833
+  offset: 0, 0
+  index: -1

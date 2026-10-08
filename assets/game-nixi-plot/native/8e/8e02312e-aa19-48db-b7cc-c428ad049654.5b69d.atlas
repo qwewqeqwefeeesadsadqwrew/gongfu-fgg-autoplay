@@ -1,0 +1,1245 @@
+
+开场2.png
+size: 3876,3876
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2号/2bg
+  rotate: false
+  xy: 2, 2362
+  size: 1906, 1512
+  orig: 1906, 1512
+  offset: 0, 0
+  index: -1
+2号/人影
+  rotate: false
+  xy: 3783, 3295
+  size: 89, 212
+  orig: 89, 212
+  offset: 0, 0
+  index: -1
+2号/人影2
+  rotate: false
+  xy: 2503, 168
+  size: 148, 212
+  orig: 148, 212
+  offset: 0, 0
+  index: -1
+2号/倒地-男主
+  rotate: true
+  xy: 3529, 2541
+  size: 433, 275
+  orig: 433, 275
+  offset: 0, 0
+  index: -1
+2号/倒地-男主腿
+  rotate: true
+  xy: 3157, 1940
+  size: 282, 145
+  orig: 282, 145
+  offset: 0, 0
+  index: -1
+2号/倒地琛哥-头
+  rotate: true
+  xy: 3744, 195
+  size: 84, 109
+  orig: 84, 109
+  offset: 0, 0
+  index: -1
+2号/倒地琛哥-头2
+  rotate: false
+  xy: 3157, 1744
+  size: 188, 194
+  orig: 188, 194
+  offset: 0, 0
+  index: -1
+2号/倒地琛哥-手
+  rotate: true
+  xy: 3538, 295
+  size: 126, 130
+  orig: 126, 130
+  offset: 0, 0
+  index: -1
+2号/倒地琛哥-指人
+  rotate: false
+  xy: 3659, 185
+  size: 83, 108
+  orig: 83, 108
+  offset: 0, 0
+  index: -1
+2号/倒地琛哥-蚊香眼睛
+  rotate: true
+  xy: 3576, 1604
+  size: 28, 27
+  orig: 28, 27
+  offset: 0, 0
+  index: -1
+2号/倒地琛哥-身体
+  rotate: false
+  xy: 2, 65
+  size: 366, 325
+  orig: 366, 325
+  offset: 0, 0
+  index: -1
+2号/倒地自行车
+  rotate: true
+  xy: 2156, 699
+  size: 349, 167
+  orig: 349, 167
+  offset: 0, 0
+  index: -1
+2号/博弈女主-被抓手腕左手
+  rotate: false
+  xy: 3752, 1156
+  size: 85, 165
+  orig: 85, 165
+  offset: 0, 0
+  index: -1
+2号/博弈女主-被抓的右手
+  rotate: true
+  xy: 3670, 571
+  size: 73, 120
+  orig: 73, 120
+  offset: 0, 0
+  index: -1
+2号/博弈琛哥-回头
+  rotate: true
+  xy: 3309, 244
+  size: 103, 111
+  orig: 103, 111
+  offset: 0, 0
+  index: -1
+2号/博弈琛哥-头1
+  rotate: false
+  xy: 3515, 2976
+  size: 314, 295
+  orig: 314, 295
+  offset: 0, 0
+  index: -1
+2号/博弈琛哥-头2
+  rotate: false
+  xy: 2288, 1287
+  size: 314, 295
+  orig: 314, 295
+  offset: 0, 0
+  index: -1
+2号/博弈琛哥-手L
+  rotate: false
+  xy: 1505, 58
+  size: 156, 81
+  orig: 156, 81
+  offset: 0, 0
+  index: -1
+2号/博弈琛哥-手R
+  rotate: false
+  xy: 3352, 1634
+  size: 251, 111
+  orig: 251, 111
+  offset: 0, 0
+  index: -1
+2号/博弈琛哥-身体
+  rotate: false
+  xy: 3515, 3273
+  size: 266, 601
+  orig: 266, 601
+  offset: 0, 0
+  index: -1
+2号/旗杆
+  rotate: true
+  xy: 3657, 90
+  size: 93, 34
+  orig: 93, 34
+  offset: 0, 0
+  index: -1
+2号/泡沫箱
+  rotate: false
+  xy: 3549, 2
+  size: 96, 86
+  orig: 96, 86
+  offset: 0, 0
+  index: -1
+2号/火焰弹_爆炸_003
+  rotate: false
+  xy: 3304, 1969
+  size: 270, 270
+  orig: 270, 270
+  offset: 0, 0
+  index: -1
+2号/琛哥-手臂L
+  rotate: false
+  xy: 3806, 2719
+  size: 68, 255
+  orig: 68, 255
+  offset: 0, 0
+  index: -1
+2号/琛哥-手臂R2
+  rotate: false
+  xy: 3260, 1346
+  size: 104, 275
+  orig: 104, 275
+  offset: 0, 0
+  index: -1
+2号/琛哥-狼尾
+  rotate: true
+  xy: 1836, 1584
+  size: 29, 30
+  orig: 29, 30
+  offset: 0, 0
+  index: -1
+2号/琛哥-身体2
+  rotate: true
+  xy: 1910, 2209
+  size: 200, 630
+  orig: 200, 630
+  offset: 0, 0
+  index: -1
+2号/经纪人-L手-idle
+  rotate: true
+  xy: 3576, 1929
+  size: 70, 250
+  orig: 70, 250
+  offset: 0, 0
+  index: -1
+2号/经纪人-L手-奸笑
+  rotate: true
+  xy: 3569, 1086
+  size: 97, 169
+  orig: 97, 169
+  offset: 0, 0
+  index: -1
+2号/经纪人-L手-抱头
+  rotate: false
+  xy: 3722, 923
+  size: 116, 161
+  orig: 116, 161
+  offset: 0, 0
+  index: -1
+2号/经纪人-L手-推
+  rotate: false
+  xy: 3806, 2567
+  size: 68, 150
+  orig: 68, 150
+  offset: 0, 0
+  index: -1
+2号/经纪人-R手-idle
+  rotate: false
+  xy: 2503, 2
+  size: 113, 164
+  orig: 113, 164
+  offset: 0, 0
+  index: -1
+2号/经纪人-R手-奸笑
+  rotate: false
+  xy: 2280, 2
+  size: 152, 155
+  orig: 152, 155
+  offset: 0, 0
+  index: -1
+2号/经纪人-R手-抱头
+  rotate: false
+  xy: 3709, 759
+  size: 129, 162
+  orig: 129, 162
+  offset: 0, 0
+  index: -1
+2号/经纪人-R手-推
+  rotate: true
+  xy: 3558, 684
+  size: 97, 147
+  orig: 97, 147
+  offset: 0, 0
+  index: -1
+2号/经纪人-身体
+  rotate: true
+  xy: 1055, 1052
+  size: 209, 577
+  orig: 209, 577
+  offset: 0, 0
+  index: -1
+2号/经纪人头-1
+  rotate: false
+  xy: 817, 589
+  size: 415, 455
+  orig: 415, 455
+  offset: 0, 0
+  index: -1
+2号/经纪人头-2
+  rotate: false
+  xy: 3366, 1404
+  size: 208, 228
+  orig: 208, 228
+  offset: 0, 0
+  index: -1
+2号/经纪人头-3
+  rotate: true
+  xy: 3576, 1388
+  size: 208, 228
+  orig: 208, 228
+  offset: 0, 0
+  index: -1
+2号/经纪人头-笑
+  rotate: false
+  xy: 1234, 595
+  size: 415, 455
+  orig: 415, 455
+  offset: 0, 0
+  index: -1
+2号/经纪人头-说话嘴巴
+  rotate: false
+  xy: 3786, 489
+  size: 65, 57
+  orig: 65, 57
+  offset: 0, 0
+  index: -1
+2号/骂人经纪人-1
+  rotate: true
+  xy: 2240, 1064
+  size: 221, 357
+  orig: 221, 357
+  offset: 0, 0
+  index: -1
+2号/骂人经纪人-头
+  rotate: false
+  xy: 3309, 349
+  size: 135, 167
+  orig: 135, 167
+  offset: 0, 0
+  index: -1
+2号/高斯模糊
+  rotate: true
+  xy: 3299, 2241
+  size: 271, 266
+  orig: 271, 266
+  offset: 0, 0
+  index: -1
+tx改/1
+  rotate: true
+  xy: 3408, 739
+  size: 175, 74
+  orig: 175, 74
+  offset: 0, 0
+  index: -1
+tx改/2
+  rotate: false
+  xy: 2645, 16
+  size: 169, 26
+  orig: 169, 26
+  offset: 0, 0
+  index: -1
+tx改/qipao
+  rotate: false
+  xy: 2, 392
+  size: 389, 652
+  orig: 389, 652
+  offset: 0, 0
+  index: -1
+tx改/qipao2
+  rotate: true
+  xy: 1910, 2411
+  size: 309, 627
+  orig: 309, 627
+  offset: 0, 0
+  index: -1
+tx改/tx-eye
+  rotate: true
+  xy: 2539, 2702
+  size: 18, 19
+  orig: 18, 19
+  offset: 0, 0
+  index: -1
+tx改/tx-eye2
+  rotate: true
+  xy: 1815, 1089
+  size: 18, 19
+  orig: 18, 19
+  offset: 0, 0
+  index: -1
+tx改/txnv-hand
+  rotate: true
+  xy: 1836, 1050
+  size: 275, 402
+  orig: 275, 402
+  offset: 0, 0
+  index: -1
+tx改/txnv-hand2
+  rotate: true
+  xy: 2539, 2430
+  size: 140, 419
+  orig: 140, 419
+  offset: 0, 0
+  index: -1
+tx改/tx女
+  rotate: false
+  xy: 1055, 1263
+  size: 575, 1097
+  orig: 900, 1097
+  offset: 325, 0
+  index: -1
+tx改/tx男
+  rotate: false
+  xy: 2, 1046
+  size: 1051, 1314
+  orig: 1350, 1314
+  offset: 117, 0
+  index: -1
+tx改/脸红
+  rotate: true
+  xy: 3309, 518
+  size: 174, 125
+  orig: 221, 144
+  offset: 9, 11
+  index: -1
+光圈
+  rotate: false
+  xy: 3347, 1747
+  size: 221, 220
+  orig: 230, 230
+  offset: 5, 4
+  index: -1
+图层 1
+  rotate: true
+  xy: 2062, 56
+  size: 64, 203
+  orig: 64, 203
+  offset: 0, 0
+  index: -1
+图层 2
+  rotate: true
+  xy: 3366, 1338
+  size: 64, 203
+  orig: 64, 203
+  offset: 0, 0
+  index: -1
+天降特写/琛哥被撞-帽子
+  rotate: false
+  xy: 3446, 295
+  size: 90, 105
+  orig: 90, 105
+  offset: 0, 0
+  index: -1
+天降特写/琛哥被撞-身体
+  rotate: true
+  xy: 2830, 1608
+  size: 155, 316
+  orig: 155, 316
+  offset: 0, 0
+  index: -1
+天降特写/琛哥被撞-身体s
+  rotate: false
+  xy: 2904, 2219
+  size: 103, 209
+  orig: 103, 209
+  offset: 0, 0
+  index: -1
+女主/女主-表情2
+  rotate: false
+  xy: 3091, 3422
+  size: 422, 452
+  orig: 422, 452
+  offset: 0, 0
+  index: -1
+女主/女主-表情3
+  rotate: false
+  xy: 393, 592
+  size: 422, 452
+  orig: 422, 452
+  offset: 0, 0
+  index: -1
+女主/女主-表情4
+  rotate: false
+  xy: 3091, 2968
+  size: 422, 452
+  orig: 422, 452
+  offset: 0, 0
+  index: -1
+女主/女主-表情6
+  rotate: false
+  xy: 1885, 1755
+  size: 422, 452
+  orig: 422, 452
+  offset: 0, 0
+  index: -1
+女主/女主-表情7
+  rotate: false
+  xy: 2309, 1755
+  size: 422, 452
+  orig: 422, 452
+  offset: 0, 0
+  index: -1
+女主/女主-表情8
+  rotate: false
+  xy: 393, 138
+  size: 422, 452
+  orig: 422, 452
+  offset: 0, 0
+  index: -1
+女主/女主头
+  rotate: false
+  xy: 3567, 2268
+  size: 247, 271
+  orig: 422, 452
+  offset: 74, 103
+  index: -1
+女主/女主头发1
+  rotate: false
+  xy: 3309, 1112
+  size: 159, 224
+  orig: 159, 224
+  offset: 0, 0
+  index: -1
+女主/女主头发2
+  rotate: false
+  xy: 2062, 122
+  size: 216, 277
+  orig: 216, 277
+  offset: 0, 0
+  index: -1
+女主/女主左大臂-破烂
+  rotate: true
+  xy: 248, 18
+  size: 45, 108
+  orig: 45, 108
+  offset: 0, 0
+  index: -1
+女主/女主左手臂-抱人
+  rotate: false
+  xy: 3269, 4
+  size: 69, 238
+  orig: 69, 238
+  offset: 0, 0
+  index: -1
+女主/女主抓手手-破烂
+  rotate: false
+  xy: 3707, 646
+  size: 141, 111
+  orig: 141, 111
+  offset: 0, 0
+  index: -1
+女主/女主抓药手
+  rotate: true
+  xy: 3304, 1940
+  size: 27, 32
+  orig: 27, 32
+  offset: 0, 0
+  index: -1
+女主/女主捂住胸口-破烂
+  rotate: false
+  xy: 3538, 423
+  size: 136, 145
+  orig: 136, 145
+  offset: 0, 0
+  index: -1
+女主/女主正面头
+  rotate: false
+  xy: 3576, 2001
+  size: 241, 265
+  orig: 242, 269
+  offset: 1, 4
+  index: -1
+女主/女主正面眼睛
+  rotate: false
+  xy: 370, 374
+  size: 17, 16
+  orig: 17, 16
+  offset: 0, 0
+  index: -1
+女主/女主正面腿L-破烂
+  rotate: true
+  xy: 370, 31
+  size: 105, 363
+  orig: 105, 363
+  offset: 0, 0
+  index: -1
+女主/女主正面腿R-破烂
+  rotate: false
+  xy: 3783, 3509
+  size: 79, 365
+  orig: 79, 365
+  offset: 0, 0
+  index: -1
+女主/女主胸-破烂
+  rotate: true
+  xy: 3792, 548
+  size: 96, 70
+  orig: 96, 70
+  offset: 0, 0
+  index: -1
+女主/女主身体-破烂
+  rotate: false
+  xy: 1993, 401
+  size: 122, 319
+  orig: 122, 321
+  offset: 0, 0
+  index: -1
+女主/姿势4-骑自行车
+  rotate: true
+  xy: 2560, 2572
+  size: 236, 543
+  orig: 236, 543
+  offset: 0, 0
+  index: -1
+女主嘴巴/女主-嘴巴1
+  rotate: false
+  xy: 817, 135
+  size: 422, 452
+  orig: 422, 452
+  offset: 0, 0
+  index: -1
+女主嘴巴/女主-嘴巴2
+  rotate: false
+  xy: 1241, 141
+  size: 422, 452
+  orig: 422, 452
+  offset: 0, 0
+  index: -1
+女主嘴巴/女主-嘴巴3
+  rotate: false
+  xy: 3105, 2514
+  size: 422, 452
+  orig: 422, 452
+  offset: 0, 0
+  index: -1
+女主嘴巴/女主-嘴巴4
+  rotate: false
+  xy: 2733, 1765
+  size: 422, 452
+  orig: 422, 452
+  offset: 0, 0
+  index: -1
+女主登车背影/7bg
+  rotate: false
+  xy: 1910, 2722
+  size: 648, 1152
+  orig: 648, 1152
+  offset: 0, 0
+  index: -1
+女主登车背影/7女主登车背影1
+  rotate: false
+  xy: 3470, 1117
+  size: 97, 219
+  orig: 97, 219
+  offset: 0, 0
+  index: -1
+女主登车背影/7女主登车背影2
+  rotate: false
+  xy: 3309, 694
+  size: 97, 220
+  orig: 97, 220
+  offset: 0, 0
+  index: -1
+女主登车背影/7抢车
+  rotate: true
+  xy: 2981, 17
+  size: 225, 286
+  orig: 225, 286
+  offset: 0, 0
+  index: -1
+女主登车背影/方块嘴
+  rotate: true
+  xy: 2877, 12
+  size: 30, 101
+  orig: 30, 101
+  offset: 0, 0
+  index: -1
+女主登车背影/脸蓝
+  rotate: true
+  xy: 735, 34
+  size: 99, 247
+  orig: 99, 247
+  offset: 0, 0
+  index: -1
+小弟
+  rotate: false
+  xy: 1632, 1615
+  size: 251, 745
+  orig: 251, 745
+  offset: 0, 0
+  index: -1
+尴尬汗珠
+  rotate: false
+  xy: 3260, 1270
+  size: 24, 74
+  orig: 24, 74
+  offset: 0, 0
+  index: -1
+底框速度线
+  rotate: false
+  xy: 1993, 50
+  size: 67, 349
+  orig: 67, 349
+  offset: 0, 0
+  index: -1
+感叹号
+  rotate: true
+  xy: 1370, 7
+  size: 56, 85
+  orig: 56, 85
+  offset: 0, 0
+  index: -1
+手写字/啊-蓝色
+  rotate: true
+  xy: 3776, 331
+  size: 90, 98
+  orig: 90, 98
+  offset: 0, 0
+  index: -1
+手写字/啊-蓝色尾巴
+  rotate: false
+  xy: 3446, 402
+  size: 90, 166
+  orig: 90, 166
+  offset: 0, 0
+  index: -1
+手写字/啪-白色
+  rotate: false
+  xy: 3647, 2
+  size: 90, 86
+  orig: 90, 86
+  offset: 0, 0
+  index: -1
+打击3
+  rotate: false
+  xy: 3558, 783
+  size: 149, 149
+  orig: 149, 149
+  offset: 0, 0
+  index: -1
+报纸糊脸
+  rotate: true
+  xy: 3528, 570
+  size: 112, 140
+  orig: 112, 140
+  offset: 0, 0
+  index: -1
+提示
+  rotate: false
+  xy: 3670, 302
+  size: 104, 119
+  orig: 104, 119
+  offset: 0, 0
+  index: -1
+文字/2你们要干什么！
+  rotate: true
+  xy: 3831, 3083
+  size: 210, 32
+  orig: 210, 32
+  offset: 0, 0
+  index: -1
+文字/2你！
+  rotate: false
+  xy: 2240, 1293
+  size: 44, 32
+  orig: 44, 32
+  offset: 0, 0
+  index: -1
+文字/2别过来！！
+  rotate: true
+  xy: 3816, 2272
+  size: 142, 32
+  orig: 142, 32
+  offset: 0, 0
+  index: -1
+文字/2别过来，不然 我报警了，经纪人！ 快叫警察啊。
+  rotate: true
+  xy: 3819, 2056
+  size: 103, 30
+  orig: 256, 105
+  offset: 80, 39
+  index: -1
+文字/2别过来，不然 我报警了，经纪人！ 快叫警察啊。2
+  rotate: false
+  xy: 3340, 7
+  size: 166, 63
+  orig: 210, 68
+  offset: 19, 0
+  index: -1
+文字/2我们就想跟大明星 喝喝茶，聊聊天
+  rotate: false
+  xy: 1241, 65
+  size: 262, 74
+  orig: 262, 74
+  offset: 0, 0
+  index: -1
+文字/你叫的越大声， 我越爽！
+  rotate: true
+  xy: 2919, 1083
+  size: 160, 56
+  orig: 160, 56
+  offset: 0, 0
+  index: -1
+文字/女人只会影响 我跑路的速度。
+  rotate: false
+  xy: 1208, 7
+  size: 160, 56
+  orig: 160, 56
+  offset: 0, 0
+  index: -1
+文字/完蛋，我撞人了！！
+  rotate: false
+  xy: 735, 8
+  size: 209, 24
+  orig: 209, 24
+  offset: 0, 0
+  index: -1
+文字/张姐？！
+  rotate: true
+  xy: 3850, 2221
+  size: 83, 24
+  orig: 83, 24
+  offset: 0, 0
+  index: -1
+文字/我们的投资方
+  rotate: true
+  xy: 2475, 8
+  size: 149, 25
+  orig: 149, 25
+  offset: 0, 0
+  index: -1
+文字/我的车！！
+  rotate: true
+  xy: 3850, 2306
+  size: 108, 24
+  orig: 108, 24
+  offset: 0, 0
+  index: -1
+文字/救命！！！
+  rotate: true
+  xy: 3819, 2161
+  size: 109, 25
+  orig: 109, 25
+  offset: 0, 0
+  index: -1
+文字/琛哥可是豪琛 集团的大少爷
+  rotate: true
+  xy: 3819, 2416
+  size: 149, 55
+  orig: 149, 55
+  offset: 0, 0
+  index: -1
+文字/琛哥！你没事吧！
+  rotate: false
+  xy: 2117, 416
+  size: 184, 25
+  orig: 184, 25
+  offset: 0, 0
+  index: -1
+文字/糟糕，赶紧撤退！
+  rotate: true
+  xy: 3806, 1411
+  size: 185, 24
+  orig: 185, 24
+  offset: 0, 0
+  index: -1
+文字/给我打死他们！！
+  rotate: false
+  xy: 2062, 29
+  size: 184, 25
+  orig: 184, 25
+  offset: 0, 0
+  index: -1
+文字/赶紧追！
+  rotate: true
+  xy: 3821, 1598
+  size: 83, 24
+  orig: 83, 24
+  offset: 0, 0
+  index: -1
+文字/这是你的福气！
+  rotate: true
+  xy: 2618, 8
+  size: 158, 25
+  orig: 158, 25
+  offset: 0, 0
+  index: -1
+旗袍/对话框1
+  rotate: true
+  xy: 2117, 443
+  size: 254, 185
+  orig: 254, 185
+  offset: 0, 0
+  index: -1
+旗袍/对话框2
+  rotate: false
+  xy: 3570, 1764
+  size: 250, 163
+  orig: 250, 163
+  offset: 0, 0
+  index: -1
+旗袍/尖叫气泡框
+  rotate: true
+  xy: 1632, 1277
+  size: 336, 202
+  orig: 353, 219
+  offset: 9, 8
+  index: -1
+旗袍/生气
+  rotate: false
+  xy: 3549, 90
+  size: 106, 93
+  orig: 106, 93
+  offset: 0, 0
+  index: -1
+暗角
+  rotate: true
+  xy: 2960, 2514
+  size: 56, 126
+  orig: 56, 126
+  offset: 0, 0
+  index: -1
+桃色背景
+  rotate: false
+  xy: 3436, 570
+  size: 90, 167
+  orig: 90, 167
+  offset: 0, 0
+  index: -1
+点击求救
+  rotate: true
+  xy: 1634, 1109
+  size: 166, 200
+  orig: 175, 207
+  offset: 5, 3
+  index: -1
+烟雾
+  rotate: true
+  xy: 3484, 775
+  size: 162, 72
+  orig: 162, 72
+  offset: 0, 0
+  index: -1
+爱心2
+  rotate: true
+  xy: 2816, 2
+  size: 40, 59
+  orig: 68, 59
+  offset: 3, 0
+  index: -1
+爱心ray
+  rotate: false
+  xy: 3569, 1185
+  size: 181, 136
+  orig: 240, 218
+  offset: 30, 41
+  index: -1
+琛哥表情/表情s
+  rotate: false
+  xy: 2280, 159
+  size: 221, 221
+  orig: 221, 221
+  offset: 0, 0
+  index: -1
+男主/女主拉男主衣服的手
+  rotate: true
+  xy: 3309, 916
+  size: 194, 170
+  orig: 194, 170
+  offset: 0, 0
+  index: -1
+男主/男主-L手
+  rotate: true
+  xy: 3571, 1323
+  size: 63, 259
+  orig: 63, 259
+  offset: 0, 0
+  index: -1
+男主/男主-R手
+  rotate: true
+  xy: 2, 6
+  size: 57, 244
+  orig: 57, 244
+  offset: 0, 0
+  index: -1
+男主/男主-拒绝手
+  rotate: false
+  xy: 3340, 72
+  size: 97, 170
+  orig: 97, 170
+  offset: 0, 0
+  index: -1
+男主/男主-推车1
+  rotate: true
+  xy: 3148, 1623
+  size: 119, 202
+  orig: 119, 202
+  offset: 0, 0
+  index: -1
+男主/男主-推车2
+  rotate: true
+  xy: 3605, 1598
+  size: 164, 214
+  orig: 164, 214
+  offset: 0, 0
+  index: -1
+男主/男主-身体
+  rotate: true
+  xy: 1885, 1584
+  size: 169, 621
+  orig: 169, 621
+  offset: 0, 0
+  index: -1
+男主幻想/嗯~！
+  rotate: false
+  xy: 3776, 281
+  size: 98, 48
+  orig: 98, 48
+  offset: 0, 0
+  index: -1
+男主幻想/坐稳了！
+  rotate: true
+  xy: 3822, 1755
+  size: 172, 52
+  orig: 172, 52
+  offset: 0, 0
+  index: -1
+男主幻想/男主幻想-气泡尾巴
+  rotate: true
+  xy: 3481, 939
+  size: 176, 84
+  orig: 176, 84
+  offset: 0, 0
+  index: -1
+男主表情/嘴巴说话
+  rotate: true
+  xy: 1815, 722
+  size: 326, 339
+  orig: 326, 339
+  offset: 0, 0
+  index: -1
+男主表情/头
+  rotate: false
+  xy: 2325, 723
+  size: 326, 339
+  orig: 326, 339
+  offset: 0, 0
+  index: -1
+男主表情/表情10-尴尬（惹事想溜）
+  rotate: false
+  xy: 2653, 385
+  size: 326, 339
+  orig: 326, 339
+  offset: 0, 0
+  index: -1
+男主表情/表情11
+  rotate: false
+  xy: 2325, 382
+  size: 326, 339
+  orig: 326, 339
+  offset: 0, 0
+  index: -1
+男主表情/表情12
+  rotate: false
+  xy: 2981, 244
+  size: 326, 339
+  orig: 326, 339
+  offset: 0, 0
+  index: -1
+男主表情/表情13
+  rotate: false
+  xy: 2653, 44
+  size: 326, 339
+  orig: 326, 339
+  offset: 0, 0
+  index: -1
+男主表情/表情14
+  rotate: false
+  xy: 1665, 381
+  size: 326, 339
+  orig: 326, 339
+  offset: 0, 0
+  index: -1
+男主表情/表情5-愤怒（被泼水）
+  rotate: false
+  xy: 2604, 1245
+  size: 326, 339
+  orig: 326, 339
+  offset: 0, 0
+  index: -1
+男主表情/表情6-诧异（前女友来电）
+  rotate: false
+  xy: 2653, 726
+  size: 326, 339
+  orig: 326, 339
+  offset: 0, 0
+  index: -1
+男主表情/表情7-惊讶（分手）
+  rotate: false
+  xy: 2932, 1267
+  size: 326, 339
+  orig: 326, 339
+  offset: 0, 0
+  index: -1
+男主表情/表情8-悲伤（分手）
+  rotate: false
+  xy: 2981, 926
+  size: 326, 339
+  orig: 326, 339
+  offset: 0, 0
+  index: -1
+男主表情/表情9-震惊（NTR）
+  rotate: false
+  xy: 2981, 585
+  size: 326, 339
+  orig: 326, 339
+  offset: 0, 0
+  index: -1
+男主表情/说话嘴巴0
+  rotate: false
+  xy: 1665, 40
+  size: 326, 339
+  orig: 326, 339
+  offset: 0, 0
+  index: -1
+男主表情/说话嘴巴2
+  rotate: false
+  xy: 2117, 699
+  size: 37, 21
+  orig: 39, 21
+  offset: 1, 0
+  index: -1
+眩晕1
+  rotate: false
+  xy: 3439, 185
+  size: 108, 108
+  orig: 108, 108
+  offset: 0, 0
+  index: -1
+眩晕2
+  rotate: false
+  xy: 3439, 75
+  size: 108, 108
+  orig: 108, 108
+  offset: 0, 0
+  index: -1
+眩晕3
+  rotate: false
+  xy: 3549, 185
+  size: 108, 108
+  orig: 108, 108
+  offset: 0, 0
+  index: -1
+着急汗珠
+  rotate: true
+  xy: 1885, 2309
+  size: 51, 23
+  orig: 51, 28
+  offset: 0, 5
+  index: -1
+瞬移
+  rotate: true
+  xy: 2434, 8
+  size: 149, 39
+  orig: 149, 39
+  offset: 0, 0
+  index: -1
+破自行车-车架
+  rotate: false
+  xy: 1836, 1327
+  size: 450, 255
+  orig: 450, 255
+  offset: 0, 0
+  index: -1
+粉色bg
+  rotate: false
+  xy: 2560, 2810
+  size: 529, 1064
+  orig: 529, 1064
+  offset: 0, 0
+  index: -1
+自行车-脚蹬
+  rotate: false
+  xy: 1208, 89
+  size: 24, 44
+  orig: 24, 44
+  offset: 0, 0
+  index: -1
+自行车-踏板
+  rotate: false
+  xy: 2919, 1067
+  size: 23, 14
+  orig: 23, 14
+  offset: 0, 0
+  index: -1
+自行车-车架
+  rotate: false
+  xy: 2542, 2219
+  size: 360, 209
+  orig: 360, 209
+  offset: 0, 0
+  index: -1
+自行车-轮胎
+  rotate: true
+  xy: 3567, 934
+  size: 150, 153
+  orig: 150, 153
+  offset: 0, 0
+  index: -1
+速度线
+  rotate: false
+  xy: 3009, 2224
+  size: 288, 288
+  orig: 288, 288
+  offset: 0, 0
+  index: -1
+铭牌/张丽
+  rotate: true
+  xy: 2599, 1067
+  size: 176, 318
+  orig: 176, 318
+  offset: 0, 0
+  index: -1
+铭牌/白亦菲
+  rotate: true
+  xy: 2508, 1586
+  size: 167, 320
+  orig: 167, 320
+  offset: 0, 0
+  index: -1
+问号
+  rotate: false
+  xy: 3821, 1683
+  size: 53, 70
+  orig: 53, 70
+  offset: 0, 0
+  index: -1
+阴影
+  rotate: true
+  xy: 3831, 2991
+  size: 90, 43
+  orig: 90, 45
+  offset: 0, 0
+  index: -1
+雨
+  rotate: false
+  xy: 1651, 729
+  size: 162, 378
+  orig: 162, 378
+  offset: 0, 0
+  index: -1
+颤抖线
+  rotate: true
+  xy: 2542, 2209
+  size: 8, 54
+  orig: 8, 54
+  offset: 0, 0
+  index: -1
+骑车男主脚
+  rotate: true
+  xy: 984, 23
+  size: 110, 222
+  orig: 110, 222
+  offset: 0, 0
+  index: -1
+骑车男主身体
+  rotate: false
+  xy: 3676, 423
+  size: 108, 146
+  orig: 108, 146
+  offset: 0, 0
+  index: -1
+黑色转场
+  rotate: false
+  xy: 2960, 2452
+  size: 45, 60
+  orig: 45, 60
+  offset: 0, 0
+  index: -1

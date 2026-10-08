@@ -1,0 +1,27 @@
+
+dianwei_skill_line.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dianwei_skill
+  rotate: false
+  xy: 2, 10
+  size: 65, 102
+  orig: 65, 102
+  offset: 0, 0
+  index: -1
+hero_effect_box2
+  rotate: true
+  xy: 69, 30
+  size: 82, 42
+  orig: 82, 82
+  offset: 0, 40
+  index: -1
+xysg_hero_effect_box
+  rotate: false
+  xy: 69, 2
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
