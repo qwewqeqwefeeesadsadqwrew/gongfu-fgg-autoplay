@@ -4,6 +4,7 @@
  *   ① 一直点屏幕中间 —— 间隔 0~0.3 秒随机（最快档）
  *   ② 每 3~10 秒随机挑一张卡片，点它的按钮（使用/解锁）—— 卡片随机
  *   ③ 每 3~8 分钟随机点一次「广告翻倍」按钮
+ *   ④ 保底看门狗：画面/点击 30 秒没动静就整页重启，保证长挂不出问题
  * 点击方式：给 Cocos 节点直接派发 TOUCH_START / TOUCH_END
  *   （桌面浏览器里合成 DOM 鼠标事件进不到引擎，实测过；节点事件实测可用）
  * 顺带负责进小游戏：关「开白」遮罩 → 主页「小游戏」→「发小广告」开始游戏
@@ -15,6 +16,8 @@
     centerMin: 0, centerMax: 0.3,   // 秒：屏幕中间连点间隔（0~0.3s）
     cardMin: 3.0, cardMax: 10.0,    // 秒：卡片按钮点击间隔
     dblMin: 180, dblMax: 480,       // 秒：广告翻倍按钮点击间隔（3~8 分钟，按钮冷却本身只有 30s）
+    stallSec: 30,                   // 秒：画面/点击多久没动静就判定卡死
+    idleSec: 60,                    // 秒：离开小游戏多久还没回去就判定卡死
     enterTick: 400,                 // 毫秒：状态巡检节奏
     maxLog: 300,
     autoEnter: true                 // 自动走「小游戏 → 发小广告」
@@ -27,11 +30,14 @@
     dblTaps: 0,
     lastCard: -1,
     lastDbl: -1,
+    restarts: 0,                    // 看门狗重启次数（用 sessionStorage 跨重载累计）
+    errs: 0,                        // 被兜住的异常次数
     phase: 'idle',                  // idle | menu | panel | playing
     targets: null,
     log: []
   };
   window.__autoState = S;
+  try { S.restarts = Number(sessionStorage.getItem('__autoRestarts') || 0) || 0; } catch (e) {}
 
   function log(msg) {
     var line = '[' + new Date().toTimeString().slice(0, 8) + '] ' + msg;
@@ -39,6 +45,19 @@
     if (S.log.length > CFG.maxLog) S.log.shift();
     try { console.log('[auto] ' + msg); } catch (e) {}
   }
+
+  // 兜底：单个循环里抛异常不能把 setTimeout 链弄断（链断了就永远不补了）
+  function guard(where, fn) {
+    try { fn(); }
+    catch (e) {
+      S.errs += 1;
+      log('⚠ ' + where + ' 出异常（第 ' + S.errs + ' 次，已兜住继续跑）：' + (e && e.message));
+    }
+  }
+  window.addEventListener('error', function (ev) {
+    S.errs += 1;
+    log('⚠ 页面报错（已记下，看门狗兜底）：' + (ev && ev.message));
+  });
 
   // ---------- 节点事件注入 ----------
   function touchEv(node, type) {
@@ -155,22 +174,22 @@
   }
 
   // ---------- 状态巡检 ----------
+  // 注意：巡检（认不认得游戏）永远开着，只有「动作」（自动进游戏）才受 S.running 控制 ——
+  //       否则 stop() 之后看门狗永远武装不起来，形同虚设。
   (function tick() {
     setTimeout(function () {
-      if (S.running) {
-        try {
-          var view = findView();
-          if (view) {
-            if (S.phase !== 'playing') log('进入「发小广告」，开始自动玩');
-            S.phase = 'playing';
-            S.targets = view;
-          } else {
-            S.targets = null;
-            if (S.phase === 'playing') { log('小游戏关了，回到入口流程'); S.phase = 'idle'; }
-            if (CFG.autoEnter && S.phase !== 'playing') driveEntry();
-          }
-        } catch (e) { log('tick 异常：' + (e && e.message)); }
-      }
+      try {
+        var view = findView();
+        if (view) {
+          if (S.phase !== 'playing') log('进入「发小广告」，开始自动玩');
+          S.phase = 'playing';
+          S.targets = view;
+        } else {
+          S.targets = null;
+          if (S.phase === 'playing') { log('小游戏关了，回到入口流程'); S.phase = 'idle'; }
+          if (S.running && CFG.autoEnter && S.phase !== 'playing') driveEntry();
+        }
+      } catch (e) { log('tick 异常：' + (e && e.message)); }
       tick();
     }, CFG.enterTick);
   })();
@@ -181,13 +200,15 @@
   (function loopCenter() {
     var wait = rand(CFG.centerMin, CFG.centerMax) * 1000;
     setTimeout(function () {
-      if (S.running && S.phase === 'playing' && S.targets) {
-        var ca = S.targets.click_area;
-        if (ca && ca.node && ca.node.activeInHierarchy && tap(ca.node)) {
-          S.taps += 1;
-          if (S.taps % 25 === 1) log('中间点击累计 ' + S.taps + ' 次');
+      guard('中间连点', function () {
+        if (S.running && S.phase === 'playing' && S.targets) {
+          var ca = S.targets.click_area;
+          if (ca && ca.node && ca.node.activeInHierarchy && tap(ca.node)) {
+            S.taps += 1;
+            if (S.taps % 25 === 1) log('中间点击累计 ' + S.taps + ' 次');
+          }
         }
-      }
+      });
       loopCenter();
     }, wait);
   })();
@@ -196,20 +217,22 @@
   (function loopCard() {
     var wait = rand(CFG.cardMin, CFG.cardMax) * 1000;
     setTimeout(function () {
-      if (S.running && S.phase === 'playing' && S.targets) {
-        var items = S.targets.adItemNodes || [];
-        if (items.length) {
-          var idx = Math.floor(Math.random() * items.length);
-          var btn = cardButton(S.targets, idx);
-          if (btn && tap(btn)) {
-            S.cardTaps += 1;
-            S.lastCard = idx;
-            log('点第 ' + (idx + 1) + ' 张卡（第 ' + S.cardTaps + ' 次）');
-          } else {
-            log('第 ' + (idx + 1) + ' 张卡还在解锁中，跳过');
+      guard('点卡片', function () {
+        if (S.running && S.phase === 'playing' && S.targets) {
+          var items = S.targets.adItemNodes || [];
+          if (items.length) {
+            var idx = Math.floor(Math.random() * items.length);
+            var btn = cardButton(S.targets, idx);
+            if (btn && tap(btn)) {
+              S.cardTaps += 1;
+              S.lastCard = idx;
+              log('点第 ' + (idx + 1) + ' 张卡（第 ' + S.cardTaps + ' 次）');
+            } else {
+              log('第 ' + (idx + 1) + ' 张卡还在解锁中，跳过');
+            }
           }
         }
-      }
+      });
       loopCard();
     }, wait);
   })();
@@ -218,25 +241,76 @@
   function loopDouble() {
     var wait = rand(CFG.dblMin, CFG.dblMax) * 1000;
     dblTimer = setTimeout(function () {
-      if (S.running && S.phase === 'playing' && S.targets) {
-        var n = dblButton(S.targets);
-        if (n && dblReady(n) && tap(n)) {
-          S.dblTaps += 1;
-          S.lastDbl = Date.now();
-          log('点「广告翻倍」（第 ' + S.dblTaps + ' 次），下次 ' + Math.round(wait / 1000) + 's 后（30s 后收益 ×5）');
-        } else if (n) {
-          log('「广告翻倍」冷却中，跳过');
+      guard('广告翻倍', function () {
+        if (S.running && S.phase === 'playing' && S.targets) {
+          var n = dblButton(S.targets);
+          if (n && dblReady(n) && tap(n)) {
+            S.dblTaps += 1;
+            S.lastDbl = Date.now();
+            log('点「广告翻倍」（第 ' + S.dblTaps + ' 次），下次 ' + Math.round(wait / 1000) + 's 后（30s 后收益 ×5）');
+          } else if (n) {
+            log('「广告翻倍」冷却中，跳过');
+          }
         }
-      }
+      });
       loopDouble();
     }, wait);
   }
   var dblTimer = null;
   loopDouble();
 
+  // ---------- 保底看门狗：画面/点击 30 秒没动静 → 整页重启 ----------
+  // 判死的三种情况（都在「进过一次游戏」之后才生效，避免加载期误判）：
+  //   1. 渲染循环停了：cc.director 帧数 30s 不涨 —— 画面真的冻住
+  //   2. 在游戏里却 30s 一次有效点击都没有 —— 我们的循环死了
+  //   3. 离开小游戏超过 60s 还没回去 —— 入口流程卡住
+  var WD = { lastFrames: -1, lastTaps: -1, lastTick: 0, framesAt: 0, tapsAt: 0, idleAt: 0, armed: false };
+  function frames() {
+    try { return (cc.director && cc.director.getTotalFrames) ? cc.director.getTotalFrames() : -1; } catch (e) { return -1; }
+  }
+
+  function restart(why) {
+    S.restarts += 1;
+    try { sessionStorage.setItem('__autoRestarts', String(S.restarts)); } catch (e) {}
+    log('⚠ 判定卡死（' + why + '）→ 整页重启，累计第 ' + S.restarts + ' 次');
+    setTimeout(function () { try { location.reload(); } catch (e) {} }, 300);   // 留 0.3s 把日志吐出去
+  }
+
+  setInterval(function () {
+    try {
+      var now = Date.now();
+      var f = frames();
+      var t = S.taps + S.cardTaps + S.dblTaps;
+      var gapMs = WD.lastTick ? now - WD.lastTick : 0;
+      WD.lastTick = now;
+
+      // 定时器被节流 / 电脑刚睡醒：不作数，重新开始计
+      // 被 stop() 手动暂停：也不作数（暂停就是暂停，不要被看门狗反杀）
+      if (document.hidden || gapMs > 3000 || !S.running) {
+        WD.lastFrames = f; WD.lastTaps = t;
+        WD.framesAt = WD.tapsAt = WD.idleAt = now;
+        return;
+      }
+      if (f !== WD.lastFrames) { WD.lastFrames = f; WD.framesAt = now; }
+      if (t !== WD.lastTaps) { WD.lastTaps = t; WD.tapsAt = now; }
+      if (S.phase === 'playing') { WD.armed = true; WD.idleAt = now; }
+      if (!WD.armed) { WD.idleAt = now; return; }
+
+      var why = null;
+      if (now - WD.framesAt >= CFG.stallSec * 1000) why = '画面 ' + CFG.stallSec + 's 没有新帧';
+      else if (S.phase === 'playing' && now - WD.tapsAt >= CFG.stallSec * 1000) why = CFG.stallSec + 's 没有一次有效点击';
+      else if (S.phase !== 'playing' && now - WD.idleAt >= CFG.idleSec * 1000) why = '离开小游戏 ' + CFG.idleSec + 's 还没回去';
+      if (why) {
+        WD.framesAt = WD.tapsAt = WD.idleAt = now;
+        restart(why);
+      }
+    } catch (e) {}
+  }, 1000);
+
   window.__auto = {
     tap: tap,
     cfg: CFG,
+    wd: WD,
     findView: findView,
     dbl: function (minSec, maxSec) {          // 实时改「广告翻倍」间隔，并立即按新间隔重排下一次
       CFG.dblMin = minSec; CFG.dblMax = maxSec;
@@ -244,9 +318,15 @@
       loopDouble();
       log('广告翻倍间隔改为 ' + minSec + '~' + maxSec + ' 秒');
     },
+    stall: function (sec) {                   // 实时改看门狗阈值（测试用）
+      CFG.stallSec = sec;
+      WD.framesAt = WD.tapsAt = Date.now();
+      log('看门狗阈值改为 ' + sec + 's');
+    },
+    restart: restart,
     stop: function () { S.running = false; log('已停止'); },
     start: function () { S.running = true; log('继续'); }
   };
 
-  log('自动玩已注入：中间连点 0~0.3s，卡片 3~10s，广告翻倍 3~8min（自动进小游戏）');
+  log('自动玩已注入：中间连点 0~0.3s，卡片 3~10s，广告翻倍 3~8min，看门狗 ' + CFG.stallSec + 's（已重启 ' + S.restarts + ' 次）');
 })();
