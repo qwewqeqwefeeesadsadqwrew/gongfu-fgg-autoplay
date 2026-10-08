@@ -11,7 +11,7 @@
   'use strict';
 
   var CFG = {
-    centerMin: 0, centerMax: 1.0,   // 秒：屏幕中间连点间隔
+  centerMin: 0, centerMax: 0.3,   // 秒：屏幕中间连点间隔（0~0.3s，约每秒 3~4 下）
     cardMin: 3.0, cardMax: 10.0,    // 秒：卡片按钮点击间隔
     enterTick: 400,                 // 毫秒：状态巡检节奏
     maxLog: 300,
