@@ -215,9 +215,9 @@
   })();
 
   // ---------- 循环 ③：3~8 分钟随机点一次「广告翻倍」 ----------
-  (function loopDouble() {
+  function loopDouble() {
     var wait = rand(CFG.dblMin, CFG.dblMax) * 1000;
-    setTimeout(function () {
+    dblTimer = setTimeout(function () {
       if (S.running && S.phase === 'playing' && S.targets) {
         var n = dblButton(S.targets);
         if (n && dblReady(n) && tap(n)) {
@@ -230,13 +230,20 @@
       }
       loopDouble();
     }, wait);
-  })();
+  }
+  var dblTimer = null;
+  loopDouble();
 
   window.__auto = {
     tap: tap,
     cfg: CFG,
     findView: findView,
-    dbl: function (minSec, maxSec) { CFG.dblMin = minSec; CFG.dblMax = maxSec; log('广告翻倍间隔改为 ' + minSec + '~' + maxSec + ' 秒'); },
+    dbl: function (minSec, maxSec) {          // 实时改「广告翻倍」间隔，并立即按新间隔重排下一次
+      CFG.dblMin = minSec; CFG.dblMax = maxSec;
+      if (dblTimer) clearTimeout(dblTimer);
+      loopDouble();
+      log('广告翻倍间隔改为 ' + minSec + '~' + maxSec + ' 秒');
+    },
     stop: function () { S.running = false; log('已停止'); },
     start: function () { S.running = true; log('继续'); }
   };
